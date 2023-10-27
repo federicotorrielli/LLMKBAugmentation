@@ -3,7 +3,7 @@ from read_files import read_all_data
 import json
 import numpy as np
 
-from bokeh.plotting import figure, show
+from bokeh.plotting import figure, show, save
 from bokeh.palettes import Set2_5
 
 from statsmodels.stats.inter_rater import fleiss_kappa
@@ -42,7 +42,6 @@ def plot_time(data, notSimple=False):
 
     show(p)
 
-
 def model_error(model_file):
 
     model_dict = dict()
@@ -77,7 +76,6 @@ def model_error(model_file):
     p.add_layout(p.legend[0], 'above')
 
     show(p)
-
 
 def compute_model_agreement(data):
 
@@ -127,5 +125,5 @@ if __name__ == '__main__':
 
     index, d = read_all_data('../manual_evaluation', debug=False)
     #plot_time(d, notSimple=False)
-    #model_error('./prova.jsonl')
-    compute_model_agreement(d)
+    #model_error('../manual_evaluation/manual_evaluation_merge.jsonl')
+    #compute_model_agreement(d)
