@@ -63,6 +63,48 @@ def get_random_concept(list_of_concepts, extracted_concepts):
     return random.choice(list_of_concepts)
 
 
+def __core(json_file, cc_dict, extracted_concepts):
+
+    selected = []
+
+    count = 0
+    gen_flag = False
+    spec_flag = False
+    m_name = get_model_name(json_file)
+    if m_name == 'to_annotate': return None
+
+    results = read_results(json_file)
+    results = extract_concepts(results, cc_dict)
+    random.shuffle(results)
+
+    for result in results:
+        if count == 100:
+            break
+
+        slot = result["slot"]
+        selected_concept = get_random_concept(result['concepts'], extracted_concepts)
+        if selected_concept:
+
+            if slot == 'generalization' and gen_flag: continue
+            if slot == 'specialization' and spec_flag: continue
+
+            if slot == 'specialization':
+                spec_flag = True
+            if slot == 'generalization':
+                gen_flag = True
+
+            count += 1
+
+            criteria = extract_criteria(result['prompt'])
+            extracted_concepts.add(selected_concept)
+            result['selected'] = selected_concept
+            result['model'] = m_name
+            result['criteria'] = criteria
+            selected.append(result)
+
+    return selected
+
+
 def read_all_files(folder):
 
     extracted_concepts = set()
@@ -72,43 +114,26 @@ def read_all_files(folder):
 
     for json_file in glob.glob(os.path.join(folder, '**/*.jsonl'), recursive=True):
 
-        count = 0
-        gen_flag = False
-        spec_flag = False
-        m_name = get_model_name(json_file)
-        if m_name == 'to_annotate': continue
-
-        results = read_results(json_file)
-        results = extract_concepts(results, cc_dict)
-        random.shuffle(results)
-
-        for result in results:
-            if count == 100:
-                break
-
-            slot = result["slot"]
-            selected_concept = get_random_concept(result['concepts'], extracted_concepts)
-            if selected_concept:
-
-                if slot == 'generalization' and gen_flag: continue
-                if slot == 'specialization' and spec_flag: continue
-
-                if slot == 'specialization':
-                    spec_flag = True
-                if slot == 'generalization':
-                    gen_flag = True
-
-                count += 1
-
-                criteria = extract_criteria(result['prompt'])
-                extracted_concepts.add(selected_concept)
-                result['selected'] = selected_concept
-                result['model'] = m_name
-                result['criteria'] = criteria
-                selected.append(result)
+        selected += __core(json_file, cc_dict, extracted_concepts)
 
     random.shuffle(selected)
     return selected
+
+
+def read_all_models(models):
+
+    extracted_concepts = set()
+    selected = []
+
+    cc_dict = load_dict()
+
+    for model in models:
+
+        selected += __core(model, cc_dict, extracted_concepts)
+
+    random.shuffle(selected)
+    return selected
+
 
 
 def write_json_file(selected_elements, output_file):
@@ -120,8 +145,8 @@ def write_json_file(selected_elements, output_file):
 
 if __name__ == '__main__':
 
-    input_file = '../results/zero_shot/7B'
-    output_file = '../manual_evaluation/to_annotate.json'
+    input_file = '../results/zero_shot - v1 prompt/7B'
+    output_file = '../manual_evaluation/7B_to_annotate.jsonl'
 
     selected_concepts_for_annotation = read_all_files(input_file)
     print(f"# elements to annotate: {len(selected_concepts_for_annotation)}")
