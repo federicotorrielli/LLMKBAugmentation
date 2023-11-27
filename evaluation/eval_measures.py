@@ -15,10 +15,30 @@ def read_generated_concepts(concept_string):
 
     words = [x.lower().strip() for x in re.findall(r'[a-zA-Z ]+',concept_string)]
     words = [x for x in words if x]
-    return words
+    return list(set(words))
+
+
+def accuracy_at_k(target_list, gold_list, k):
+
+    if not target_list:
+        return 0.
+
+    target_list = target_list[:min(k, len(gold_list))]
+    gold_list = gold_list[:len(target_list)]
+
+    found_elem = [elem for elem in target_list if elem in gold_list]
+    num_found = len(found_elem)
+
+    if num_found == 0:
+        return 0.
+
+    return num_found / len(target_list)
 
 
 def precision_at_k(target_list, gold_list, k):
+
+    if not target_list:
+        return 0.
 
     target_list = target_list[:k]
     found_k = [elem for elem in target_list if elem in gold_list]
@@ -34,6 +54,9 @@ def precision_at_k(target_list, gold_list, k):
 
 def hits_at_k(target_list, gold_list, k):
 
+    if not target_list:
+        return 0.
+
     target_list = target_list[:k]
     found_k = [elem for elem in target_list if elem in gold_list]
 
@@ -47,6 +70,9 @@ def hits_at_k(target_list, gold_list, k):
 
 
 def MRR(target_list, gold_list):
+
+    if not target_list:
+        return 0.
 
     index = 0
     for rank, elem in enumerate(target_list):
@@ -62,6 +88,9 @@ def MRR(target_list, gold_list):
 
 def AP(target_list, gold_list, k):
 
+    if not target_list:
+        return 0.
+
     if k == 1:
         return precision_at_k(target_list, gold_list, 1)
 
@@ -72,7 +101,7 @@ def get_model_name(f_name):
     return Path(f_name).stem.lower() #.split('__')[0].lower()
 
 
-def compute_model_scores(model_name, model_file):
+def compute_model_scores(model_name, model_file, output_folder):
 
     p_1 = 0.
     p_2 = 0.
@@ -84,10 +113,10 @@ def compute_model_scores(model_name, model_file):
     h_5 = 0.
     h_10 = 0.
 
-    #ap_1 = 0.
-    #ap_2 = 0.
-    #ap_5 = 0.
-    #ap_10 = 0.
+    acc_1 = 0.
+    acc_2 = 0.
+    acc_5 = 0.
+    acc_10 = 0.
 
     mrr = 0.
 
@@ -113,10 +142,10 @@ def compute_model_scores(model_name, model_file):
                 h_5 += hits_at_k(concepts, concepts_eval, 5)
                 h_10 += hits_at_k(concepts, concepts_eval, 10)
 
-                #ap_1 += AP(concepts, concepts_eval, 1)
-                #ap_2 += AP(concepts, concepts_eval, 2) / 2.
-                #ap_5 += AP(concepts, concepts_eval, 5) / 5.
-                #ap_10 += AP(concepts, concepts_eval, 10) / 10.
+                acc_1 += accuracy_at_k(concepts, concepts_eval, 1)
+                acc_2 += accuracy_at_k(concepts, concepts_eval, 2)
+                acc_5 += accuracy_at_k(concepts, concepts_eval, 5)
+                acc_10 += accuracy_at_k(concepts, concepts_eval, 10)
 
                 mrr += MRR(concepts, concepts_eval)
 
@@ -130,14 +159,15 @@ def compute_model_scores(model_name, model_file):
     h_5 /= num_q
     h_10 /= num_q
 
-    #map_1 = ap_1 / num_q
-    #map_2 = ap_2 / num_q
-    #map_5 = ap_5 / num_q
-    #map_10 = ap_10 / num_q
+    acc_1 /= num_q
+    acc_2 /= num_q
+    acc_5 /= num_q
+    acc_10 /= num_q
 
     mrr /= num_q
 
-    with open(f'../../data/prompts/zero_shot_v1/results/{model_name}.txt', 'w') as writer:
+    output_file = os.path.join(output_folder, f'{model_name}.txt')
+    with open(output_file, 'w') as writer:
         writer.write(f'P@1: {p_1}\n')
         writer.write(f'P@2: {p_2}\n')
         writer.write(f'P@5: {p_5}\n')
@@ -148,31 +178,36 @@ def compute_model_scores(model_name, model_file):
         writer.write(f'H@5: {h_5}\n')
         writer.write(f'H@10: {h_10}\n')
         writer.write('\n============================\n')
-        #writer.write(f'MAP@1: {map_1}\n')
-        #writer.write(f'MAP@2: {map_2}\n')
-        #writer.write(f'MAP@5: {map_5}\n')
-        #writer.write(f'MAP@10: {map_10}\n')
-        #writer.write('\n============================\n')
+        writer.write(f'ACC@1: {acc_1}\n')
+        writer.write(f'ACC@2: {acc_2}\n')
+        writer.write(f'ACC@5: {acc_5}\n')
+        writer.write(f'ACC@10: {acc_10}\n')
+        writer.write('\n============================\n')
         writer.write(f'MRR: {mrr}\n')
 
 
-def read_model_files_and_write_results(folder):
+def read_model_files_and_write_results(folder, output_folder):
+
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
 
     t = tqdm()
-    output_file = '../../data/prompts/zero_shot_v1/results/{0}.txt'
+    output_file = os.path.join(output_folder, '{0}.txt')
 
     for json_file in glob(os.path.join(folder, '**/*.jsonl'), recursive=True):
         model_name = get_model_name(json_file)
         if model_name == 'to_annotate' or os.path.exists(output_file.format(model_name)):
             continue
 
-        compute_model_scores(model_name, json_file)
+        compute_model_scores(model_name, json_file, output_folder)
 
         t.update(1)
 
 
 if __name__ == '__main__':
 
-    for size in ['7B', '13B', '30B']:
-        main_folder = f'../../data/prompts/zero_shot_v1/{size}'
-        read_model_files_and_write_results(main_folder)
+    for prompt_folder in ['zero_shot - v1 prompt', 'zero_shot - v2 prompt', 'one_shot']:
+        for size in ['7B', '13B', '30+B']:
+            output_folder = f'../results/{prompt_folder}/scores/{size}'
+            main_folder = f'../results/{prompt_folder}/{size}'
+            read_model_files_and_write_results(main_folder, output_folder)
