@@ -1,7 +1,8 @@
 import json
-import transformers
-from accelerate import infer_auto_device_map, init_empty_weights, PartialState
+
 import torch
+import transformers
+from accelerate import infer_auto_device_map, init_empty_weights
 from tqdm import tqdm
 
 model_names = ["01-ai/Yi-34B"]
@@ -43,9 +44,7 @@ max_new_tokens = 50
 
 
 def generate_from_model(model, tokenizer, text):
-    encoded_input = tokenizer(
-        text, truncation=True, return_tensors="pt"
-    )
+    encoded_input = tokenizer(text, truncation=True, return_tensors="pt")
     output_sequences = model.generate(
         input_ids=encoded_input["input_ids"].to("cuda"),
         temperature=t,
