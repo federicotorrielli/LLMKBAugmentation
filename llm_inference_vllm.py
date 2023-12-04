@@ -1,7 +1,7 @@
-import ujson
-import torch
-import time
 import gc
+
+import torch
+import ujson
 from tqdm import tqdm
 from vllm import LLM, SamplingParams
 from vllm.model_executor.parallel_utils.parallel_state import destroy_model_parallel
@@ -18,7 +18,7 @@ input_f = [
     "zero_shot_prompt_v3.json",
 ]
 
-sampling_params = SamplingParams(top_p=0.9, temperature=0.35, max_tokens=50)
+sampling_params = SamplingParams(top_p=0.95, temperature=0.4, max_tokens=100)
 
 t = sampling_params.temperature
 top_p = sampling_params.top_p
