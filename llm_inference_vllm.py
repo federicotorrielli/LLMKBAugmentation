@@ -16,6 +16,7 @@ input_f = [
     "zero_shot_prompt_v1.json",
     "zero_shot_prompt_v2.json",
     "zero_shot_prompt_v3.json",
+    "zero_shot_prompt_v4.json",
     "one_shot_prompt_v1.json",
 ]
 
