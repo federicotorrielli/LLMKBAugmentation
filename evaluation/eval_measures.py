@@ -5,6 +5,9 @@ from pathlib import Path
 from glob import glob
 import os
 from tqdm import tqdm
+import inflect
+
+p = inflect.engine()
 
 
 def read_generated_concepts(concept_string):
@@ -14,7 +17,7 @@ def read_generated_concepts(concept_string):
         concept_string = concept_string.split('###')[0]
 
     words = [x.lower().strip() for x in re.findall(r'[a-zA-Z ]+',concept_string)]
-    words = [x for x in words if x]
+    words = [p.singular_noun(x) for x in words if x]
     return list(set(words))
 
 
@@ -47,9 +50,30 @@ def precision_at_k(target_list, gold_list, k):
     num_target = len(target_list)
 
     if (num_found == 0) or (num_target == 0):
-        return 0
+        return 0.
 
-    return num_found / num_target
+    score = num_found / num_target
+
+    return score
+
+
+def recall_at_k(target_list, gold_list, k):
+
+    if not target_list or not gold_list:
+        return 0.
+
+    target_list = target_list[:k]
+    found_k = [elem for elem in target_list if elem in gold_list]
+
+    num_found = len(found_k)
+    num_target = len(gold_list)
+
+    if (num_found == 0):
+        return 0.
+
+    score = num_found / num_target
+
+    return score
 
 
 def hits_at_k(target_list, gold_list, k):
@@ -118,6 +142,11 @@ def compute_model_scores(model_name, model_file, output_folder):
     acc_5 = 0.
     acc_10 = 0.
 
+    rec_1 = 0.
+    rec_2 = 0.
+    rec_5 = 0.
+    rec_10 = 0.
+
     mrr = 0.
 
     num_q = 0.
@@ -147,6 +176,11 @@ def compute_model_scores(model_name, model_file, output_folder):
                 acc_5 += accuracy_at_k(concepts, concepts_eval, 5)
                 acc_10 += accuracy_at_k(concepts, concepts_eval, 10)
 
+                rec_1 += recall_at_k(concepts, concepts_eval, 1)
+                rec_2 += recall_at_k(concepts, concepts_eval, 2)
+                rec_5 += recall_at_k(concepts, concepts_eval, 5)
+                rec_10 += recall_at_k(concepts, concepts_eval, 10)
+
                 mrr += MRR(concepts, concepts_eval)
 
     p_1 /= num_q
@@ -163,6 +197,11 @@ def compute_model_scores(model_name, model_file, output_folder):
     acc_2 /= num_q
     acc_5 /= num_q
     acc_10 /= num_q
+
+    rec_1 /= num_q
+    rec_2 /= num_q
+    rec_5 /= num_q
+    rec_10 /= num_q
 
     mrr /= num_q
 
@@ -182,6 +221,11 @@ def compute_model_scores(model_name, model_file, output_folder):
         writer.write(f'ACC@2: {acc_2}\n')
         writer.write(f'ACC@5: {acc_5}\n')
         writer.write(f'ACC@10: {acc_10}\n')
+        writer.write('\n============================\n')
+        writer.write(f'R@1: {rec_1}\n')
+        writer.write(f'R@2: {rec_2}\n')
+        writer.write(f'R@5: {rec_5}\n')
+        writer.write(f'R@10: {rec_10}\n')
         writer.write('\n============================\n')
         writer.write(f'MRR: {mrr}\n')
 
@@ -206,8 +250,12 @@ def read_model_files_and_write_results(folder, output_folder):
 
 if __name__ == '__main__':
 
-    for prompt_folder in ['zero_shot - v1 prompt', 'zero_shot - v2 prompt', 'one_shot']:
-        for size in ['7B', '13B', '30+B']:
-            output_folder = f'../results/{prompt_folder}/scores/{size}'
-            main_folder = f'../results/{prompt_folder}/{size}'
-            read_model_files_and_write_results(main_folder, output_folder)
+    for prompt_folder in ['zero_shot_v1',
+                          'zero_shot_v2',
+                          'zero_shot_v3',
+                          'zero_shot_v4',
+                          'one_shot_v1']:
+        #for size in ['7B', '13B', '30+B']:
+        output_folder = f'../results/{prompt_folder}/' #scores/{size}'
+        main_folder = f'../results/{prompt_folder}/' #{size}'
+        read_model_files_and_write_results(main_folder, output_folder)
