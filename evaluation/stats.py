@@ -42,17 +42,29 @@ def plot_time(data, notSimple=False):
 
     show(p)
 
-def model_error(model_file):
 
+def read_model_data(model_file):
+    """Read model data from the file and return a dictionary with counts of each annotation."""
     model_dict = dict()
     labels = ['correct', 'incorrect', 'wrong']
-    with open(model_file, 'r', encoding='utf-8') as reader:
-        for line in reader:
-            data = json.loads(line.strip())
-            model_name = data['model']
-            model_dict.setdefault(model_name, {k:0 for k in labels})
-            model_dict[model_name][data['annotation']] += 1
+    try:
+        with open(model_file, 'r', encoding='utf-8') as reader:
+            for line in reader:
+                try:
+                    data = json.loads(line.strip())
+                except json.JSONDecodeError:
+                    print(f"Skipping line due to invalid JSON: {line}")
+                    continue
+                model_name = data['model']
+                model_dict.setdefault(model_name, {k:0 for k in labels})
+                model_dict[model_name][data['annotation']] += 1
+    except FileNotFoundError:
+        print(f"Could not open file: {model_file}")
+    return model_dict
 
+
+def create_stacked_bar_chart(model_dict):
+    """Create a stacked bar chart from the model data."""
     models = list(model_dict.keys())
     bokeh_source_data = {
         'models': models,
@@ -61,69 +73,90 @@ def model_error(model_file):
         'invalid': [model_dict[name]['wrong'] for name in models],
     }
 
-    p = figure(width=400, height=400, x_range=models)
+    plot = figure(width=400, height=400, x_range=models)
     colors = ["#c9d9d3", "#718dbf", "#e84d60"]
-    p.vbar_stack(labels, x='models', width=0.9, source=bokeh_source_data, legend_label=labels, color=colors)
+    labels = ['correct', 'incorrect', 'wrong']
+    plot.vbar_stack(labels, x='models', width=0.9, source=bokeh_source_data, legend_label=labels, color=colors)
 
-    p.y_range.start = 0
-    p.x_range.range_padding = 0.1
-    p.xgrid.grid_line_color = None
-    p.axis.minor_tick_line_color = None
-    p.xaxis.major_label_orientation = "vertical"
-    p.outline_line_color = None
-    p.legend.location = "center"
-    p.legend.orientation = "horizontal"
-    p.add_layout(p.legend[0], 'above')
+    plot.y_range.start = 0
+    plot.x_range.range_padding = 0.1
+    plot.xgrid.grid_line_color = None
+    plot.axis.minor_tick_line_color = None
+    plot.xaxis.major_label_orientation = "vertical"
+    plot.outline_line_color = None
+    plot.legend.location = "center"
+    plot.legend.orientation = "horizontal"
+    plot.add_layout(plot.legend[0], 'above')
 
-    show(p)
+    show(plot)
 
-def compute_model_agreement(data):
+
+def model_error(model_file):
+    """Read model data and visualize it with a stacked bar chart."""
+    model_dict = read_model_data(model_file)
+    create_stacked_bar_chart(model_dict)
+
+
+def calculate_fleiss_kappa(data):
+    """Calculate Fleiss' Kappa for models."""
 
     names = list(data.keys())
     models = set(data[names[0]]['models'])
 
-    model_ann = [np.zeros((100, 3)) for _ in models]
-    model_map = {model:i for i, model in enumerate(models)}
+    model_annotations = [np.zeros((100, 3)) for _ in models]
+    model_map = {model: i for i, model in enumerate(models)}
 
     for name in names:
         answer_map = [0 for _ in models]
         for i, val in enumerate(data[name]['answers']):
             model = data[name]['models'][i]
-            isWrong = bool(data[name]['wrong'][i])
+            is_wrong = bool(data[name]['wrong'][i])
             answer_index = answer_map[model_map[model]]
             answer_map[model_map[model]] += 1
 
-            if isWrong:
-                model_ann[model_map[model]][answer_index, 2] += 1
+            if is_wrong:
+                model_annotations[model_map[model]][answer_index, 2] += 1
             elif val == 'yes':
-                model_ann[model_map[model]][answer_index, 0] += 1
+                model_annotations[model_map[model]][answer_index, 0] += 1
             elif val == 'no':
-                model_ann[model_map[model]][answer_index, 1] += 1
+                model_annotations[model_map[model]][answer_index, 1] += 1
             else:
-                raise Exception(f'val is {val}.')
+                print(f'Unexpected value: {val}. Expected "yes", "no" or a boolean.')
+                continue
+
+    return model_map, model_annotations
+
+
+def create_plot(model_map, model_annotations):
+    """Create a bar chart with Fleiss' Kappa for each model."""
 
     models = list(model_map.keys())
     data = {
         'models': models,
-        'fleiss': [fleiss_kappa(model_ann[model_map[model]]) for model in models],
+        'fleiss': [fleiss_kappa(model_annotations[model_map[model]]) for model in models],
         'color': list(Set2_5)
     }
 
-    p = figure(height=400, width=400, x_range=models)
-    p.vbar(x='models', top='fleiss', source=data, width=0.7, color='color')
+    plot_figure = figure(height=400, width=400, x_range=models)
+    plot_figure.vbar(x='models', top='fleiss', source=data, width=0.7, color='color')
 
-    p.y_range.start = 0
-    p.x_range.range_padding = 0.1
-    p.xgrid.grid_line_color = None
-    p.axis.minor_tick_line_color = None
-    p.xaxis.major_label_orientation = "vertical"
-    p.outline_line_color = None
+    plot_figure.y_range.start = 0
+    plot_figure.x_range.range_padding = 0.1
+    plot_figure.xgrid.grid_line_color = None
+    plot_figure.axis.minor_tick_line_color = None
+    plot_figure.xaxis.major_label_orientation = "vertical"
+    plot_figure.outline_line_color = None
 
-    show(p)
+    show(plot_figure)
+
+
+def compute_model_agreement(data):
+    model_map, model_annotations = calculate_fleiss_kappa(data)
+    create_plot(model_map, model_annotations)
 
 if __name__ == '__main__':
 
-    index, d = read_all_data('../manual_evaluation', debug=False)
+    #index, d = read_all_data('../manual_evaluation', debug=False)
     #plot_time(d, notSimple=False)
-    #model_error('../manual_evaluation/manual_evaluation_merge.jsonl')
+    model_error('../manual_evaluation/manual_evaluation_merge.jsonl')
     #compute_model_agreement(d)
