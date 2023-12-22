@@ -1,5 +1,7 @@
 import gc
+import os
 
+import requests
 import torch
 import ujson
 from tqdm import tqdm
@@ -13,11 +15,21 @@ model_names = [
 ]
 
 input_f = [
-    "zero_shot_prompt_v1.json",
-    "zero_shot_prompt_v2.json",
-    "zero_shot_prompt_v3.json",
-    "zero_shot_prompt_v4.json",
-    "one_shot_prompt_v1.json",
+    "multialignet_adjs_oneshot.json",
+    "multialignet_adjs_zeroshot.json",
+    "multialignet_nouns_oneshot.json",
+    "multialignet_nouns_zeroshot.json",
+    "multialignet_verbs_oneshot.json",
+    "multialignet_verbs_zeroshot.json",
+]
+
+prompt_names = [
+    "prompt_adjs_oneshot",
+    "prompt_adjs_zeroshot",
+    "prompt_nouns_oneshot",
+    "prompt_nouns_zeroshot",
+    "prompt_verbs_oneshot",
+    "prompt_verbs_zeroshot",
 ]
 
 sampling_params = SamplingParams(top_p=0.95, temperature=0.4, max_tokens=100)
@@ -40,7 +52,13 @@ def prompt_generator(file_name):
     with open(file_name, "r") as reader:
         all_data = ujson.load(reader)
         for data in all_data:
-            yield data["cat"], data["slot"], data["value"], data["prompt"]
+            yield (
+                data["count"],
+                data["pos"],
+                data["lex_en"],
+                data["wordnet_id"],
+                data[prompt_names[input_f.index(file_name)]],
+            )
 
 
 def get_only_prompts(file_name):
@@ -48,16 +66,7 @@ def get_only_prompts(file_name):
         all_data = ujson.load(reader)
         output = []
         for data in all_data:
-            output.append(data["prompt"])
-        return output
-
-
-def get_all_prompts(file_name):
-    with open(file_name, "r") as reader:
-        all_data = ujson.load(reader)
-        output = []
-        for data in all_data:
-            output.append((data["cat"], data["slot"], data["value"], data["prompt"]))
+            output.append(data[prompt_names[input_f.index(file_name)]])
         return output
 
 
@@ -66,8 +75,15 @@ def get_simple_model_name(m_name):
         m_name = m_name.split("/")[-1]
     return m_name
 
+def download_file(url, file_name):
+    r = requests.get(url, allow_redirects=True)
+    open(file_name, 'wb').write(r.content)
+
 
 for file_name in input_f:
+    # Download files from https://www.evilscript.eu/upload/files/{file_name} if it's not already present on the local machine
+    if not os.path.exists(file_name):
+        download_file(f"https://www.evilscript.eu/upload/files/{file_name}", file_name)
     num_prompts = get_number_prompts(file_name)
     for model_name in model_names:
         f_m_name = get_simple_model_name(model_name)
@@ -102,13 +118,16 @@ for file_name in input_f:
                 prompt = output.prompt
                 generated_text = output.outputs[0].text
                 outputs_dict[prompt] = generated_text
-            for cat, slot, value, prompt in tqdm(generator, total=num_prompts):
+            for count, pos, lex_en, wordnet_id, prompt in tqdm(
+                generator, total=num_prompts
+            ):
                 model_output = outputs_dict[prompt]
                 json_dump = ujson.dumps(
                     {
-                        "cat": cat,
-                        "slot": slot,
-                        "value": value,
+                        "count": count,
+                        "pos": pos,
+                        "lex_en": lex_en,
+                        "wordnet_id": wordnet_id,
                         "prompt": prompt,
                         "result": model_output,
                     }
