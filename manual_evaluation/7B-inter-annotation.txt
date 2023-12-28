@@ -1,0 +1,2 @@
+Fleiss's kappa: 0.5184236021536851: Moderate
+Randolph's mulirated kappa: 0.6599999999999999: Substatial
