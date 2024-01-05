@@ -16,8 +16,9 @@ def read_generated_concepts(concept_string):
     elif '###' in concept_string:
         concept_string = concept_string.split('###')[0]
 
-    words = [x.lower().strip() for x in re.findall(r'[a-zA-Z ]+',concept_string)]
-    words = [p.singular_noun(x) for x in words if x]
+    words = [x.lower().strip() for x in re.findall(r'[a-zA-Z\s_]+',concept_string)]
+    words = [' '.join(x.split('_')) for x in words if x and x != '' and x != ' ']
+    #words = [p.singular_noun(x) if x else x for x in words]
     return list(set(words))
 
 
