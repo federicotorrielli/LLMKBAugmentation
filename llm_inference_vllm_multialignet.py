@@ -90,7 +90,7 @@ for file_name in input_f:
     num_prompts = get_number_prompts(file_name)
     for model_name in model_names:
         f_m_name = get_simple_model_name(model_name)
-        file_output = f"{f_m_name}__t_{t}__top_p_{top_p}__max_new_tokens_{max_new_tokens}__file_{file_name}.jsonl"
+        file_output = f"{f_m_name}__t_{t}__top_p_{top_p}__max_new_tokens_{max_new_tokens}__file_{file_name.replace('.json','')}.jsonl"
 
         print(f"Running {model_name} with {num_prompts} prompts")
 
