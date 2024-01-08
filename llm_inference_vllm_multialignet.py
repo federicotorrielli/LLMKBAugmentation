@@ -14,23 +14,8 @@ model_names = [
     "TheBloke/Aetheria-L2-70B-AWQ",
 ]
 
-input_f = [
-    "multialignet_adjs_oneshot.json",
-    "multialignet_adjs_zeroshot.json",
-    "multialignet_nouns_oneshot.json",
-    "multialignet_nouns_zeroshot.json",
-    "multialignet_verbs_oneshot.json",
-    "multialignet_verbs_zeroshot.json",
-]
-
-prompt_names = [
-    "prompt_adjs_oneshot",
-    "prompt_adjs_zeroshot",
-    "prompt_nouns_oneshot",
-    "prompt_nouns_zeroshot",
-    "prompt_verbs_oneshot",
-    "prompt_verbs_zeroshot",
-]
+# input_f is a list of all .json files in the current directory
+input_f = [f for f in os.listdir(".") if f.endswith(".json")]
 
 sampling_params = SamplingParams(top_p=0.95, temperature=0.4, max_tokens=100)
 
@@ -54,10 +39,9 @@ def prompt_generator(file_name):
         for data in all_data:
             yield (
                 data["count"],
-                data["pos"],
-                data["lex_en"],
+                data["lemmas"],
                 data["wordnet_id"],
-                data[prompt_names[input_f.index(file_name)]],
+                data["prompt"],
             )
 
 
@@ -66,7 +50,7 @@ def get_only_prompts(file_name):
         all_data = ujson.load(reader)
         output = []
         for data in all_data:
-            output.append(data[prompt_names[input_f.index(file_name)]])
+            output.append(data["prompt"])
         return output
 
 
@@ -75,9 +59,10 @@ def get_simple_model_name(m_name):
         m_name = m_name.split("/")[-1]
     return m_name
 
+
 def download_file(url, file_name):
     r = requests.get(url, allow_redirects=True)
-    open(file_name, 'wb').write(r.content)
+    open(file_name, "wb").write(r.content)
 
 
 for file_name in input_f:
@@ -118,17 +103,14 @@ for file_name in input_f:
                 prompt = output.prompt
                 generated_text = output.outputs[0].text
                 outputs_dict[prompt] = generated_text
-            for count, pos, lex_en, wordnet_id, prompt in tqdm(
-                generator, total=num_prompts
-            ):
+            for count, lemmas, wordnet_id, prompt in tqdm(generator, total=num_prompts):
                 model_output = outputs_dict[prompt]
                 json_dump = ujson.dumps(
                     {
                         "count": count,
-                        "pos": pos,
-                        "lex_en": lex_en,
                         "wordnet_id": wordnet_id,
                         "prompt": prompt,
+                        "lemmas": lemmas,
                         "result": model_output,
                     }
                 )
