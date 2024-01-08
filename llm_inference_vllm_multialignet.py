@@ -14,8 +14,26 @@ model_names = [
     "TheBloke/Aetheria-L2-70B-AWQ",
 ]
 
-# input_f is a list of all .json files in the current directory
-input_f = [f for f in os.listdir(".") if f.endswith(".json")]
+input_f = [
+    "multialignet_adjectives_oneshot_v1.json",
+    "multialignet_adjectives_oneshot_v2.json",
+    "multialignet_adjectives_oneshot_v3.json",
+    "multialignet_adjectives_zeroshot_v1.json",
+    "multialignet_adjectives_zeroshot_v2.json",
+    "multialignet_adjectives_zeroshot_v3.json",
+    "multialignet_nouns_oneshot_v1.json",
+    "multialignet_nouns_oneshot_v2.json",
+    "multialignet_nouns_oneshot_v3.json",
+    "multialignet_nouns_zeroshot_v1.json",
+    "multialignet_nouns_zeroshot_v2.json",
+    "multialignet_nouns_zeroshot_v3.json",
+    "multialignet_verbs_oneshot_v1.json",
+    "multialignet_verbs_oneshot_v2.json",
+    "multialignet_verbs_oneshot_v3.json",
+    "multialignet_verbs_zeroshot_v1.json",
+    "multialignet_verbs_zeroshot_v2.json",
+    "multialignet_verbs_zeroshot_v3.json",
+]
 
 sampling_params = SamplingParams(top_p=0.95, temperature=0.4, max_tokens=100)
 
