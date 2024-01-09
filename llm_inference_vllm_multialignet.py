@@ -15,21 +15,24 @@ model_names = [
 ]
 
 input_f = [
-    "multialignet_adjs_oneshot.json",
-    "multialignet_adjs_zeroshot.json",
-    "multialignet_nouns_oneshot.json",
-    "multialignet_nouns_zeroshot.json",
-    "multialignet_verbs_oneshot.json",
-    "multialignet_verbs_zeroshot.json",
-]
-
-prompt_names = [
-    "prompt_adjs_oneshot",
-    "prompt_adjs_zeroshot",
-    "prompt_nouns_oneshot",
-    "prompt_nouns_zeroshot",
-    "prompt_verbs_oneshot",
-    "prompt_verbs_zeroshot",
+    "multialignet_adjectives_oneshot_v1.json",
+    "multialignet_adjectives_oneshot_v2.json",
+    "multialignet_adjectives_oneshot_v3.json",
+    "multialignet_adjectives_zeroshot_v1.json",
+    "multialignet_adjectives_zeroshot_v2.json",
+    "multialignet_adjectives_zeroshot_v3.json",
+    "multialignet_nouns_oneshot_v1.json",
+    "multialignet_nouns_oneshot_v2.json",
+    "multialignet_nouns_oneshot_v3.json",
+    "multialignet_nouns_zeroshot_v1.json",
+    "multialignet_nouns_zeroshot_v2.json",
+    "multialignet_nouns_zeroshot_v3.json",
+    "multialignet_verbs_oneshot_v1.json",
+    "multialignet_verbs_oneshot_v2.json",
+    "multialignet_verbs_oneshot_v3.json",
+    "multialignet_verbs_zeroshot_v1.json",
+    "multialignet_verbs_zeroshot_v2.json",
+    "multialignet_verbs_zeroshot_v3.json",
 ]
 
 sampling_params = SamplingParams(top_p=0.95, temperature=0.4, max_tokens=100)
@@ -54,10 +57,9 @@ def prompt_generator(file_name):
         for data in all_data:
             yield (
                 data["count"],
-                data["pos"],
-                data["lex_en"],
+                data["lemmas"],
                 data["wordnet_id"],
-                data[prompt_names[input_f.index(file_name)]],
+                data["prompt"],
             )
 
 
@@ -66,7 +68,7 @@ def get_only_prompts(file_name):
         all_data = ujson.load(reader)
         output = []
         for data in all_data:
-            output.append(data[prompt_names[input_f.index(file_name)]])
+            output.append(data["prompt"])
         return output
 
 
@@ -75,9 +77,10 @@ def get_simple_model_name(m_name):
         m_name = m_name.split("/")[-1]
     return m_name
 
+
 def download_file(url, file_name):
     r = requests.get(url, allow_redirects=True)
-    open(file_name, 'wb').write(r.content)
+    open(file_name, "wb").write(r.content)
 
 
 for file_name in input_f:
@@ -87,7 +90,7 @@ for file_name in input_f:
     num_prompts = get_number_prompts(file_name)
     for model_name in model_names:
         f_m_name = get_simple_model_name(model_name)
-        file_output = f"{f_m_name}__t_{t}__top_p_{top_p}__max_new_tokens_{max_new_tokens}__file_{file_name}.jsonl"
+        file_output = f"{f_m_name}__t_{t}__top_p_{top_p}__max_new_tokens_{max_new_tokens}__file_{file_name.replace('.json','')}.jsonl"
 
         print(f"Running {model_name} with {num_prompts} prompts")
 
@@ -118,17 +121,14 @@ for file_name in input_f:
                 prompt = output.prompt
                 generated_text = output.outputs[0].text
                 outputs_dict[prompt] = generated_text
-            for count, pos, lex_en, wordnet_id, prompt in tqdm(
-                generator, total=num_prompts
-            ):
+            for count, lemmas, wordnet_id, prompt in tqdm(generator, total=num_prompts):
                 model_output = outputs_dict[prompt]
                 json_dump = ujson.dumps(
                     {
                         "count": count,
-                        "pos": pos,
-                        "lex_en": lex_en,
                         "wordnet_id": wordnet_id,
                         "prompt": prompt,
+                        "lemmas": lemmas,
                         "result": model_output,
                     }
                 )
