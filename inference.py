@@ -52,7 +52,7 @@ def get_modified_prompt(prompt, model_name):
         return f"<|user|>\n{prompt}<|end|>\n<|assistant|>\n"
     elif ("meta" in model_name.lower() and "instruct" in model_name.lower()) or "stheno" in model_name.lower():
         return f"<|start_header_id|>user<|end_header_id|>\n\n{prompt}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
-    return prompt
+    return f"[INST]{prompt}[/INST]\n"
 
 
 def process_file(file_name, task_type, model_name):
