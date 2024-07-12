@@ -9,13 +9,13 @@ from tqdm import tqdm
 from vllm import LLM, SamplingParams
 from vllm.distributed.parallel_state import destroy_model_parallel
 
-MODEL_NAMES = [
+MODEL_NAMES = [  # All the models are in the top 20 of the LLM HF open leaderboard
     "TechxGenus/Meta-Llama-3-70B-AWQ",  # foundational | 70B | AWQ
     "TechxGenus/Meta-Llama-3-70B-Instruct-AWQ",  # instruct | 70B | AWQ
     "Sao10K/L3-8B-Stheno-v3.2",  # storytelling/instruct | 8B | unquantized
     "microsoft/Phi-3-medium-4k-instruct",  # instruct | 14B | unquantized
     "mistralai/Mistral-7B-Instruct-v0.3",  # instruct | 7B | unquantized
-    "google/gemma-2-27b-it"  # instruct | 27B | unquantized - need to be run with VLLM_ATTENTION_BACKEND=FLASHINFER
+    "google/gemma-2-27b-it"  # instruct | 27B | unquantized - needs to be run with VLLM_ATTENTION_BACKEND=FLASHINFER
 ]
 
 TASKS = {
