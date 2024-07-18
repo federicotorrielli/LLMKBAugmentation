@@ -10,12 +10,14 @@ from vllm import LLM, SamplingParams
 from vllm.distributed.parallel_state import destroy_model_parallel
 
 MODEL_NAMES = [  # All the models are in the top 20 of the LLM HF open leaderboard
-    "TechxGenus/Meta-Llama-3-70B-AWQ",  # foundational | 70B | AWQ
+    "TechxGenus/Meta-Llama-3-70B-AWQ",  # pretrained | 70B | AWQ
     "TechxGenus/Meta-Llama-3-70B-Instruct-AWQ",  # instruct | 70B | AWQ
     "Sao10K/L3-8B-Stheno-v3.2",  # storytelling/instruct | 8B | unquantized
     "microsoft/Phi-3-medium-4k-instruct",  # instruct | 14B | unquantized
     "mistralai/Mistral-7B-Instruct-v0.3",  # instruct | 7B | unquantized
-    "google/gemma-2-27b-it"  # instruct | 27B | unquantized - needs to be run with VLLM_ATTENTION_BACKEND=FLASHINFER
+    "CohereForAI/c4ai-command-r-plus-4bit",  # instruct | 104B | 4-bit quantized
+    "PrunaAI/Jamba-v0.1-bnb-4bit" # pretrained MoE | 52B | 4-bit quantized | Mamba Architecture
+    "google/gemma-2-27b-it",  # instruct | 27B | unquantized - needs to be run with VLLM_ATTENTION_BACKEND=FLASHINFER
 ]
 
 TASKS = {
@@ -50,8 +52,14 @@ def get_modified_prompt(prompt, model_name):
         )
     elif "phi" in model_name.lower():
         return f"<|user|>\n{prompt}<|end|>\n<|assistant|>\n"
-    elif ("meta" in model_name.lower() and "instruct" in model_name.lower()) or "stheno" in model_name.lower():
+    elif (
+        "meta" in model_name.lower() and "instruct" in model_name.lower()
+    ) or "stheno" in model_name.lower():
         return f"<|start_header_id|>user<|end_header_id|>\n\n{prompt}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+    elif "c4ai" in model_name.lower():
+        return f"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>{prompt}<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>"
+    elif "jamba" in model_name.lower() or "meta" in model_name.lower():
+        return f"{prompt}\n"
     return f"[INST]{prompt}[/INST]\n"
 
 
@@ -135,8 +143,8 @@ def run_inference(model_names, tasks):
                     }
 
                     for item in tqdm(
-                            process_file(file_name, task_type, model_name),
-                            total=len(prompts),
+                        process_file(file_name, task_type, model_name),
+                        total=len(prompts),
                     ):
                         prompt = item[-1]
                         result = {"result": output_dict[prompt], "prompt": prompt}

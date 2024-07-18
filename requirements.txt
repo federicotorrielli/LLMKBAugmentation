@@ -1,0 +1,7 @@
+vllm
+accelerate
+flash-attn
+mamba-ssm
+causal-conv1d
+ujson
+tqdm
