@@ -1,0 +1,9 @@
+# Please install the latest CUDA build first
+# https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu
+# and link the CUDA library to the system path usign the following command
+# export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH
+# if you're on fish shell, use the following command
+# set -x LD_LIBRARY_PATH /usr/local/cuda/lib64 $LD_LIBRARY_PATH
+flash-attn
+mamba-ssm
+causal-conv1d

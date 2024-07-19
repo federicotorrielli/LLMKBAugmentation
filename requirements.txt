@@ -1,7 +1,5 @@
 vllm
 accelerate
-flash-attn
-mamba-ssm
-causal-conv1d
+bitsandbytes
 ujson
 tqdm
