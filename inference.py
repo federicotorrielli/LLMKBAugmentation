@@ -17,7 +17,7 @@ MODEL_NAMES = [  # All the models are in the top 20 of the LLM HF open leaderboa
     "microsoft/Phi-3-medium-4k-instruct",  # instruct | 14B | unquantized
     "mistralai/Mistral-7B-Instruct-v0.3",  # instruct | 7B | unquantized
     "CohereForAI/c4ai-command-r-plus-4bit",  # instruct | 104B | 4-bit quantized
-    "PrunaAI/Jamba-v0.1-bnb-4bit" # pretrained MoE | 52B | 4-bit quantized | Mamba Architecture
+    "PrunaAI/Jamba-v0.1-bnb-4bit"  # pretrained MoE | 52B | 4-bit quantized | Mamba Architecture
     "google/gemma-2-27b-it",  # instruct | 27B | unquantized - needs to be run with VLLM_ATTENTION_BACKEND=FLASHINFER
 ]
 

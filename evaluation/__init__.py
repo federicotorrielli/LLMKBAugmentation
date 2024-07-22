@@ -8,6 +8,6 @@ CONNECTION_STRING = f"mongodb+srv://{__USER}:{__PASSWORD}@csemagram.a4kafks.mong
 
 client = MongoClient(CONNECTION_STRING)
 
-dbname = client['semagram']
+dbname = client["semagram"]
 sem_collection = dbname["concepts"]
-category_collection = dbname['categories']
+category_collection = dbname["categories"]

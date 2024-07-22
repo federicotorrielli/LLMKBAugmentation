@@ -29,7 +29,10 @@ with gzip.open(conceptnet_file_path, "rt", encoding="utf-8") as file:
                     # Optionally, you could load the JSON to get additional info, like weight
                     # json_info = json.loads(parts[4])
                     # weight = json_info['weight']
-                    if start_node.split("/")[2] == "en" and end_node.split("/")[2] == "en":
+                    if (
+                        start_node.split("/")[2] == "en"
+                        and end_node.split("/")[2] == "en"
+                    ):
                         csv_writer.writerow([concept1, concept2])
 
 print(f"'UsedFor' relationships have been written to {output_csv_path}")
