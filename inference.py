@@ -12,7 +12,7 @@ from vllm.distributed.parallel_state import destroy_model_parallel
 
 MODEL_NAMES = [  # All the models are in the top 20 of the LLM HF open leaderboard
     "TechxGenus/Meta-Llama-3-70B-AWQ",  # pretrained | 70B | AWQ
-    "TechxGenus/Meta-Llama-3-70B-Instruct-AWQ",  # instruct | 70B | AWQ
+    "neuralmagic/Meta-Llama-3-70B-Instruct-FP8",  # instruct | 70B | FP8
     "Sao10K/L3-8B-Stheno-v3.2",  # storytelling/instruct | 8B | unquantized
     "microsoft/Phi-3-medium-4k-instruct",  # instruct | 14B | unquantized
     "mistralai/Mistral-7B-Instruct-v0.3",  # instruct | 7B | unquantized
@@ -138,7 +138,11 @@ def run_inference(model_names: List[str], tasks: Dict) -> None:
             trust_remote_code=True,
             tensor_parallel_size=torch.cuda.device_count(),
             dtype="auto",
-            quantization="awq" if "awq" in model_name.lower() else None,
+            quantization="awq"
+            if "awq" in model_name.lower()
+            else "fp8"
+            if "fp8" in model_name.lower()
+            else None,
         )
 
         for task_type, task_data in tasks.items():
@@ -157,12 +161,12 @@ def run_inference(model_names: List[str], tasks: Dict) -> None:
                     model, model_name, task_type, None, task_data, downloaded_files
                 )
 
-        with torch.no_grad():
-            destroy_model_parallel()
-            del model
-            gc.collect()
-            torch.cuda.empty_cache()
-            torch.distributed.destroy_process_group()
+        destroy_model_parallel()
+        del model.llm_engine.model_executor
+        del model
+        gc.collect()
+        torch.cuda.empty_cache()
+        # torch.distributed.destroy_process_group()
 
     for file in downloaded_files:
         os.remove(file)
@@ -193,6 +197,12 @@ def process_task(
             output_dir,
             f"t_{SAMPLING_PARAMS.temperature}__top_p_{SAMPLING_PARAMS.top_p}__max_new_tokens_{SAMPLING_PARAMS.max_tokens}__file_{file_name.replace('.json', '')}.jsonl",
         )
+
+        if os.path.exists(output_file) and os.path.getsize(output_file) > 0:
+            print(
+                f"Skipping {file_name} for task {task_type} as it is already processed"
+            )
+            continue
 
         print(
             f"Processing {file_name} for task {task_type}"
