@@ -10,15 +10,17 @@ from tqdm import tqdm
 from vllm import LLM, SamplingParams
 from vllm.distributed.parallel_state import destroy_model_parallel
 
-MODEL_NAMES = [  # All the models are in the top 20 of the LLM HF open leaderboard
-    "TechxGenus/Meta-Llama-3-70B-AWQ",  # pretrained | 70B | AWQ
-    "neuralmagic/Meta-Llama-3-70B-Instruct-FP8",  # instruct | 70B | FP8
-    "Sao10K/L3-8B-Stheno-v3.2",  # storytelling/instruct | 8B | unquantized
-    "microsoft/Phi-3-medium-4k-instruct",  # instruct | 14B | unquantized
-    "mistralai/Mistral-7B-Instruct-v0.3",  # instruct | 7B | unquantized
-    "CohereForAI/c4ai-command-r-plus-4bit",  # instruct | 104B | 4-bit quantized
-    "PrunaAI/Jamba-v0.1-bnb-4bit"  # pretrained MoE | 52B | 4-bit quantized | Mamba Architecture
-    "google/gemma-2-27b-it",  # instruct | 27B | unquantized - needs to be run with VLLM_ATTENTION_BACKEND=FLASHINFER
+MODEL_NAMES = [
+    # All the models are in the top 20 of the LLM HF open leaderboard
+    # Tests were run on 8xA100-80G or one A100-80G depending on the model size
+    "meta-llama/Meta-Llama-3-70B",  # pretrained | 70B
+    "meta-llama/Meta-Llama-3-70B-Instruct",  # instruct | 70B
+    "Sao10K/L3-8B-Stheno-v3.2",  # storytelling/instruct | 8B
+    "microsoft/Phi-3-medium-4k-instruct",  # instruct | 14B
+    "mistralai/Mistral-7B-Instruct-v0.3",  # instruct | 7B
+    "CohereForAI/c4ai-command-r-plus",  # instruct | 104B
+    "ai21labs/Jamba-v0.1",  # pretrained MoE | 52B | unquantized | Mamba Architecture
+    "google/gemma-2-27b-it",  # instruct | 27B | needs to be run with VLLM_ATTENTION_BACKEND=FLASHINFER
 ]
 
 TASKS = {
@@ -74,7 +76,7 @@ def get_modified_prompt(prompt: str, model_name: str) -> str:
     elif "phi" in model_name.lower():
         return f"<|user|>\n{prompt}<|end|>\n<|assistant|>\n"
     elif (
-        "meta" in model_name.lower() and "instruct" in model_name.lower()
+            "meta" in model_name.lower() and "instruct" in model_name.lower()
     ) or "stheno" in model_name.lower():
         return f"<|start_header_id|>user<|end_header_id|>\n\n{prompt}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
     elif "c4ai" in model_name.lower():
@@ -85,7 +87,7 @@ def get_modified_prompt(prompt: str, model_name: str) -> str:
 
 
 def process_file(
-    file_path: str, task_type: str, model_name: str
+        file_path: str, task_type: str, model_name: str
 ) -> Generator[Tuple, None, None]:
     with open(file_path, "r") as reader:
         data = ujson.load(reader)
@@ -126,6 +128,16 @@ def clean_output(text: str) -> str:
     return text.strip()
 
 
+def determine_quantization(model_name):
+    model_name_lower = model_name.lower()
+    if "awq" in model_name_lower:
+        return "awq"
+    elif "fp8" in model_name_lower:
+        return "fp8"
+    else:
+        return None
+
+
 def run_inference(model_names: List[str], tasks: Dict) -> None:
     downloaded_files = []
 
@@ -138,11 +150,7 @@ def run_inference(model_names: List[str], tasks: Dict) -> None:
             trust_remote_code=True,
             tensor_parallel_size=torch.cuda.device_count(),
             dtype="auto",
-            quantization="awq"
-            if "awq" in model_name.lower()
-            else "fp8"
-            if "fp8" in model_name.lower()
-            else None,
+            quantization=determine_quantization(model_name),
         )
 
         for task_type, task_data in tasks.items():
@@ -173,12 +181,12 @@ def run_inference(model_names: List[str], tasks: Dict) -> None:
 
 
 def process_task(
-    model: LLM,
-    model_name: str,
-    task_type: str,
-    subtask: str,
-    input_files: List[str],
-    downloaded_files: List[str],
+        model: LLM,
+        model_name: str,
+        task_type: str,
+        subtask: str,
+        input_files: List[str],
+        downloaded_files: List[str],
 ) -> None:
     for file_name in input_files:
         file_path = os.path.join("prompts", task_type, subtask or "", file_name)
@@ -218,7 +226,7 @@ def process_task(
             }
 
             for item in tqdm(
-                process_file(file_path, task_type, model_name), total=len(prompts)
+                    process_file(file_path, task_type, model_name), total=len(prompts)
             ):
                 prompt = item[-1]
                 result = {"result": output_dict[prompt], "prompt": prompt}
