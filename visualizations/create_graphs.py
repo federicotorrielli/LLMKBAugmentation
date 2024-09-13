@@ -30,7 +30,7 @@ data_filtered.loc[(data_filtered['Model'] == 'Jamba-v0.1') & (data_filtered['R@1
 aggregated_filtered_data = data_filtered.groupby(['KB', 'Model']).mean(numeric_only=True).reset_index()
 
 # Defining metrics to include in the combined plot
-selected_metrics = ['P@5', 'P@10', 'R@5', 'R@10', 'ACC@2', 'ACC@5', 'MRR']
+selected_metrics = ['P@5', 'P@10', 'R@5', 'R@10', 'ACC@5', 'ACC@10', 'MRR']
 
 # Function to create improved bar plots, save them, and display the plots
 def plot_improved_kb_performance_with_title_and_colors(kb, aggregated_data, metrics):
