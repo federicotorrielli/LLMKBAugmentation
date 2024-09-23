@@ -10,7 +10,7 @@ This project is organized into the following folders:
 
 ### src 
 
-The src folder contains all the code produced for experiments, evaluation and graphs creation
+The src folder contains the runnable code wrote to submit the created prompts to a LLM instance and save the resulting outputs
 
 ### evaluation 
 

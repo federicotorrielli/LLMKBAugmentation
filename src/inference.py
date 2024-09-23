@@ -189,7 +189,7 @@ def process_task(
         downloaded_files: List[str],
 ) -> None:
     for file_name in input_files:
-        file_path = os.path.join("prompts", task_type, subtask or "", file_name)
+        file_path = os.path.join("../datasets/prompts/", task_type, subtask or "", file_name)
         if not os.path.exists(file_path):
             os.makedirs(os.path.dirname(file_path), exist_ok=True)
             download_file(
@@ -198,7 +198,7 @@ def process_task(
             downloaded_files.append(file_path)
 
         output_dir = os.path.join(
-            "results", task_type, subtask or "", model_name.split("/")[-1]
+            "../datasets/results/", task_type, subtask or "", model_name.split("/")[-1]
         )
         os.makedirs(output_dir, exist_ok=True)
         output_file = os.path.join(
