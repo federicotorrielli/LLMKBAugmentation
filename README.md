@@ -1,4 +1,4 @@
-# Extracting Semantic Knowledge from Large Language Models
+# Expanding Horizons or Hitting Walls? The Potential and Limitations of LLMs for Augmenting Lexical Knowledge Bases
 
 ## Introduction
 
@@ -8,36 +8,25 @@ This project aims to explore the potential of Large Language Models (LLMs) in en
 
 This project is organized into the following folders:  
 
-### conceptnet extractor 
+### src 
 
-This folder contains the code for creating prompts from the ConceptNet knowledge base. 
-The prompts are designed to elicit specific semantic information from the LLMs and serve as input for extracting knowledge. 
+The src folder contains all the code produced for experiments, evaluation and graphs creation
 
 ### evaluation 
 
-The evaluation folder contains the code for evaluating the performance of the models and the manual annotation. 
-It includes scripts for measuring inter-annotation agreement and analyzing the annotation results. 
-The evaluation metrics used include Precision, Recall, Mean Reciprocal Rank, and Hits.
+The evaluation folder contains: 
+- **the results of the automatic evaluation**, thus the comparison between the semantic knowledge produced by the LLMs and that already present in the KBs
+- **the results of the manual 'human-in-the-loop'evaluation**,  performed by three annotators on the ConceptNet and FrameNet's structured prompt results. These latter results are presented singularly for each annotator and are merged into two files: final_merge.jsonl contains the most-voted answer for each question evaluated by the annotators, aggregated_results.jsonl reorganizes the results of final_merge.jsonl aggregating them
 
-### manual evaluation 
+### datasets 
 
-The manual evaluation folder contains the results and plots of the manual annotation process. 
-The manual annotation is conducted to assess the quality and accuracy of the extracted semantic knowledge. 
-The folder includes annotated data, analysis scripts, and visualizations of the annotation results. 
+The dataset folder contains:
+- **the prompts created for four different KBs** (Semagram, MultiAligNet, ConceptNet, FrameNet)
+- **the resulting answers given by each LLM** (c4ai-command-r-plus, gemma-2-27b-it, Jamba-v0.1, L3-8B-Stheno-v3.2, Meta-Llama-3-70B-AWQ, Meta-Llama-3-70B-Instruct-FP8, Mistral-7B-Instruct-v0.3, Phi-3-medium-4k-instruct)
 
-### prompts 
+### visualizations
 
-The prompts folder contains the prompts created for three different knowledge bases: Semagram, MultiAligNet, and ConceptNet. 
-These prompts are fed as input to the Large Language Models to extract semantic knowledge. 
-Each subfolder corresponds to a specific knowledge base and contains the necessary prompt files.
-
-### results 
-
-The results folder consists of three subfolders: 
-
-- **prompt results**: This folder contains the output of the Large Language Models on the given prompts. It includes the generated responses and extracted semantic information.
-- **score results**: The score results folder contains the evaluation of the output using metrics such as Precision, Recall, Mean Reciprocal Rank, and Hits. These metrics provide insights into the accuracy and performance of the extracted knowledge.
-- **annotation results**: The annotation results folder includes the results of the manual annotation process. It contains annotated data, statistical analysis, and visualizations of the annotation results.
+The visualizations folder contains a graphic representation of the results obtained in the automatic evaluation
 
 ## License
 
