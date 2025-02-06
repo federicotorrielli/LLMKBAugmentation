@@ -16,7 +16,7 @@ The src folder contains the runnable code wrote to submit the created prompts to
 
 The evaluation folder contains: 
 - **the results of the automatic evaluation**, thus the comparison between the semantic knowledge produced by the LLMs and that already present in the KBs
-- **the results of the manual 'human-in-the-loop'evaluation**,  performed by three annotators on the ConceptNet and FrameNet's structured prompt results. These latter results are presented singularly for each annotator and are merged into two files: final_merge.jsonl contains the most-voted answer for each question evaluated by the annotators, aggregated_results.jsonl reorganizes the results of final_merge.jsonl aggregating them
+- **the results of the manual 'human-in-the-loop'evaluation**,  performed by three annotators on the structured prompt results. These latter results are presented singularly for each annotator and are merged into two files: final_merge.jsonl contains the most-voted answer for each question evaluated by the annotators, aggregated_results.jsonl reorganizes the results of final_merge.jsonl aggregating them
 
 ### datasets 
 
