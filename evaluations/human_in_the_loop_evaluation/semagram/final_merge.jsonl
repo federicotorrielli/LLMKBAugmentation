@@ -1,0 +1,104 @@
+{"category": "food", "llm_concept": "avocado", "criteria": "can produce salad", "annotation": "correct"}
+{"category": "vehicles", "llm_concept": "lockheed", "criteria": "are delta wing", "annotation": "correct"}
+{"category": "clothes", "llm_concept": "bandana", "criteria": "are used by cowboys", "annotation": "correct"}
+{"category": "artifacts", "llm_concept": "comb", "criteria": "can be made of plastic", "annotation": "correct"}
+{"category": "clothes", "llm_concept": "kimono", "criteria": "are dolman jacket", "annotation": "incorrect"}
+{"category": "animals", "llm_concept": "panda", "criteria": "can be found or used in zoos", "annotation": "correct"}
+{"category": "appliance", "llm_concept": "oven", "criteria": "can be found or used in homes", "annotation": "correct"}
+{"category": "food", "llm_concept": "type", "criteria": "are ice tea", "annotation": "wrong"}
+{"category": "food", "llm_concept": "calabash", "criteria": "are gourd", "annotation": "correct"}
+{"category": "vehicles", "llm_concept": "taxi", "criteria": "can have log", "annotation": "correct"}
+{"category": "animals", "llm_concept": "mosquito", "criteria": "are pupa", "annotation": "correct"}
+{"category": "food", "llm_concept": "tart", "criteria": "can be dessert", "annotation": "correct"}
+{"category": "food", "llm_concept": "soup", "criteria": "can have sweet corn plant", "annotation": "correct"}
+{"category": "vehicles", "llm_concept": "rv", "criteria": "can have dashboard", "annotation": "incorrect"}
+{"category": "vehicles", "llm_concept": "beta", "criteria": "are scrambler", "annotation": "incorrect"}
+{"category": "appliance", "llm_concept": "cleaner", "criteria": "are electrical device", "annotation": "correct"}
+{"category": "appliance", "llm_concept": "two", "criteria": "are navigational instrument", "annotation": "wrong"}
+{"category": "animals", "llm_concept": "buffalo", "criteria": "can be forage", "annotation": "correct"}
+{"category": "animals", "llm_concept": "duck", "criteria": "can be walk", "annotation": "correct"}
+{"category": "instruments", "llm_concept": "electric", "criteria": "are contrabass", "annotation": "wrong"}
+{"category": "vehicles", "llm_concept": "nite", "criteria": "are ice yacht", "annotation": "correct"}
+{"category": "artifacts", "llm_concept": "sculpture", "criteria": "are commodity", "annotation": "correct"}
+{"category": "vehicles", "llm_concept": "battery", "criteria": "can have low", "annotation": "incorrect"}
+{"category": "animals", "llm_concept": "flea", "criteria": "can be bite", "annotation": "correct"}
+{"category": "animals", "llm_concept": "worker", "criteria": "are termite", "annotation": "incorrect"}
+{"category": "artifacts", "llm_concept": "riot", "criteria": "are used by riot polices", "annotation": "wrong"}
+{"category": "animals", "llm_concept": "english", "criteria": "are Cancer borealis", "annotation": "wrong"}
+{"category": "vehicles", "llm_concept": "automobile", "criteria": "are prowl car", "annotation": "incorrect"}
+{"category": "containers", "llm_concept": "crate", "criteria": "contain groceries", "annotation": "correct"}
+{"category": "animals", "llm_concept": "term", "criteria": "are pierid", "annotation": "incorrect"}
+{"category": "vehicles", "llm_concept": "infiniti", "criteria": "are coupe", "annotation": "correct"}
+{"category": "vehicles", "llm_concept": "porsche", "criteria": "are roadster", "annotation": "correct"}
+{"category": "artifacts", "llm_concept": "ship", "criteria": "can have rib", "annotation": "correct"}
+{"category": "vehicles", "llm_concept": "boeing", "criteria": "are shuttle helicopter", "annotation": "incorrect"}
+{"category": "containers", "llm_concept": "basket", "criteria": "are used for storage", "annotation": "correct"}
+{"category": "vehicles", "llm_concept": "prime", "criteria": "are tug", "annotation": "incorrect"}
+{"category": "tools", "llm_concept": "clawbar", "criteria": "are bar", "annotation": "correct"}
+{"category": "food", "llm_concept": "boursin", "criteria": "are cream cheese", "annotation": "correct"}
+{"category": "vehicles", "llm_concept": "quint", "criteria": "are fire truck", "annotation": "incorrect"}
+{"category": "home", "llm_concept": "basement", "criteria": "can have drain basket", "annotation": "correct"}
+{"category": "food", "llm_concept": "soda", "criteria": "can be found or used in shops", "annotation": "correct"}
+{"category": "animals", "llm_concept": "json", "criteria": "are pug-dog", "annotation": "wrong"}
+{"category": "food", "llm_concept": "whiskey", "criteria": "are alcohol", "annotation": "correct"}
+{"category": "animals", "llm_concept": "pachygrapsus", "criteria": "are rock crab", "annotation": "correct"}
+{"category": "vehicles", "llm_concept": "bristol", "criteria": "are pilot boat", "annotation": "correct"}
+{"category": "animals", "llm_concept": "mockingbird", "criteria": "are twitterer", "annotation": "correct"}
+{"category": "appliance", "llm_concept": "air", "criteria": "are remote station", "annotation": "wrong"}
+{"category": "home", "llm_concept": "skimmer", "criteria": "are used to stir", "annotation": "correct"}
+{"category": "instruments", "llm_concept": "conga", "criteria": "can have skin", "annotation": "correct"}
+{"category": "home", "llm_concept": "cottage", "criteria": "can have commode", "annotation": "correct"}
+{"category": "vehicles", "llm_concept": "antonov", "criteria": "are ski-plane", "annotation": "incorrect"}
+{"category": "food", "llm_concept": "chili", "criteria": "can smell spicy", "annotation": "correct"}
+{"category": "vehicles", "llm_concept": "destroyer", "criteria": "can have hull", "annotation": "correct"}
+{"category": "animals", "llm_concept": "erimacrus", "criteria": "are rock crab", "annotation": "correct"}
+{"category": "vehicles", "llm_concept": "motorhomes", "criteria": "can have topside", "annotation": "correct"}
+{"category": "tools", "llm_concept": "coupler", "criteria": "are connexion", "annotation": "correct"}
+{"category": "home", "llm_concept": "estate", "criteria": "are construction", "annotation": "correct"}
+{"category": "vehicles", "llm_concept": "tender", "criteria": "are fire truck", "annotation": "correct"}
+{"category": "vehicles", "llm_concept": "cart", "criteria": "are used by stewards", "annotation": "correct"}
+{"category": "food", "llm_concept": "corm", "criteria": "are plant structure", "annotation": "incorrect"}
+{"category": "vehicles", "llm_concept": "64", "criteria": "are cargo helicopter", "annotation": "wrong"}
+{"category": "clothes", "llm_concept": "dastaar", "criteria": "are turban", "annotation": "correct"}
+{"category": "food", "llm_concept": "output", "criteria": "are demitasse", "annotation": "wrong"}
+{"category": "instruments", "llm_concept": "tambourine", "criteria": "can have skin", "annotation": "correct"}
+{"category": "artifacts", "llm_concept": "antique", "criteria": "are material", "annotation": "wrong"}
+{"category": "artifacts", "llm_concept": "helm", "criteria": "are armor plating", "annotation": "correct"}
+{"category": "containers", "llm_concept": "trailer", "criteria": "can have centner", "annotation": "incorrect"}
+{"category": "artifacts", "llm_concept": "rug", "criteria": "can be made of cloth", "annotation": "correct"}
+{"category": "food", "llm_concept": "matcha", "criteria": "are cuppa", "annotation": "correct"}
+{"category": "appliance", "llm_concept": "kettle", "criteria": "can be made of cast iron", "annotation": "correct"}
+{"category": "tools", "llm_concept": "trotline", "criteria": "can have fluke", "annotation": "correct"}
+{"category": "animals", "llm_concept": "andrenid", "criteria": "are andrenid", "annotation": "wrong"}
+{"category": "food", "llm_concept": "roll", "criteria": "are brioche", "annotation": "correct"}
+{"category": "animals", "llm_concept": "notholca", "criteria": "are rotifer", "annotation": "correct"}
+{"category": "tools", "llm_concept": "opener", "criteria": "can be found or used in kitchens", "annotation": "correct"}
+{"category": "food", "llm_concept": "spring", "criteria": "are torpedo", "annotation": "incorrect"}
+{"category": "animals", "llm_concept": "specie", "criteria": "are Helix pomatia", "annotation": "wrong"}
+{"category": "tools", "llm_concept": "drill", "criteria": "are fixing", "annotation": "correct"}
+{"category": "food", "llm_concept": "louis", "criteria": "are crab Louis", "annotation": "wrong"}
+{"category": "food", "llm_concept": "oregano", "criteria": "are herbaceous plant", "annotation": "correct"}
+{"category": "animals", "llm_concept": "box", "criteria": "are anapsid reptile", "annotation": "wrong"}
+{"category": "clothes", "llm_concept": "jacket", "criteria": "can be made of velvet", "annotation": "correct"}
+{"category": "tools", "llm_concept": "blade", "criteria": "are bottle opener", "annotation": "correct"}
+{"category": "clothes", "llm_concept": "studded", "criteria": "can have spike", "annotation": "wrong"}
+{"category": "clothes", "llm_concept": "hat", "criteria": "are berretta", "annotation": "wrong"}
+{"category": "appliance", "llm_concept": "earbuds", "criteria": "are used for phone", "annotation": "correct"}
+{"category": "food", "llm_concept": "pinto", "criteria": "are legume", "annotation": "incorrect"}
+{"category": "food", "llm_concept": "kale", "criteria": "are green groceries", "annotation": "correct"}
+{"category": "appliance", "llm_concept": "waterheater", "criteria": "can have hearth", "annotation": "incorrect"}
+{"category": "animals", "llm_concept": "dragon", "criteria": "are acrodont", "annotation": "incorrect"}
+{"category": "vehicles", "llm_concept": "car", "criteria": "can be green", "annotation": "correct"}
+{"category": "food", "llm_concept": "10", "criteria": "are chevre", "annotation": "wrong"}
+{"category": "home", "llm_concept": "villa", "criteria": "can have toilet bowl", "annotation": "correct"}
+{"category": "vehicles", "llm_concept": "recumbentbikes", "criteria": "are push-bike", "annotation": "wrong"}
+{"category": "home", "llm_concept": "apartment", "criteria": "can have wall", "annotation": "correct"}
+{"category": "food", "llm_concept": "pasta", "criteria": "can be found or used in groceries", "annotation": "correct"}
+{"category": "containers", "llm_concept": "aquarium", "criteria": "contain water", "annotation": "correct"}
+{"category": "animals", "llm_concept": "eagle", "criteria": "are raptorial bird", "annotation": "correct"}
+{"category": "vehicles", "llm_concept": "bus", "criteria": "can have third", "annotation": "incorrect"}
+{"category": "clothes", "llm_concept": "loafer", "criteria": "can have toe box", "annotation": "correct"}
+{"category": "food", "llm_concept": "chicken", "criteria": "can be consumed or used during meal", "annotation": "correct"}
+{"category": "appliance", "llm_concept": "radio", "criteria": "are used for call", "annotation": "correct"}
+{"category": "appliance", "llm_concept": "food", "criteria": "can be found or used in kitchens", "annotation": "correct"}
+{"category": "food", "llm_concept": "sub", "criteria": "are bacon-lettuce-tomato sandwich", "annotation": "incorrect"}

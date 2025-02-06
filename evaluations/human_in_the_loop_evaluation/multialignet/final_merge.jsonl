@@ -1,0 +1,500 @@
+{"concept": "tree", "llm_concept": "seed", "relation": "noun", "annotation": "correct"}
+{"concept": "shape, form, configuration", "llm_concept": "geometry", "relation": "noun", "annotation": "correct"}
+{"concept": "act", "llm_concept": "drama", "relation": "noun", "annotation": "correct"}
+{"concept": "recommendation", "llm_concept": "feedback", "relation": "noun", "annotation": "correct"}
+{"concept": "computer_address, address, reference", "llm_concept": "url", "relation": "noun", "annotation": "correct"}
+{"concept": "giant", "llm_concept": "legend", "relation": "noun", "annotation": "correct"}
+{"concept": "film, movie, motion_picture", "llm_concept": "camera", "relation": "noun", "annotation": "correct"}
+{"concept": "clearness, lucidness, clarity", "llm_concept": "articulateness", "relation": "noun", "annotation": "correct"}
+{"concept": "parent, parenthood, parents", "llm_concept": "home", "relation": "noun", "annotation": "correct"}
+{"concept": "whole, unit", "llm_concept": "entity", "relation": "noun", "annotation": "correct"}
+{"concept": "complaint, charge", "llm_concept": "allegation", "relation": "noun", "annotation": "correct"}
+{"concept": "passage, transition", "llm_concept": "gateway", "relation": "noun", "annotation": "correct"}
+{"concept": "passing_play, passing, pass", "llm_concept": "sideline", "relation": "noun", "annotation": "correct"}
+{"concept": "significance", "llm_concept": "priority", "relation": "noun", "annotation": "correct"}
+{"concept": "squad", "llm_concept": "league", "relation": "noun", "annotation": "correct"}
+{"concept": "tail", "llm_concept": "fish", "relation": "noun", "annotation": "correct"}
+{"concept": "distance", "llm_concept": "mileage", "relation": "noun", "annotation": "correct"}
+{"concept": "mentum, chin", "llm_concept": "profile", "relation": "noun", "annotation": "correct"}
+{"concept": "booking, engagement, reservation", "llm_concept": "event", "relation": "noun", "annotation": "correct"}
+{"concept": "campaign, effort, drive", "llm_concept": "movement", "relation": "noun", "annotation": "correct"}
+{"concept": "driver, motorist", "llm_concept": "fuel", "relation": "noun", "annotation": "correct"}
+{"concept": "minute, moment, instant", "llm_concept": "hour", "relation": "noun", "annotation": "correct"}
+{"concept": "machinery, mechanism, mechanic_device", "llm_concept": "hydraulic", "relation": "noun", "annotation": "correct"}
+{"concept": "pillow", "llm_concept": "cushion", "relation": "noun", "annotation": "correct"}
+{"concept": "boy, son", "llm_concept": "parent", "relation": "noun", "annotation": "correct"}
+{"concept": "hero", "llm_concept": "power", "relation": "noun", "annotation": "correct"}
+{"concept": "recommendation", "llm_concept": "advice", "relation": "noun", "annotation": "correct"}
+{"concept": "canis_familiaris, dog, domestic_dog", "llm_concept": "pack", "relation": "noun", "annotation": "incorrect"}
+{"concept": "fashion, manner, way", "llm_concept": "custom", "relation": "noun", "annotation": "correct"}
+{"concept": "repugnance, revulsion, horror", "llm_concept": "travesty", "relation": "noun", "annotation": "incorrect"}
+{"concept": "dress, garb, attire", "llm_concept": "wardrobe", "relation": "noun", "annotation": "correct"}
+{"concept": "scope, range, ambit", "llm_concept": "boundary", "relation": "noun", "annotation": "correct"}
+{"concept": "distribution", "llm_concept": "probability", "relation": "noun", "annotation": "correct"}
+{"concept": "solution, solvent, result", "llm_concept": "concentration", "relation": "noun", "annotation": "correct"}
+{"concept": "barn, agricultural_building", "llm_concept": "farmhouse", "relation": "noun", "annotation": "correct"}
+{"concept": "workforce, work_force, manpower", "llm_concept": "efficiency", "relation": "noun", "annotation": "correct"}
+{"concept": "economy, economic_system", "llm_concept": "consumption", "relation": "noun", "annotation": "correct"}
+{"concept": "settlement, small_town, village", "llm_concept": "homestead", "relation": "noun", "annotation": "correct"}
+{"concept": "musical_composition, piece, opus", "llm_concept": "rhythm", "relation": "noun", "annotation": "correct"}
+{"concept": "chart, graph", "llm_concept": "visualization", "relation": "noun", "annotation": "correct"}
+{"concept": "home, house, family", "llm_concept": "neighbor", "relation": "noun", "annotation": "correct"}
+{"concept": "safeguard, precaution, guard", "llm_concept": "shield", "relation": "noun", "annotation": "correct"}
+{"concept": "rhythm, regular_recurrence", "llm_concept": "frequency", "relation": "noun", "annotation": "correct"}
+{"concept": "twosome, couple, distich", "llm_concept": "doublet", "relation": "noun", "annotation": "incorrect"}
+{"concept": "sunlight, sunshine, sun", "llm_concept": "morning", "relation": "noun", "annotation": "correct"}
+{"concept": "fencing, hikke, fence", "llm_concept": "perimeter", "relation": "noun", "annotation": "correct"}
+{"concept": "man_and_wife, married_couple, marriage", "llm_concept": "ceremony", "relation": "noun", "annotation": "correct"}
+{"concept": "spirit, feel, flavor", "llm_concept": "aroma", "relation": "noun", "annotation": "correct"}
+{"concept": "result, outcome, resultant", "llm_concept": "output", "relation": "noun", "annotation": "correct"}
+{"concept": "equus_caballus, horse", "llm_concept": "corral", "relation": "noun", "annotation": "correct"}
+{"concept": "salt", "llm_concept": "preservation", "relation": "noun", "annotation": "correct"}
+{"concept": "part, piece", "llm_concept": "fragment", "relation": "noun", "annotation": "correct"}
+{"concept": "fellow_member, member", "llm_concept": "guild", "relation": "noun", "annotation": "correct"}
+{"concept": "leather, leather_goods", "llm_concept": "accessory", "relation": "noun", "annotation": "correct"}
+{"concept": "event, case", "llm_concept": "happening", "relation": "noun", "annotation": "correct"}
+{"concept": "presentation, presentment, demonstration", "llm_concept": "lecture", "relation": "noun", "annotation": "correct"}
+{"concept": "field, plain, champaign", "llm_concept": "pasture", "relation": "noun", "annotation": "correct"}
+{"concept": "suburban_area, suburb, suburbia", "llm_concept": "residence", "relation": "noun", "annotation": "correct"}
+{"concept": "frequency, oftenness, frequence", "llm_concept": "harmonic", "relation": "noun", "annotation": "correct"}
+{"concept": "wood, alburnum, sap-wood", "llm_concept": "plank", "relation": "noun", "annotation": "correct"}
+{"concept": "move, movement, motion", "llm_concept": "migration", "relation": "noun", "annotation": "correct"}
+{"concept": "industry", "llm_concept": "logistics", "relation": "noun", "annotation": "correct"}
+{"concept": "result, outcome, resultant", "llm_concept": "finding", "relation": "noun", "annotation": "correct"}
+{"concept": "point", "llm_concept": "corner", "relation": "noun", "annotation": "correct"}
+{"concept": "rat, mouse", "llm_concept": "bait", "relation": "noun", "annotation": "correct"}
+{"concept": "argument, line, argumentation", "llm_concept": "claim", "relation": "noun", "annotation": "correct"}
+{"concept": "kitchen_stove, range, stove", "llm_concept": "fuel", "relation": "noun", "annotation": "incorrect"}
+{"concept": "comparison", "llm_concept": "benchmark", "relation": "noun", "annotation": "correct"}
+{"concept": "use, utilisation, employment", "llm_concept": "infrastructure", "relation": "noun", "annotation": "correct"}
+{"concept": "pattern, design, figure", "llm_concept": "geometry", "relation": "noun", "annotation": "correct"}
+{"concept": "organisational, organisation, organization", "llm_concept": "department", "relation": "noun", "annotation": "correct"}
+{"concept": "music_director, director, conductor", "llm_concept": "recording", "relation": "noun", "annotation": "correct"}
+{"concept": "sample", "llm_concept": "research", "relation": "noun", "annotation": "correct"}
+{"concept": "world, universe, cosmos", "llm_concept": "galaxy", "relation": "noun", "annotation": "correct"}
+{"concept": "game", "llm_concept": "controller", "relation": "noun", "annotation": "correct"}
+{"concept": "youth, young", "llm_concept": "teenager", "relation": "noun", "annotation": "correct"}
+{"concept": "mass", "llm_concept": "matter", "relation": "noun", "annotation": "correct"}
+{"concept": "iodine, atomic_number_53, i", "llm_concept": "table", "relation": "noun", "annotation": "correct"}
+{"concept": "determination, finding", "llm_concept": "discovery", "relation": "noun", "annotation": "correct"}
+{"concept": "play, dramatic_play, drama", "llm_concept": "stage", "relation": "noun", "annotation": "correct"}
+{"concept": "settlement, small_town, village", "llm_concept": "township", "relation": "noun", "annotation": "correct"}
+{"concept": "sunlight, sunshine, sun", "llm_concept": "summer", "relation": "noun", "annotation": "correct"}
+{"concept": "clinic, hospital, infirmary", "llm_concept": "ward", "relation": "noun", "annotation": "correct"}
+{"concept": "motivator, incentive, inducement", "llm_concept": "stimulus", "relation": "noun", "annotation": "correct"}
+{"concept": "consideration", "llm_concept": "meditation", "relation": "noun", "annotation": "incorrect"}
+{"concept": "bit, flake, chip", "llm_concept": "ice", "relation": "noun", "annotation": "correct"}
+{"concept": "mentality, mindset, outlook", "llm_concept": "psychology", "relation": "noun", "annotation": "correct"}
+{"concept": "office, power", "llm_concept": "chair", "relation": "noun", "annotation": "correct"}
+{"concept": "vessel, watercraft", "llm_concept": "marine", "relation": "noun", "annotation": "correct"}
+{"concept": "opinion, supposition, belief", "llm_concept": "notion", "relation": "noun", "annotation": "correct"}
+{"concept": "issue", "llm_concept": "crisis", "relation": "noun", "annotation": "correct"}
+{"concept": "machine, device", "llm_concept": "robot", "relation": "noun", "annotation": "correct"}
+{"concept": "rat, mouse", "llm_concept": "rodent", "relation": "noun", "annotation": "correct"}
+{"concept": "evening, eventide, eve", "llm_concept": "sky", "relation": "noun", "annotation": "correct"}
+{"concept": "painfulness, pain", "llm_concept": "injury", "relation": "noun", "annotation": "correct"}
+{"concept": "church, christian_church", "llm_concept": "altar", "relation": "noun", "annotation": "correct"}
+{"concept": "words, lyric, language", "llm_concept": "vocabulary", "relation": "noun", "annotation": "correct"}
+{"concept": "clock", "llm_concept": "schedule", "relation": "noun", "annotation": "correct"}
+{"concept": "sudor, perspiration, sweat", "llm_concept": "exercise", "relation": "noun", "annotation": "correct"}
+{"concept": "governor", "llm_concept": "administration", "relation": "noun", "annotation": "correct"}
+{"concept": "thing", "llm_concept": "entity", "relation": "noun", "annotation": "correct"}
+{"concept": "proprietor, owner", "llm_concept": "asset", "relation": "noun", "annotation": "correct"}
+{"concept": "air, atmosphere", "llm_concept": "oxygen", "relation": "noun", "annotation": "correct"}
+{"concept": "glass", "llm_concept": "door", "relation": "noun", "annotation": "correct"}
+{"concept": "lecture, talk, public_lecture", "llm_concept": "speaker", "relation": "noun", "annotation": "correct"}
+{"concept": "field, plain, champaign", "llm_concept": "farm", "relation": "noun", "annotation": "correct"}
+{"concept": "home, dwelling, house", "llm_concept": "window", "relation": "noun", "annotation": "correct"}
+{"concept": "heritage", "llm_concept": "archive", "relation": "noun", "annotation": "correct"}
+{"concept": "fan, buff, lover", "llm_concept": "groupie", "relation": "noun", "annotation": "correct"}
+{"concept": "association, voluntary_association", "llm_concept": "charity", "relation": "noun", "annotation": "correct"}
+{"concept": "repugnance, revulsion, horror", "llm_concept": "deformity", "relation": "noun", "annotation": "correct"}
+{"concept": "shelter, platform_roof", "llm_concept": "awning", "relation": "noun", "annotation": "correct"}
+{"concept": "electricity", "llm_concept": "current", "relation": "noun", "annotation": "correct"}
+{"concept": "admission, admittance", "llm_concept": "tuition", "relation": "noun", "annotation": "correct"}
+{"concept": "piece", "llm_concept": "art", "relation": "noun", "annotation": "correct"}
+{"concept": "gyne, queen", "llm_concept": "palace", "relation": "noun", "annotation": "correct"}
+{"concept": "brow, forehead", "llm_concept": "complexion", "relation": "noun", "annotation": "correct"}
+{"concept": "order_of_magnitude, order", "llm_concept": "category", "relation": "noun", "annotation": "correct"}
+{"concept": "undulation, wave", "llm_concept": "surge", "relation": "noun", "annotation": "correct"}
+{"concept": "sunlight, sunshine, sun", "llm_concept": "cloud", "relation": "noun", "annotation": "correct"}
+{"concept": "celebrity, renown, fame", "llm_concept": "spotlight", "relation": "noun", "annotation": "correct"}
+{"concept": "egg", "llm_concept": "yolk", "relation": "noun", "annotation": "correct"}
+{"concept": "revolution", "llm_concept": "freedom", "relation": "noun", "annotation": "correct"}
+{"concept": "value", "llm_concept": "merit", "relation": "noun", "annotation": "correct"}
+{"concept": "musical_score, score", "llm_concept": "melody", "relation": "noun", "annotation": "correct"}
+{"concept": "study, musing, meditation", "llm_concept": "enlightenment", "relation": "noun", "annotation": "correct"}
+{"concept": "united_states, united_states_of_america, america", "llm_concept": "florida", "relation": "noun", "annotation": "correct"}
+{"concept": "standard, measure, criterion", "llm_concept": "grade", "relation": "noun", "annotation": "correct"}
+{"concept": "socialism", "llm_concept": "government", "relation": "noun", "annotation": "correct"}
+{"concept": "piece", "llm_concept": "puzzle", "relation": "noun", "annotation": "correct"}
+{"concept": "boot", "llm_concept": "camp", "relation": "noun", "annotation": "correct"}
+{"concept": "club, social_club, guild", "llm_concept": "membership", "relation": "noun", "annotation": "correct"}
+{"concept": "colony, settlement", "llm_concept": "pioneer", "relation": "noun", "annotation": "correct"}
+{"concept": "idea, thought", "llm_concept": "brainstorm", "relation": "noun", "annotation": "correct"}
+{"concept": "scientist", "llm_concept": "theory", "relation": "noun", "annotation": "correct"}
+{"concept": "jew_bashing, anti-semitism, antisemitism", "llm_concept": "stereotype", "relation": "noun", "annotation": "correct"}
+{"concept": "kidney", "llm_concept": "function", "relation": "noun", "annotation": "correct"}
+{"concept": "thighs, thigh", "llm_concept": "poultry", "relation": "noun", "annotation": "correct"}
+{"concept": "decennary, decade, decennium", "llm_concept": "calendar", "relation": "noun", "annotation": "correct"}
+{"concept": "socialism", "llm_concept": "economy", "relation": "noun", "annotation": "correct"}
+{"concept": "heart, affection, philia", "llm_concept": "attachment", "relation": "noun", "annotation": "correct"}
+{"concept": "birth, parturition, childbirth", "llm_concept": "labor", "relation": "noun", "annotation": "correct"}
+{"concept": "linguistic_context, context, context_of_use", "llm_concept": "speaker", "relation": "noun", "annotation": "correct"}
+{"concept": "subject, theme, topic", "llm_concept": "module", "relation": "noun", "annotation": "correct"}
+{"concept": "picture, ikon, image", "llm_concept": "snapshot", "relation": "noun", "annotation": "correct"}
+{"concept": "stress, emphasis, accent", "llm_concept": "utterance", "relation": "noun", "annotation": "incorrect"}
+{"concept": "passage, transition", "llm_concept": "migration", "relation": "noun", "annotation": "correct"}
+{"concept": "mineral_fibre, mineral_fiber, fiber", "llm_concept": "insulation", "relation": "noun", "annotation": "correct"}
+{"concept": "visible_light, light, visible_radiation", "llm_concept": "photography", "relation": "noun", "annotation": "correct"}
+{"concept": "visible_light, light, visible_radiation", "llm_concept": "laser", "relation": "noun", "annotation": "correct"}
+{"concept": "bond, bond_certificate", "llm_concept": "issuer", "relation": "noun", "annotation": "correct"}
+{"concept": "law-breaking, criminal_offense, crime", "llm_concept": "justice", "relation": "noun", "annotation": "correct"}
+{"concept": "designation, identification", "llm_concept": "name", "relation": "noun", "annotation": "correct"}
+{"concept": "tabular_array, table", "llm_concept": "chart", "relation": "noun", "annotation": "correct"}
+{"concept": "town, large_village", "llm_concept": "council", "relation": "noun", "annotation": "correct"}
+{"concept": "musical_composition, piece, opus", "llm_concept": "orchestra", "relation": "noun", "annotation": "correct"}
+{"concept": "audience", "llm_concept": "performance", "relation": "noun", "annotation": "correct"}
+{"concept": "fellow_feeling, sympathy", "llm_concept": "unity", "relation": "noun", "annotation": "correct"}
+{"concept": "point", "llm_concept": "origin", "relation": "noun", "annotation": "correct"}
+{"concept": "brow, forehead", "llm_concept": "expression", "relation": "noun", "annotation": "correct"}
+{"concept": "undulation, wave", "llm_concept": "motion", "relation": "noun", "annotation": "correct"}
+{"concept": "protector, defender, guardian", "llm_concept": "watchdog", "relation": "noun", "annotation": "correct"}
+{"concept": "chance, hazard, luck", "llm_concept": "coincidence", "relation": "noun", "annotation": "correct"}
+{"concept": "pillow", "llm_concept": "sleep", "relation": "noun", "annotation": "correct"}
+{"concept": "flying, flight", "llm_concept": "runway", "relation": "noun", "annotation": "correct"}
+{"concept": "flesh", "llm_concept": "organ", "relation": "noun", "annotation": "correct"}
+{"concept": "stall", "llm_concept": "unexpected", "relation": "noun", "annotation": "correct"}
+{"concept": "completion, closing, windup", "llm_concept": "culminating", "relation": "adjective", "annotation": "incorrect"}
+{"concept": "pulverization, powder, pulverisation", "llm_concept": "thorough", "relation": "adjective", "annotation": "incorrect"}
+{"concept": "love", "llm_concept": "enduring", "relation": "adjective", "annotation": "correct"}
+{"concept": "approximation, estimate, estimation", "llm_concept": "fair", "relation": "adjective", "annotation": "correct"}
+{"concept": "aim, target, object", "llm_concept": "defined", "relation": "adjective", "annotation": "correct"}
+{"concept": "policy", "llm_concept": "governmental", "relation": "adjective", "annotation": "correct"}
+{"concept": "father, male_parent, begetter", "llm_concept": "strong", "relation": "adjective", "annotation": "correct"}
+{"concept": "auditor, hearer, listener", "llm_concept": "critical", "relation": "adjective", "annotation": "incorrect"}
+{"concept": "practice, pattern", "llm_concept": "predictable", "relation": "adjective", "annotation": "correct"}
+{"concept": "assuagement, alleviation, relief", "llm_concept": "complete", "relation": "adjective", "annotation": "correct"}
+{"concept": "fun, merriment, playfulness", "llm_concept": "jocular", "relation": "adjective", "annotation": "correct"}
+{"concept": "employment, job, work", "llm_concept": "full", "relation": "adjective", "annotation": "correct"}
+{"concept": "machinery, mechanism, mechanic_device", "llm_concept": "duty", "relation": "adjective", "annotation": "correct"}
+{"concept": "sentence", "llm_concept": "imperative", "relation": "adjective", "annotation": "correct"}
+{"concept": "socialism", "llm_concept": "controlled", "relation": "adjective", "annotation": "correct"}
+{"concept": "knife", "llm_concept": "rusty", "relation": "adjective", "annotation": "correct"}
+{"concept": "measure, measurement, mensuration", "llm_concept": "systematic", "relation": "adjective", "annotation": "correct"}
+{"concept": "olfactory_property, scent, odour", "llm_concept": "fruity", "relation": "adjective", "annotation": "correct"}
+{"concept": "calibration, standardization, standardisation", "llm_concept": "meticulous", "relation": "adjective", "annotation": "correct"}
+{"concept": "linguistic_context, context, context_of_use", "llm_concept": "particular", "relation": "adjective", "annotation": "correct"}
+{"concept": "communication, communicating, social_communication", "llm_concept": "nonverbal", "relation": "adjective", "annotation": "correct"}
+{"concept": "cover, coverlet, blanket", "llm_concept": "plush", "relation": "adjective", "annotation": "correct"}
+{"concept": "fencing, hikke, fence", "llm_concept": "secure", "relation": "adjective", "annotation": "correct"}
+{"concept": "irony, sarcasm, satire", "llm_concept": "scathing", "relation": "adjective", "annotation": "correct"}
+{"concept": "lineament, feature", "llm_concept": "defined", "relation": "adjective", "annotation": "correct"}
+{"concept": "wood, alburnum, sap-wood", "llm_concept": "rugged", "relation": "adjective", "annotation": "correct"}
+{"concept": "woe, suffering", "llm_concept": "unrelenting", "relation": "adjective", "annotation": "correct"}
+{"concept": "undulation, wave", "llm_concept": "recurring", "relation": "adjective", "annotation": "correct"}
+{"concept": "ship", "llm_concept": "high", "relation": "adjective", "annotation": "incorrect"}
+{"concept": "lecture, talk, public_lecture", "llm_concept": "formal", "relation": "adjective", "annotation": "correct"}
+{"concept": "canvass, canvas", "llm_concept": "pristine", "relation": "adjective", "annotation": "incorrect"}
+{"concept": "security, safety", "llm_concept": "total", "relation": "adjective", "annotation": "correct"}
+{"concept": "history", "llm_concept": "oral", "relation": "adjective", "annotation": "correct"}
+{"concept": "culture", "llm_concept": "rural", "relation": "adjective", "annotation": "correct"}
+{"concept": "band", "llm_concept": "blue", "relation": "adjective", "annotation": "incorrect"}
+{"concept": "driver, motorist", "llm_concept": "novice", "relation": "adjective", "annotation": "correct"}
+{"concept": "violence, force", "llm_concept": "merciless", "relation": "adjective", "annotation": "correct"}
+{"concept": "relationship", "llm_concept": "complicated", "relation": "adjective", "annotation": "correct"}
+{"concept": "weapon_system, weapon, arm", "llm_concept": "lightweight", "relation": "adjective", "annotation": "correct"}
+{"concept": "race", "llm_concept": "endurance", "relation": "adjective", "annotation": "correct"}
+{"concept": "isle, island", "llm_concept": "isolated", "relation": "adjective", "annotation": "correct"}
+{"concept": "leather, leather_goods", "llm_concept": "vintage", "relation": "adjective", "annotation": "correct"}
+{"concept": "part, piece", "llm_concept": "vital", "relation": "adjective", "annotation": "correct"}
+{"concept": "danger, peril, risk", "llm_concept": "significant", "relation": "adjective", "annotation": "correct"}
+{"concept": "duration, length", "llm_concept": "interminable", "relation": "adjective", "annotation": "correct"}
+{"concept": "booking, engagement, reservation", "llm_concept": "confirmed", "relation": "adjective", "annotation": "correct"}
+{"concept": "office, power", "llm_concept": "authoritative", "relation": "adjective", "annotation": "correct"}
+{"concept": "self-respect, dignity, self-worth", "llm_concept": "unbridled", "relation": "adjective", "annotation": "incorrect"}
+{"concept": "united_states, united_states_of_america, america", "llm_concept": "democratic", "relation": "adjective", "annotation": "correct"}
+{"concept": "hog, pig, squealer", "llm_concept": "rustic", "relation": "adjective", "annotation": "correct"}
+{"concept": "goodness, good", "llm_concept": "benevolent", "relation": "adjective", "annotation": "correct"}
+{"concept": "life", "llm_concept": "fragile", "relation": "adjective", "annotation": "correct"}
+{"concept": "colony, settlement", "llm_concept": "abandoned", "relation": "adjective", "annotation": "correct"}
+{"concept": "myth", "llm_concept": "intriguing", "relation": "adjective", "annotation": "correct"}
+{"concept": "linguistic_context, context, context_of_use", "llm_concept": "environmental", "relation": "adjective", "annotation": "correct"}
+{"concept": "people, hoi_polloi, multitude", "llm_concept": "varied", "relation": "adjective", "annotation": "correct"}
+{"concept": "penetration, insight", "llm_concept": "sharp", "relation": "adjective", "annotation": "correct"}
+{"concept": "supply", "llm_concept": "ample", "relation": "adjective", "annotation": "correct"}
+{"concept": "plane, aeroplane, airplane", "llm_concept": "high", "relation": "adjective", "annotation": "correct"}
+{"concept": "parent, parenthood, parents", "llm_concept": "authoritative", "relation": "adjective", "annotation": "correct"}
+{"concept": "passenger_train, railroad_train, train", "llm_concept": "distance", "relation": "adjective", "annotation": "correct"}
+{"concept": "organic_structure, body, physical_structure", "llm_concept": "fragile", "relation": "adjective", "annotation": "correct"}
+{"concept": "rex, king, male_monarch", "llm_concept": "imperial", "relation": "adjective", "annotation": "correct"}
+{"concept": "branch, tree_branch", "llm_concept": "short", "relation": "adjective", "annotation": "correct"}
+{"concept": "natural_action, natural_process, activity", "llm_concept": "innate", "relation": "adjective", "annotation": "correct"}
+{"concept": "plane, aeroplane, airplane", "llm_concept": "propeller", "relation": "adjective", "annotation": "correct"}
+{"concept": "machine, device", "llm_concept": "industrial", "relation": "adjective", "annotation": "correct"}
+{"concept": "flow, fluid_dynamics, flowing", "llm_concept": "laminar", "relation": "adjective", "annotation": "correct"}
+{"concept": "linguistic_communication, human_language, language", "llm_concept": "expressive", "relation": "adjective", "annotation": "correct"}
+{"concept": "monkey", "llm_concept": "adaptable", "relation": "adjective", "annotation": "incorrect"}
+{"concept": "completion, closing, windup", "llm_concept": "terminal", "relation": "adjective", "annotation": "correct"}
+{"concept": "street", "llm_concept": "busy", "relation": "adjective", "annotation": "correct"}
+{"concept": "sex, sexual_activity, sex_activity", "llm_concept": "casual", "relation": "adjective", "annotation": "correct"}
+{"concept": "kitchen_stove, range, stove", "llm_concept": "modern", "relation": "adjective", "annotation": "correct"}
+{"concept": "ride, drive", "llm_concept": "dangerous", "relation": "adjective", "annotation": "correct"}
+{"concept": "parkland, public_park, park", "llm_concept": "recreational", "relation": "adjective", "annotation": "correct"}
+{"concept": "use, utilisation, employment", "llm_concept": "strategic", "relation": "adjective", "annotation": "correct"}
+{"concept": "trade, craft", "llm_concept": "manual", "relation": "adjective", "annotation": "correct"}
+{"concept": "music, music_lover", "llm_concept": "upbeat", "relation": "adjective", "annotation": "correct"}
+{"concept": "calibration, standardization, standardisation", "llm_concept": "detailed", "relation": "adjective", "annotation": "correct"}
+{"concept": "birthday", "llm_concept": "joyful", "relation": "adjective", "annotation": "correct"}
+{"concept": "end", "llm_concept": "ultimate", "relation": "adjective", "annotation": "correct"}
+{"concept": "field_of_force, force_field, field", "llm_concept": "gravitational", "relation": "adjective", "annotation": "correct"}
+{"concept": "ambassador, embassador", "llm_concept": "high", "relation": "adjective", "annotation": "correct"}
+{"concept": "spirit", "llm_concept": "wild", "relation": "adjective", "annotation": "correct"}
+{"concept": "settler, colonist", "llm_concept": "enterprising", "relation": "adjective", "annotation": "correct"}
+{"concept": "forte-piano, pianoforte, piano", "llm_concept": "refined", "relation": "adjective", "annotation": "correct"}
+{"concept": "mercantilism, commercialism, commerce", "llm_concept": "industrial", "relation": "adjective", "annotation": "correct"}
+{"concept": "spot, topographic_point, place", "llm_concept": "idyllic", "relation": "adjective", "annotation": "correct"}
+{"concept": "country, rural_area", "llm_concept": "picturesque", "relation": "adjective", "annotation": "correct"}
+{"concept": "duty, responsibility, obligation", "llm_concept": "inescapable", "relation": "adjective", "annotation": "correct"}
+{"concept": "moral_sense, sense_of_right_and_wrong, conscience", "llm_concept": "innate", "relation": "adjective", "annotation": "correct"}
+{"concept": "preciseness, precision", "llm_concept": "accurate", "relation": "adjective", "annotation": "correct"}
+{"concept": "fibre, fiber, character", "llm_concept": "unwavering", "relation": "adjective", "annotation": "correct"}
+{"concept": "bond, bond_certificate", "llm_concept": "secured", "relation": "adjective", "annotation": "correct"}
+{"concept": "auditor, hearer, listener", "llm_concept": "careful", "relation": "adjective", "annotation": "correct"}
+{"concept": "cloud", "llm_concept": "wispy", "relation": "adjective", "annotation": "correct"}
+{"concept": "beginning, commencement, start", "llm_concept": "nascent", "relation": "adjective", "annotation": "correct"}
+{"concept": "property, phenotypic_character", "llm_concept": "intrinsic", "relation": "adjective", "annotation": "correct"}
+{"concept": "manufacturer, producer", "llm_concept": "key", "relation": "adjective", "annotation": "correct"}
+{"concept": "protest, protestation", "llm_concept": "widespread", "relation": "adjective", "annotation": "correct"}
+{"concept": "wireless, radio, radiocommunication", "llm_concept": "long", "relation": "adjective", "annotation": "correct"}
+{"concept": "chaos, topsy-turvydom, pandemonium", "llm_concept": "utter", "relation": "adjective", "annotation": "incorrect"}
+{"concept": "kingdom, land, realm", "llm_concept": "legendary", "relation": "adjective", "annotation": "correct"}
+{"concept": "field, plain, champaign", "llm_concept": "lush", "relation": "adjective", "annotation": "correct"}
+{"concept": "setup, apparatus", "llm_concept": "high", "relation": "adjective", "annotation": "incorrect"}
+{"concept": "theology, divinity", "llm_concept": "spiritual", "relation": "adjective", "annotation": "correct"}
+{"concept": "advertising, advertisement, publicizing", "llm_concept": "catching", "relation": "adjective", "annotation": "correct"}
+{"concept": "ratio, rate", "llm_concept": "comparative", "relation": "adjective", "annotation": "correct"}
+{"concept": "proprietor, owner", "llm_concept": "individual", "relation": "adjective", "annotation": "correct"}
+{"concept": "interrogative, question, interrogation", "llm_concept": "aggressive", "relation": "adjective", "annotation": "correct"}
+{"concept": "heart, affection, philia", "llm_concept": "compassionate", "relation": "adjective", "annotation": "correct"}
+{"concept": "gyne, queen", "llm_concept": "majestic", "relation": "adjective", "annotation": "correct"}
+{"concept": "session, meeting", "llm_concept": "formal", "relation": "adjective", "annotation": "correct"}
+{"concept": "criminal, crook, outlaw", "llm_concept": "hardened", "relation": "adjective", "annotation": "correct"}
+{"concept": "rex, king, male_monarch", "llm_concept": "authoritative", "relation": "adjective", "annotation": "correct"}
+{"concept": "demand", "llm_concept": "steadily", "relation": "adjective", "annotation": "correct"}
+{"concept": "order_of_magnitude, order", "llm_concept": "gradated", "relation": "adjective", "annotation": "correct"}
+{"concept": "mastery, domination, supremacy", "llm_concept": "unrelenting", "relation": "adjective", "annotation": "correct"}
+{"concept": "course_of_study, programme, curriculum", "llm_concept": "intensive", "relation": "adjective", "annotation": "correct"}
+{"concept": "business, commercial_enterprise, business_enterprise", "llm_concept": "successful", "relation": "adjective", "annotation": "correct"}
+{"concept": "value, worth, economic_value", "llm_concept": "appreciable", "relation": "adjective", "annotation": "correct"}
+{"concept": "settlement, small_town, village", "llm_concept": "cozy", "relation": "adjective", "annotation": "correct"}
+{"concept": "equus_caballus, horse", "llm_concept": "powerful", "relation": "adjective", "annotation": "correct"}
+{"concept": "repetition, repeat", "llm_concept": "consistent", "relation": "adjective", "annotation": "correct"}
+{"concept": "building, edifice, public_building", "llm_concept": "impressive", "relation": "adjective", "annotation": "correct"}
+{"concept": "babe, baby, infant", "llm_concept": "fragile", "relation": "adjective", "annotation": "correct"}
+{"concept": "protest, protestation", "llm_concept": "passionate", "relation": "adjective", "annotation": "correct"}
+{"concept": "camera, photographic_camera, still_camera", "llm_concept": "vintage", "relation": "adjective", "annotation": "correct"}
+{"concept": "campaign, run, political_campaign", "llm_concept": "successful", "relation": "adjective", "annotation": "correct"}
+{"concept": "flexibility, flexibleness", "llm_concept": "pliant", "relation": "adjective", "annotation": "correct"}
+{"concept": "italy, italia, italian_republic", "llm_concept": "picturesque", "relation": "adjective", "annotation": "incorrect"}
+{"concept": "party, political_party", "llm_concept": "centrist", "relation": "adjective", "annotation": "correct"}
+{"concept": "deduction, entailment, implication", "llm_concept": "obvious", "relation": "adjective", "annotation": "correct"}
+{"concept": "quotation, citation, reference", "llm_concept": "credible", "relation": "adjective", "annotation": "correct"}
+{"concept": "electricity", "llm_concept": "voltage", "relation": "adjective", "annotation": "correct"}
+{"concept": "move, movement, motion", "llm_concept": "deliberate", "relation": "adjective", "annotation": "correct"}
+{"concept": "title", "llm_concept": "catchy", "relation": "adjective", "annotation": "correct"}
+{"concept": "shade, shadow", "llm_concept": "short", "relation": "adjective", "annotation": "correct"}
+{"concept": "battlefront, front_line, front", "llm_concept": "main", "relation": "adjective", "annotation": "correct"}
+{"concept": "honey", "llm_concept": "golden", "relation": "adjective", "annotation": "correct"}
+{"concept": "stone, rock", "llm_concept": "ancient", "relation": "adjective", "annotation": "correct"}
+{"concept": "ideal", "llm_concept": "exemplary", "relation": "adjective", "annotation": "correct"}
+{"concept": "class, stratum, social_class", "llm_concept": "working", "relation": "adjective", "annotation": "correct"}
+{"concept": "set", "llm_concept": "uniform", "relation": "adjective", "annotation": "correct"}
+{"concept": "fellow_member, member", "llm_concept": "associate", "relation": "adjective", "annotation": "correct"}
+{"concept": "proprietor, owner", "llm_concept": "sole", "relation": "adjective", "annotation": "correct"}
+{"concept": "gram, g, gramme", "llm_concept": "petty", "relation": "adjective", "annotation": "correct"}
+{"concept": "cable, transmission_line, line", "llm_concept": "overhead", "relation": "adjective", "annotation": "correct"}
+{"concept": "dinner, supper, evening_meal", "llm_concept": "hearty", "relation": "adjective", "annotation": "correct"}
+{"concept": "breath", "llm_concept": "peaceful", "relation": "adjective", "annotation": "correct"}
+{"concept": "fish", "llm_concept": "edible", "relation": "adjective", "annotation": "correct"}
+{"concept": "kind, variety, sort", "llm_concept": "separate", "relation": "adjective", "annotation": "correct"}
+{"concept": "elite_group, elite", "llm_concept": "prestigious", "relation": "adjective", "annotation": "correct"}
+{"concept": "pes, foot, human_foot", "llm_concept": "left", "relation": "adjective", "annotation": "correct"}
+{"concept": "behaviour, conduct, behavior", "llm_concept": "social", "relation": "adjective", "annotation": "correct"}
+{"concept": "injury, accidental_injury", "llm_concept": "avoidable", "relation": "adjective", "annotation": "correct"}
+{"concept": "blood_brother, brother", "llm_concept": "intimate", "relation": "adjective", "annotation": "correct"}
+{"concept": "luggage, baggage", "llm_concept": "excess", "relation": "adjective", "annotation": "correct"}
+{"concept": "morality", "llm_concept": "relative", "relation": "adjective", "annotation": "correct"}
+{"concept": "planning", "llm_concept": "short", "relation": "adjective", "annotation": "correct"}
+{"concept": "senate", "llm_concept": "legislative", "relation": "adjective", "annotation": "correct"}
+{"concept": "computing, calculation, computation", "llm_concept": "algorithmic", "relation": "adjective", "annotation": "correct"}
+{"concept": "illation, inference", "llm_concept": "coherent", "relation": "adjective", "annotation": "correct"}
+{"concept": "cloud", "llm_concept": "stratocumulus", "relation": "adjective", "annotation": "correct"}
+{"concept": "interrelationship, interrelatedness, interrelation", "llm_concept": "tie", "relation": "adjective", "annotation": "correct"}
+{"concept": "garden", "llm_concept": "plant", "relation": "adjective", "annotation": "correct"}
+{"concept": "bank", "llm_concept": "withdraw", "relation": "verb", "annotation": "correct"}
+{"concept": "deduction, entailment, implication", "llm_concept": "infer", "relation": "verb", "annotation": "correct"}
+{"concept": "sheet_of_paper, piece_of_paper, sheet", "llm_concept": "handle", "relation": "verb", "annotation": "correct"}
+{"concept": "valuation, evaluation, rating", "llm_concept": "estimate", "relation": "verb", "annotation": "correct"}
+{"concept": "celebrity, renown, fame", "llm_concept": "secure", "relation": "verb", "annotation": "correct"}
+{"concept": "result, outcome, resultant", "llm_concept": "culminate", "relation": "verb", "annotation": "correct"}
+{"concept": "cogent_evidence, proof", "llm_concept": "provide", "relation": "verb", "annotation": "correct"}
+{"concept": "dollar, dollar_bill, buck", "llm_concept": "budget", "relation": "verb", "annotation": "correct"}
+{"concept": "evil, wickedness, iniquity", "llm_concept": "condone", "relation": "verb", "annotation": "correct"}
+{"concept": "state, province", "llm_concept": "merge", "relation": "verb", "annotation": "correct"}
+{"concept": "beauty", "llm_concept": "exhibit", "relation": "verb", "annotation": "correct"}
+{"concept": "rising, insurrection, rebellion", "llm_concept": "challenge", "relation": "verb", "annotation": "correct"}
+{"concept": "deviation, divergence, departure", "llm_concept": "drift", "relation": "verb", "annotation": "correct"}
+{"concept": "capacity", "llm_concept": "fill", "relation": "verb", "annotation": "correct"}
+{"concept": "measure, step", "llm_concept": "gauge", "relation": "verb", "annotation": "correct"}
+{"concept": "consciousness", "llm_concept": "apprehend", "relation": "verb", "annotation": "correct"}
+{"concept": "shape, form, configuration", "llm_concept": "configure", "relation": "verb", "annotation": "correct"}
+{"concept": "welfare, benefit", "llm_concept": "entitle", "relation": "verb", "annotation": "correct"}
+{"concept": "patient", "llm_concept": "recover", "relation": "verb", "annotation": "correct"}
+{"concept": "garden", "llm_concept": "nurture", "relation": "verb", "annotation": "correct"}
+{"concept": "stage, phase", "llm_concept": "culminate", "relation": "verb", "annotation": "correct"}
+{"concept": "booking, engagement, reservation", "llm_concept": "allocate", "relation": "verb", "annotation": "correct"}
+{"concept": "millimetre, millimeter, mm", "llm_concept": "calculate", "relation": "verb", "annotation": "correct"}
+{"concept": "opinion, supposition, belief", "llm_concept": "hold", "relation": "verb", "annotation": "correct"}
+{"concept": "background, ground", "llm_concept": "found", "relation": "verb", "annotation": "incorrect"}
+{"concept": "decrease, lessening, drop-off", "llm_concept": "drop", "relation": "verb", "annotation": "correct"}
+{"concept": "flying, flight", "llm_concept": "ascend", "relation": "verb", "annotation": "correct"}
+{"concept": "theology, divinity", "llm_concept": "contemplate", "relation": "verb", "annotation": "correct"}
+{"concept": "machine, device", "llm_concept": "manufacture", "relation": "verb", "annotation": "correct"}
+{"concept": "january, jan", "llm_concept": "anticipate", "relation": "verb", "annotation": "incorrect"}
+{"concept": "belly, venter, abdomen", "llm_concept": "ache", "relation": "verb", "annotation": "correct"}
+{"concept": "saddle", "llm_concept": "wear", "relation": "verb", "annotation": "correct"}
+{"concept": "pes, foot, human_foot", "llm_concept": "stand", "relation": "verb", "annotation": "correct"}
+{"concept": "jock, sportsperson, athlete", "llm_concept": "practice", "relation": "verb", "annotation": "correct"}
+{"concept": "window, sill, window_ledge", "llm_concept": "rest", "relation": "verb", "annotation": "correct"}
+{"concept": "oil", "llm_concept": "transport", "relation": "verb", "annotation": "correct"}
+{"concept": "deviation, divergence, departure", "llm_concept": "diverge", "relation": "verb", "annotation": "correct"}
+{"concept": "reply, response, answer", "llm_concept": "respond", "relation": "verb", "annotation": "correct"}
+{"concept": "function, mapping, map", "llm_concept": "chart", "relation": "verb", "annotation": "correct"}
+{"concept": "dreaming, dream", "llm_concept": "picture", "relation": "verb", "annotation": "correct"}
+{"concept": "direction", "llm_concept": "point", "relation": "verb", "annotation": "correct"}
+{"concept": "enjoyment, delight, delectation", "llm_concept": "revel", "relation": "verb", "annotation": "correct"}
+{"concept": "fellow_feeling, sympathy", "llm_concept": "console", "relation": "verb", "annotation": "correct"}
+{"concept": "road_traffic, traffic, priority", "llm_concept": "manage", "relation": "verb", "annotation": "correct"}
+{"concept": "form, phase", "llm_concept": "organize", "relation": "verb", "annotation": "correct"}
+{"concept": "blood_brother, brother", "llm_concept": "unite", "relation": "verb", "annotation": "correct"}
+{"concept": "fencing, hikke, fence", "llm_concept": "enclose", "relation": "verb", "annotation": "correct"}
+{"concept": "modus_operandi, routine", "llm_concept": "conduct", "relation": "verb", "annotation": "correct"}
+{"concept": "field, playing_field, pitch", "llm_concept": "compete", "relation": "verb", "annotation": "correct"}
+{"concept": "pace, stride, footstep", "llm_concept": "pace", "relation": "verb", "annotation": "correct"}
+{"concept": "vessel, vas", "llm_concept": "load", "relation": "verb", "annotation": "correct"}
+{"concept": "attack, onset, onslaught", "llm_concept": "pounce", "relation": "verb", "annotation": "correct"}
+{"concept": "reply, response, answer", "llm_concept": "rejoin", "relation": "verb", "annotation": "correct"}
+{"concept": "wood, alburnum, sap-wood", "llm_concept": "refine", "relation": "verb", "annotation": "correct"}
+{"concept": "breath", "llm_concept": "gulp", "relation": "verb", "annotation": "correct"}
+{"concept": "accreditation", "llm_concept": "achieve", "relation": "verb", "annotation": "correct"}
+{"concept": "exigency, emergency, pinch", "llm_concept": "face", "relation": "verb", "annotation": "correct"}
+{"concept": "slaying, murder, execution", "llm_concept": "assassinate", "relation": "verb", "annotation": "correct"}
+{"concept": "sport, track_and_field, athletics", "llm_concept": "jump", "relation": "verb", "annotation": "correct"}
+{"concept": "summer_season, summer, summertime", "llm_concept": "barbecue", "relation": "verb", "annotation": "correct"}
+{"concept": "disbursement, disbursal, expense", "llm_concept": "release", "relation": "verb", "annotation": "correct"}
+{"concept": "fright, fear, fearfulness", "llm_concept": "unnerve", "relation": "verb", "annotation": "correct"}
+{"concept": "event, case", "llm_concept": "occur", "relation": "verb", "annotation": "correct"}
+{"concept": "horizon, purview, view", "llm_concept": "scan", "relation": "verb", "annotation": "correct"}
+{"concept": "thinking, thought, intellection", "llm_concept": "evaluate", "relation": "verb", "annotation": "correct"}
+{"concept": "camping, tenting, encampment", "llm_concept": "reside", "relation": "verb", "annotation": "correct"}
+{"concept": "surprise", "llm_concept": "jolt", "relation": "verb", "annotation": "correct"}
+{"concept": "divorce, divorcement", "llm_concept": "petition", "relation": "verb", "annotation": "correct"}
+{"concept": "smoke, fume", "llm_concept": "clear", "relation": "verb", "annotation": "incorrect"}
+{"concept": "patch, spot, speckle", "llm_concept": "dapple", "relation": "verb", "annotation": "correct"}
+{"concept": "dawn, sunup, morning", "llm_concept": "emerge", "relation": "verb", "annotation": "correct"}
+{"concept": "audio_engineering, engineering, technology", "llm_concept": "design", "relation": "verb", "annotation": "correct"}
+{"concept": "back, rear", "llm_concept": "reverse", "relation": "verb", "annotation": "correct"}
+{"concept": "scientist", "llm_concept": "record", "relation": "verb", "annotation": "correct"}
+{"concept": "spiral", "llm_concept": "curl", "relation": "verb", "annotation": "correct"}
+{"concept": "use, utilisation, employment", "llm_concept": "utilize", "relation": "verb", "annotation": "correct"}
+{"concept": "sudor, perspiration, sweat", "llm_concept": "stream", "relation": "verb", "annotation": "incorrect"}
+{"concept": "dreaming, dream", "llm_concept": "wish", "relation": "verb", "annotation": "correct"}
+{"concept": "demand", "llm_concept": "boost", "relation": "verb", "annotation": "correct"}
+{"concept": "banker", "llm_concept": "predict", "relation": "verb", "annotation": "correct"}
+{"concept": "hero", "llm_concept": "overcome", "relation": "verb", "annotation": "correct"}
+{"concept": "bit, flake, chip", "llm_concept": "split", "relation": "verb", "annotation": "incorrect"}
+{"concept": "tumor, neoplasm, tumour", "llm_concept": "study", "relation": "verb", "annotation": "correct"}
+{"concept": "history", "llm_concept": "analyze", "relation": "verb", "annotation": "correct"}
+{"concept": "tail", "llm_concept": "follow", "relation": "verb", "annotation": "correct"}
+{"concept": "acquisition", "llm_concept": "gain", "relation": "verb", "annotation": "correct"}
+{"concept": "swiftness, fastness, speed", "llm_concept": "rush", "relation": "verb", "annotation": "correct"}
+{"concept": "consideration", "llm_concept": "ponder", "relation": "verb", "annotation": "correct"}
+{"concept": "nation, state, country", "llm_concept": "divide", "relation": "verb", "annotation": "correct"}
+{"concept": "trouble, discomfort", "llm_concept": "hurt", "relation": "verb", "annotation": "correct"}
+{"concept": "january, jan", "llm_concept": "organize", "relation": "verb", "annotation": "correct"}
+{"concept": "designation, identification", "llm_concept": "categorize", "relation": "verb", "annotation": "correct"}
+{"concept": "rifle, youth_rifle, bud\u00e9", "llm_concept": "target", "relation": "verb", "annotation": "correct"}
+{"concept": "opinion, supposition, belief", "llm_concept": "assert", "relation": "verb", "annotation": "correct"}
+{"concept": "surprise", "llm_concept": "astonish", "relation": "verb", "annotation": "correct"}
+{"concept": "reading", "llm_concept": "interpret", "relation": "verb", "annotation": "correct"}
+{"concept": "fee", "llm_concept": "quote", "relation": "verb", "annotation": "correct"}
+{"concept": "skamya, bench", "llm_concept": "perch", "relation": "verb", "annotation": "correct"}
+{"concept": "physician, medico, doctor", "llm_concept": "cure", "relation": "verb", "annotation": "correct"}
+{"concept": "capitol_records, recognition, identification", "llm_concept": "acknowledge", "relation": "verb", "annotation": "correct"}
+{"concept": "camping, tenting, encampment", "llm_concept": "unpack", "relation": "verb", "annotation": "correct"}
+{"concept": "goodness, good", "llm_concept": "respect", "relation": "verb", "annotation": "correct"}
+{"concept": "engine, motor", "llm_concept": "overhaul", "relation": "verb", "annotation": "correct"}
+{"concept": "custom, tradition, heritage", "llm_concept": "inherit", "relation": "verb", "annotation": "correct"}
+{"concept": "visible_light, light, visible_radiation", "llm_concept": "perceive", "relation": "verb", "annotation": "correct"}
+{"concept": "rent", "llm_concept": "use", "relation": "verb", "annotation": "correct"}
+{"concept": "course_of_study, programme, curriculum", "llm_concept": "implement", "relation": "verb", "annotation": "correct"}
+{"concept": "respect, regard", "llm_concept": "revere", "relation": "verb", "annotation": "correct"}
+{"concept": "church, christian_church", "llm_concept": "baptize", "relation": "verb", "annotation": "correct"}
+{"concept": "academy, school, university", "llm_concept": "attend", "relation": "verb", "annotation": "correct"}
+{"concept": "stopping_point, finis, conclusion", "llm_concept": "conclude", "relation": "verb", "annotation": "correct"}
+{"concept": "camera, photographic_camera, still_camera", "llm_concept": "focus", "relation": "verb", "annotation": "correct"}
+{"concept": "trouble, worry", "llm_concept": "bother", "relation": "verb", "annotation": "correct"}
+{"concept": "spiral", "llm_concept": "turn", "relation": "verb", "annotation": "correct"}
+{"concept": "wireless, radio, radiocommunication", "llm_concept": "license", "relation": "verb", "annotation": "incorrect"}
+{"concept": "right, rights", "llm_concept": "deny", "relation": "verb", "annotation": "correct"}
+{"concept": "assuagement, alleviation, relief", "llm_concept": "console", "relation": "verb", "annotation": "correct"}
+{"concept": "malaise, unease, uneasiness", "llm_concept": "experience", "relation": "verb", "annotation": "correct"}
+{"concept": "era, epoch, period", "llm_concept": "span", "relation": "verb", "annotation": "correct"}
+{"concept": "people, hoi_polloi, multitude", "llm_concept": "congregate", "relation": "verb", "annotation": "correct"}
+{"concept": "segment, line_segment, section", "llm_concept": "join", "relation": "verb", "annotation": "correct"}
+{"concept": "architect, designer", "llm_concept": "draft", "relation": "verb", "annotation": "correct"}
+{"concept": "connectedness, link, connection", "llm_concept": "merge", "relation": "verb", "annotation": "correct"}
+{"concept": "leadership, leaders", "llm_concept": "coordinate", "relation": "verb", "annotation": "correct"}
+{"concept": "premise, premiss, assumption", "llm_concept": "depend", "relation": "verb", "annotation": "correct"}
+{"concept": "call, telephone_call, phone_call", "llm_concept": "dial", "relation": "verb", "annotation": "correct"}
+{"concept": "tail", "llm_concept": "fluff", "relation": "verb", "annotation": "correct"}
+{"concept": "law, natural_law", "llm_concept": "govern", "relation": "verb", "annotation": "correct"}
+{"concept": "textile, fabric, cloth", "llm_concept": "hem", "relation": "verb", "annotation": "correct"}
+{"concept": "film, movie, motion_picture", "llm_concept": "edit", "relation": "verb", "annotation": "correct"}
+{"concept": "proprietor, owner", "llm_concept": "posse", "relation": "verb", "annotation": "correct"}
+{"concept": "plane, aeroplane, airplane", "llm_concept": "pilot", "relation": "verb", "annotation": "correct"}
+{"concept": "function, mapping, map", "llm_concept": "relate", "relation": "verb", "annotation": "correct"}
+{"concept": "public_presentation, concert, performance", "llm_concept": "entertain", "relation": "verb", "annotation": "correct"}
+{"concept": "set, band, lot", "llm_concept": "gather", "relation": "verb", "annotation": "correct"}
+{"concept": "marketplace, market_place, market", "llm_concept": "compare", "relation": "verb", "annotation": "correct"}
+{"concept": "moral_sense, sense_of_right_and_wrong, conscience", "llm_concept": "decide", "relation": "verb", "annotation": "correct"}
+{"concept": "mass", "llm_concept": "contain", "relation": "verb", "annotation": "correct"}
+{"concept": "proper_noun, name, proper_name", "llm_concept": "entitle", "relation": "verb", "annotation": "correct"}
+{"concept": "adult_male, man, male", "llm_concept": "lead", "relation": "verb", "annotation": "correct"}
+{"concept": "climate, mood", "llm_concept": "impact", "relation": "verb", "annotation": "correct"}
+{"concept": "police_force, constabulary, police", "llm_concept": "monitor", "relation": "verb", "annotation": "correct"}
+{"concept": "balance", "llm_concept": "harmonize", "relation": "verb", "annotation": "correct"}
+{"concept": "gang, mob, pack", "llm_concept": "roundup", "relation": "verb", "annotation": "correct"}
+{"concept": "painfulness, pain", "llm_concept": "hurt", "relation": "verb", "annotation": "correct"}
+{"concept": "author, writer", "llm_concept": "produce", "relation": "verb", "annotation": "correct"}
+{"concept": "composer", "llm_concept": "orchestrate", "relation": "verb", "annotation": "correct"}
+{"concept": "script, writing, orthography", "llm_concept": "type", "relation": "verb", "annotation": "correct"}
+{"concept": "viewer, spectator, watcher", "llm_concept": "glance", "relation": "verb", "annotation": "correct"}
+{"concept": "form, shape", "llm_concept": "design", "relation": "verb", "annotation": "correct"}
+{"concept": "feature, characteristic", "llm_concept": "portray", "relation": "verb", "annotation": "correct"}
+{"concept": "forbearance, longanimity, patience", "llm_concept": "suffer", "relation": "verb", "annotation": "correct"}
+{"concept": "saddle", "llm_concept": "loosen", "relation": "verb", "annotation": "correct"}
+{"concept": "presentation, presentment, demonstration", "llm_concept": "highlight", "relation": "verb", "annotation": "correct"}
+{"concept": "problem, trouble", "llm_concept": "run", "relation": "verb", "annotation": "correct"}
+{"concept": "seaport, harbor, haven", "llm_concept": "load", "relation": "verb", "annotation": "correct"}
+{"concept": "lesson, object_lesson, example", "llm_concept": "cite", "relation": "verb", "annotation": "correct"}
+{"concept": "procedure, process", "llm_concept": "evaluate", "relation": "verb", "annotation": "correct"}
+{"concept": "figure, fig", "llm_concept": "embody", "relation": "verb", "annotation": "correct"}
+{"concept": "couch, sofa, lounge", "llm_concept": "slouch", "relation": "verb", "annotation": "correct"}
+{"concept": "linguistic_communication, human_language, language", "llm_concept": "convey", "relation": "verb", "annotation": "correct"}
+{"concept": "desk", "llm_concept": "clear", "relation": "verb", "annotation": "correct"}
+{"concept": "wretchedness, miserableness, misery", "llm_concept": "experience", "relation": "verb", "annotation": "correct"}
+{"concept": "tip", "llm_concept": "provide", "relation": "verb", "annotation": "correct"}
+{"concept": "comparison", "llm_concept": "match", "relation": "verb", "annotation": "correct"}
+{"concept": "segment, line_segment, section", "llm_concept": "bisect", "relation": "verb", "annotation": "correct"}
