@@ -1,4 +1,4 @@
-# Expanding Horizons or Hitting Walls? The Potential and Limitations of LLMs for Augmenting Lexical Knowledge Bases
+# Potential and Limitations of LLMs for Augmenting Lexical Knowledge Bases
 
 ## Introduction
 
