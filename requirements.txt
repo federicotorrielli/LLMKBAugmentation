@@ -4,5 +4,9 @@ bitsandbytes
 ujson
 tqdm
 requests
---extra-index-url https://flashinfer.ai/whl/cu121/torch2.3
-flashinfer
+pandas
+matplotlib
+seaborn
+scikit-learn
+numpy
+scipy
