@@ -1,0 +1,2002 @@
+[
+  {
+    "content": "Is pen used for doodling?",
+    "description": "ConceptNet | UsedFor | source: pen | generated: doodling"
+  },
+  {
+    "content": "Is bent related to hoop snake?",
+    "description": "ConceptNet | RelatedTo | source: hoop snake | generated: bent"
+  },
+  {
+    "content": "Is Georgia related to thomasville?",
+    "description": "ConceptNet | RelatedTo | source: thomasville | generated: Georgia"
+  },
+  {
+    "content": "Is Diplomacy related to nobel prize?",
+    "description": "ConceptNet | RelatedTo | source: nobel prize | generated: Diplomacy"
+  },
+  {
+    "content": "Is song used for storytelling?",
+    "description": "ConceptNet | UsedFor | source: song | generated: storytelling"
+  },
+  {
+    "content": "Is Ptolemaic dynasty related to alexandrianism?",
+    "description": "ConceptNet | RelatedTo | source: alexandrianism | generated: Ptolemaic dynasty"
+  },
+  {
+    "content": "Is fertilization related to ejaculate?",
+    "description": "ConceptNet | RelatedTo | source: ejaculate | generated: fertilization"
+  },
+  {
+    "content": "Is Character development related to problem play?",
+    "description": "ConceptNet | RelatedTo | source: problem play | generated: Character development"
+  },
+  {
+    "content": "Is protection related to lacquer?",
+    "description": "ConceptNet | RelatedTo | source: lacquer | generated: protection"
+  },
+  {
+    "content": "Is tenacity related to no matter what?",
+    "description": "ConceptNet | RelatedTo | source: no matter what | generated: tenacity"
+  },
+  {
+    "content": "Is gymnasium used for exercise equipment?",
+    "description": "ConceptNet | UsedFor | source: gymnasium | generated: exercise equipment"
+  },
+  {
+    "content": "Is bbq used for outdoor gatherings?",
+    "description": "ConceptNet | UsedFor | source: bbq | generated: outdoor gatherings"
+  },
+  {
+    "content": "Is distinguish related to outstand?",
+    "description": "ConceptNet | RelatedTo | source: outstand | generated: distinguish"
+  },
+  {
+    "content": "Is historical related to statue?",
+    "description": "ConceptNet | RelatedTo | source: statue | generated: historical"
+  },
+  {
+    "content": "Is highway used for traffic management?",
+    "description": "ConceptNet | UsedFor | source: highway | generated: traffic management"
+  },
+  {
+    "content": "Is fashion related to belton?",
+    "description": "ConceptNet | RelatedTo | source: belton | generated: fashion"
+  },
+  {
+    "content": "Is cuisine related to imarti?",
+    "description": "ConceptNet | RelatedTo | source: imarti | generated: cuisine"
+  },
+  {
+    "content": "Is brusque related to churlish?",
+    "description": "ConceptNet | RelatedTo | source: churlish | generated: brusque"
+  },
+  {
+    "content": "Is geomagnetism related to georeactor?",
+    "description": "ConceptNet | RelatedTo | source: georeactor | generated: geomagnetism"
+  },
+  {
+    "content": "Is disease prevention related to pleconaril?",
+    "description": "ConceptNet | RelatedTo | source: pleconaril | generated: disease prevention"
+  },
+  {
+    "content": "Is coil used for coil inductors?",
+    "description": "ConceptNet | UsedFor | source: coil | generated: coil inductors"
+  },
+  {
+    "content": "Is aqueduct related to water carrier?",
+    "description": "ConceptNet | RelatedTo | source: water carrier | generated: aqueduct"
+  },
+  {
+    "content": "Is cognition related to comprehend?",
+    "description": "ConceptNet | RelatedTo | source: comprehend | generated: cognition"
+  },
+  {
+    "content": "Is sea used for coastal tourism?",
+    "description": "ConceptNet | UsedFor | source: sea | generated: coastal tourism"
+  },
+  {
+    "content": "Is tablespoon used for mixing beverages?",
+    "description": "ConceptNet | UsedFor | source: tablespoon | generated: mixing beverages"
+  },
+  {
+    "content": "Is skiing related to downhill?",
+    "description": "ConceptNet | RelatedTo | source: downhill | generated: skiing"
+  },
+  {
+    "content": "Is muskogean languages related to coushatta?",
+    "description": "ConceptNet | RelatedTo | source: coushatta | generated: muskogean languages"
+  },
+  {
+    "content": "Is farming related to working terrier?",
+    "description": "ConceptNet | RelatedTo | source: working terrier | generated: farming"
+  },
+  {
+    "content": "Is transparency related to opalescence?",
+    "description": "ConceptNet | RelatedTo | source: opalescence | generated: transparency"
+  },
+  {
+    "content": "Is chess piece used for chess club?",
+    "description": "ConceptNet | UsedFor | source: chess piece | generated: chess club"
+  },
+  {
+    "content": "Is emergency related to fother?",
+    "description": "ConceptNet | RelatedTo | source: fother | generated: emergency"
+  },
+  {
+    "content": "Is dependency related to csa?",
+    "description": "ConceptNet | RelatedTo | source: csa | generated: dependency"
+  },
+  {
+    "content": "Is becoming inebriated used for medicinal purposes?",
+    "description": "ConceptNet | UsedFor | source: becoming inebriated | generated: medicinal purposes"
+  },
+  {
+    "content": "Is churchyard used for gardening?",
+    "description": "ConceptNet | UsedFor | source: churchyard | generated: gardening"
+  },
+  {
+    "content": "Is having conversation used for brainstorming?",
+    "description": "ConceptNet | UsedFor | source: having conversation | generated: brainstorming"
+  },
+  {
+    "content": "Is college used for bachelor's degree?",
+    "description": "ConceptNet | UsedFor | source: college | generated: bachelor's degree"
+  },
+  {
+    "content": "Is protection related to surround?",
+    "description": "ConceptNet | RelatedTo | source: surround | generated: protection"
+  },
+  {
+    "content": "Is engineering related to dome?",
+    "description": "ConceptNet | RelatedTo | source: dome | generated: engineering"
+  },
+  {
+    "content": "Is grapes related to fuchsia?",
+    "description": "ConceptNet | RelatedTo | source: fuchsia | generated: grapes"
+  },
+  {
+    "content": "Is music related to bloomington?",
+    "description": "ConceptNet | RelatedTo | source: bloomington | generated: music"
+  },
+  {
+    "content": "Is locker room used for showering?",
+    "description": "ConceptNet | UsedFor | source: locker room | generated: showering"
+  },
+  {
+    "content": "Is fireplace used for providing ambiance?",
+    "description": "ConceptNet | UsedFor | source: fireplace | generated: providing ambiance"
+  },
+  {
+    "content": "Is sulfur related to trattnerite?",
+    "description": "ConceptNet | RelatedTo | source: trattnerite | generated: sulfur"
+  },
+  {
+    "content": "Is president used for running for office?",
+    "description": "ConceptNet | UsedFor | source: president | generated: running for office"
+  },
+  {
+    "content": "Is launching platform used for project initiation?",
+    "description": "ConceptNet | UsedFor | source: launching platform | generated: project initiation"
+  },
+  {
+    "content": "Is reading letter used for decoding messages?",
+    "description": "ConceptNet | UsedFor | source: reading letter | generated: decoding messages"
+  },
+  {
+    "content": "Is verification related to audit?",
+    "description": "ConceptNet | RelatedTo | source: audit | generated: verification"
+  },
+  {
+    "content": "Is cash used for funding personal projects?",
+    "description": "ConceptNet | UsedFor | source: cash | generated: funding personal projects"
+  },
+  {
+    "content": "Is finding truth used for historical analysis?",
+    "description": "ConceptNet | UsedFor | source: finding truth | generated: historical analysis"
+  },
+  {
+    "content": "Is inflammation related to macrophage?",
+    "description": "ConceptNet | RelatedTo | source: macrophage | generated: inflammation"
+  },
+  {
+    "content": "Is distribution related to outlier?",
+    "description": "ConceptNet | RelatedTo | source: outlier | generated: distribution"
+  },
+  {
+    "content": "Is token used for access control?",
+    "description": "ConceptNet | UsedFor | source: token | generated: access control"
+  },
+  {
+    "content": "Is enjoying company of friends used for laughing?",
+    "description": "ConceptNet | UsedFor | source: enjoying company of friends | generated: laughing"
+  },
+  {
+    "content": "Is Islam related to mahdi?",
+    "description": "ConceptNet | RelatedTo | source: mahdi | generated: Islam"
+  },
+  {
+    "content": "Is going for haircut used for preparing for a job interview?",
+    "description": "ConceptNet | UsedFor | source: going for haircut | generated: preparing for a job interview"
+  },
+  {
+    "content": "Is theater hall used for presenting dance recitals?",
+    "description": "ConceptNet | UsedFor | source: theater hall | generated: presenting dance recitals"
+  },
+  {
+    "content": "Is ploughing related to oxgang?",
+    "description": "ConceptNet | RelatedTo | source: oxgang | generated: ploughing"
+  },
+  {
+    "content": "Is credit card used for shopping in retail stores?",
+    "description": "ConceptNet | UsedFor | source: credit card | generated: shopping in retail stores"
+  },
+  {
+    "content": "Is hardware store used for shopping for paint and painting supplies?",
+    "description": "ConceptNet | UsedFor | source: hardware store | generated: shopping for paint and painting supplies"
+  },
+  {
+    "content": "Is window used for security barrier?",
+    "description": "ConceptNet | UsedFor | source: window | generated: security barrier"
+  },
+  {
+    "content": "Is debit card used for withdrawing cash?",
+    "description": "ConceptNet | UsedFor | source: debit card | generated: withdrawing cash"
+  },
+  {
+    "content": "Is tenant related to rentier?",
+    "description": "ConceptNet | RelatedTo | source: rentier | generated: tenant"
+  },
+  {
+    "content": "Is step relationship related to ex stepfather?",
+    "description": "ConceptNet | RelatedTo | source: ex stepfather | generated: step relationship"
+  },
+  {
+    "content": "Is plate used for decorating with?",
+    "description": "ConceptNet | UsedFor | source: plate | generated: decorating with"
+  },
+  {
+    "content": "Is quintuplet related to fifth?",
+    "description": "ConceptNet | RelatedTo | source: fifth | generated: quintuplet"
+  },
+  {
+    "content": "Is comfort related to huggle?",
+    "description": "ConceptNet | RelatedTo | source: huggle | generated: comfort"
+  },
+  {
+    "content": "Is nucleus related to cell?",
+    "description": "ConceptNet | RelatedTo | source: cell | generated: nucleus"
+  },
+  {
+    "content": "Is Field related to primitive polynomial?",
+    "description": "ConceptNet | RelatedTo | source: primitive polynomial | generated: Field"
+  },
+  {
+    "content": "Is time-stamped events related to episodic memory?",
+    "description": "ConceptNet | RelatedTo | source: episodic memory | generated: time-stamped events"
+  },
+  {
+    "content": "Is penetrate related to get in?",
+    "description": "ConceptNet | RelatedTo | source: get in | generated: penetrate"
+  },
+  {
+    "content": "Is seat used for sitting?",
+    "description": "ConceptNet | UsedFor | source: seat | generated: sitting"
+  },
+  {
+    "content": "Is aerial bomb used for [  \"military operations?",
+    "description": "ConceptNet | UsedFor | source: aerial bomb | generated: [  \"military operations"
+  },
+  {
+    "content": "Is heart used for heart rate?",
+    "description": "ConceptNet | UsedFor | source: heart | generated: heart rate"
+  },
+  {
+    "content": "Is environment related to surround?",
+    "description": "ConceptNet | RelatedTo | source: surround | generated: environment"
+  },
+  {
+    "content": "Is fuzzy related to peach?",
+    "description": "ConceptNet | RelatedTo | source: peach | generated: fuzzy"
+  },
+  {
+    "content": "Is ancestors related to lares and penates?",
+    "description": "ConceptNet | RelatedTo | source: lares and penates | generated: ancestors"
+  },
+  {
+    "content": "Is waiting tables used for bussing tables?",
+    "description": "ConceptNet | UsedFor | source: waiting tables | generated: bussing tables"
+  },
+  {
+    "content": "Is record library used for genealogical tracking?",
+    "description": "ConceptNet | UsedFor | source: record library | generated: genealogical tracking"
+  },
+  {
+    "content": "Is formation related to clinoholmquistite?",
+    "description": "ConceptNet | RelatedTo | source: clinoholmquistite | generated: formation"
+  },
+  {
+    "content": "Is creating to help other people used for educational tools?",
+    "description": "ConceptNet | UsedFor | source: creating to help other people | generated: educational tools"
+  },
+  {
+    "content": "Is tanning lotion used for outdoor sports?",
+    "description": "ConceptNet | UsedFor | source: tanning lotion | generated: outdoor sports"
+  },
+  {
+    "content": "Is releasing energy used for heating homes?",
+    "description": "ConceptNet | UsedFor | source: releasing energy | generated: heating homes"
+  },
+  {
+    "content": "Is fun related to charades?",
+    "description": "ConceptNet | RelatedTo | source: charades | generated: fun"
+  },
+  {
+    "content": "Is crowd related to nightclub?",
+    "description": "ConceptNet | RelatedTo | source: nightclub | generated: crowd"
+  },
+  {
+    "content": "Is module related to direct product?",
+    "description": "ConceptNet | RelatedTo | source: direct product | generated: module"
+  },
+  {
+    "content": "Is construction related to infrastructure?",
+    "description": "ConceptNet | RelatedTo | source: infrastructure | generated: construction"
+  },
+  {
+    "content": "Is seeing movie used for entertainment?",
+    "description": "ConceptNet | UsedFor | source: seeing movie | generated: entertainment"
+  },
+  {
+    "content": "Is eating used for sustenance?",
+    "description": "ConceptNet | UsedFor | source: eating | generated: sustenance"
+  },
+  {
+    "content": "Is advancing into battle used for combat initiation?",
+    "description": "ConceptNet | UsedFor | source: advancing into battle | generated: combat initiation"
+  },
+  {
+    "content": "Is watching evening news used for following current events?",
+    "description": "ConceptNet | UsedFor | source: watching evening news | generated: following current events"
+  },
+  {
+    "content": "Is john used for name in a psychological experiment?",
+    "description": "ConceptNet | UsedFor | source: john | generated: name in a psychological experiment"
+  },
+  {
+    "content": "Is anecdote related to shaggy dog story?",
+    "description": "ConceptNet | RelatedTo | source: shaggy dog story | generated: anecdote"
+  },
+  {
+    "content": "Is particle related to physic?",
+    "description": "ConceptNet | RelatedTo | source: physic | generated: particle"
+  },
+  {
+    "content": "Is mystic related to summon?",
+    "description": "ConceptNet | RelatedTo | source: summon | generated: mystic"
+  },
+  {
+    "content": "Is hydrogen gas related to haber process?",
+    "description": "ConceptNet | RelatedTo | source: haber process | generated: hydrogen gas"
+  },
+  {
+    "content": "Is open range related to cattle drive?",
+    "description": "ConceptNet | RelatedTo | source: cattle drive | generated: open range"
+  },
+  {
+    "content": "Is efficient related to orderly?",
+    "description": "ConceptNet | RelatedTo | source: orderly | generated: efficient"
+  },
+  {
+    "content": "Is fraud related to bust out?",
+    "description": "ConceptNet | RelatedTo | source: bust out | generated: fraud"
+  },
+  {
+    "content": "Is quantization related to symplectic?",
+    "description": "ConceptNet | RelatedTo | source: symplectic | generated: quantization"
+  },
+  {
+    "content": "Is universality related to absoluteness?",
+    "description": "ConceptNet | RelatedTo | source: absoluteness | generated: universality"
+  },
+  {
+    "content": "Is track used for sports event?",
+    "description": "ConceptNet | UsedFor | source: track | generated: sports event"
+  },
+  {
+    "content": "Is writing poem used for expressing emotions?",
+    "description": "ConceptNet | UsedFor | source: writing poem | generated: expressing emotions"
+  },
+  {
+    "content": "Is classroom related to schooling?",
+    "description": "ConceptNet | RelatedTo | source: schooling | generated: classroom"
+  },
+  {
+    "content": "Is air conditioner used for protecting electronics from heat?",
+    "description": "ConceptNet | UsedFor | source: air conditioner | generated: protecting electronics from heat"
+  },
+  {
+    "content": "Is stone used for doorstep?",
+    "description": "ConceptNet | UsedFor | source: stone | generated: doorstep"
+  },
+  {
+    "content": "Is hair roller used for [  \"creating curls?",
+    "description": "ConceptNet | UsedFor | source: hair roller | generated: [  \"creating curls"
+  },
+  {
+    "content": "Is graveyard used for haunted locations?",
+    "description": "ConceptNet | UsedFor | source: graveyard | generated: haunted locations"
+  },
+  {
+    "content": "Is school cafeteria used for offering variety?",
+    "description": "ConceptNet | UsedFor | source: school cafeteria | generated: offering variety"
+  },
+  {
+    "content": "Is civility related to etiquette?",
+    "description": "ConceptNet | RelatedTo | source: etiquette | generated: civility"
+  },
+  {
+    "content": "Is king used for crown?",
+    "description": "ConceptNet | UsedFor | source: king | generated: crown"
+  },
+  {
+    "content": "Is should related to would?",
+    "description": "ConceptNet | RelatedTo | source: would | generated: should"
+  },
+  {
+    "content": "Is pebble used for using in water features?",
+    "description": "ConceptNet | UsedFor | source: pebble | generated: using in water features"
+  },
+  {
+    "content": "Is festival related to occasion?",
+    "description": "ConceptNet | RelatedTo | source: occasion | generated: festival"
+  },
+  {
+    "content": "Is investment related to ic?",
+    "description": "ConceptNet | RelatedTo | source: ic | generated: investment"
+  },
+  {
+    "content": "Is complaint related to malcontent?",
+    "description": "ConceptNet | RelatedTo | source: malcontent | generated: complaint"
+  },
+  {
+    "content": "Is complex analysis related to riemann sphere?",
+    "description": "ConceptNet | RelatedTo | source: riemann sphere | generated: complex analysis"
+  },
+  {
+    "content": "Is bucket used for paint mixing?",
+    "description": "ConceptNet | UsedFor | source: bucket | generated: paint mixing"
+  },
+  {
+    "content": "Is stage name related to allonym?",
+    "description": "ConceptNet | RelatedTo | source: allonym | generated: stage name"
+  },
+  {
+    "content": "Is hotel room used for visiting a city?",
+    "description": "ConceptNet | UsedFor | source: hotel room | generated: visiting a city"
+  },
+  {
+    "content": "Is harsh related to unkind?",
+    "description": "ConceptNet | RelatedTo | source: unkind | generated: harsh"
+  },
+  {
+    "content": "Is nurse related to swabber?",
+    "description": "ConceptNet | RelatedTo | source: swabber | generated: nurse"
+  },
+  {
+    "content": "Is soul used for eternal life?",
+    "description": "ConceptNet | UsedFor | source: soul | generated: eternal life"
+  },
+  {
+    "content": "Is bird related to northern cardinal?",
+    "description": "ConceptNet | RelatedTo | source: northern cardinal | generated: bird"
+  },
+  {
+    "content": "Is plug related to clog?",
+    "description": "ConceptNet | RelatedTo | source: clog | generated: plug"
+  },
+  {
+    "content": "Is hairdressing salon used for [  \"styling hair?",
+    "description": "ConceptNet | UsedFor | source: hairdressing salon | generated: [  \"styling hair"
+  },
+  {
+    "content": "Is stick of butter used for creating frosting?",
+    "description": "ConceptNet | UsedFor | source: stick of butter | generated: creating frosting"
+  },
+  {
+    "content": "Is months related to calendar?",
+    "description": "ConceptNet | RelatedTo | source: calendar | generated: months"
+  },
+  {
+    "content": "Is node related to cladogram?",
+    "description": "ConceptNet | RelatedTo | source: cladogram | generated: node"
+  },
+  {
+    "content": "Is crystallography related to orthorhombic?",
+    "description": "ConceptNet | RelatedTo | source: orthorhombic | generated: crystallography"
+  },
+  {
+    "content": "Is electricity related to attery?",
+    "description": "ConceptNet | RelatedTo | source: attery | generated: electricity"
+  },
+  {
+    "content": "Is criminal related to miscreant?",
+    "description": "ConceptNet | RelatedTo | source: miscreant | generated: criminal"
+  },
+  {
+    "content": "Is hearing singing used for meditation?",
+    "description": "ConceptNet | UsedFor | source: hearing singing | generated: meditation"
+  },
+  {
+    "content": "Is piccolo used for flute duets?",
+    "description": "ConceptNet | UsedFor | source: piccolo | generated: flute duets"
+  },
+  {
+    "content": "Is keeping things orderly and tidy used for maintaining digital files?",
+    "description": "ConceptNet | UsedFor | source: keeping things orderly and tidy | generated: maintaining digital files"
+  },
+  {
+    "content": "Is punctuality related to delay?",
+    "description": "ConceptNet | RelatedTo | source: delay | generated: punctuality"
+  },
+  {
+    "content": "Is yorktown related to york?",
+    "description": "ConceptNet | RelatedTo | source: york | generated: yorktown"
+  },
+  {
+    "content": "Is position related to ordinal number?",
+    "description": "ConceptNet | RelatedTo | source: ordinal number | generated: position"
+  },
+  {
+    "content": "Is gill related to spiracle?",
+    "description": "ConceptNet | RelatedTo | source: spiracle | generated: gill"
+  },
+  {
+    "content": "Is aquatic related to pike?",
+    "description": "ConceptNet | RelatedTo | source: pike | generated: aquatic"
+  },
+  {
+    "content": "Is platform used for social networking?",
+    "description": "ConceptNet | UsedFor | source: platform | generated: social networking"
+  },
+  {
+    "content": "Is Revelation related to mahdi?",
+    "description": "ConceptNet | RelatedTo | source: mahdi | generated: Revelation"
+  },
+  {
+    "content": "Is milky way used for astronomy education?",
+    "description": "ConceptNet | UsedFor | source: milky way | generated: astronomy education"
+  },
+  {
+    "content": "Is wipe related to swabber?",
+    "description": "ConceptNet | RelatedTo | source: swabber | generated: wipe"
+  },
+  {
+    "content": "Is navigation related to first officer?",
+    "description": "ConceptNet | RelatedTo | source: first officer | generated: navigation"
+  },
+  {
+    "content": "Is equilibrium related to torque?",
+    "description": "ConceptNet | RelatedTo | source: torque | generated: equilibrium"
+  },
+  {
+    "content": "Is planet used for celestial navigation?",
+    "description": "ConceptNet | UsedFor | source: planet | generated: celestial navigation"
+  },
+  {
+    "content": "Is keyboard used for gaming?",
+    "description": "ConceptNet | UsedFor | source: keyboard | generated: gaming"
+  },
+  {
+    "content": "Is players related to blow whistle?",
+    "description": "ConceptNet | RelatedTo | source: blow whistle | generated: players"
+  },
+  {
+    "content": "Is concert hall used for presenting chamber music?",
+    "description": "ConceptNet | UsedFor | source: concert hall | generated: presenting chamber music"
+  },
+  {
+    "content": "Is casualties related to drop bomb?",
+    "description": "ConceptNet | RelatedTo | source: drop bomb | generated: casualties"
+  },
+  {
+    "content": "Is agreeing with used for upholding a belief?",
+    "description": "ConceptNet | UsedFor | source: agreeing with | generated: upholding a belief"
+  },
+  {
+    "content": "Is amphitheatre used for wedding ceremonies?",
+    "description": "ConceptNet | UsedFor | source: amphitheatre | generated: wedding ceremonies"
+  },
+  {
+    "content": "Is government related to burke?",
+    "description": "ConceptNet | RelatedTo | source: burke | generated: government"
+  },
+  {
+    "content": "Is dining area used for culinary demonstrations?",
+    "description": "ConceptNet | UsedFor | source: dining area | generated: culinary demonstrations"
+  },
+  {
+    "content": "Is giving clue used for playing detective?",
+    "description": "ConceptNet | UsedFor | source: giving clue | generated: playing detective"
+  },
+  {
+    "content": "Is rifle used for military operations?",
+    "description": "ConceptNet | UsedFor | source: rifle | generated: military operations"
+  },
+  {
+    "content": "Is nautical marker related to conical buoy?",
+    "description": "ConceptNet | RelatedTo | source: conical buoy | generated: nautical marker"
+  },
+  {
+    "content": "Is South Central United States related to coushatta?",
+    "description": "ConceptNet | RelatedTo | source: coushatta | generated: South Central United States"
+  },
+  {
+    "content": "Is nullification crisis related to calhoun?",
+    "description": "ConceptNet | RelatedTo | source: calhoun | generated: nullification crisis"
+  },
+  {
+    "content": "Is diversity related to beetle?",
+    "description": "ConceptNet | RelatedTo | source: beetle | generated: diversity"
+  },
+  {
+    "content": "Is enzymes related to indigested?",
+    "description": "ConceptNet | RelatedTo | source: indigested | generated: enzymes"
+  },
+  {
+    "content": "Is computer used for processing data?",
+    "description": "ConceptNet | UsedFor | source: computer | generated: processing data"
+  },
+  {
+    "content": "Is disgusting related to grody?",
+    "description": "ConceptNet | RelatedTo | source: grody | generated: disgusting"
+  },
+  {
+    "content": "Is irrationality related to non rational?",
+    "description": "ConceptNet | RelatedTo | source: non rational | generated: irrationality"
+  },
+  {
+    "content": "Is having nervous breakdown used for implementing lifestyle changes?",
+    "description": "ConceptNet | UsedFor | source: having nervous breakdown | generated: implementing lifestyle changes"
+  },
+  {
+    "content": "Is Four gods of creation related to susanoo?",
+    "description": "ConceptNet | RelatedTo | source: susanoo | generated: Four gods of creation"
+  },
+  {
+    "content": "Is running after ball used for playing fetch with a dog?",
+    "description": "ConceptNet | UsedFor | source: running after ball | generated: playing fetch with a dog"
+  },
+  {
+    "content": "Is breakdance related to bust move?",
+    "description": "ConceptNet | RelatedTo | source: bust move | generated: breakdance"
+  },
+  {
+    "content": "Is buying presents used for honoring retirements?",
+    "description": "ConceptNet | UsedFor | source: buying presents | generated: honoring retirements"
+  },
+  {
+    "content": "Is austerity related to hardline?",
+    "description": "ConceptNet | RelatedTo | source: hardline | generated: austerity"
+  },
+  {
+    "content": "Is celiac disease related to gluten?",
+    "description": "ConceptNet | RelatedTo | source: gluten | generated: celiac disease"
+  },
+  {
+    "content": "Is non-Newtonian related to viscous?",
+    "description": "ConceptNet | RelatedTo | source: viscous | generated: non-Newtonian"
+  },
+  {
+    "content": "Is pernicious related to unwholesome?",
+    "description": "ConceptNet | RelatedTo | source: unwholesome | generated: pernicious"
+  },
+  {
+    "content": "Is protection related to periderm?",
+    "description": "ConceptNet | RelatedTo | source: periderm | generated: protection"
+  },
+  {
+    "content": "Is toast related to shrimp toast?",
+    "description": "ConceptNet | RelatedTo | source: shrimp toast | generated: toast"
+  },
+  {
+    "content": "Is appointment book used for coordinating team meetings?",
+    "description": "ConceptNet | UsedFor | source: appointment book | generated: coordinating team meetings"
+  },
+  {
+    "content": "Is going to baseball game used for enjoying snacks?",
+    "description": "ConceptNet | UsedFor | source: going to baseball game | generated: enjoying snacks"
+  },
+  {
+    "content": "Is room used for entertaining guests?",
+    "description": "ConceptNet | UsedFor | source: room | generated: entertaining guests"
+  },
+  {
+    "content": "Is plate used for holding cutlery?",
+    "description": "ConceptNet | UsedFor | source: plate | generated: holding cutlery"
+  },
+  {
+    "content": "Is top related to spinner?",
+    "description": "ConceptNet | RelatedTo | source: spinner | generated: top"
+  },
+  {
+    "content": "Is acoustic ceiling used for enhancing speech intelligibility?",
+    "description": "ConceptNet | UsedFor | source: acoustic ceiling | generated: enhancing speech intelligibility"
+  },
+  {
+    "content": "Is Delaware Water Gap related to minisink?",
+    "description": "ConceptNet | RelatedTo | source: minisink | generated: Delaware Water Gap"
+  },
+  {
+    "content": "Is plumbing used for bathing?",
+    "description": "ConceptNet | UsedFor | source: plumbing | generated: bathing"
+  },
+  {
+    "content": "Is gothic architecture related to spire?",
+    "description": "ConceptNet | RelatedTo | source: spire | generated: gothic architecture"
+  },
+  {
+    "content": "Is transformation related to trial by fire?",
+    "description": "ConceptNet | RelatedTo | source: trial by fire | generated: transformation"
+  },
+  {
+    "content": "Is stick eraser used for [  \"correcting pencil mistakes?",
+    "description": "ConceptNet | UsedFor | source: stick eraser | generated: [  \"correcting pencil mistakes"
+  },
+  {
+    "content": "Is territorial expansion related to lebensraum?",
+    "description": "ConceptNet | RelatedTo | source: lebensraum | generated: territorial expansion"
+  },
+  {
+    "content": "Is economics related to demand?",
+    "description": "ConceptNet | RelatedTo | source: demand | generated: economics"
+  },
+  {
+    "content": "Is court used for judge?",
+    "description": "ConceptNet | UsedFor | source: court | generated: judge"
+  },
+  {
+    "content": "Is reef related to moray?",
+    "description": "ConceptNet | RelatedTo | source: moray | generated: reef"
+  },
+  {
+    "content": "Is earth related to alma?",
+    "description": "ConceptNet | RelatedTo | source: alma | generated: earth"
+  },
+  {
+    "content": "Is cutlery drawer used for maintaining kitchen order?",
+    "description": "ConceptNet | UsedFor | source: cutlery drawer | generated: maintaining kitchen order"
+  },
+  {
+    "content": "Is hydroxyl group related to functional group?",
+    "description": "ConceptNet | RelatedTo | source: functional group | generated: hydroxyl group"
+  },
+  {
+    "content": "Is language related to shoshone?",
+    "description": "ConceptNet | RelatedTo | source: shoshone | generated: language"
+  },
+  {
+    "content": "Is graphite pencil used for artwork creation?",
+    "description": "ConceptNet | UsedFor | source: graphite pencil | generated: artwork creation"
+  },
+  {
+    "content": "Is plane ticket used for studying abroad?",
+    "description": "ConceptNet | UsedFor | source: plane ticket | generated: studying abroad"
+  },
+  {
+    "content": "Is stick eraser used for assisting in art projects?",
+    "description": "ConceptNet | UsedFor | source: stick eraser | generated: assisting in art projects"
+  },
+  {
+    "content": "Is sink used for cleaning vegetables?",
+    "description": "ConceptNet | UsedFor | source: sink | generated: cleaning vegetables"
+  },
+  {
+    "content": "Is Civil War related to chickasaw?",
+    "description": "ConceptNet | RelatedTo | source: chickasaw | generated: Civil War"
+  },
+  {
+    "content": "Is creating to help other people used for sustainable products?",
+    "description": "ConceptNet | UsedFor | source: creating to help other people | generated: sustainable products"
+  },
+  {
+    "content": "Is ancient history related to leprosy?",
+    "description": "ConceptNet | RelatedTo | source: leprosy | generated: ancient history"
+  },
+  {
+    "content": "Is movie used for technological showcase?",
+    "description": "ConceptNet | UsedFor | source: movie | generated: technological showcase"
+  },
+  {
+    "content": "Is soaking in hotspring used for wellness?",
+    "description": "ConceptNet | UsedFor | source: soaking in hotspring | generated: wellness"
+  },
+  {
+    "content": "Is pleasing related to beautiful?",
+    "description": "ConceptNet | RelatedTo | source: beautiful | generated: pleasing"
+  },
+  {
+    "content": "Is tissue holder used for providing easy access to tissues?",
+    "description": "ConceptNet | UsedFor | source: tissue holder | generated: providing easy access to tissues"
+  },
+  {
+    "content": "Is letter related to yours faithfully?",
+    "description": "ConceptNet | RelatedTo | source: yours faithfully | generated: letter"
+  },
+  {
+    "content": "Is persistence related to tooth and nail?",
+    "description": "ConceptNet | RelatedTo | source: tooth and nail | generated: persistence"
+  },
+  {
+    "content": "Is vedas related to hinduism?",
+    "description": "ConceptNet | RelatedTo | source: hinduism | generated: vedas"
+  },
+  {
+    "content": "Is entertaining people used for organizing games?",
+    "description": "ConceptNet | UsedFor | source: entertaining people | generated: organizing games"
+  },
+  {
+    "content": "Is services related to production?",
+    "description": "ConceptNet | RelatedTo | source: production | generated: services"
+  },
+  {
+    "content": "Is waiting in line used for buying tickets?",
+    "description": "ConceptNet | UsedFor | source: waiting in line | generated: buying tickets"
+  },
+  {
+    "content": "Is attachment related to lug?",
+    "description": "ConceptNet | RelatedTo | source: lug | generated: attachment"
+  },
+  {
+    "content": "Is muscle used for support?",
+    "description": "ConceptNet | UsedFor | source: muscle | generated: support"
+  },
+  {
+    "content": "Is kosher delicatessen used for offering a variety of cured meats and cheeses?",
+    "description": "ConceptNet | UsedFor | source: kosher delicatessen | generated: offering a variety of cured meats and cheeses"
+  },
+  {
+    "content": "Is going to baseball game used for outdoor activity?",
+    "description": "ConceptNet | UsedFor | source: going to baseball game | generated: outdoor activity"
+  },
+  {
+    "content": "Is typewriter used for producing official forms?",
+    "description": "ConceptNet | UsedFor | source: typewriter | generated: producing official forms"
+  },
+  {
+    "content": "Is cattle barons related to cattle drive?",
+    "description": "ConceptNet | RelatedTo | source: cattle drive | generated: cattle barons"
+  },
+  {
+    "content": "Is Spanish related to chur?",
+    "description": "ConceptNet | RelatedTo | source: chur | generated: Spanish"
+  },
+  {
+    "content": "Is quicksilver related to mercury?",
+    "description": "ConceptNet | RelatedTo | source: mercury | generated: quicksilver"
+  },
+  {
+    "content": "Is eating place used for cafeteria?",
+    "description": "ConceptNet | UsedFor | source: eating place | generated: cafeteria"
+  },
+  {
+    "content": "Is laughing at joke used for participating in a joke?",
+    "description": "ConceptNet | UsedFor | source: laughing at joke | generated: participating in a joke"
+  },
+  {
+    "content": "Is hammer used for nailing?",
+    "description": "ConceptNet | UsedFor | source: hammer | generated: nailing"
+  },
+  {
+    "content": "Is beer related to fermentation?",
+    "description": "ConceptNet | RelatedTo | source: fermentation | generated: beer"
+  },
+  {
+    "content": "Is ladder used for painting walls?",
+    "description": "ConceptNet | UsedFor | source: ladder | generated: painting walls"
+  },
+  {
+    "content": "Is roost related to fowl?",
+    "description": "ConceptNet | RelatedTo | source: fowl | generated: roost"
+  },
+  {
+    "content": "Is layered cake related to sandwich cake?",
+    "description": "ConceptNet | RelatedTo | source: sandwich cake | generated: layered cake"
+  },
+  {
+    "content": "Is erection related to glans?",
+    "description": "ConceptNet | RelatedTo | source: glans | generated: erection"
+  },
+  {
+    "content": "Is list of appointments used for booking travel arrangements?",
+    "description": "ConceptNet | UsedFor | source: list of appointments | generated: booking travel arrangements"
+  },
+  {
+    "content": "Is courageous related to doughty?",
+    "description": "ConceptNet | RelatedTo | source: doughty | generated: courageous"
+  },
+  {
+    "content": "Is white related to caucasian?",
+    "description": "ConceptNet | RelatedTo | source: caucasian | generated: white"
+  },
+  {
+    "content": "Is living room used for hosting family gatherings?",
+    "description": "ConceptNet | UsedFor | source: living room | generated: hosting family gatherings"
+  },
+  {
+    "content": "Is competing against used for striving for excellence?",
+    "description": "ConceptNet | UsedFor | source: competing against | generated: striving for excellence"
+  },
+  {
+    "content": "Is island used for nature retreat?",
+    "description": "ConceptNet | UsedFor | source: island | generated: nature retreat"
+  },
+  {
+    "content": "Is dome church related to dome?",
+    "description": "ConceptNet | RelatedTo | source: dome | generated: dome church"
+  },
+  {
+    "content": "Is chewing food used for breaking down?",
+    "description": "ConceptNet | UsedFor | source: chewing food | generated: breaking down"
+  },
+  {
+    "content": "Is rows related to data table?",
+    "description": "ConceptNet | RelatedTo | source: data table | generated: rows"
+  },
+  {
+    "content": "Is variable related to program?",
+    "description": "ConceptNet | RelatedTo | source: program | generated: variable"
+  },
+  {
+    "content": "Is bucket used for storing water?",
+    "description": "ConceptNet | UsedFor | source: bucket | generated: storing water"
+  },
+  {
+    "content": "Is geometry related to cubic centimetre?",
+    "description": "ConceptNet | RelatedTo | source: cubic centimetre | generated: geometry"
+  },
+  {
+    "content": "Is office building used for providing a professional environment for client interactions?",
+    "description": "ConceptNet | UsedFor | source: office building | generated: providing a professional environment for client interactions"
+  },
+  {
+    "content": "Is bathing used for temperature regulation?",
+    "description": "ConceptNet | UsedFor | source: bathing | generated: temperature regulation"
+  },
+  {
+    "content": "Is [  \"organic chemistry related to lindgren oxidation?",
+    "description": "ConceptNet | RelatedTo | source: lindgren oxidation | generated: [  \"organic chemistry"
+  },
+  {
+    "content": "Is appealing related to eyeful?",
+    "description": "ConceptNet | RelatedTo | source: eyeful | generated: appealing"
+  },
+  {
+    "content": "Is person used for pursuing hobbies?",
+    "description": "ConceptNet | UsedFor | source: person | generated: pursuing hobbies"
+  },
+  {
+    "content": "Is stapler used for assembling reports?",
+    "description": "ConceptNet | UsedFor | source: stapler | generated: assembling reports"
+  },
+  {
+    "content": "Is xylem related to stem?",
+    "description": "ConceptNet | RelatedTo | source: stem | generated: xylem"
+  },
+  {
+    "content": "Is band aid used for splinters?",
+    "description": "ConceptNet | UsedFor | source: band aid | generated: splinters"
+  },
+  {
+    "content": "Is wigs related to bald?",
+    "description": "ConceptNet | RelatedTo | source: bald | generated: wigs"
+  },
+  {
+    "content": "Is glint related to gleam?",
+    "description": "ConceptNet | RelatedTo | source: gleam | generated: glint"
+  },
+  {
+    "content": "Is structure related to paradigmatic?",
+    "description": "ConceptNet | RelatedTo | source: paradigmatic | generated: structure"
+  },
+  {
+    "content": "Is crust related to incrustant?",
+    "description": "ConceptNet | RelatedTo | source: incrustant | generated: crust"
+  },
+  {
+    "content": "Is sucrose related to granulose?",
+    "description": "ConceptNet | RelatedTo | source: granulose | generated: sucrose"
+  },
+  {
+    "content": "Is rare earth element related to yoshimuraite?",
+    "description": "ConceptNet | RelatedTo | source: yoshimuraite | generated: rare earth element"
+  },
+  {
+    "content": "Is blowdryer used for drying non-washable fabrics?",
+    "description": "ConceptNet | UsedFor | source: blowdryer | generated: drying non-washable fabrics"
+  },
+  {
+    "content": "Is payment related to fare?",
+    "description": "ConceptNet | RelatedTo | source: fare | generated: payment"
+  },
+  {
+    "content": "Is seeing exciting story used for moral reflection?",
+    "description": "ConceptNet | UsedFor | source: seeing exciting story | generated: moral reflection"
+  },
+  {
+    "content": "Is cereal bowl used for food presentation?",
+    "description": "ConceptNet | UsedFor | source: cereal bowl | generated: food presentation"
+  },
+  {
+    "content": "Is paying cash used for [  \"purchasing groceries?",
+    "description": "ConceptNet | UsedFor | source: paying cash | generated: [  \"purchasing groceries"
+  },
+  {
+    "content": "Is equilibrium related to demand?",
+    "description": "ConceptNet | RelatedTo | source: demand | generated: equilibrium"
+  },
+  {
+    "content": "Is brief related to summary?",
+    "description": "ConceptNet | RelatedTo | source: summary | generated: brief"
+  },
+  {
+    "content": "Is spiritualism related to trialism?",
+    "description": "ConceptNet | RelatedTo | source: trialism | generated: spiritualism"
+  },
+  {
+    "content": "Is exhaustion related to tired?",
+    "description": "ConceptNet | RelatedTo | source: tired | generated: exhaustion"
+  },
+  {
+    "content": "Is pork belly related to pork?",
+    "description": "ConceptNet | RelatedTo | source: pork | generated: pork belly"
+  },
+  {
+    "content": "Is baseball field used for baseball field rentals for events?",
+    "description": "ConceptNet | UsedFor | source: baseball field | generated: baseball field rentals for events"
+  },
+  {
+    "content": "Is waiting in line used for queueing for a roller coaster?",
+    "description": "ConceptNet | UsedFor | source: waiting in line | generated: queueing for a roller coaster"
+  },
+  {
+    "content": "Is story used for personal expression?",
+    "description": "ConceptNet | UsedFor | source: story | generated: personal expression"
+  },
+  {
+    "content": "Is telescope related to luna?",
+    "description": "ConceptNet | RelatedTo | source: luna | generated: telescope"
+  },
+  {
+    "content": "Is advertisement used for target audience reach?",
+    "description": "ConceptNet | UsedFor | source: advertisement | generated: target audience reach"
+  },
+  {
+    "content": "Is chinese restaurant used for experiencing authentic Chinese cuisine?",
+    "description": "ConceptNet | UsedFor | source: chinese restaurant | generated: experiencing authentic Chinese cuisine"
+  },
+  {
+    "content": "Is killing people used for capital punishment?",
+    "description": "ConceptNet | UsedFor | source: killing people | generated: capital punishment"
+  },
+  {
+    "content": "Is inflection related to derivation?",
+    "description": "ConceptNet | RelatedTo | source: derivation | generated: inflection"
+  },
+  {
+    "content": "Is scent related to nose test?",
+    "description": "ConceptNet | RelatedTo | source: nose test | generated: scent"
+  },
+  {
+    "content": "Is skyscraper used for city skyline?",
+    "description": "ConceptNet | UsedFor | source: skyscraper | generated: city skyline"
+  },
+  {
+    "content": "Is officer related to shako?",
+    "description": "ConceptNet | RelatedTo | source: shako | generated: officer"
+  },
+  {
+    "content": "Is Mjölnir related to thor's hammer?",
+    "description": "ConceptNet | RelatedTo | source: thor's hammer | generated: Mjölnir"
+  },
+  {
+    "content": "Is going to pub used for celebrating?",
+    "description": "ConceptNet | UsedFor | source: going to pub | generated: celebrating"
+  },
+  {
+    "content": "Is celestial mechanics related to perihelion?",
+    "description": "ConceptNet | RelatedTo | source: perihelion | generated: celestial mechanics"
+  },
+  {
+    "content": "Is going to mall used for socializing with friends?",
+    "description": "ConceptNet | UsedFor | source: going to mall | generated: socializing with friends"
+  },
+  {
+    "content": "Is crime rate related to recidivism?",
+    "description": "ConceptNet | RelatedTo | source: recidivism | generated: crime rate"
+  },
+  {
+    "content": "Is carnivore related to moose?",
+    "description": "ConceptNet | RelatedTo | source: moose | generated: carnivore"
+  },
+  {
+    "content": "Is accolade related to award?",
+    "description": "ConceptNet | RelatedTo | source: award | generated: accolade"
+  },
+  {
+    "content": "Is planar graphs related to cutwidth?",
+    "description": "ConceptNet | RelatedTo | source: cutwidth | generated: planar graphs"
+  },
+  {
+    "content": "Is barbecue restaurant used for dining out?",
+    "description": "ConceptNet | UsedFor | source: barbecue restaurant | generated: dining out"
+  },
+  {
+    "content": "Is hotel used for accommodation?",
+    "description": "ConceptNet | UsedFor | source: hotel | generated: accommodation"
+  },
+  {
+    "content": "Is wedding ring used for marital status indicator?",
+    "description": "ConceptNet | UsedFor | source: wedding ring | generated: marital status indicator"
+  },
+  {
+    "content": "Is sound used for navigation?",
+    "description": "ConceptNet | UsedFor | source: sound | generated: navigation"
+  },
+  {
+    "content": "Is evolutionary marvel related to lusus naturæ?",
+    "description": "ConceptNet | RelatedTo | source: lusus naturæ | generated: evolutionary marvel"
+  },
+  {
+    "content": "Is school cafeteria used for teaching food education?",
+    "description": "ConceptNet | UsedFor | source: school cafeteria | generated: teaching food education"
+  },
+  {
+    "content": "Is order related to fifth?",
+    "description": "ConceptNet | RelatedTo | source: fifth | generated: order"
+  },
+  {
+    "content": "Is making sure re healthy used for regular health check-ups?",
+    "description": "ConceptNet | UsedFor | source: making sure re healthy | generated: regular health check-ups"
+  },
+  {
+    "content": "Is taking bus used for sightseeing tour?",
+    "description": "ConceptNet | UsedFor | source: taking bus | generated: sightseeing tour"
+  },
+  {
+    "content": "Is olive oil related to dressing stick?",
+    "description": "ConceptNet | RelatedTo | source: dressing stick | generated: olive oil"
+  },
+  {
+    "content": "Is embrasure related to crenellation?",
+    "description": "ConceptNet | RelatedTo | source: crenellation | generated: embrasure"
+  },
+  {
+    "content": "Is sand used for beach tourism?",
+    "description": "ConceptNet | UsedFor | source: sand | generated: beach tourism"
+  },
+  {
+    "content": "Is chess pawn used for creating a passed pawn?",
+    "description": "ConceptNet | UsedFor | source: chess pawn | generated: creating a passed pawn"
+  },
+  {
+    "content": "Is finger used for texting?",
+    "description": "ConceptNet | UsedFor | source: finger | generated: texting"
+  },
+  {
+    "content": "Is razor used for hair removal?",
+    "description": "ConceptNet | UsedFor | source: razor | generated: hair removal"
+  },
+  {
+    "content": "Is noise used for environmental noise?",
+    "description": "ConceptNet | UsedFor | source: noise | generated: environmental noise"
+  },
+  {
+    "content": "Is joining army used for learning combat skills?",
+    "description": "ConceptNet | UsedFor | source: joining army | generated: learning combat skills"
+  },
+  {
+    "content": "Is mathematics related to cubic centimetre?",
+    "description": "ConceptNet | RelatedTo | source: cubic centimetre | generated: mathematics"
+  },
+  {
+    "content": "Is cities related to marion county?",
+    "description": "ConceptNet | RelatedTo | source: marion county | generated: cities"
+  },
+  {
+    "content": "Is derision related to jeer?",
+    "description": "ConceptNet | RelatedTo | source: jeer | generated: derision"
+  },
+  {
+    "content": "Is reproduction related to sexual?",
+    "description": "ConceptNet | RelatedTo | source: sexual | generated: reproduction"
+  },
+  {
+    "content": "Is turkey related to fowl?",
+    "description": "ConceptNet | RelatedTo | source: fowl | generated: turkey"
+  },
+  {
+    "content": "Is pocket notebook used for sketching designs?",
+    "description": "ConceptNet | UsedFor | source: pocket notebook | generated: sketching designs"
+  },
+  {
+    "content": "Is salary related to career?",
+    "description": "ConceptNet | RelatedTo | source: career | generated: salary"
+  },
+  {
+    "content": "Is stakeholder communication related to death march?",
+    "description": "ConceptNet | RelatedTo | source: death march | generated: stakeholder communication"
+  },
+  {
+    "content": "Is upper related to chape?",
+    "description": "ConceptNet | RelatedTo | source: chape | generated: upper"
+  },
+  {
+    "content": "Is grain size related to wentworth scale?",
+    "description": "ConceptNet | RelatedTo | source: wentworth scale | generated: grain size"
+  },
+  {
+    "content": "Is hair roller used for heatless curling?",
+    "description": "ConceptNet | UsedFor | source: hair roller | generated: heatless curling"
+  },
+  {
+    "content": "Is speech related to valediction?",
+    "description": "ConceptNet | RelatedTo | source: valediction | generated: speech"
+  },
+  {
+    "content": "Is hallway used for displaying artwork?",
+    "description": "ConceptNet | UsedFor | source: hallway | generated: displaying artwork"
+  },
+  {
+    "content": "Is knowing if re healthy used for preventing diseases?",
+    "description": "ConceptNet | UsedFor | source: knowing if re healthy | generated: preventing diseases"
+  },
+  {
+    "content": "Is attending classical concert used for appreciating music?",
+    "description": "ConceptNet | UsedFor | source: attending classical concert | generated: appreciating music"
+  },
+  {
+    "content": "Is talking used for communication?",
+    "description": "ConceptNet | UsedFor | source: talking | generated: communication"
+  },
+  {
+    "content": "Is store refrigerator used for storing leftovers?",
+    "description": "ConceptNet | UsedFor | source: store refrigerator | generated: storing leftovers"
+  },
+  {
+    "content": "Is subject related to pronoun?",
+    "description": "ConceptNet | RelatedTo | source: pronoun | generated: subject"
+  },
+  {
+    "content": "Is playing football used for coaching?",
+    "description": "ConceptNet | UsedFor | source: playing football | generated: coaching"
+  },
+  {
+    "content": "Is radioactive materials related to hazardous material?",
+    "description": "ConceptNet | RelatedTo | source: hazardous material | generated: radioactive materials"
+  },
+  {
+    "content": "Is paper clip used for [  \"holding papers together?",
+    "description": "ConceptNet | UsedFor | source: paper clip | generated: [  \"holding papers together"
+  },
+  {
+    "content": "Is repair related to fettle?",
+    "description": "ConceptNet | RelatedTo | source: fettle | generated: repair"
+  },
+  {
+    "content": "Is permutation related to transpose?",
+    "description": "ConceptNet | RelatedTo | source: transpose | generated: permutation"
+  },
+  {
+    "content": "Is releasing energy used for performing work?",
+    "description": "ConceptNet | UsedFor | source: releasing energy | generated: performing work"
+  },
+  {
+    "content": "Is omega-3 related to tuna?",
+    "description": "ConceptNet | RelatedTo | source: tuna | generated: omega-3"
+  },
+  {
+    "content": "Is orientation related to sexual?",
+    "description": "ConceptNet | RelatedTo | source: sexual | generated: orientation"
+  },
+  {
+    "content": "Is rigidity related to hardline?",
+    "description": "ConceptNet | RelatedTo | source: hardline | generated: rigidity"
+  },
+  {
+    "content": "Is contrary related to contradictory?",
+    "description": "ConceptNet | RelatedTo | source: contradictory | generated: contrary"
+  },
+  {
+    "content": "Is having friends over used for playing games?",
+    "description": "ConceptNet | UsedFor | source: having friends over | generated: playing games"
+  },
+  {
+    "content": "Is tissue related to cartilage?",
+    "description": "ConceptNet | RelatedTo | source: cartilage | generated: tissue"
+  },
+  {
+    "content": "Is signaling related to hormone?",
+    "description": "ConceptNet | RelatedTo | source: hormone | generated: signaling"
+  },
+  {
+    "content": "Is performance related to outstand?",
+    "description": "ConceptNet | RelatedTo | source: outstand | generated: performance"
+  },
+  {
+    "content": "Is doorway related to ingress?",
+    "description": "ConceptNet | RelatedTo | source: ingress | generated: doorway"
+  },
+  {
+    "content": "Is electronic design related to erasable programmable logic device?",
+    "description": "ConceptNet | RelatedTo | source: erasable programmable logic device | generated: electronic design"
+  },
+  {
+    "content": "Is finish related to over?",
+    "description": "ConceptNet | RelatedTo | source: over | generated: finish"
+  },
+  {
+    "content": "Is track used for following a path?",
+    "description": "ConceptNet | UsedFor | source: track | generated: following a path"
+  },
+  {
+    "content": "Is tree related to woody?",
+    "description": "ConceptNet | RelatedTo | source: woody | generated: tree"
+  },
+  {
+    "content": "Is neckwear used for casual wear?",
+    "description": "ConceptNet | UsedFor | source: neckwear | generated: casual wear"
+  },
+  {
+    "content": "Is standing in line used for [  \"queueing for a movie?",
+    "description": "ConceptNet | UsedFor | source: standing in line | generated: [  \"queueing for a movie"
+  },
+  {
+    "content": "Is fast food restaurant used for dining with family?",
+    "description": "ConceptNet | UsedFor | source: fast food restaurant | generated: dining with family"
+  },
+  {
+    "content": "Is going to baseball game used for bonding experience?",
+    "description": "ConceptNet | UsedFor | source: going to baseball game | generated: bonding experience"
+  },
+  {
+    "content": "Is discrepancy related to contradictory?",
+    "description": "ConceptNet | RelatedTo | source: contradictory | generated: discrepancy"
+  },
+  {
+    "content": "Is taking break used for avoiding burnout?",
+    "description": "ConceptNet | UsedFor | source: taking break | generated: avoiding burnout"
+  },
+  {
+    "content": "Is money laundering related to organized crime?",
+    "description": "ConceptNet | RelatedTo | source: organized crime | generated: money laundering"
+  },
+  {
+    "content": "Is king used for monarchy?",
+    "description": "ConceptNet | UsedFor | source: king | generated: monarchy"
+  },
+  {
+    "content": "Is George Washington related to virginia?",
+    "description": "ConceptNet | RelatedTo | source: virginia | generated: George Washington"
+  },
+  {
+    "content": "Is bookend used for decorative display?",
+    "description": "ConceptNet | UsedFor | source: bookend | generated: decorative display"
+  },
+  {
+    "content": "Is debating politics used for governance discussions?",
+    "description": "ConceptNet | UsedFor | source: debating politics | generated: governance discussions"
+  },
+  {
+    "content": "Is venusian related to uranian?",
+    "description": "ConceptNet | RelatedTo | source: uranian | generated: venusian"
+  },
+  {
+    "content": "Is aerial bomb used for psychological warfare?",
+    "description": "ConceptNet | UsedFor | source: aerial bomb | generated: psychological warfare"
+  },
+  {
+    "content": "Is hardware shop used for sourcing plumbing fixtures?",
+    "description": "ConceptNet | UsedFor | source: hardware shop | generated: sourcing plumbing fixtures"
+  },
+  {
+    "content": "Is calculating things quickly used for making strategic business decisions?",
+    "description": "ConceptNet | UsedFor | source: calculating things quickly | generated: making strategic business decisions"
+  },
+  {
+    "content": "Is parks related to neighborhood?",
+    "description": "ConceptNet | RelatedTo | source: neighborhood | generated: parks"
+  },
+  {
+    "content": "Is office building used for hosting corporate events?",
+    "description": "ConceptNet | UsedFor | source: office building | generated: hosting corporate events"
+  },
+  {
+    "content": "Is attraction related to sexual?",
+    "description": "ConceptNet | RelatedTo | source: sexual | generated: attraction"
+  },
+  {
+    "content": "Is Mennonites related to anabaptist?",
+    "description": "ConceptNet | RelatedTo | source: anabaptist | generated: Mennonites"
+  },
+  {
+    "content": "Is improving image used for portfolio improvement?",
+    "description": "ConceptNet | UsedFor | source: improving image | generated: portfolio improvement"
+  },
+  {
+    "content": "Is shopping complex used for event hosting?",
+    "description": "ConceptNet | UsedFor | source: shopping complex | generated: event hosting"
+  },
+  {
+    "content": "Is mean related to unkind?",
+    "description": "ConceptNet | RelatedTo | source: unkind | generated: mean"
+  },
+  {
+    "content": "Is lens used for spectacles?",
+    "description": "ConceptNet | UsedFor | source: lens | generated: spectacles"
+  },
+  {
+    "content": "Is determinism related to predestination?",
+    "description": "ConceptNet | RelatedTo | source: predestination | generated: determinism"
+  },
+  {
+    "content": "Is vineyards related to boonville?",
+    "description": "ConceptNet | RelatedTo | source: boonville | generated: vineyards"
+  },
+  {
+    "content": "Is standardization related to derived unit?",
+    "description": "ConceptNet | RelatedTo | source: derived unit | generated: standardization"
+  },
+  {
+    "content": "Is discovering truth used for psychological self-awareness?",
+    "description": "ConceptNet | UsedFor | source: discovering truth | generated: psychological self-awareness"
+  },
+  {
+    "content": "Is medical related to hock?",
+    "description": "ConceptNet | RelatedTo | source: hock | generated: medical"
+  },
+  {
+    "content": "Is binder used for note taking?",
+    "description": "ConceptNet | UsedFor | source: binder | generated: note taking"
+  },
+  {
+    "content": "Is going for walk used for exploring surroundings?",
+    "description": "ConceptNet | UsedFor | source: going for walk | generated: exploring surroundings"
+  },
+  {
+    "content": "Is analytic functions related to riemann sphere?",
+    "description": "ConceptNet | RelatedTo | source: riemann sphere | generated: analytic functions"
+  },
+  {
+    "content": "Is Spiritual related to meru?",
+    "description": "ConceptNet | RelatedTo | source: meru | generated: Spiritual"
+  },
+  {
+    "content": "Is washing car used for personal satisfaction?",
+    "description": "ConceptNet | UsedFor | source: washing car | generated: personal satisfaction"
+  },
+  {
+    "content": "Is captivating related to eyeful?",
+    "description": "ConceptNet | RelatedTo | source: eyeful | generated: captivating"
+  },
+  {
+    "content": "Is reflexes related to lazarus sign?",
+    "description": "ConceptNet | RelatedTo | source: lazarus sign | generated: reflexes"
+  },
+  {
+    "content": "Is omnivore related to badger?",
+    "description": "ConceptNet | RelatedTo | source: badger | generated: omnivore"
+  },
+  {
+    "content": "Is running after ball used for engaging in a game of baseball?",
+    "description": "ConceptNet | UsedFor | source: running after ball | generated: engaging in a game of baseball"
+  },
+  {
+    "content": "Is equatorial waves related to kelvin wave?",
+    "description": "ConceptNet | RelatedTo | source: kelvin wave | generated: equatorial waves"
+  },
+  {
+    "content": "Is close range related to point blank?",
+    "description": "ConceptNet | RelatedTo | source: point blank | generated: close range"
+  },
+  {
+    "content": "Is soaking in hotspring used for relaxation?",
+    "description": "ConceptNet | UsedFor | source: soaking in hotspring | generated: relaxation"
+  },
+  {
+    "content": "Is addition related to adjunct?",
+    "description": "ConceptNet | RelatedTo | source: adjunct | generated: addition"
+  },
+  {
+    "content": "Is arch related to foot?",
+    "description": "ConceptNet | RelatedTo | source: foot | generated: arch"
+  },
+  {
+    "content": "Is Tudor period related to english disease?",
+    "description": "ConceptNet | RelatedTo | source: english disease | generated: Tudor period"
+  },
+  {
+    "content": "Is underground area used for scientific research?",
+    "description": "ConceptNet | UsedFor | source: underground area | generated: scientific research"
+  },
+  {
+    "content": "Is accordian bag used for storing makeup accessories?",
+    "description": "ConceptNet | UsedFor | source: accordian bag | generated: storing makeup accessories"
+  },
+  {
+    "content": "Is gardening related to water carrier?",
+    "description": "ConceptNet | RelatedTo | source: water carrier | generated: gardening"
+  },
+  {
+    "content": "Is rocking chair used for reading?",
+    "description": "ConceptNet | UsedFor | source: rocking chair | generated: reading"
+  },
+  {
+    "content": "Is burying cat used for end of life care?",
+    "description": "ConceptNet | UsedFor | source: burying cat | generated: end of life care"
+  },
+  {
+    "content": "Is freshwater related to snook?",
+    "description": "ConceptNet | RelatedTo | source: snook | generated: freshwater"
+  },
+  {
+    "content": "Is scholar-official related to jinshi?",
+    "description": "ConceptNet | RelatedTo | source: jinshi | generated: scholar-official"
+  },
+  {
+    "content": "Is classification related to latin name?",
+    "description": "ConceptNet | RelatedTo | source: latin name | generated: classification"
+  },
+  {
+    "content": "Is mint related to stater?",
+    "description": "ConceptNet | RelatedTo | source: stater | generated: mint"
+  },
+  {
+    "content": "Is underground area used for shelters?",
+    "description": "ConceptNet | UsedFor | source: underground area | generated: shelters"
+  },
+  {
+    "content": "Is energy production related to nuclear fusion?",
+    "description": "ConceptNet | RelatedTo | source: nuclear fusion | generated: energy production"
+  },
+  {
+    "content": "Is map used for navigation?",
+    "description": "ConceptNet | UsedFor | source: map | generated: navigation"
+  },
+  {
+    "content": "Is glass related to dome?",
+    "description": "ConceptNet | RelatedTo | source: dome | generated: glass"
+  },
+  {
+    "content": "Is dining room table used for family gatherings?",
+    "description": "ConceptNet | UsedFor | source: dining room table | generated: family gatherings"
+  },
+  {
+    "content": "Is cargo related to cruiser?",
+    "description": "ConceptNet | RelatedTo | source: cruiser | generated: cargo"
+  },
+  {
+    "content": "Is oscillation related to maser?",
+    "description": "ConceptNet | RelatedTo | source: maser | generated: oscillation"
+  },
+  {
+    "content": "Is landmeasurement related to oxgang?",
+    "description": "ConceptNet | RelatedTo | source: oxgang | generated: landmeasurement"
+  },
+  {
+    "content": "Is acoustic ceiling used for noise control?",
+    "description": "ConceptNet | UsedFor | source: acoustic ceiling | generated: noise control"
+  },
+  {
+    "content": "Is recording somethign used for data analysis?",
+    "description": "ConceptNet | UsedFor | source: recording somethign | generated: data analysis"
+  },
+  {
+    "content": "Is striking match used for lighting a grill?",
+    "description": "ConceptNet | UsedFor | source: striking match | generated: lighting a grill"
+  },
+  {
+    "content": "Is black related to houdan?",
+    "description": "ConceptNet | RelatedTo | source: houdan | generated: black"
+  },
+  {
+    "content": "Is computer used for data storage?",
+    "description": "ConceptNet | UsedFor | source: computer | generated: data storage"
+  },
+  {
+    "content": "Is calligraphy related to secretary hand?",
+    "description": "ConceptNet | RelatedTo | source: secretary hand | generated: calligraphy"
+  },
+  {
+    "content": "Is obstructing justice used for obstructing a court order?",
+    "description": "ConceptNet | UsedFor | source: obstructing justice | generated: obstructing a court order"
+  },
+  {
+    "content": "Is sparkle related to glimmer?",
+    "description": "ConceptNet | RelatedTo | source: glimmer | generated: sparkle"
+  },
+  {
+    "content": "Is commodity related to offtake?",
+    "description": "ConceptNet | RelatedTo | source: offtake | generated: commodity"
+  },
+  {
+    "content": "Is telecommunications related to voice mail?",
+    "description": "ConceptNet | RelatedTo | source: voice mail | generated: telecommunications"
+  },
+  {
+    "content": "Is movie house used for film exhibition?",
+    "description": "ConceptNet | UsedFor | source: movie house | generated: film exhibition"
+  },
+  {
+    "content": "Is impact cratering related to hadean?",
+    "description": "ConceptNet | RelatedTo | source: hadean | generated: impact cratering"
+  },
+  {
+    "content": "Is committing to memory used for performing on stage?",
+    "description": "ConceptNet | UsedFor | source: committing to memory | generated: performing on stage"
+  },
+  {
+    "content": "Is going to laundromat used for maintaining uniforms?",
+    "description": "ConceptNet | UsedFor | source: going to laundromat | generated: maintaining uniforms"
+  },
+  {
+    "content": "Is pencil related to nib?",
+    "description": "ConceptNet | RelatedTo | source: nib | generated: pencil"
+  },
+  {
+    "content": "Is cannonball used for artillery training?",
+    "description": "ConceptNet | UsedFor | source: cannonball | generated: artillery training"
+  },
+  {
+    "content": "Is captain used for steering?",
+    "description": "ConceptNet | UsedFor | source: captain | generated: steering"
+  },
+  {
+    "content": "Is instrument used for surgery?",
+    "description": "ConceptNet | UsedFor | source: instrument | generated: surgery"
+  },
+  {
+    "content": "Is photochemical smog related to sulfur dioxide?",
+    "description": "ConceptNet | RelatedTo | source: sulfur dioxide | generated: photochemical smog"
+  },
+  {
+    "content": "Is [\"DNA related to histone?",
+    "description": "ConceptNet | RelatedTo | source: histone | generated: [\"DNA"
+  },
+  {
+    "content": "Is flexibility related to lithe?",
+    "description": "ConceptNet | RelatedTo | source: lithe | generated: flexibility"
+  },
+  {
+    "content": "Is escape related to cop out?",
+    "description": "ConceptNet | RelatedTo | source: cop out | generated: escape"
+  },
+  {
+    "content": "Is e-reader related to tablet?",
+    "description": "ConceptNet | RelatedTo | source: tablet | generated: e-reader"
+  },
+  {
+    "content": "Is front yard used for playing?",
+    "description": "ConceptNet | UsedFor | source: front yard | generated: playing"
+  },
+  {
+    "content": "Is writing program used for software development?",
+    "description": "ConceptNet | UsedFor | source: writing program | generated: software development"
+  },
+  {
+    "content": "Is entity type related to entity?",
+    "description": "ConceptNet | RelatedTo | source: entity | generated: entity type"
+  },
+  {
+    "content": "Is ocean used for aquatic sports?",
+    "description": "ConceptNet | UsedFor | source: ocean | generated: aquatic sports"
+  },
+  {
+    "content": "Is home entertainment related to media center?",
+    "description": "ConceptNet | RelatedTo | source: media center | generated: home entertainment"
+  },
+  {
+    "content": "Is office used for professional collaboration?",
+    "description": "ConceptNet | UsedFor | source: office | generated: professional collaboration"
+  },
+  {
+    "content": "Is having bath used for [  \"cleaning the body?",
+    "description": "ConceptNet | UsedFor | source: having bath | generated: [  \"cleaning the body"
+  },
+  {
+    "content": "Is Mountain related to meru?",
+    "description": "ConceptNet | RelatedTo | source: meru | generated: Mountain"
+  },
+  {
+    "content": "Is porch used for reading?",
+    "description": "ConceptNet | UsedFor | source: porch | generated: reading"
+  },
+  {
+    "content": "Is horse used for sports like polo?",
+    "description": "ConceptNet | UsedFor | source: horse | generated: sports like polo"
+  },
+  {
+    "content": "Is serving justice used for restoring balance?",
+    "description": "ConceptNet | UsedFor | source: serving justice | generated: restoring balance"
+  },
+  {
+    "content": "Is linen closet used for containing spare pillowcases?",
+    "description": "ConceptNet | UsedFor | source: linen closet | generated: containing spare pillowcases"
+  },
+  {
+    "content": "Is stairs up used for public transportation?",
+    "description": "ConceptNet | UsedFor | source: stairs up | generated: public transportation"
+  },
+  {
+    "content": "Is geographic_transposition related to transposition?",
+    "description": "ConceptNet | RelatedTo | source: transposition | generated: geographic_transposition"
+  },
+  {
+    "content": "Is demonym related to patrial?",
+    "description": "ConceptNet | RelatedTo | source: patrial | generated: demonym"
+  },
+  {
+    "content": "Is Neuroprotective related to parkin?",
+    "description": "ConceptNet | RelatedTo | source: parkin | generated: Neuroprotective"
+  },
+  {
+    "content": "Is lens related to rim?",
+    "description": "ConceptNet | RelatedTo | source: rim | generated: lens"
+  },
+  {
+    "content": "Is focus related to close up?",
+    "description": "ConceptNet | RelatedTo | source: close up | generated: focus"
+  },
+  {
+    "content": "Is music related to chime?",
+    "description": "ConceptNet | RelatedTo | source: chime | generated: music"
+  },
+  {
+    "content": "Is bidet used for plumbing installation?",
+    "description": "ConceptNet | UsedFor | source: bidet | generated: plumbing installation"
+  },
+  {
+    "content": "Is Neanderthal related to troglodytism?",
+    "description": "ConceptNet | RelatedTo | source: troglodytism | generated: Neanderthal"
+  },
+  {
+    "content": "Is diagram related to schematic drawing?",
+    "description": "ConceptNet | RelatedTo | source: schematic drawing | generated: diagram"
+  },
+  {
+    "content": "Is coin related to cash?",
+    "description": "ConceptNet | RelatedTo | source: cash | generated: coin"
+  },
+  {
+    "content": "Is seafood related to tuna?",
+    "description": "ConceptNet | RelatedTo | source: tuna | generated: seafood"
+  },
+  {
+    "content": "Is immunocompromised related to susceptible?",
+    "description": "ConceptNet | RelatedTo | source: susceptible | generated: immunocompromised"
+  },
+  {
+    "content": "Is wooden rod used for tool handle?",
+    "description": "ConceptNet | UsedFor | source: wooden rod | generated: tool handle"
+  },
+  {
+    "content": "Is equivalence related to dimensional analysis?",
+    "description": "ConceptNet | RelatedTo | source: dimensional analysis | generated: equivalence"
+  },
+  {
+    "content": "Is gluon related to dibaryon?",
+    "description": "ConceptNet | RelatedTo | source: dibaryon | generated: gluon"
+  },
+  {
+    "content": "Is alloy related to mild steel?",
+    "description": "ConceptNet | RelatedTo | source: mild steel | generated: alloy"
+  },
+  {
+    "content": "Is transcendence related to divinity?",
+    "description": "ConceptNet | RelatedTo | source: divinity | generated: transcendence"
+  },
+  {
+    "content": "Is talking to used for networking?",
+    "description": "ConceptNet | UsedFor | source: talking to | generated: networking"
+  },
+  {
+    "content": "Is book end used for bookshelf display?",
+    "description": "ConceptNet | UsedFor | source: book end | generated: bookshelf display"
+  },
+  {
+    "content": "Is salon used for social gatherings?",
+    "description": "ConceptNet | UsedFor | source: salon | generated: social gatherings"
+  },
+  {
+    "content": "Is intestate succession related to escheat?",
+    "description": "ConceptNet | RelatedTo | source: escheat | generated: intestate succession"
+  },
+  {
+    "content": "Is cannonball used for fortification demolition?",
+    "description": "ConceptNet | UsedFor | source: cannonball | generated: fortification demolition"
+  },
+  {
+    "content": "Is chic related to fancy?",
+    "description": "ConceptNet | RelatedTo | source: fancy | generated: chic"
+  },
+  {
+    "content": "Is leather used for jackets and coats?",
+    "description": "ConceptNet | UsedFor | source: leather | generated: jackets and coats"
+  },
+  {
+    "content": "Is doll used for cultural representation?",
+    "description": "ConceptNet | UsedFor | source: doll | generated: cultural representation"
+  },
+  {
+    "content": "Is blacksmith related to anvil?",
+    "description": "ConceptNet | RelatedTo | source: anvil | generated: blacksmith"
+  },
+  {
+    "content": "Is article in newspaper used for informing public?",
+    "description": "ConceptNet | UsedFor | source: article in newspaper | generated: informing public"
+  },
+  {
+    "content": "Is frisbee used for recreational activity?",
+    "description": "ConceptNet | UsedFor | source: frisbee | generated: recreational activity"
+  },
+  {
+    "content": "Is oven used for baking cookies?",
+    "description": "ConceptNet | UsedFor | source: oven | generated: baking cookies"
+  },
+  {
+    "content": "Is tower used for tourism?",
+    "description": "ConceptNet | UsedFor | source: tower | generated: tourism"
+  },
+  {
+    "content": "Is male_reproductive_system related to male?",
+    "description": "ConceptNet | RelatedTo | source: male | generated: male_reproductive_system"
+  },
+  {
+    "content": "Is capacity related to large?",
+    "description": "ConceptNet | RelatedTo | source: large | generated: capacity"
+  },
+  {
+    "content": "Is neurology related to pneumoencephalography?",
+    "description": "ConceptNet | RelatedTo | source: pneumoencephalography | generated: neurology"
+  },
+  {
+    "content": "Is Chicago related to olney?",
+    "description": "ConceptNet | RelatedTo | source: olney | generated: Chicago"
+  },
+  {
+    "content": "Is judge related to beholder?",
+    "description": "ConceptNet | RelatedTo | source: beholder | generated: judge"
+  },
+  {
+    "content": "Is glint related to glimmer?",
+    "description": "ConceptNet | RelatedTo | source: glimmer | generated: glint"
+  },
+  {
+    "content": "Is hotel used for hospitality?",
+    "description": "ConceptNet | UsedFor | source: hotel | generated: hospitality"
+  },
+  {
+    "content": "Is strategy related to gamesmanship?",
+    "description": "ConceptNet | RelatedTo | source: gamesmanship | generated: strategy"
+  },
+  {
+    "content": "Is leader related to chancellor?",
+    "description": "ConceptNet | RelatedTo | source: chancellor | generated: leader"
+  },
+  {
+    "content": "Is pail used for [  \"carrying water?",
+    "description": "ConceptNet | UsedFor | source: pail | generated: [  \"carrying water"
+  },
+  {
+    "content": "Is museum used for interactive experiences?",
+    "description": "ConceptNet | UsedFor | source: museum | generated: interactive experiences"
+  },
+  {
+    "content": "Is crafting related to anvil?",
+    "description": "ConceptNet | RelatedTo | source: anvil | generated: crafting"
+  },
+  {
+    "content": "Is emotional support related to counselor?",
+    "description": "ConceptNet | RelatedTo | source: counselor | generated: emotional support"
+  },
+  {
+    "content": "Is having checkup used for assessing fitness levels?",
+    "description": "ConceptNet | UsedFor | source: having checkup | generated: assessing fitness levels"
+  },
+  {
+    "content": "Is flirting used for building rapport?",
+    "description": "ConceptNet | UsedFor | source: flirting | generated: building rapport"
+  },
+  {
+    "content": "Is balanced diet related to clean eating?",
+    "description": "ConceptNet | RelatedTo | source: clean eating | generated: balanced diet"
+  },
+  {
+    "content": "Is exam table used for healthcare provider accessibility?",
+    "description": "ConceptNet | UsedFor | source: exam table | generated: healthcare provider accessibility"
+  },
+  {
+    "content": "Is fundamental related to simple?",
+    "description": "ConceptNet | RelatedTo | source: simple | generated: fundamental"
+  },
+  {
+    "content": "Is healthy eating related to dressing stick?",
+    "description": "ConceptNet | RelatedTo | source: dressing stick | generated: healthy eating"
+  },
+  {
+    "content": "Is crossing street used for commuting?",
+    "description": "ConceptNet | UsedFor | source: crossing street | generated: commuting"
+  },
+  {
+    "content": "Is ottoman used for furniture?",
+    "description": "ConceptNet | UsedFor | source: ottoman | generated: furniture"
+  },
+  {
+    "content": "Is attitude related to demean?",
+    "description": "ConceptNet | RelatedTo | source: demean | generated: attitude"
+  },
+  {
+    "content": "Is tin used for creating alloys?",
+    "description": "ConceptNet | UsedFor | source: tin | generated: creating alloys"
+  },
+  {
+    "content": "Is horse used for riding?",
+    "description": "ConceptNet | UsedFor | source: horse | generated: riding"
+  },
+  {
+    "content": "Is healing related to blister?",
+    "description": "ConceptNet | RelatedTo | source: blister | generated: healing"
+  },
+  {
+    "content": "Is ball related to bowling green?",
+    "description": "ConceptNet | RelatedTo | source: bowling green | generated: ball"
+  },
+  {
+    "content": "Is spawn related to bind on pickup?",
+    "description": "ConceptNet | RelatedTo | source: bind on pickup | generated: spawn"
+  },
+  {
+    "content": "Is queen used for bridge scoring?",
+    "description": "ConceptNet | UsedFor | source: queen | generated: bridge scoring"
+  },
+  {
+    "content": "Is robotics related to singularity?",
+    "description": "ConceptNet | RelatedTo | source: singularity | generated: robotics"
+  },
+  {
+    "content": "Is wedding ring used for wedding ceremony accessory?",
+    "description": "ConceptNet | UsedFor | source: wedding ring | generated: wedding ceremony accessory"
+  },
+  {
+    "content": "Is grasper used for articulated arm control?",
+    "description": "ConceptNet | UsedFor | source: grasper | generated: articulated arm control"
+  },
+  {
+    "content": "Is trash related to janitor?",
+    "description": "ConceptNet | RelatedTo | source: janitor | generated: trash"
+  },
+  {
+    "content": "Is cardboard box used for storage container?",
+    "description": "ConceptNet | UsedFor | source: cardboard box | generated: storage container"
+  },
+  {
+    "content": "Is seeing movie used for relaxing at home?",
+    "description": "ConceptNet | UsedFor | source: seeing movie | generated: relaxing at home"
+  },
+  {
+    "content": "Is making bread used for making toast?",
+    "description": "ConceptNet | UsedFor | source: making bread | generated: making toast"
+  },
+  {
+    "content": "Is silk used for creating art and paintings?",
+    "description": "ConceptNet | UsedFor | source: silk | generated: creating art and paintings"
+  },
+  {
+    "content": "Is flying kite used for children's activity?",
+    "description": "ConceptNet | UsedFor | source: flying kite | generated: children's activity"
+  },
+  {
+    "content": "Is horn used for trumpet?",
+    "description": "ConceptNet | UsedFor | source: horn | generated: trumpet"
+  }
+]

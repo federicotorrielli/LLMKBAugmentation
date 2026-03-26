@@ -1,0 +1,12 @@
+{
+  "total_csqa_questions": 10962,
+  "prompted_source_concepts": 1000,
+  "csqa_questions_with_prompted_source": 206,
+  "baseline_covered": 41,
+  "augmented_covered": 47,
+  "novel_only_covered": 6,
+  "baseline_coverage_pct": 19.9,
+  "augmented_coverage_pct": 22.82,
+  "coverage_gain_pct": 2.91,
+  "coverage_gain_absolute": 6
+}

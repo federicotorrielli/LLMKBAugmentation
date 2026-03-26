@@ -8,7 +8,7 @@ import os
 import re
 
 # Load the aggregated scores
-csv_path = 'evaluations/automatic_evaluation/aggregated_scores_data.csv'
+csv_path = 'evaluations/auteval/aggregated_scores_data.csv'
 df = pd.read_csv(csv_path)
 
 # Extract model and KB from 'Parent Folder'

@@ -1,0 +1,500 @@
+{"concept": "ping", "llm_concept": "internet", "relation": "related_to", "annotation": "correct"}
+{"concept": "dihedral", "llm_concept": "group", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "abu", "llm_concept": "mosque", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "elg", "llm_concept": "animal", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "low germany", "llm_concept": "netherlands", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "schaghticoke", "llm_concept": "american", "relation": "related_to", "annotation": "correct"}
+{"concept": "spirotrich", "llm_concept": "unicellular", "relation": "related_to", "annotation": "correct"}
+{"concept": "tablespoon", "llm_concept": "recipe", "relation": "related_to", "annotation": "correct"}
+{"concept": "emerald", "llm_concept": "sparkle", "relation": "related_to", "annotation": "correct"}
+{"concept": "popular music", "llm_concept": "dance", "relation": "related_to", "annotation": "correct"}
+{"concept": "demagogue", "llm_concept": "populist", "relation": "related_to", "annotation": "correct"}
+{"concept": "jacked up", "llm_concept": "tricep", "relation": "related_to", "annotation": "correct"}
+{"concept": "resurrectionist", "llm_concept": "anatomy", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "paisley", "llm_concept": "drop", "relation": "related_to", "annotation": "correct"}
+{"concept": "fermi surface", "llm_concept": "hall", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "fucking", "llm_concept": "erotica", "relation": "related_to", "annotation": "correct"}
+{"concept": "crt", "llm_concept": "old", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "historically", "llm_concept": "chronology", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "boot", "llm_concept": "military", "relation": "related_to", "annotation": "correct"}
+{"concept": "barrel process", "llm_concept": "brewing", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "command performance", "llm_concept": "formal", "relation": "related_to", "annotation": "correct"}
+{"concept": "callus", "llm_concept": "finger", "relation": "related_to", "annotation": "correct"}
+{"concept": "authority control", "llm_concept": "library", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "dunce cap", "llm_concept": "discipline", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "renditioning", "llm_concept": "game", "relation": "related_to", "annotation": "correct"}
+{"concept": "amidships", "llm_concept": "midship", "relation": "related_to", "annotation": "correct"}
+{"concept": "epr", "llm_concept": "quantum", "relation": "related_to", "annotation": "correct"}
+{"concept": "clerestory", "llm_concept": "monastery", "relation": "related_to", "annotation": "correct"}
+{"concept": "netty", "llm_concept": "nio", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "shaggy dog story", "llm_concept": "anecdote", "relation": "related_to", "annotation": "correct"}
+{"concept": "pineapple", "llm_concept": "summer", "relation": "related_to", "annotation": "correct"}
+{"concept": "singularity", "llm_concept": "artificial", "relation": "related_to", "annotation": "correct"}
+{"concept": "suppository", "llm_concept": "anatomy", "relation": "related_to", "annotation": "correct"}
+{"concept": "hampton", "llm_concept": "bay", "relation": "related_to", "annotation": "correct"}
+{"concept": "debate", "llm_concept": "rhetoric", "relation": "related_to", "annotation": "correct"}
+{"concept": "bottomness", "llm_concept": "substance", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "nuclear reactor", "llm_concept": "energy", "relation": "related_to", "annotation": "correct"}
+{"concept": "iminoglycinuria", "llm_concept": "stone", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "thomasville", "llm_concept": "table", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "epr", "llm_concept": "reality", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "ministry", "llm_concept": "pastor", "relation": "related_to", "annotation": "correct"}
+{"concept": "introduction", "llm_concept": "start", "relation": "related_to", "annotation": "correct"}
+{"concept": "squilla", "llm_concept": "sea", "relation": "related_to", "annotation": "correct"}
+{"concept": "surround", "llm_concept": "circumstance", "relation": "related_to", "annotation": "correct"}
+{"concept": "thearubigin", "llm_concept": "similarity", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "tragic", "llm_concept": "sad", "relation": "related_to", "annotation": "correct"}
+{"concept": "brainfuck", "llm_concept": "obfuscation", "relation": "related_to", "annotation": "correct"}
+{"concept": "shaanxi", "llm_concept": "river", "relation": "related_to", "annotation": "correct"}
+{"concept": "dictogloss", "llm_concept": "pedagogy", "relation": "related_to", "annotation": "correct"}
+{"concept": "hooker", "llm_concept": "street", "relation": "related_to", "annotation": "correct"}
+{"concept": "purr", "llm_concept": "soft", "relation": "related_to", "annotation": "correct"}
+{"concept": "wold", "llm_concept": "wild", "relation": "related_to", "annotation": "correct"}
+{"concept": "system", "llm_concept": "integration", "relation": "related_to", "annotation": "correct"}
+{"concept": "calhoun", "llm_concept": "john", "relation": "related_to", "annotation": "correct"}
+{"concept": "hurdy gurdy", "llm_concept": "renaissance", "relation": "related_to", "annotation": "correct"}
+{"concept": "p", "llm_concept": "q", "relation": "related_to", "annotation": "correct"}
+{"concept": "jacked up", "llm_concept": "bodybuilding", "relation": "related_to", "annotation": "correct"}
+{"concept": "lebensraum", "llm_concept": "antisemitism", "relation": "related_to", "annotation": "correct"}
+{"concept": "inherent vice", "llm_concept": "cargo", "relation": "related_to", "annotation": "correct"}
+{"concept": "affectation", "llm_concept": "falsehood", "relation": "related_to", "annotation": "correct"}
+{"concept": "pseudostome", "llm_concept": "single", "relation": "related_to", "annotation": "correct"}
+{"concept": "as of right", "llm_concept": "easement", "relation": "related_to", "annotation": "correct"}
+{"concept": "radiate", "llm_concept": "shine", "relation": "related_to", "annotation": "correct"}
+{"concept": "bowling green", "llm_concept": "grass", "relation": "related_to", "annotation": "correct"}
+{"concept": "pa al", "llm_concept": "palest", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "chape", "llm_concept": "style", "relation": "related_to", "annotation": "correct"}
+{"concept": "work refs", "llm_concept": "network", "relation": "related_to", "annotation": "correct"}
+{"concept": "periderm", "llm_concept": "tree", "relation": "related_to", "annotation": "correct"}
+{"concept": "bottomness", "llm_concept": "lowliness", "relation": "related_to", "annotation": "correct"}
+{"concept": "hostelry", "llm_concept": "lodging", "relation": "related_to", "annotation": "correct"}
+{"concept": "side", "llm_concept": "border", "relation": "related_to", "annotation": "correct"}
+{"concept": "shoshone", "llm_concept": "tribe", "relation": "related_to", "annotation": "correct"}
+{"concept": "snatch", "llm_concept": "pluck", "relation": "related_to", "annotation": "correct"}
+{"concept": "caution", "llm_concept": "safety", "relation": "related_to", "annotation": "correct"}
+{"concept": "singularity", "llm_concept": "intelligence", "relation": "related_to", "annotation": "correct"}
+{"concept": "symplectic", "llm_concept": "classical", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "manicure", "llm_concept": "beauty", "relation": "related_to", "annotation": "correct"}
+{"concept": "bottomness", "llm_concept": "baseness", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "slick", "llm_concept": "shiny", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "wicking", "llm_concept": "moisture", "relation": "related_to", "annotation": "correct"}
+{"concept": "marion county", "llm_concept": "west", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "affectation", "llm_concept": "insincerity", "relation": "related_to", "annotation": "correct"}
+{"concept": "quadrangle", "llm_concept": "trapezoid", "relation": "related_to", "annotation": "correct"}
+{"concept": "gluten", "llm_concept": "flour", "relation": "related_to", "annotation": "correct"}
+{"concept": "modus", "llm_concept": "music", "relation": "related_to", "annotation": "correct"}
+{"concept": "panspermy", "llm_concept": "microorganism", "relation": "related_to", "annotation": "correct"}
+{"concept": "throne village", "llm_concept": "feudal", "relation": "related_to", "annotation": "correct"}
+{"concept": "conatus", "llm_concept": "actuality", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "demand", "llm_concept": "product", "relation": "related_to", "annotation": "correct"}
+{"concept": "animal welfare", "llm_concept": "ethic", "relation": "related_to", "annotation": "correct"}
+{"concept": "lazarus sign", "llm_concept": "experience", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "equation", "llm_concept": "mathematics", "relation": "related_to", "annotation": "correct"}
+{"concept": "eager", "llm_concept": "hungry", "relation": "related_to", "annotation": "correct"}
+{"concept": "chancellor", "llm_concept": "minister", "relation": "related_to", "annotation": "correct"}
+{"concept": "play by play", "llm_concept": "narration", "relation": "related_to", "annotation": "correct"}
+{"concept": "haskell", "llm_concept": "inference", "relation": "related_to", "annotation": "correct"}
+{"concept": "absoluteness", "llm_concept": "infallibility", "relation": "related_to", "annotation": "correct"}
+{"concept": "spicule", "llm_concept": "star", "relation": "related_to", "annotation": "correct"}
+{"concept": "heraldry", "llm_concept": "family", "relation": "related_to", "annotation": "correct"}
+{"concept": "growth", "llm_concept": "progress", "relation": "related_to", "annotation": "correct"}
+{"concept": "make over", "llm_concept": "metamorphosis", "relation": "related_to", "annotation": "correct"}
+{"concept": "palate", "llm_concept": "tongue", "relation": "related_to", "annotation": "correct"}
+{"concept": "reduction", "llm_concept": "elimination", "relation": "related_to", "annotation": "correct"}
+{"concept": "con", "llm_concept": "opinion", "relation": "related_to", "annotation": "correct"}
+{"concept": "moray", "llm_concept": "marine", "relation": "related_to", "annotation": "correct"}
+{"concept": "matter of britain", "llm_concept": "guinevere", "relation": "related_to", "annotation": "correct"}
+{"concept": "moose", "llm_concept": "nature", "relation": "related_to", "annotation": "correct"}
+{"concept": "apollonian", "llm_concept": "harmony", "relation": "related_to", "annotation": "correct"}
+{"concept": "derbyshire", "llm_concept": "countryside", "relation": "related_to", "annotation": "correct"}
+{"concept": "as of right", "llm_concept": "ownership", "relation": "related_to", "annotation": "correct"}
+{"concept": "kilt", "llm_concept": "highland", "relation": "related_to", "annotation": "correct"}
+{"concept": "lug", "llm_concept": "bag", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "cattle drive", "llm_concept": "range", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "fireball", "llm_concept": "space", "relation": "related_to", "annotation": "correct"}
+{"concept": "blow whistle", "llm_concept": "sport", "relation": "related_to", "annotation": "correct"}
+{"concept": "cyclic", "llm_concept": "periodic", "relation": "related_to", "annotation": "correct"}
+{"concept": "phasianid", "llm_concept": "gamebird", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "elkhart", "llm_concept": "michigan", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "injera", "llm_concept": "fermentation", "relation": "related_to", "annotation": "correct"}
+{"concept": "clinoholmquistite", "llm_concept": "metamorphic", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "texel", "llm_concept": "graphic", "relation": "related_to", "annotation": "correct"}
+{"concept": "blue bonnet", "llm_concept": "flower", "relation": "related_to", "annotation": "correct"}
+{"concept": "singularity", "llm_concept": "transhumanism", "relation": "related_to", "annotation": "correct"}
+{"concept": "bosphorus", "llm_concept": "byzantine", "relation": "related_to", "annotation": "correct"}
+{"concept": "bust move", "llm_concept": "freeze", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "nightclub", "llm_concept": "dj", "relation": "related_to", "annotation": "correct"}
+{"concept": "english disease", "llm_concept": "deficiency", "relation": "related_to", "annotation": "correct"}
+{"concept": "episodic memory", "llm_concept": "autobiographical", "relation": "related_to", "annotation": "correct"}
+{"concept": "objectivity", "llm_concept": "factuality", "relation": "related_to", "annotation": "correct"}
+{"concept": "squilla", "llm_concept": "crustacean", "relation": "related_to", "annotation": "correct"}
+{"concept": "northern cardinal", "llm_concept": "mating", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "seaman", "llm_concept": "ocean", "relation": "related_to", "annotation": "correct"}
+{"concept": "gamesmanship", "llm_concept": "psychology", "relation": "related_to", "annotation": "correct"}
+{"concept": "euthyneury", "llm_concept": "skeletal", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "frith", "llm_concept": "friendship", "relation": "related_to", "annotation": "correct"}
+{"concept": "nib", "llm_concept": "calligraphy", "relation": "related_to", "annotation": "correct"}
+{"concept": "recreational pharmaceutical", "llm_concept": "high", "relation": "related_to", "annotation": "correct"}
+{"concept": "paradigmatic", "llm_concept": "saussure", "relation": "related_to", "annotation": "correct"}
+{"concept": "moose", "llm_concept": "canada", "relation": "related_to", "annotation": "correct"}
+{"concept": "large", "llm_concept": "space", "relation": "related_to", "annotation": "correct"}
+{"concept": "liquorice", "llm_concept": "twist", "relation": "related_to", "annotation": "correct"}
+{"concept": "glenville", "llm_concept": "virginia", "relation": "related_to", "annotation": "correct"}
+{"concept": "pilgrimage", "llm_concept": "religion", "relation": "related_to", "annotation": "correct"}
+{"concept": "autochthon", "llm_concept": "ethnic", "relation": "related_to", "annotation": "correct"}
+{"concept": "series", "llm_concept": "pattern", "relation": "related_to", "annotation": "correct"}
+{"concept": "problem play", "llm_concept": "tragedy", "relation": "related_to", "annotation": "correct"}
+{"concept": "cuddy", "llm_concept": "snuggle", "relation": "related_to", "annotation": "correct"}
+{"concept": "blowout preventer", "llm_concept": "offshore", "relation": "related_to", "annotation": "correct"}
+{"concept": "marfa light", "llm_concept": "sighting", "relation": "related_to", "annotation": "correct"}
+{"concept": "spire", "llm_concept": "building", "relation": "related_to", "annotation": "correct"}
+{"concept": "sprint", "llm_concept": "distance", "relation": "related_to", "annotation": "correct"}
+{"concept": "oligomeric", "llm_concept": "molecular", "relation": "related_to", "annotation": "correct"}
+{"concept": "ritual", "llm_concept": "spiritual", "relation": "related_to", "annotation": "correct"}
+{"concept": "dichromate", "llm_concept": "agent", "relation": "related_to", "annotation": "correct"}
+{"concept": "fifth", "llm_concept": "quarter", "relation": "related_to", "annotation": "correct"}
+{"concept": "derbyshire", "llm_concept": "derby", "relation": "related_to", "annotation": "correct"}
+{"concept": "lacquer", "llm_concept": "protective", "relation": "related_to", "annotation": "correct"}
+{"concept": "stater", "llm_concept": "designer", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "ejaculate", "llm_concept": "vasectomy", "relation": "related_to", "annotation": "correct"}
+{"concept": "japanese", "llm_concept": "samurai", "relation": "related_to", "annotation": "correct"}
+{"concept": "affine", "llm_concept": "matrix", "relation": "related_to", "annotation": "correct"}
+{"concept": "pork", "llm_concept": "roast", "relation": "related_to", "annotation": "correct"}
+{"concept": "recidivism", "llm_concept": "parole", "relation": "related_to", "annotation": "correct"}
+{"concept": "procedure", "llm_concept": "algorithm", "relation": "related_to", "annotation": "correct"}
+{"concept": "specificker", "llm_concept": "specifier", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "hyperpipecolatemia", "llm_concept": "neonatal", "relation": "related_to", "annotation": "correct"}
+{"concept": "hooker", "llm_concept": "enforcement", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "rennet", "llm_concept": "milk", "relation": "related_to", "annotation": "correct"}
+{"concept": "dimensional analysis", "llm_concept": "dimensional", "relation": "related_to", "annotation": "correct"}
+{"concept": "aeronautics", "llm_concept": "engineering", "relation": "related_to", "annotation": "correct"}
+{"concept": "tranche", "llm_concept": "securitization", "relation": "related_to", "annotation": "correct"}
+{"concept": "cutwidth", "llm_concept": "topology", "relation": "related_to", "annotation": "correct"}
+{"concept": "swimsuit", "llm_concept": "tan", "relation": "related_to", "annotation": "correct"}
+{"concept": "lay by", "llm_concept": "vacation", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "insucken", "llm_concept": "let", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "education", "llm_concept": "student", "relation": "related_to", "annotation": "correct"}
+{"concept": "finders keepers", "llm_concept": "rule", "relation": "related_to", "annotation": "correct"}
+{"concept": "allonym", "llm_concept": "fiction", "relation": "related_to", "annotation": "correct"}
+{"concept": "overcall", "llm_concept": "bridge", "relation": "related_to", "annotation": "correct"}
+{"concept": "elg", "llm_concept": "wildlife", "relation": "related_to", "annotation": "correct"}
+{"concept": "work refs", "llm_concept": "resume", "relation": "related_to", "annotation": "correct"}
+{"concept": "hagberry", "llm_concept": "wild", "relation": "related_to", "annotation": "correct"}
+{"concept": "inherent vice", "llm_concept": "peril", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "pilot balloon observation", "llm_concept": "forecasting", "relation": "related_to", "annotation": "correct"}
+{"concept": "inform", "llm_concept": "notify", "relation": "related_to", "annotation": "correct"}
+{"concept": "hurdy gurdy", "llm_concept": "stringed", "relation": "related_to", "annotation": "correct"}
+{"concept": "rennet", "llm_concept": "curd", "relation": "related_to", "annotation": "correct"}
+{"concept": "colonialism", "llm_concept": "colonialism", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "miscreant", "llm_concept": "malefactor", "relation": "related_to", "annotation": "correct"}
+{"concept": "malcontent", "llm_concept": "bitterness", "relation": "related_to", "annotation": "correct"}
+{"concept": "ventilate", "llm_concept": "exhale", "relation": "related_to", "annotation": "correct"}
+{"concept": "rentier", "llm_concept": "landlord", "relation": "related_to", "annotation": "correct"}
+{"concept": "bray", "llm_concept": "noise", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "operculum", "llm_concept": "calcium", "relation": "related_to", "annotation": "correct"}
+{"concept": "chime", "llm_concept": "clock", "relation": "related_to", "annotation": "correct"}
+{"concept": "champagne", "llm_concept": "toast", "relation": "related_to", "annotation": "correct"}
+{"concept": "arrow of time", "llm_concept": "temporal", "relation": "related_to", "annotation": "correct"}
+{"concept": "luna", "llm_concept": "eclipse", "relation": "related_to", "annotation": "correct"}
+{"concept": "funny", "llm_concept": "comedy", "relation": "related_to", "annotation": "correct"}
+{"concept": "boling", "llm_concept": "lane", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "trial by fire", "llm_concept": "challenge", "relation": "related_to", "annotation": "correct"}
+{"concept": "relent", "llm_concept": "mercy", "relation": "related_to", "annotation": "correct"}
+{"concept": "functional group", "llm_concept": "bond", "relation": "related_to", "annotation": "correct"}
+{"concept": "crt", "llm_concept": "vintage", "relation": "related_to", "annotation": "correct"}
+{"concept": "basis", "llm_concept": "reason", "relation": "related_to", "annotation": "correct"}
+{"concept": "american", "llm_concept": "california", "relation": "related_to", "annotation": "correct"}
+{"concept": "demagogue", "llm_concept": "manipulation", "relation": "related_to", "annotation": "correct"}
+{"concept": "abuse", "llm_concept": "harassment", "relation": "related_to", "annotation": "correct"}
+{"concept": "work refs", "llm_concept": "application", "relation": "related_to", "annotation": "correct"}
+{"concept": "probole", "llm_concept": "insect", "relation": "related_to", "annotation": "correct"}
+{"concept": "david", "llm_concept": "jonathan", "relation": "related_to", "annotation": "correct"}
+{"concept": "pimpernel", "llm_concept": "pink", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "close up", "llm_concept": "inspection", "relation": "related_to", "annotation": "correct"}
+{"concept": "northern cardinal", "llm_concept": "winter", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "conatus", "llm_concept": "baruch", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "jug", "llm_concept": "water", "relation": "related_to", "annotation": "correct"}
+{"concept": "hardin county", "llm_concept": "fort", "relation": "related_to", "annotation": "correct"}
+{"concept": "pooh", "llm_concept": "christopher", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "belton", "llm_concept": "equestrian", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "jinshi", "llm_concept": "confucianism", "relation": "related_to", "annotation": "correct"}
+{"concept": "secretary hand", "llm_concept": "script", "relation": "related_to", "annotation": "correct"}
+{"concept": "periderm", "llm_concept": "anatomy", "relation": "related_to", "annotation": "correct"}
+{"concept": "symmedian", "llm_concept": "orthocentre", "relation": "related_to", "annotation": "correct"}
+{"concept": "no matter what", "llm_concept": "exception", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "junior", "llm_concept": "college", "relation": "related_to", "annotation": "correct"}
+{"concept": "balebos", "llm_concept": "yiddish", "relation": "related_to", "annotation": "correct"}
+{"concept": "physic", "llm_concept": "gravity", "relation": "related_to", "annotation": "correct"}
+{"concept": "lithe", "llm_concept": "quick", "relation": "related_to", "annotation": "correct"}
+{"concept": "downhill", "llm_concept": "adventure", "relation": "related_to", "annotation": "correct"}
+{"concept": "indigested", "llm_concept": "constipation", "relation": "related_to", "annotation": "correct"}
+{"concept": "throne village", "llm_concept": "kingdom", "relation": "related_to", "annotation": "correct"}
+{"concept": "alma", "llm_concept": "soul", "relation": "related_to", "annotation": "correct"}
+{"concept": "bald", "llm_concept": "balding", "relation": "related_to", "annotation": "correct"}
+{"concept": "hostelry", "llm_concept": "travel", "relation": "related_to", "annotation": "correct"}
+{"concept": "languor", "llm_concept": "fatigue", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "pimpernel", "llm_concept": "medicinal", "relation": "related_to", "annotation": "correct"}
+{"concept": "frieze", "llm_concept": "greek", "relation": "related_to", "annotation": "correct"}
+{"concept": "deem", "llm_concept": "decree", "relation": "related_to", "annotation": "correct"}
+{"concept": "get in", "llm_concept": "involve", "relation": "related_to", "annotation": "correct"}
+{"concept": "fettle", "llm_concept": "shape", "relation": "related_to", "annotation": "correct"}
+{"concept": "holiday", "llm_concept": "relaxation", "relation": "related_to", "annotation": "correct"}
+{"concept": "ling", "llm_concept": "linguistics", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "troglodytism", "llm_concept": "anthropology", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "modus", "llm_concept": "logic", "relation": "related_to", "annotation": "correct"}
+{"concept": "inform", "llm_concept": "educate", "relation": "related_to", "annotation": "correct"}
+{"concept": "rankness", "llm_concept": "order", "relation": "related_to", "annotation": "correct"}
+{"concept": "derived unit", "llm_concept": "conversion", "relation": "related_to", "annotation": "correct"}
+{"concept": "sensible", "llm_concept": "reasonable", "relation": "related_to", "annotation": "incorrect"}
+{"concept": "gleam", "llm_concept": "glow", "relation": "related_to", "annotation": "correct"}
+{"concept": "specie", "llm_concept": "habitat", "relation": "related_to", "annotation": "correct"}
+{"concept": "key case", "llm_concept": "usb", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "getting physical activity", "llm_concept": "energy", "relation": "used_for", "annotation": "correct"}
+{"concept": "running in marathon", "llm_concept": "weight", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "shopping bag", "llm_concept": "diaper", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "rug", "llm_concept": "defining", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "checkbook cover", "llm_concept": "business", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "starting family", "llm_concept": "married", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "canal", "llm_concept": "fishing", "relation": "used_for", "annotation": "correct"}
+{"concept": "basket with handle", "llm_concept": "displaying", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "earth", "llm_concept": "exploration", "relation": "used_for", "annotation": "correct"}
+{"concept": "crash cymbal", "llm_concept": "rock", "relation": "used_for", "annotation": "correct"}
+{"concept": "air conditioning", "llm_concept": "increasing", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "hair", "llm_concept": "adornment", "relation": "used_for", "annotation": "correct"}
+{"concept": "billfold", "llm_concept": "cash", "relation": "used_for", "annotation": "correct"}
+{"concept": "surfing web", "llm_concept": "video", "relation": "used_for", "annotation": "correct"}
+{"concept": "opening business", "llm_concept": "realizing", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "advertisement", "llm_concept": "building", "relation": "used_for", "annotation": "correct"}
+{"concept": "hose", "llm_concept": "floor", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "ranch", "llm_concept": "ranch", "relation": "used_for", "annotation": "wrong"}
+{"concept": "fiddling", "llm_concept": "improvising", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "reading", "llm_concept": "enhancing", "relation": "used_for", "annotation": "correct"}
+{"concept": "first class airplane seat", "llm_concept": "anniversary", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "pillow case", "llm_concept": "decorating", "relation": "used_for", "annotation": "correct"}
+{"concept": "accordian bag", "llm_concept": "storing", "relation": "used_for", "annotation": "correct"}
+{"concept": "attach case", "llm_concept": "gadget", "relation": "used_for", "annotation": "correct"}
+{"concept": "shopping mall", "llm_concept": "playing", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "queen", "llm_concept": "drag", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "sand", "llm_concept": "castle", "relation": "used_for", "annotation": "correct"}
+{"concept": "having checkup", "llm_concept": "disease", "relation": "used_for", "annotation": "correct"}
+{"concept": "handling proposals", "llm_concept": "assessing", "relation": "used_for", "annotation": "correct"}
+{"concept": "fitting room", "llm_concept": "advice", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "terrace", "llm_concept": "relaxing", "relation": "used_for", "annotation": "correct"}
+{"concept": "clipboard", "llm_concept": "managing", "relation": "used_for", "annotation": "correct"}
+{"concept": "skiing", "llm_concept": "landscape", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "exam table", "llm_concept": "vaccination", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "attending school", "llm_concept": "personal", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "liquor glass", "llm_concept": "sipping", "relation": "used_for", "annotation": "correct"}
+{"concept": "clothing closet", "llm_concept": "storing", "relation": "used_for", "annotation": "correct"}
+{"concept": "tower", "llm_concept": "skyline", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "taking course", "llm_concept": "gaining", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "box", "llm_concept": "moving", "relation": "used_for", "annotation": "correct"}
+{"concept": "neckwear", "llm_concept": "elegance", "relation": "used_for", "annotation": "correct"}
+{"concept": "book end", "llm_concept": "collection", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "cat", "llm_concept": "relaxation", "relation": "used_for", "annotation": "correct"}
+{"concept": "hallway", "llm_concept": "hide", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "going to restaurant", "llm_concept": "unwinding", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "neckwear", "llm_concept": "outfit", "relation": "used_for", "annotation": "correct"}
+{"concept": "coat", "llm_concept": "keeping", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "hearing crowd go mad", "llm_concept": "historic", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "bottom of ocean", "llm_concept": "oil", "relation": "used_for", "annotation": "correct"}
+{"concept": "umbrella", "llm_concept": "sun", "relation": "used_for", "annotation": "correct"}
+{"concept": "meeting friend", "llm_concept": "sharing", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "pike", "llm_concept": "fishing", "relation": "used_for", "annotation": "correct"}
+{"concept": "dancing samba", "llm_concept": "carnival", "relation": "used_for", "annotation": "correct"}
+{"concept": "dying", "llm_concept": "life", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "seeing artifacts", "llm_concept": "researching", "relation": "used_for", "annotation": "correct"}
+{"concept": "hotel", "llm_concept": "leisure", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "competing against", "llm_concept": "another", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "health food store", "llm_concept": "buying", "relation": "used_for", "annotation": "correct"}
+{"concept": "can", "llm_concept": "carrying", "relation": "used_for", "annotation": "correct"}
+{"concept": "garbage can", "llm_concept": "trash", "relation": "used_for", "annotation": "correct"}
+{"concept": "key case", "llm_concept": "organizing", "relation": "used_for", "annotation": "correct"}
+{"concept": "reception", "llm_concept": "wedding", "relation": "used_for", "annotation": "correct"}
+{"concept": "call", "llm_concept": "ordering", "relation": "used_for", "annotation": "correct"}
+{"concept": "forgiving", "llm_concept": "go", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "heat source", "llm_concept": "hot", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "stepladder", "llm_concept": "hanging", "relation": "used_for", "annotation": "correct"}
+{"concept": "shareholder", "llm_concept": "influencing", "relation": "used_for", "annotation": "correct"}
+{"concept": "notepad", "llm_concept": "studying", "relation": "used_for", "annotation": "correct"}
+{"concept": "buying food", "llm_concept": "running", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "wardrobe", "llm_concept": "planning", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "bookshelf", "llm_concept": "literature", "relation": "used_for", "annotation": "correct"}
+{"concept": "comforting friend", "llm_concept": "giving", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "taking course", "llm_concept": "achieving", "relation": "used_for", "annotation": "correct"}
+{"concept": "drinking alcohol", "llm_concept": "friend", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "writing program", "llm_concept": "analyzing", "relation": "used_for", "annotation": "correct"}
+{"concept": "instrument triangle", "llm_concept": "pattern", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "viewing film at home", "llm_concept": "film", "relation": "used_for", "annotation": "correct"}
+{"concept": "reading letter", "llm_concept": "sending", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "flying kite", "llm_concept": "festival", "relation": "used_for", "annotation": "correct"}
+{"concept": "chess pawn", "llm_concept": "advantage", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "acrylic", "llm_concept": "cosmetic", "relation": "used_for", "annotation": "correct"}
+{"concept": "arm", "llm_concept": "high", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "tablespoon", "llm_concept": "salad", "relation": "used_for", "annotation": "correct"}
+{"concept": "walking in rain", "llm_concept": "date", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "tooth", "llm_concept": "chewing", "relation": "used_for", "annotation": "correct"}
+{"concept": "brick row house", "llm_concept": "city", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "going for haircut", "llm_concept": "rid", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "passing course", "llm_concept": "achieving", "relation": "used_for", "annotation": "correct"}
+{"concept": "air conditioner", "llm_concept": "room", "relation": "used_for", "annotation": "correct"}
+{"concept": "motherboard", "llm_concept": "installing", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "baseball field", "llm_concept": "activity", "relation": "used_for", "annotation": "correct"}
+{"concept": "acting in play", "llm_concept": "teamwork", "relation": "used_for", "annotation": "correct"}
+{"concept": "football field", "llm_concept": "shooting", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "staying in bed", "llm_concept": "recovering", "relation": "used_for", "annotation": "correct"}
+{"concept": "steel cable", "llm_concept": "towing", "relation": "used_for", "annotation": "correct"}
+{"concept": "net", "llm_concept": "climbing", "relation": "used_for", "annotation": "correct"}
+{"concept": "museum wing", "llm_concept": "hosting", "relation": "used_for", "annotation": "correct"}
+{"concept": "using vcr", "llm_concept": "watching", "relation": "used_for", "annotation": "correct"}
+{"concept": "eating dinner", "llm_concept": "friend", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "flirting", "llm_concept": "breaking", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "using vcr", "llm_concept": "music", "relation": "used_for", "annotation": "correct"}
+{"concept": "cereal bowl", "llm_concept": "ingredient", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "praying", "llm_concept": "asking", "relation": "used_for", "annotation": "correct"}
+{"concept": "setting cup on table", "llm_concept": "putting", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "general store", "llm_concept": "buying", "relation": "used_for", "annotation": "correct"}
+{"concept": "mirror", "llm_concept": "room", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "toy ball", "llm_concept": "skill", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "pulpit", "llm_concept": "worship", "relation": "used_for", "annotation": "correct"}
+{"concept": "stairwell", "llm_concept": "level", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "explosive", "llm_concept": "system", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "checking vital signs", "llm_concept": "medical", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "reception desk", "llm_concept": "providing", "relation": "used_for", "annotation": "correct"}
+{"concept": "toilet tank", "llm_concept": "consumption", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "skylight", "llm_concept": "property", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "coffee table", "llm_concept": "plant", "relation": "used_for", "annotation": "correct"}
+{"concept": "memo pad", "llm_concept": "jotting", "relation": "used_for", "annotation": "correct"}
+{"concept": "crash cymbal", "llm_concept": "adding", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "pillow case", "llm_concept": "protecting", "relation": "used_for", "annotation": "correct"}
+{"concept": "percussion instrument", "llm_concept": "music", "relation": "used_for", "annotation": "correct"}
+{"concept": "making phone call", "llm_concept": "food", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "horse", "llm_concept": "field", "relation": "used_for", "annotation": "correct"}
+{"concept": "fireplace", "llm_concept": "trash", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "cutlery drawer", "llm_concept": "tableware", "relation": "used_for", "annotation": "correct"}
+{"concept": "key case", "llm_concept": "phone", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "number", "llm_concept": "science", "relation": "used_for", "annotation": "correct"}
+{"concept": "copulating", "llm_concept": "propagation", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "going to mall", "llm_concept": "arcade", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "store", "llm_concept": "stock", "relation": "used_for", "annotation": "correct"}
+{"concept": "porch", "llm_concept": "enjoying", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "billboard", "llm_concept": "directing", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "sating hunger", "llm_concept": "maintaining", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "refill", "llm_concept": "gift", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "scoring home run", "llm_concept": "hitting", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "quill", "llm_concept": "document", "relation": "used_for", "annotation": "correct"}
+{"concept": "walking dog", "llm_concept": "burning", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "hockey puck", "llm_concept": "slapshot", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "appointment book", "llm_concept": "gathering", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "vegetarian restaurant", "llm_concept": "concept", "relation": "used_for", "annotation": "wrong"}
+{"concept": "master bedroom", "llm_concept": "watching", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "creating to help other people", "llm_concept": "charity", "relation": "used_for", "annotation": "correct"}
+{"concept": "reading to children", "llm_concept": "vocabulary", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "running in marathon", "llm_concept": "losing", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "circular route", "llm_concept": "military", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "place", "llm_concept": "gathering", "relation": "used_for", "annotation": "correct"}
+{"concept": "yard", "llm_concept": "parking", "relation": "used_for", "annotation": "correct"}
+{"concept": "firebomb", "llm_concept": "enemy", "relation": "used_for", "annotation": "correct"}
+{"concept": "ring", "llm_concept": "shape", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "staying healthy", "llm_concept": "expense", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "playing ball", "llm_concept": "building", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "wooden rod", "llm_concept": "furniture", "relation": "used_for", "annotation": "correct"}
+{"concept": "office building", "llm_concept": "creating", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "tool", "llm_concept": "assembling", "relation": "used_for", "annotation": "correct"}
+{"concept": "growing vegetables", "llm_concept": "supplying", "relation": "used_for", "annotation": "correct"}
+{"concept": "index card drawer", "llm_concept": "list", "relation": "used_for", "annotation": "correct"}
+{"concept": "making people laugh", "llm_concept": "entertainment", "relation": "used_for", "annotation": "correct"}
+{"concept": "carpet", "llm_concept": "providing", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "air conditioner", "llm_concept": "stress", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "gentleman", "llm_concept": "luxury", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "building", "llm_concept": "good", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "penny", "llm_concept": "object", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "story", "llm_concept": "historical", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "seafood restaurant", "llm_concept": "enjoying", "relation": "used_for", "annotation": "correct"}
+{"concept": "leaving line", "llm_concept": "disregarding", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "rifle", "llm_concept": "self", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "double bass", "llm_concept": "bass", "relation": "used_for", "annotation": "wrong"}
+{"concept": "garment bag", "llm_concept": "clean", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "umbrella", "llm_concept": "dry", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "making grow", "llm_concept": "educating", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "department store", "llm_concept": "cosmetic", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "entryway", "llm_concept": "family", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "sating hunger", "llm_concept": "ending", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "buying for loved one", "llm_concept": "output", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "paper clip", "llm_concept": "diy", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "expressing information", "llm_concept": "advertising", "relation": "used_for", "annotation": "correct"}
+{"concept": "shopping", "llm_concept": "price", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "fitting room", "llm_concept": "fashion", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "ink", "llm_concept": "journaling", "relation": "used_for", "annotation": "correct"}
+{"concept": "general store", "llm_concept": "food", "relation": "used_for", "annotation": "correct"}
+{"concept": "boundary", "llm_concept": "constraint", "relation": "used_for", "annotation": "correct"}
+{"concept": "skating", "llm_concept": "activity", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "screw", "llm_concept": "tightening", "relation": "used_for", "annotation": "correct"}
+{"concept": "cannonball", "llm_concept": "executing", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "parking area", "llm_concept": "service", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "arena", "llm_concept": "debate", "relation": "used_for", "annotation": "correct"}
+{"concept": "hallway", "llm_concept": "art", "relation": "used_for", "annotation": "correct"}
+{"concept": "entrance", "llm_concept": "welcoming", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "cellar", "llm_concept": "food", "relation": "used_for", "annotation": "correct"}
+{"concept": "hoist", "llm_concept": "flag", "relation": "used_for", "annotation": "correct"}
+{"concept": "standing up", "llm_concept": "sport", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "purse", "llm_concept": "item", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "fiddling", "llm_concept": "fixing", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "improving yourself", "llm_concept": "becoming", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "list of appointments", "llm_concept": "coordinating", "relation": "used_for", "annotation": "correct"}
+{"concept": "jumping out of window", "llm_concept": "protesting", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "note", "llm_concept": "journal", "relation": "used_for", "annotation": "correct"}
+{"concept": "opening business", "llm_concept": "entrepreneur", "relation": "used_for", "annotation": "correct"}
+{"concept": "air conditioning", "llm_concept": "improving", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "ticket office", "llm_concept": "reserving", "relation": "used_for", "annotation": "correct"}
+{"concept": "denim", "llm_concept": "costume", "relation": "used_for", "annotation": "correct"}
+{"concept": "appointment book", "llm_concept": "client", "relation": "used_for", "annotation": "correct"}
+{"concept": "apartment building", "llm_concept": "residing", "relation": "used_for", "annotation": "correct"}
+{"concept": "role", "llm_concept": "function", "relation": "used_for", "annotation": "correct"}
+{"concept": "liquor glass", "llm_concept": "cognac", "relation": "used_for", "annotation": "correct"}
+{"concept": "comb", "llm_concept": "smoothing", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "cooking", "llm_concept": "baking", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "hanging out at bar", "llm_concept": "live", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "seeing people play game", "llm_concept": "skill", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "pavement", "llm_concept": "running", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "bean", "llm_concept": "cuisine", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "bus station", "llm_concept": "dropping", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "soap dish", "llm_concept": "item", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "ventilation system", "llm_concept": "airborne", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "ticket", "llm_concept": "cruising", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "wine", "llm_concept": "evening", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "clarinet", "llm_concept": "jazz", "relation": "used_for", "annotation": "correct"}
+{"concept": "binder", "llm_concept": "assembling", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "brass instrument", "llm_concept": "ceremony", "relation": "used_for", "annotation": "correct"}
+{"concept": "having friends over", "llm_concept": "socializing", "relation": "used_for", "annotation": "correct"}
+{"concept": "illustrating point", "llm_concept": "storyboard", "relation": "used_for", "annotation": "correct"}
+{"concept": "fixing computer", "llm_concept": "hardware", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "piece of coal", "llm_concept": "smelting", "relation": "used_for", "annotation": "correct"}
+{"concept": "train seat", "llm_concept": "sitting", "relation": "used_for", "annotation": "correct"}
+{"concept": "using vcr", "llm_concept": "tv", "relation": "used_for", "annotation": "correct"}
+{"concept": "parking structure", "llm_concept": "shopping", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "hinged door", "llm_concept": "creating", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "joining army", "llm_concept": "developing", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "captain", "llm_concept": "company", "relation": "used_for", "annotation": "correct"}
+{"concept": "washing hands", "llm_concept": "preventing", "relation": "used_for", "annotation": "correct"}
+{"concept": "pillow case", "llm_concept": "craft", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "playing frisbee", "llm_concept": "throwing", "relation": "used_for", "annotation": "correct"}
+{"concept": "lighting fire", "llm_concept": "water", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "seeing band", "llm_concept": "new", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "electric socket", "llm_concept": "phone", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "toll highway", "llm_concept": "long", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "show", "llm_concept": "demonstration", "relation": "used_for", "annotation": "correct"}
+{"concept": "maintaining muscle strength", "llm_concept": "strength", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "plate", "llm_concept": "item", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "terrace", "llm_concept": "space", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "committing to memory", "llm_concept": "mastering", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "wall", "llm_concept": "support", "relation": "used_for", "annotation": "correct"}
+{"concept": "shareholder", "llm_concept": "gain", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "cloth", "llm_concept": "mirror", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "stylus", "llm_concept": "note", "relation": "used_for", "annotation": "correct"}
+{"concept": "buying", "llm_concept": "possessing", "relation": "used_for", "annotation": "correct"}
+{"concept": "bottle", "llm_concept": "chemical", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "cup", "llm_concept": "recipe", "relation": "used_for", "annotation": "correct"}
+{"concept": "farting", "llm_concept": "awkwardness", "relation": "used_for", "annotation": "incorrect"}
+{"concept": "title", "llm_concept": "degree", "relation": "used_for", "annotation": "correct"}
+{"concept": "going jogging", "llm_concept": "building", "relation": "used_for", "annotation": "incorrect"}

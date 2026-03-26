@@ -1,0 +1,2002 @@
+[
+  {
+    "content": "Is 'court' associated with the frame 'Crime scenario - A (putative) Crime is committed and comes to the attention of the Authorities'?",
+    "description": "FrameNet | nouns | frame:  | generated: court"
+  },
+  {
+    "content": "Is 'trace' associated with the frame 'Planned trajectory - A Theme traverses a trajectory'?",
+    "description": "FrameNet | verbs | frame:  | generated: trace"
+  },
+  {
+    "content": "Is 'encompass' associated with the frame 'Circumscribed existence - An Entity is understood to be experienceable within a particular set of delimited Circumstances, which may be more narrowly expressed by a Time, Place'?",
+    "description": "FrameNet | verbs | frame:  | generated: encompass"
+  },
+  {
+    "content": "Is 'perceive' associated with the frame 'Cognitive impact - A Phenomenon (an external or cognitive event or situation) comes into the awareness of an Experiencer, resulting in a perceptually punctual change in the Experiencer'?",
+    "description": "FrameNet | verbs | frame:  | generated: perceive"
+  },
+  {
+    "content": "Is 'brief' associated with the frame 'Punctual perception - A Perceiver briefly perceives a Phenomenon, often resulting in partial or uncertain perception'?",
+    "description": "FrameNet | adjectives | frame:  | generated: brief"
+  },
+  {
+    "content": "Is 'authoritative' associated with the frame 'Legal rulings - An Authority with the power to make decisions hands down a Finding over a question presented in a formal or informal Case'?",
+    "description": "FrameNet | adjectives | frame:  | generated: authoritative"
+  },
+  {
+    "content": "Is 'incompletion' associated with the frame 'Process uncompleted state - A Process is in a state where it can no longer be completed'?",
+    "description": "FrameNet | nouns | frame:  | generated: incompletion"
+  },
+  {
+    "content": "Is 'comrade-in-arms' associated with the frame 'Accompaniment - A Co participant fills the same role as the Participant in an event or relation'?",
+    "description": "FrameNet | nouns | frame:  | generated: comrade-in-arms"
+  },
+  {
+    "content": "Is 'enforce' associated with the frame 'Come into effect - A Binding principle, previously only existing as a concept or formulation, enters an \"active\" phase or state'?",
+    "description": "FrameNet | verbs | frame:  | generated: enforce"
+  },
+  {
+    "content": "Is 'pendulum' associated with the frame 'Cause to move in place - An Agent causes a Theme to move with respect to a certain Fixed location, generally with a certain Periodicity, without undergoing unbounded translational motion or significant alteration of configuration/shape'?",
+    "description": "FrameNet | nouns | frame:  | generated: pendulum"
+  },
+  {
+    "content": "Is 'horizon' associated with the frame 'Directional locative relation - A Figure is located relative to a (presumably more easily located) Ground, asserting that the Figure lies (approximately) on line from the Ground whose direction is established by semantic types of the particular LUs'?",
+    "description": "FrameNet | nouns | frame:  | generated: horizon"
+  },
+  {
+    "content": "Is 'trucks' associated with the frame 'Convoy - A Convoy consists of several Vehicles which move together to transport Cargo from a Source to a Goal'?",
+    "description": "FrameNet | nouns | frame:  | generated: trucks"
+  },
+  {
+    "content": "Is 'equity' associated with the frame 'Capital stock - This frame concerns Stock, a purchasable and sellable asset representing a Shareholder'?",
+    "description": "FrameNet | nouns | frame:  | generated: equity"
+  },
+  {
+    "content": "Is 'rebound' associated with the frame 'Recovery - These words describe the recovery or healing of a Patient from an Affliction without reference to the influence of any Treatment or Healer (see the Cure frame)'?",
+    "description": "FrameNet | nouns | frame:  | generated: rebound"
+  },
+  {
+    "content": "Is 'independent' associated with the frame 'Getting underway - A Self mover begins the motion away from a relatively deprofiled Source location'?",
+    "description": "FrameNet | adjectives | frame:  | generated: independent"
+  },
+  {
+    "content": "Is 'territory' associated with the frame 'Invasion scenario - An Invader enters a land in an attempt to dominate the Attacked and they either fail or succeed'?",
+    "description": "FrameNet | nouns | frame:  | generated: territory"
+  },
+  {
+    "content": "Is 'crisis' associated with the frame 'Extreme point - An Entity that has characteristics which change over time is at a point or in a phase of its development in which, compared to other actual or expected stages of development, it possesses extremely high or low powers or intensity'?",
+    "description": "FrameNet | nouns | frame:  | generated: crisis"
+  },
+  {
+    "content": "Is 'organized' associated with the frame 'Mass motion - A Mass theme, generally made up of many individuals, moves from a Source to a Goal with some Path'?",
+    "description": "FrameNet | adjectives | frame:  | generated: organized"
+  },
+  {
+    "content": "Is 'moderate' associated with the frame 'Position on a scale - This frame contains words that describe an Item'?",
+    "description": "FrameNet | nouns | frame:  | generated: moderate"
+  },
+  {
+    "content": "Is 'interrupt' associated with the frame 'Activity pause - An Agent pauses in the course of an Activity'?",
+    "description": "FrameNet | verbs | frame:  | generated: interrupt"
+  },
+  {
+    "content": "Is 'corrosion' associated with the frame 'Corroding caused - In this frame, the Patient, an inorganic item, undergoes a chemical process caused by another entity, which renders it less useful, desirable or stable'?",
+    "description": "FrameNet | nouns | frame:  | generated: corrosion"
+  },
+  {
+    "content": "Is 'battlefield' associated with the frame 'Locale by event - A place defined in terms of an event which occurred (or will occur) there'?",
+    "description": "FrameNet | nouns | frame:  | generated: battlefield"
+  },
+  {
+    "content": "Is 'sentence' associated with the frame 'Criminal process - A Suspect is arrested by Authorities on Charges related to an Offense, then is arraigned as a Defendant'?",
+    "description": "FrameNet | nouns | frame:  | generated: sentence"
+  },
+  {
+    "content": "Is 'transfer' associated with the frame 'Exchange - Two parties, the Exchangers, each give and receive from the other Themes'?",
+    "description": "FrameNet | verbs | frame:  | generated: transfer"
+  },
+  {
+    "content": "Is 'severance' associated with the frame 'Being detached - An Item is detached from a Source, or Items are detached from each other'?",
+    "description": "FrameNet | nouns | frame:  | generated: severance"
+  },
+  {
+    "content": "Is 'audacity' associated with the frame 'Rashness - A Protagonist performs some Action without fully considering the circumstances under which he or she acts, or the possibly (negative) consequences of the Action'?",
+    "description": "FrameNet | nouns | frame:  | generated: audacity"
+  },
+  {
+    "content": "Is 'noticeable' associated with the frame 'Presence - An Entity exists at a particular Location, at a particular Time, as observed by an implicit observer'?",
+    "description": "FrameNet | adjectives | frame:  | generated: noticeable"
+  },
+  {
+    "content": "Is 'detain' associated with the frame 'Arrest - Authorities charge a Suspect, who is under suspicion of having committed a crime (the Charges), and take him/her into custody'?",
+    "description": "FrameNet | verbs | frame:  | generated: detain"
+  },
+  {
+    "content": "Is 'number' associated with the frame 'Quantified mass - This frame contains transparent nouns (and some adjectives) denoting quantities of a Mass or of Individuals'?",
+    "description": "FrameNet | nouns | frame:  | generated: number"
+  },
+  {
+    "content": "Is 'vanished' associated with the frame 'Ceasing to be - An Entity ceases to exist'?",
+    "description": "FrameNet | adjectives | frame:  | generated: vanished"
+  },
+  {
+    "content": "Is 'contest' associated with the frame 'Entering of plea - The Accused enters a Plea in answer to the Charges'?",
+    "description": "FrameNet | verbs | frame:  | generated: contest"
+  },
+  {
+    "content": "Is 'mitigate' associated with the frame 'Commutation - An Executive authority exchanges one penalty, the Original punishment, for another less severe one, the New punishment'?",
+    "description": "FrameNet | verbs | frame:  | generated: mitigate"
+  },
+  {
+    "content": "Is 'extend' associated with the frame 'Duration relation - A Period or Eventuality is related to its Duration'?",
+    "description": "FrameNet | verbs | frame:  | generated: extend"
+  },
+  {
+    "content": "Is 'intense' associated with the frame 'Court examination - A Questioner asks a Witness (or defendant) questions in the context of a court procedure'?",
+    "description": "FrameNet | adjectives | frame:  | generated: intense"
+  },
+  {
+    "content": "Is 'possession' associated with the frame 'Getting - A Recipient starts off without the Theme in their possession, and then comes to possess it'?",
+    "description": "FrameNet | nouns | frame:  | generated: possession"
+  },
+  {
+    "content": "Is 'powerful' associated with the frame 'Judicial body - A  Source of authority, typically a government, relies upon a set of institutions specialized for the administration of justice'?",
+    "description": "FrameNet | adjectives | frame:  | generated: powerful"
+  },
+  {
+    "content": "Is 'stretch' associated with the frame 'Natural features - The Locale is a geographical location as defined by shape'?",
+    "description": "FrameNet | verbs | frame:  | generated: stretch"
+  },
+  {
+    "content": "Is 'journey' associated with the frame 'Motion scenario - This frame binds together the various parts of movement, from setting out, to traveling, to arriving'?",
+    "description": "FrameNet | verbs | frame:  | generated: journey"
+  },
+  {
+    "content": "Is 'landmark' associated with the frame 'Gradable proximity - A Figure is (stably) located with respect to a Ground in terms of how the distance between them compares to some general or contextually relevant scale'?",
+    "description": "FrameNet | nouns | frame:  | generated: landmark"
+  },
+  {
+    "content": "Is 'efficient' associated with the frame 'Meet specifications - An Agent or Entity becomes sufficient enough to meet a Standard'?",
+    "description": "FrameNet | adjectives | frame:  | generated: efficient"
+  },
+  {
+    "content": "Is 'power' associated with the frame 'Being in operation - A Device or machine is in (or out of) service'?",
+    "description": "FrameNet | nouns | frame:  | generated: power"
+  },
+  {
+    "content": "Is 'fortuitous' associated with the frame 'Luck - A State of affairs is evaluated as good (or bad), against a background assumption that previously, the State of affairs was thought to be unlikely to occur'?",
+    "description": "FrameNet | adjectives | frame:  | generated: fortuitous"
+  },
+  {
+    "content": "Is 'addition' associated with the frame 'Commutative statement - LUs in this frame describe a stative relationship between two numbers,Term1 and Term2 or, collectively, Terms, via a commutative arithmetic operation'?",
+    "description": "FrameNet | nouns | frame:  | generated: addition"
+  },
+  {
+    "content": "Is 'reply' associated with the frame 'Response - An Agent performs a Response action in consequence of a Trigger event'?",
+    "description": "FrameNet | verbs | frame:  | generated: reply"
+  },
+  {
+    "content": "Is 'agenda' associated with the frame 'Making arrangements - An Agent performs a series of unspecified tasks to plan for an Event to take place at a Scheduled time and Place'?",
+    "description": "FrameNet | nouns | frame:  | generated: agenda"
+  },
+  {
+    "content": "Is 'commutes' associated with the frame 'Expected location of person - A Person usually resides or works in a Location'?",
+    "description": "FrameNet | verbs | frame:  | generated: commutes"
+  },
+  {
+    "content": "Is 'confine' associated with the frame 'Limiting - An Agent or Cause limits a Range of options to having a certain Characteristic'?",
+    "description": "FrameNet | verbs | frame:  | generated: confine"
+  },
+  {
+    "content": "Is 'breakaway' associated with the frame 'Becoming detached - The Becoming detached frame covers two situations: a scene in which one thing comes to be physically detached from something else; or a scene in which two things come to be disconnected from each other'?",
+    "description": "FrameNet | nouns | frame:  | generated: breakaway"
+  },
+  {
+    "content": "Is 'informative' associated with the frame 'Information display - A man-made artifact, digital or physical, which is used to display information presented via the object'?",
+    "description": "FrameNet | adjectives | frame:  | generated: informative"
+  },
+  {
+    "content": "Is 'competitive' associated with the frame 'Price per unit - A Product is offered by a Seller at a particular Price such that some total cost for the Buyer in the transaction is a multiple of the Price'?",
+    "description": "FrameNet | adjectives | frame:  | generated: competitive"
+  },
+  {
+    "content": "Is 'directness' associated with the frame 'Candidness - This frame contains adjectives and nouns that describe the truth or sincerity of communication'?",
+    "description": "FrameNet | nouns | frame:  | generated: directness"
+  },
+  {
+    "content": "Is 'incarceration' associated with the frame 'Imprisonment - The Authorities put a Prisoner in Prison as punishment for an Offense'?",
+    "description": "FrameNet | nouns | frame:  | generated: incarceration"
+  },
+  {
+    "content": "Is 'spoil' associated with the frame 'Being rotted - An organic item, the Patient, has undergone the natural process of rotting  and decaying with a possible expression of the Degree to which the rotting has occurred'?",
+    "description": "FrameNet | verbs | frame:  | generated: spoil"
+  },
+  {
+    "content": "Is 'transport' associated with the frame 'Physical entity - An Entity exists in some Place at some time'?",
+    "description": "FrameNet | verbs | frame:  | generated: transport"
+  },
+  {
+    "content": "Is 'nominate' associated with the frame 'Appointing - A Selector, often an individual in a leadership role, appoints a Official to assume an official Role in an organization (which can be expressed as the Body)'?",
+    "description": "FrameNet | verbs | frame:  | generated: nominate"
+  },
+  {
+    "content": "Is 'prohibit' associated with the frame 'Deny or grant permission - In this frame, an Authority allows a Protagonist to know (in some way) that they may or may not engage in an Action'?",
+    "description": "FrameNet | verbs | frame:  | generated: prohibit"
+  },
+  {
+    "content": "Is 'Agent' associated with the frame 'Attempt action scenario - This frame represents the core action of an Attempt, where an Agent has a Goal and performs some Means action that they believe will achieve the Goal'?",
+    "description": "FrameNet | nouns | frame:  | generated: Agent"
+  },
+  {
+    "content": "Is 'efficiency' associated with the frame 'Meet specifications - An Agent or Entity becomes sufficient enough to meet a Standard'?",
+    "description": "FrameNet | nouns | frame:  | generated: efficiency"
+  },
+  {
+    "content": "Is 'rests on' associated with the frame 'Adjacency - A Figure is located adjacent to a Ground'?",
+    "description": "FrameNet | verbs | frame:  | generated: rests on"
+  },
+  {
+    "content": "Is 'freezing' associated with the frame 'Cause temperature change - In this frame, an Agent changes the temperature of an Item'?",
+    "description": "FrameNet | adjectives | frame:  | generated: freezing"
+  },
+  {
+    "content": "Is 'dependency' associated with the frame 'Needing - The speaker believes that some state of affairs or entity (the Requirement) must be present in order to cause some other dependent state of affairs to occur (the Dependent)'?",
+    "description": "FrameNet | nouns | frame:  | generated: dependency"
+  },
+  {
+    "content": "Is 'carve' associated with the frame 'Physical artworks - A physical object, the Artifact, is produced by a Creator to stimulate the perceptions, emotions, or cognition of an audience'?",
+    "description": "FrameNet | verbs | frame:  | generated: carve"
+  },
+  {
+    "content": "Is 'forbid' associated with the frame 'Prohibiting or licensing - In this frame a State of affairs is prohibited (or allowed) by a Principle'?",
+    "description": "FrameNet | verbs | frame:  | generated: forbid"
+  },
+  {
+    "content": "Is 'urgent' associated with the frame 'Attention getting - This frame covers terms used to get someone'?",
+    "description": "FrameNet | adjectives | frame:  | generated: urgent"
+  },
+  {
+    "content": "Is 'pledge' associated with the frame 'Commitment - A Speaker makes a commitment to an Addressee to carry out some future action'?",
+    "description": "FrameNet | nouns | frame:  | generated: pledge"
+  },
+  {
+    "content": "Is 'crucial' associated with the frame 'Emphasizing - An Agent who is engaged in an Undertaking accords a Degree of importance to a Consideration that influences the success of an Undertaking'?",
+    "description": "FrameNet | adjectives | frame:  | generated: crucial"
+  },
+  {
+    "content": "Is 'Intermittent' associated with the frame 'Activity abandoned state - An Agent is in an unfinished part of an activity'?",
+    "description": "FrameNet | nouns | frame:  | generated: Intermittent"
+  },
+  {
+    "content": "Is 'concrete' associated with the frame 'Prison - This Frame deals with Penal institutions'?",
+    "description": "FrameNet | adjectives | frame:  | generated: concrete"
+  },
+  {
+    "content": "Is 'fear' associated with the frame 'Emotions success or failure - A Topic or Stimulus fails or succeeds at causing an emotion in an Experiencer, which is conveyed by an Expressor or manifested in a State or description of an Event'?",
+    "description": "FrameNet | nouns | frame:  | generated: fear"
+  },
+  {
+    "content": "Is 'hair' associated with the frame 'Body parts - This frame covers words for Body part(s) (BP) belonging to a Possessor (Poss), which may be characterized by a Descriptor (Desc)'?",
+    "description": "FrameNet | nouns | frame:  | generated: hair"
+  },
+  {
+    "content": "Is 'severance' associated with the frame 'Departing - An object (the Theme) moves away from a Source'?",
+    "description": "FrameNet | nouns | frame:  | generated: severance"
+  },
+  {
+    "content": "Is 'influential' associated with the frame 'Notability - An entity is considered worthy of mention for their ability or influence among some Type of similar entities'?",
+    "description": "FrameNet | adjectives | frame:  | generated: influential"
+  },
+  {
+    "content": "Is 'brave' associated with the frame 'Freeing from confinement - An Agent causes a Theme which was held captive to be free from a Location of confinement, against the wishes of the captors'?",
+    "description": "FrameNet | adjectives | frame:  | generated: brave"
+  },
+  {
+    "content": "Is 'robbery' associated with the frame 'Committing crime - A Perpetrator (generally intentionally) commits a Crime, i'?",
+    "description": "FrameNet | verbs | frame:  | generated: robbery"
+  },
+  {
+    "content": "Is 'deflect' associated with the frame 'Armor - An Asset, the safety of which is desirable, is protected from damage by a covering, the Armor'?",
+    "description": "FrameNet | verbs | frame:  | generated: deflect"
+  },
+  {
+    "content": "Is 'traumatic' associated with the frame 'Experience bodily harm - An Experiencer is involved in a bodily injury to a Body part'?",
+    "description": "FrameNet | adjectives | frame:  | generated: traumatic"
+  },
+  {
+    "content": "Is 'arrival' associated with the frame 'Getting - A Recipient starts off without the Theme in their possession, and then comes to possess it'?",
+    "description": "FrameNet | nouns | frame:  | generated: arrival"
+  },
+  {
+    "content": "Is 'evasion strategy' associated with the frame 'Avoiding - An Agent avoids an Undesirable situation under certain Circumstances'?",
+    "description": "FrameNet | nouns | frame:  | generated: evasion strategy"
+  },
+  {
+    "content": "Is 'fence' associated with the frame 'Boundary - This frame contains words that describe a Boundary between two Entities'?",
+    "description": "FrameNet | nouns | frame:  | generated: fence"
+  },
+  {
+    "content": "Is 'dormant' associated with the frame 'Fire going out - A Fire goes out'?",
+    "description": "FrameNet | adjectives | frame:  | generated: dormant"
+  },
+  {
+    "content": "Is 'resignation' associated with the frame 'Employment scenario - An Employee and Employer enter into an employment relation, wherein the Employee remains employed for some Duration of time, and finally the relationship ends either by the Employee leaving the job or the Employer letting go (or firing) the Employee'?",
+    "description": "FrameNet | nouns | frame:  | generated: resignation"
+  },
+  {
+    "content": "Is 'launch' associated with the frame 'Activity start - An Agent initiates the beginning of an ongoing Activity in which he will be continuously involved'?",
+    "description": "FrameNet | verbs | frame:  | generated: launch"
+  },
+  {
+    "content": "Is 'functional' associated with the frame 'Being in operation - A Device or machine is in (or out of) service'?",
+    "description": "FrameNet | adjectives | frame:  | generated: functional"
+  },
+  {
+    "content": "Is 'secure' associated with the frame 'Attaching - The Attaching frame covers two situations: a scene in which somebody causes one thing to be physically connected to something else; or a scene in which somebody causes two things to be connected to each other'?",
+    "description": "FrameNet | adjectives | frame:  | generated: secure"
+  },
+  {
+    "content": "Is 'stable' associated with the frame 'Employment scenario - An Employee and Employer enter into an employment relation, wherein the Employee remains employed for some Duration of time, and finally the relationship ends either by the Employee leaving the job or the Employer letting go (or firing) the Employee'?",
+    "description": "FrameNet | adjectives | frame:  | generated: stable"
+  },
+  {
+    "content": "Is 'perimeter' associated with the frame 'Measure area - This transparent noun frame is concerned with Units for measuring the Area of regions'?",
+    "description": "FrameNet | nouns | frame:  | generated: perimeter"
+  },
+  {
+    "content": "Is 'rent' associated with the frame 'Renting - A Lessee gains the use of Goods owned by a Lessor by payment to the Lessor'?",
+    "description": "FrameNet | verbs | frame:  | generated: rent"
+  },
+  {
+    "content": "Is 'torrential' associated with the frame 'Precipitation - Water in some solid or liquid form (the Precipitation) falls from the sky at a particular Place and Time, lasting for a particular Duration'?",
+    "description": "FrameNet | adjectives | frame:  | generated: torrential"
+  },
+  {
+    "content": "Is 'assistance' associated with the frame 'Assistance - A Helper benefits a Benefited party by enabling the culmination of a Goal that the Benefited party has'?",
+    "description": "FrameNet | nouns | frame:  | generated: assistance"
+  },
+  {
+    "content": "Is 'food' associated with the frame 'Ingestion - An Ingestor consumes food or drink (Ingestibles), which entails putting the Ingestibles in the mouth for delivery to the digestive system'?",
+    "description": "FrameNet | nouns | frame:  | generated: food"
+  },
+  {
+    "content": "Is 'proximity' associated with the frame 'Non-gradable proximity - A Figure is characterized as near the Ground, according to some contextually given scale'?",
+    "description": "FrameNet | nouns | frame:  | generated: proximity"
+  },
+  {
+    "content": "Is 'agitated' associated with the frame 'Losing it - An Protagonist goes from a default state of mental and emotional equilibrium into a temporary state of disequilibrium, often a state of anger'?",
+    "description": "FrameNet | adjectives | frame:  | generated: agitated"
+  },
+  {
+    "content": "Is 'joins' associated with the frame 'Relation - A relation holds between Entity 1 and Entity 2'?",
+    "description": "FrameNet | verbs | frame:  | generated: joins"
+  },
+  {
+    "content": "Is 'grave' associated with the frame 'Death - The words in this frame describe the death of a Protagonist'?",
+    "description": "FrameNet | nouns | frame:  | generated: grave"
+  },
+  {
+    "content": "Is 'deeds' associated with the frame 'Conduct - An Agent acts in a certain Manner either generally or under some particular Circumstances'?",
+    "description": "FrameNet | nouns | frame:  | generated: deeds"
+  },
+  {
+    "content": "Is 'transit' associated with the frame 'Disembarking - A Traveller leaves from or dismounts a Vehicle'?",
+    "description": "FrameNet | nouns | frame:  | generated: transit"
+  },
+  {
+    "content": "Is 'forced' associated with the frame 'Halt - This frame consists of LUs which denote a Theme ceasing motion'?",
+    "description": "FrameNet | adjectives | frame:  | generated: forced"
+  },
+  {
+    "content": "Is 'creative' associated with the frame 'Mental activity - In this frame, a Sentient entity has some activity of the mind operating on a particular Content or about a particular Topic'?",
+    "description": "FrameNet | adjectives | frame:  | generated: creative"
+  },
+  {
+    "content": "Is 'significant' associated with the frame 'Importance - A Factor affects the outcome of an Undertaking, which  can be a goal-oriented activity or the maintenance of a desirable state, the work in a Field, or something portrayed as affecting an Interested party'?",
+    "description": "FrameNet | adjectives | frame:  | generated: significant"
+  },
+  {
+    "content": "Is 'premise' associated with the frame 'Event initial state - The initial state of a simple event X-schema'?",
+    "description": "FrameNet | nouns | frame:  | generated: premise"
+  },
+  {
+    "content": "Is 'ooze' associated with the frame 'Fluidic motion - In this frame a Fluid moves from a Source to a Goal along a Path or within an Area'?",
+    "description": "FrameNet | verbs | frame:  | generated: ooze"
+  },
+  {
+    "content": "Is 'threat' associated with the frame 'Endangering - An Agent or Cause is responsible for placing a Valued entity at risk'?",
+    "description": "FrameNet | nouns | frame:  | generated: threat"
+  },
+  {
+    "content": "Is 'successful' associated with the frame 'Activity done state - An Agent has completed an Activity'?",
+    "description": "FrameNet | adjectives | frame:  | generated: successful"
+  },
+  {
+    "content": "Is 'distraction' associated with the frame 'Interrupt process - A Cause (or associated Actor) causes an ongoing Process to temporarily stop'?",
+    "description": "FrameNet | nouns | frame:  | generated: distraction"
+  },
+  {
+    "content": "Is 'group' associated with the frame 'Participation - An Event with multiple Participants takes place'?",
+    "description": "FrameNet | nouns | frame:  | generated: group"
+  },
+  {
+    "content": "Is 'monopoly' associated with the frame 'Dominate competitor - An Agent, by virtue of strength or forcefulness, controls, rules, or strongly influences some Patient in some Situation'?",
+    "description": "FrameNet | nouns | frame:  | generated: monopoly"
+  },
+  {
+    "content": "Is 'seize' associated with the frame 'Kidnapping - The words in this frame describe situations in which a Perpetrator carries off and holds the Victim against his or her will by force'?",
+    "description": "FrameNet | verbs | frame:  | generated: seize"
+  },
+  {
+    "content": "Is 'hero' associated with the frame 'People by morality - This frame contains general words for Individuals, i'?",
+    "description": "FrameNet | nouns | frame:  | generated: hero"
+  },
+  {
+    "content": "Is 'precariousness' associated with the frame 'Precariousness - A Theme has the potential of falling from its current Location, which would likely result in damage'?",
+    "description": "FrameNet | verbs | frame:  | generated: precariousness"
+  },
+  {
+    "content": "Is 'interpret' associated with the frame 'Artistic style - This frame contains LUs that express the Form which a piece of Artwork represents'?",
+    "description": "FrameNet | verbs | frame:  | generated: interpret"
+  },
+  {
+    "content": "Is 'association' associated with the frame 'Relation - A relation holds between Entity 1 and Entity 2'?",
+    "description": "FrameNet | nouns | frame:  | generated: association"
+  },
+  {
+    "content": "Is 'destination' associated with the frame 'Disembarking - A Traveller leaves from or dismounts a Vehicle'?",
+    "description": "FrameNet | nouns | frame:  | generated: destination"
+  },
+  {
+    "content": "Is 'elaborate' associated with the frame 'Knot creation - An Agent creates a Knot (possibly in a Place and/or with an Instrument)'?",
+    "description": "FrameNet | adjectives | frame:  | generated: elaborate"
+  },
+  {
+    "content": "Is 'calculate' associated with the frame 'Quantity - This frame contains nouns denoting Quantities of a specified Entity and their numerical Values'?",
+    "description": "FrameNet | verbs | frame:  | generated: calculate"
+  },
+  {
+    "content": "Is 'assemble' associated with the frame 'Meet with - In this frame Party 1 meets with Party 2 at a prearranged Time and Place'?",
+    "description": "FrameNet | verbs | frame:  | generated: assemble"
+  },
+  {
+    "content": "Is 'gate' associated with the frame 'Access scenario - A Theme is or is not capable of entering or accessing a Useful location because of/despite a Barrier'?",
+    "description": "FrameNet | nouns | frame:  | generated: gate"
+  },
+  {
+    "content": "Is 'tangible' associated with the frame 'Purpose - An Agent wants to achieve a Goal,  or an object'?",
+    "description": "FrameNet | adjectives | frame:  | generated: tangible"
+  },
+  {
+    "content": "Is 'allegations' associated with the frame 'Notification of charges - The judge or other court officer (the Authority) informs the Accused of the Charges against him/her, i'?",
+    "description": "FrameNet | nouns | frame:  | generated: allegations"
+  },
+  {
+    "content": "Is 'clean' associated with the frame 'Grooming - In this frame, an Agent engages in personal body care by grooming either a Patient or a Body part'?",
+    "description": "FrameNet | verbs | frame:  | generated: clean"
+  },
+  {
+    "content": "Is 'design' associated with the frame 'Product development - An Developer develops a Product, in some cases for a Company'?",
+    "description": "FrameNet | nouns | frame:  | generated: design"
+  },
+  {
+    "content": "Is 'smooth' associated with the frame 'Operate vehicle - The words in this frame describe motion involving a Vehicle and someone who controls it, the Driver'?",
+    "description": "FrameNet | adjectives | frame:  | generated: smooth"
+  },
+  {
+    "content": "Is 'eager' associated with the frame 'Pre transfer - The stage before the transfer has taken place, with the Theme in the possession of the Donor'?",
+    "description": "FrameNet | adjectives | frame:  | generated: eager"
+  },
+  {
+    "content": "Is 'deft' associated with the frame 'Cause to land - An Operator maneuvers onto land a Vehicle which typically does not operate on land, e'?",
+    "description": "FrameNet | adjectives | frame:  | generated: deft"
+  },
+  {
+    "content": "Is 'modified' associated with the frame 'Change post-state - The frame represents the result state of the Entity after event represented by the Undergo change frame'?",
+    "description": "FrameNet | adjectives | frame:  | generated: modified"
+  },
+  {
+    "content": "Is 'choose to adopt' associated with the frame 'Adopt selection - An Agent has an Attribute which can take different Values, and the Agent selects and then begins to use some Value for that Attribute'?",
+    "description": "FrameNet | verbs | frame:  | generated: choose to adopt"
+  },
+  {
+    "content": "Is 'conniving' associated with the frame 'Feigning - An Agent acts in such a way as to give the incorrect impression to observers that a particular State of affairs holds'?",
+    "description": "FrameNet | adjectives | frame:  | generated: conniving"
+  },
+  {
+    "content": "Is 'interruption' associated with the frame 'Intercepting - A volitionally acting Interceptor takes control, without being authorized to do so by the sender, of a Theme that is underway from a sender to a recipient'?",
+    "description": "FrameNet | nouns | frame:  | generated: interruption"
+  },
+  {
+    "content": "Is 'compare' associated with the frame 'Alternativity - In this frame, there is a Profiled alternative that the speaker wishes to primarily focus on and which is mutually exclusive with a Contrasting alternative'?",
+    "description": "FrameNet | verbs | frame:  | generated: compare"
+  },
+  {
+    "content": "Is 'coincidence' associated with the frame 'Collocation image schema - A Profiled region is specified as entirely or largely coinciding with that of a Ground'?",
+    "description": "FrameNet | nouns | frame:  | generated: coincidence"
+  },
+  {
+    "content": "Is 'abrupt' associated with the frame 'Change direction - A Theme that is in motion assumes a new Direction in which it moves'?",
+    "description": "FrameNet | adjectives | frame:  | generated: abrupt"
+  },
+  {
+    "content": "Is 'artificial' associated with the frame 'Forging - An Agent produces a Forgery, an entity that they intend to pass off as a particular (instance of)  a Standard'?",
+    "description": "FrameNet | adjectives | frame:  | generated: artificial"
+  },
+  {
+    "content": "Is 'adheres' associated with the frame 'Relational natural features - The Focal feature is defined in relation to a Landmark feature, either as a particular part, or as an immediately bordering entity'?",
+    "description": "FrameNet | verbs | frame:  | generated: adheres"
+  },
+  {
+    "content": "Is 'helpful' associated with the frame 'Communication response - This frame deals with a Speaker communicating a reply or response, a Message, to some prior communication or action, the Trigger'?",
+    "description": "FrameNet | adjectives | frame:  | generated: helpful"
+  },
+  {
+    "content": "Is 'severe' associated with the frame 'Come down with - A Protagonist comes to suffer from a Disease, often implicitly acquired from a Source'?",
+    "description": "FrameNet | adjectives | frame:  | generated: severe"
+  },
+  {
+    "content": "Is 'arch' associated with the frame 'Architectural part - An entity is integrated into a building as a Part of a (possibly unexpressed) Whole which may refer to the whole building or merely to a sub-part of the building'?",
+    "description": "FrameNet | nouns | frame:  | generated: arch"
+  },
+  {
+    "content": "Is 'develop' associated with the frame 'Manner - A Manner describes general or specific characteristics of an event in one of three ways:  First, it can refer to how a Comparison event transpires, absent the influence of an entity (e'?",
+    "description": "FrameNet | verbs | frame:  | generated: develop"
+  },
+  {
+    "content": "Is 'numerical' associated with the frame 'Measures - An Entity is measured in some (implicit) Attribute by quantifying the Count of a particular Unit whose value for the Attribute is known'?",
+    "description": "FrameNet | adjectives | frame:  | generated: numerical"
+  },
+  {
+    "content": "Is 'receptive' associated with the frame 'Memorization - A Cognizer applies oneself to commit a Pattern to memory, so that the Cognizer would recognize future examples of the Pattern or be able to reproduce it'?",
+    "description": "FrameNet | adjectives | frame:  | generated: receptive"
+  },
+  {
+    "content": "Is 'contain' associated with the frame 'Firefighting - This frame characterizes the situation or state of affairs in which someone acts to prevent a Fire disaster from occurring, accelerating, or affecting any area not identified as a Controlled area'?",
+    "description": "FrameNet | verbs | frame:  | generated: contain"
+  },
+  {
+    "content": "Is 'masquerade' associated with the frame 'Posing as - An Agent behaves as if they were a particular individual or type of Simulated entity with the intent of misleading observers of their behavior'?",
+    "description": "FrameNet | nouns | frame:  | generated: masquerade"
+  },
+  {
+    "content": "Is 'property' associated with the frame 'Locale by ownership - A place defined by an Owner'?",
+    "description": "FrameNet | nouns | frame:  | generated: property"
+  },
+  {
+    "content": "Is 'agreement' associated with the frame 'Make agreement on action - Two (or more) people (the Parties, also encodable as Party 1 and Party 2) negotiate an agreement'?",
+    "description": "FrameNet | nouns | frame:  | generated: agreement"
+  },
+  {
+    "content": "Is 'prolonged' associated with the frame 'Delimited state scenario - A State (often an ongoing process) is ongoing for some period of time'?",
+    "description": "FrameNet | adjectives | frame:  | generated: prolonged"
+  },
+  {
+    "content": "Is 'punitive' associated with the frame 'Fining - The Payer is (legally) forced to pay a Fine by an official Speaker as a punishment for some action (the Reason)'?",
+    "description": "FrameNet | verbs | frame:  | generated: punitive"
+  },
+  {
+    "content": "Is 'Currency' associated with the frame 'Commercial transaction - These are words that describe basic commercial transactions involving a Buyer and a Seller who exchange Money and Goods'?",
+    "description": "FrameNet | nouns | frame:  | generated: Currency"
+  },
+  {
+    "content": "Is 'receipt' associated with the frame 'Getting scenario - In this scenario, the Recipient begins without the Theme, then acquires the Theme from a Source'?",
+    "description": "FrameNet | nouns | frame:  | generated: receipt"
+  },
+  {
+    "content": "Is 'articulate' associated with the frame 'Communication manner - The words in this frame describe Manners of verbal communication'?",
+    "description": "FrameNet | adjectives | frame:  | generated: articulate"
+  },
+  {
+    "content": "Is 'marketplace' associated with the frame 'Locale by use - Geography as defined by its use'?",
+    "description": "FrameNet | nouns | frame:  | generated: marketplace"
+  },
+  {
+    "content": "Is 'PermutationGroup' associated with the frame 'Non-commutative process - LUs in this frame describe a non-commutative process (as opposed to a generic statement) of arithmetic, e'?",
+    "description": "FrameNet | nouns | frame:  | generated: PermutationGroup"
+  },
+  {
+    "content": "Is 'restore' associated with the frame 'Buildings - This frame contains words which name permanent fixed structures forming an enclosure and providing protection from the elements'?",
+    "description": "FrameNet | verbs | frame:  | generated: restore"
+  },
+  {
+    "content": "Is 'obligation' associated with the frame 'Being obligated - Under some Condition, usually left implicit, a Responsible party is required to perform some Duty'?",
+    "description": "FrameNet | nouns | frame:  | generated: obligation"
+  },
+  {
+    "content": "Is 'fabrication' associated with the frame 'Artificiality - An Entity is evaluated for whether or not it belongs to a particular Reference category in a context where its category membership is doubtful'?",
+    "description": "FrameNet | nouns | frame:  | generated: fabrication"
+  },
+  {
+    "content": "Is 'economic' associated with the frame 'Commerce scenario - Commerce is a situation in which a Buyer and a Seller have agreed upon an exchange of Money and Goods (possibly after a negotiation), and then perform the exchange, optionally carrying it out with various kinds of direct payment or financing or the giving of change'?",
+    "description": "FrameNet | adjectives | frame:  | generated: economic"
+  },
+  {
+    "content": "Is 'join' associated with the frame 'Membership - A Member is semi-permanently part of a socially constructed Group'?",
+    "description": "FrameNet | verbs | frame:  | generated: join"
+  },
+  {
+    "content": "Is 'bounded' associated with the frame 'Bounded entity - This is an abstract frame for bounded areas, used mostly for FE inheritance'?",
+    "description": "FrameNet | adjectives | frame:  | generated: bounded"
+  },
+  {
+    "content": "Is 'inescapable' associated with the frame 'Destiny - An State of affairs will come to hold with respect to a Protagonist at some future time'?",
+    "description": "FrameNet | adjectives | frame:  | generated: inescapable"
+  },
+  {
+    "content": "Is 'increase' associated with the frame 'Cause change of position on a scale - This frame consists of words that indicate that an Agent or a Cause affects the position of an Item on some scale (the Attribute) to change it from an initial value (Value 1) to an end value (Value 2)'?",
+    "description": "FrameNet | nouns | frame:  | generated: increase"
+  },
+  {
+    "content": "Is 'freezing' associated with the frame 'Change of temperature - In this frame, the temperature of an Item changes'?",
+    "description": "FrameNet | adjectives | frame:  | generated: freezing"
+  },
+  {
+    "content": "Is 'viscous' associated with the frame 'Cause change of consistency - In this frame an Agent or Cause changes the consistency of a Patient from its Initial state to a Result'?",
+    "description": "FrameNet | adjectives | frame:  | generated: viscous"
+  },
+  {
+    "content": "Is 'conciliate' associated with the frame 'Make compromise - Two (or more) people (the Parties, also encodable as Party 1 and Party 2) come to an agreement committing them to carrying out an Obligation'?",
+    "description": "FrameNet | verbs | frame:  | generated: conciliate"
+  },
+  {
+    "content": "Is 'unbolt' associated with the frame 'Closure - An Agent manipulates a Fastener to open or close a Containing object (e'?",
+    "description": "FrameNet | verbs | frame:  | generated: unbolt"
+  },
+  {
+    "content": "Is 'posture' associated with the frame 'Gesture - The words in this frame have to do with non-verbal communication'?",
+    "description": "FrameNet | nouns | frame:  | generated: posture"
+  },
+  {
+    "content": "Is 'adjacent' associated with the frame 'Location on path - A Figure (fictively or literally) occupies a position within a Profiled region related to a Ground'?",
+    "description": "FrameNet | adjectives | frame:  | generated: adjacent"
+  },
+  {
+    "content": "Is 'initiate' associated with the frame 'Firing point - A location from which a Detonator activates a distantly-located explosive device'?",
+    "description": "FrameNet | verbs | frame:  | generated: initiate"
+  },
+  {
+    "content": "Is 'historic' associated with the frame 'Event - An Event takes place at a Place and Time'?",
+    "description": "FrameNet | adjectives | frame:  | generated: historic"
+  },
+  {
+    "content": "Is 'legitimate' associated with the frame 'Ratification - A Ratifier responds to a Proposal constructed by another party to make it binding over the Ratifier'?",
+    "description": "FrameNet | adjectives | frame:  | generated: legitimate"
+  },
+  {
+    "content": "Is 'persists' associated with the frame 'Continued state of affairs - A State of affairs has held and continues to hold up to the Reference occasion'?",
+    "description": "FrameNet | verbs | frame:  | generated: persists"
+  },
+  {
+    "content": "Is 'disagree' associated with the frame 'Respond to proposal - A Speaker addresses a Proposal made by an Interlocutor, either agreeing to it or rejecting it'?",
+    "description": "FrameNet | verbs | frame:  | generated: disagree"
+  },
+  {
+    "content": "Is 'audacity' associated with the frame 'Daring - An Agent performs some Action which is considered imprudent'?",
+    "description": "FrameNet | nouns | frame:  | generated: audacity"
+  },
+  {
+    "content": "Is 'reflect' associated with the frame 'Diversity - A Group is described as having members which are similar or dissimilar to each other'?",
+    "description": "FrameNet | verbs | frame:  | generated: reflect"
+  },
+  {
+    "content": "Is 'gesture' associated with the frame 'Gesture - The words in this frame have to do with non-verbal communication'?",
+    "description": "FrameNet | nouns | frame:  | generated: gesture"
+  },
+  {
+    "content": "Is 'reasonable' associated with the frame 'Respond to proposal - A Speaker addresses a Proposal made by an Interlocutor, either agreeing to it or rejecting it'?",
+    "description": "FrameNet | adjectives | frame:  | generated: reasonable"
+  },
+  {
+    "content": "Is 'legislation' associated with the frame 'Legality - Words in this frame describe the status of an Action with respect to a Code of laws or rules'?",
+    "description": "FrameNet | nouns | frame:  | generated: legislation"
+  },
+  {
+    "content": "Is 'surprise' associated with the frame 'Facial expression - The words in this frame refer to facial Expressions and the Possessors of those Expressions'?",
+    "description": "FrameNet | nouns | frame:  | generated: surprise"
+  },
+  {
+    "content": "Is 'boundary' associated with the frame 'Access scenario - A Theme is or is not capable of entering or accessing a Useful location because of/despite a Barrier'?",
+    "description": "FrameNet | nouns | frame:  | generated: boundary"
+  },
+  {
+    "content": "Is 'paint' associated with the frame 'Activity - This is an abstract frame for durative activities, in which the Agent enters an ongoing state of the Activity, remains in this state for some Duration of Time, and leaves this state either by finishing or by stopping'?",
+    "description": "FrameNet | verbs | frame:  | generated: paint"
+  },
+  {
+    "content": "Is 'unforeseen' associated with the frame 'Drop in on - A Visitor arrives at the Host location as a guest of the Host, for the purpose of achieving a Purpose'?",
+    "description": "FrameNet | adjectives | frame:  | generated: unforeseen"
+  },
+  {
+    "content": "Is 'moderate' associated with the frame 'Presentation of mitigation - A  Mitigating situation is presented as occurring against the backdrop of a more preferable situation and a less preferable situation that, while expected, feared, or hoped for, did not or will not occur; the Mitigating situation is thus, so to speak, sandwiched between a better and a worse situation, both of which are relevant in the discourse'?",
+    "description": "FrameNet | adjectives | frame:  | generated: moderate"
+  },
+  {
+    "content": "Is 'victorious' associated with the frame 'Finish competition - A Competition comes to an end, with a Competitor tying, winning, or losing against an Opponent (or opponents) according to their Score'?",
+    "description": "FrameNet | adjectives | frame:  | generated: victorious"
+  },
+  {
+    "content": "Is 'excited' associated with the frame 'Make acquaintance - Individuals first encounter each other and make introductions at a particular Time, Place, or Context'?",
+    "description": "FrameNet | adjectives | frame:  | generated: excited"
+  },
+  {
+    "content": "Is 'defend' associated with the frame 'People by military specialty - The LUs in this frame refer to Fighter in Military organizations according to their specialty in general or their function at a particular place and time'?",
+    "description": "FrameNet | verbs | frame:  | generated: defend"
+  },
+  {
+    "content": "Is 'habit' associated with the frame 'Idiosyncrasy - A certain Idiosyncrasy belongs to an Entity distinguishing it from other entities'?",
+    "description": "FrameNet | nouns | frame:  | generated: habit"
+  },
+  {
+    "content": "Is 'individuality' associated with the frame 'Idiosyncrasy - A certain Idiosyncrasy belongs to an Entity distinguishing it from other entities'?",
+    "description": "FrameNet | nouns | frame:  | generated: individuality"
+  },
+  {
+    "content": "Is 'fulfilling' associated with the frame 'Inherent purpose - The universe is considered through a teleological perspective and natural phenomena are seen to exist for the purpose of fulfilling some ultimate aim'?",
+    "description": "FrameNet | verbs | frame:  | generated: fulfilling"
+  },
+  {
+    "content": "Is 'rebuttal' associated with the frame 'Communication response - This frame deals with a Speaker communicating a reply or response, a Message, to some prior communication or action, the Trigger'?",
+    "description": "FrameNet | nouns | frame:  | generated: rebuttal"
+  },
+  {
+    "content": "Is 'arrow' associated with the frame 'Hunting - A Hunter tries to gain Food by way of outsmarting or tracking a living'?",
+    "description": "FrameNet | nouns | frame:  | generated: arrow"
+  },
+  {
+    "content": "Is 'history' associated with the frame 'History scenario - This frame describes how Events are related to each other and Place and Time'?",
+    "description": "FrameNet | nouns | frame:  | generated: history"
+  },
+  {
+    "content": "Is 'implement' associated with the frame 'Project - An Agent, which may be an individual or group, is engaged in a complex Activity'?",
+    "description": "FrameNet | verbs | frame:  | generated: implement"
+  },
+  {
+    "content": "Is 'personalities' associated with the frame 'People - This frame contains general words for Individuals, i'?",
+    "description": "FrameNet | nouns | frame:  | generated: personalities"
+  },
+  {
+    "content": "Is 'horrific' associated with the frame 'Rape - The words in this frame describe situations in which the Perpetrator has sexual intercourse with the Victim forcibly (or by threatening the use of force) and without his or her consent'?",
+    "description": "FrameNet | adjectives | frame:  | generated: horrific"
+  },
+  {
+    "content": "Is 'classificatory' associated with the frame 'Labeling - A Speaker uses as a Label to refer to an Entity'?",
+    "description": "FrameNet | adjectives | frame:  | generated: classificatory"
+  },
+  {
+    "content": "Is 'act' associated with the frame 'Performers and roles - A Performer has a certain Role in a Performance and plays their part by following the directions in the Script for that particular Role'?",
+    "description": "FrameNet | verbs | frame:  | generated: act"
+  },
+  {
+    "content": "Is 'scalpels' associated with the frame 'Medical instruments - This frame includes words for medical instruments--i'?",
+    "description": "FrameNet | nouns | frame:  | generated: scalpels"
+  },
+  {
+    "content": "Is 'continue' associated with the frame 'Activity resume - An Agent resumes participation in an Activity'?",
+    "description": "FrameNet | verbs | frame:  | generated: continue"
+  },
+  {
+    "content": "Is 'impact' associated with the frame 'Importance - A Factor affects the outcome of an Undertaking, which  can be a goal-oriented activity or the maintenance of a desirable state, the work in a Field, or something portrayed as affecting an Interested party'?",
+    "description": "FrameNet | verbs | frame:  | generated: impact"
+  },
+  {
+    "content": "Is 'intense' associated with the frame 'Emitting - In this frame a Source emitter discharges its Emission along a Path or to a Goal'?",
+    "description": "FrameNet | adjectives | frame:  | generated: intense"
+  },
+  {
+    "content": "Is 'sponge' associated with the frame 'Becoming dry - An Entity loses moisture with the outcome of being in a dry state'?",
+    "description": "FrameNet | nouns | frame:  | generated: sponge"
+  },
+  {
+    "content": "Is 'quantity' associated with the frame 'Cardinal numbers - This frame presents a situation where there is a certain Number of instances of an Entity or a certain Number that quantifies a Unit'?",
+    "description": "FrameNet | nouns | frame:  | generated: quantity"
+  },
+  {
+    "content": "Is 'reliable' associated with the frame 'Meet specifications - An Agent or Entity becomes sufficient enough to meet a Standard'?",
+    "description": "FrameNet | adjectives | frame:  | generated: reliable"
+  },
+  {
+    "content": "Is 'stretch' associated with the frame 'Expansion - An Item changes its physical size'?",
+    "description": "FrameNet | verbs | frame:  | generated: stretch"
+  },
+  {
+    "content": "Is 'primal' associated with the frame 'Hunting - A Hunter tries to gain Food by way of outsmarting or tracking a living'?",
+    "description": "FrameNet | adjectives | frame:  | generated: primal"
+  },
+  {
+    "content": "Is 'sleep' associated with the frame 'Measure by action - This frame involves words that provide a measure for some undelimited (mass) Entity by referring to an Event that a prototypical quantity (or duration) of the Entity stereotypically participates in'?",
+    "description": "FrameNet | nouns | frame:  | generated: sleep"
+  },
+  {
+    "content": "Is 'illegal' associated with the frame 'Committing crime - A Perpetrator (generally intentionally) commits a Crime, i'?",
+    "description": "FrameNet | adjectives | frame:  | generated: illegal"
+  },
+  {
+    "content": "Is 'imprisonment' associated with the frame 'Kidnapping - The words in this frame describe situations in which a Perpetrator carries off and holds the Victim against his or her will by force'?",
+    "description": "FrameNet | nouns | frame:  | generated: imprisonment"
+  },
+  {
+    "content": "Is 'illustrate' associated with the frame 'Adducing - A Speaker mentions a Specified entity filling a Role, thereby providing information which supports a point of the Speaker'?",
+    "description": "FrameNet | verbs | frame:  | generated: illustrate"
+  },
+  {
+    "content": "Is 'chart' associated with the frame 'Planned trajectory - A Theme traverses a trajectory'?",
+    "description": "FrameNet | verbs | frame:  | generated: chart"
+  },
+  {
+    "content": "Is 'boil' associated with the frame 'Change of phase - In this frame a Patient undergoes a change of phase'?",
+    "description": "FrameNet | verbs | frame:  | generated: boil"
+  },
+  {
+    "content": "Is 'co-author' associated with the frame 'Accompaniment - A Co participant fills the same role as the Participant in an event or relation'?",
+    "description": "FrameNet | nouns | frame:  | generated: co-author"
+  },
+  {
+    "content": "Is 'deduced' associated with the frame 'Awareness situation - A Cognizer has a piece of Content in their model of the world due to deduction, inference, or similar means of arriving at information from perceivables'?",
+    "description": "FrameNet | adjectives | frame:  | generated: deduced"
+  },
+  {
+    "content": "Is 'cohere' associated with the frame 'Go into shape - A Theme, which may or may not have a default shape or configuration, goes into a particular shape without being made to do so by an agent'?",
+    "description": "FrameNet | verbs | frame:  | generated: cohere"
+  },
+  {
+    "content": "Is 'frankness' associated with the frame 'Candidness - This frame contains adjectives and nouns that describe the truth or sincerity of communication'?",
+    "description": "FrameNet | nouns | frame:  | generated: frankness"
+  },
+  {
+    "content": "Is 'institutionalize' associated with the frame 'Institutionalization - A Patient is committed to the care of a medical Facility by a proper Authority'?",
+    "description": "FrameNet | verbs | frame:  | generated: institutionalize"
+  },
+  {
+    "content": "Is 'practice' associated with the frame 'People by vocation - This frame contains  words for Individuals as viewed in terms of their vocation'?",
+    "description": "FrameNet | verbs | frame:  | generated: practice"
+  },
+  {
+    "content": "Is 'sequential' associated with the frame 'Non-commutative process - LUs in this frame describe a non-commutative process (as opposed to a generic statement) of arithmetic, e'?",
+    "description": "FrameNet | adjectives | frame:  | generated: sequential"
+  },
+  {
+    "content": "Is 'indemnification' associated with the frame 'Reparation - The words in this frame describe the process of making amends for some (wrongful) action (the Injury) committed by the Wrongdoer'?",
+    "description": "FrameNet | nouns | frame:  | generated: indemnification"
+  },
+  {
+    "content": "Is 'logical' associated with the frame 'Cognitive connection - A concept, Concept 1, is related causally or collocationally to another concept, Concept 2 by means of some evidence'?",
+    "description": "FrameNet | adjectives | frame:  | generated: logical"
+  },
+  {
+    "content": "Is 'bereavement counseling' associated with the frame 'Losing someone - This frame describes a Sufferer who experiences the loss of someone through death'?",
+    "description": "FrameNet | nouns | frame:  | generated: bereavement counseling"
+  },
+  {
+    "content": "Is 'interest rate' associated with the frame 'Bond maturation - A Financial instrument (a bond or insurance) fulfills a condition at a certain Time after which the Issuer of the Financial instrument is legally obligated to pay the Holder a monetary Value, based on the instrument'?",
+    "description": "FrameNet | nouns | frame:  | generated: interest rate"
+  },
+  {
+    "content": "Is 'alignment line' associated with the frame 'Alignment image schema - An Alignment match region has the same orientation as the relatively linear Ground'?",
+    "description": "FrameNet | nouns | frame:  | generated: alignment line"
+  },
+  {
+    "content": "Is 'operational' associated with the frame 'Getting vehicle underway - A Driver prepares a Vehicle for travel by placing it in the normal location for the operation of the vehicle or by detaching it from a place where it was held'?",
+    "description": "FrameNet | adjectives | frame:  | generated: operational"
+  },
+  {
+    "content": "Is 'fiery' associated with the frame 'Fire burning - A Fire burns Fuel, resulting in damage and possibly complete destruction of the Fuel'?",
+    "description": "FrameNet | adjectives | frame:  | generated: fiery"
+  },
+  {
+    "content": "Is 'sculpture' associated with the frame 'Physical artworks - A physical object, the Artifact, is produced by a Creator to stimulate the perceptions, emotions, or cognition of an audience'?",
+    "description": "FrameNet | nouns | frame:  | generated: sculpture"
+  },
+  {
+    "content": "Is 'differentiate' associated with the frame 'Be in agreement on assessment - The Cognizers have a similarity (or dissimilarity) in their Opinion'?",
+    "description": "FrameNet | verbs | frame:  | generated: differentiate"
+  },
+  {
+    "content": "Is 'shush' associated with the frame 'Obscurity - An Entity is obscure, unnotable, and in general little-known'?",
+    "description": "FrameNet | verbs | frame:  | generated: shush"
+  },
+  {
+    "content": "Is 'bud' associated with the frame 'Breaking off - An single Subpart breaks off from a Whole'?",
+    "description": "FrameNet | nouns | frame:  | generated: bud"
+  },
+  {
+    "content": "Is 'compensation' associated with the frame 'Reparation - The words in this frame describe the process of making amends for some (wrongful) action (the Injury) committed by the Wrongdoer'?",
+    "description": "FrameNet | nouns | frame:  | generated: compensation"
+  },
+  {
+    "content": "Is 'executioner' associated with the frame 'Killing - A Killer or Cause causes the death of the Victim'?",
+    "description": "FrameNet | nouns | frame:  | generated: executioner"
+  },
+  {
+    "content": "Is 'context' associated with the frame 'Being relevant - A Phenomenon is related to some cognitive action, the Endeavor, of a Cognizer'?",
+    "description": "FrameNet | nouns | frame:  | generated: context"
+  },
+  {
+    "content": "Is 'knowledgeable' associated with the frame 'Expertise - This frame concerns people'?",
+    "description": "FrameNet | adjectives | frame:  | generated: knowledgeable"
+  },
+  {
+    "content": "Is 'limit' associated with the frame 'Limiting - An Agent or Cause limits a Range of options to having a certain Characteristic'?",
+    "description": "FrameNet | verbs | frame:  | generated: limit"
+  },
+  {
+    "content": "Is 'proximity' associated with the frame 'Gradable proximity - A Figure is (stably) located with respect to a Ground in terms of how the distance between them compares to some general or contextually relevant scale'?",
+    "description": "FrameNet | nouns | frame:  | generated: proximity"
+  },
+  {
+    "content": "Is 'challenge' associated with the frame 'Daring - An Agent performs some Action which is considered imprudent'?",
+    "description": "FrameNet | verbs | frame:  | generated: challenge"
+  },
+  {
+    "content": "Is 'construct' associated with the frame 'Labor product - An Agent or a Cause mentally or physically expends energy rendering an Input, whether implicit or explicit, into a Output'?",
+    "description": "FrameNet | verbs | frame:  | generated: construct"
+  },
+  {
+    "content": "Is 'withdraw' associated with the frame 'Going back on a commitment - A Protagonist has made a Commitment but does not honor it, thereby doing harm to an Affected party'?",
+    "description": "FrameNet | verbs | frame:  | generated: withdraw"
+  },
+  {
+    "content": "Is 'possess' associated with the frame 'Post getting - The stage after which the Recipient has acquired the Theme'?",
+    "description": "FrameNet | verbs | frame:  | generated: possess"
+  },
+  {
+    "content": "Is 'court' associated with the frame 'Judicial body - A  Source of authority, typically a government, relies upon a set of institutions specialized for the administration of justice'?",
+    "description": "FrameNet | nouns | frame:  | generated: court"
+  },
+  {
+    "content": "Is 'drought' associated with the frame 'Cause to be dry - An Agent causes a Dryee (either a surface or an entire entity, inside and out) to become dry'?",
+    "description": "FrameNet | nouns | frame:  | generated: drought"
+  },
+  {
+    "content": "Is 'remedy' associated with the frame 'Cure - This frame deals with a Healer treating and curing an Affliction (the injuries, disease, or pain) of the Patient, sometimes also mentioning the use of a particular Treatment or Medication'?",
+    "description": "FrameNet | verbs | frame:  | generated: remedy"
+  },
+  {
+    "content": "Is 'permanent' associated with the frame 'Erasing - An Agent or Cause removes a piece of Information from a Document such that it cannot be retrieved'?",
+    "description": "FrameNet | adjectives | frame:  | generated: permanent"
+  },
+  {
+    "content": "Is 'convey' associated with the frame 'Encoding - A person (Speaker) expresses a Message or mental content, broadly understood, in a particular Manner'?",
+    "description": "FrameNet | verbs | frame:  | generated: convey"
+  },
+  {
+    "content": "Is 'effective' associated with the frame 'Change tool - An Agent changes Tools, from the Old tool to a New tool'?",
+    "description": "FrameNet | adjectives | frame:  | generated: effective"
+  },
+  {
+    "content": "Is 'resilience' associated with the frame 'Activity prepare - An Agent prepares for an Activity'?",
+    "description": "FrameNet | nouns | frame:  | generated: resilience"
+  },
+  {
+    "content": "Is 'replenish' associated with the frame 'Recovery - These words describe the recovery or healing of a Patient from an Affliction without reference to the influence of any Treatment or Healer (see the Cure frame)'?",
+    "description": "FrameNet | verbs | frame:  | generated: replenish"
+  },
+  {
+    "content": "Is 'prefigure' associated with the frame 'Event initial state - The initial state of a simple event X-schema'?",
+    "description": "FrameNet | verbs | frame:  | generated: prefigure"
+  },
+  {
+    "content": "Is 'valiant' associated with the frame 'Attempt action scenario - This frame represents the core action of an Attempt, where an Agent has a Goal and performs some Means action that they believe will achieve the Goal'?",
+    "description": "FrameNet | adjectives | frame:  | generated: valiant"
+  },
+  {
+    "content": "Is 'label' associated with the frame 'Categorization - A Cognizer construes an Item as belonging to a certain Category'?",
+    "description": "FrameNet | verbs | frame:  | generated: label"
+  },
+  {
+    "content": "Is 'termination' associated with the frame 'Process completed state - A Process is finished and can no longer proceed'?",
+    "description": "FrameNet | nouns | frame:  | generated: termination"
+  },
+  {
+    "content": "Is 'chase' associated with the frame 'Elusive goal - An Experiencer does not achieve a Desired goal'?",
+    "description": "FrameNet | verbs | frame:  | generated: chase"
+  },
+  {
+    "content": "Is 'reluctant' associated with the frame 'Getting underway - A Self mover begins the motion away from a relatively deprofiled Source location'?",
+    "description": "FrameNet | adjectives | frame:  | generated: reluctant"
+  },
+  {
+    "content": "Is 'approach' associated with the frame 'Manner - A Manner describes general or specific characteristics of an event in one of three ways:  First, it can refer to how a Comparison event transpires, absent the influence of an entity (e'?",
+    "description": "FrameNet | nouns | frame:  | generated: approach"
+  },
+  {
+    "content": "Is 'vibrate' associated with the frame 'Noise makers - The Noise maker is an artifact used to produce sound, especially for musical effect'?",
+    "description": "FrameNet | verbs | frame:  | generated: vibrate"
+  },
+  {
+    "content": "Is 'gullibility' associated with the frame 'Fall for - A Victim comes to have incorrect beliefs as a result of exposure to a Deception'?",
+    "description": "FrameNet | nouns | frame:  | generated: gullibility"
+  },
+  {
+    "content": "Is 'start' associated with the frame 'Cause to wake - An Agent or Cause causes a Sleeper to transition from the Sleep state to wakeful consciousness'?",
+    "description": "FrameNet | verbs | frame:  | generated: start"
+  },
+  {
+    "content": "Is 'smell' associated with the frame 'Perception body - This frame contains words describing physical experiences that can affect virtually any part of the body'?",
+    "description": "FrameNet | verbs | frame:  | generated: smell"
+  },
+  {
+    "content": "Is 'produce' associated with the frame 'Causation scenario - A Cause brings about an Effect that would not have occurred otherwise, simultaneously preventing an Averted situation, which is what would have occurred without the Cause'?",
+    "description": "FrameNet | verbs | frame:  | generated: produce"
+  },
+  {
+    "content": "Is 'fulfill' associated with the frame 'Satisfying - This frame describes an Agent or an Entity meeting or not meeting a Standard'?",
+    "description": "FrameNet | verbs | frame:  | generated: fulfill"
+  },
+  {
+    "content": "Is 'obligated' associated with the frame 'Borrowing - The Borrower takes possession of a Theme with the knowledge that the Borrower will have to give the Theme back to the Lender after a Duration of time'?",
+    "description": "FrameNet | adjectives | frame:  | generated: obligated"
+  },
+  {
+    "content": "Is 'workout' associated with the frame 'Exercising - An Agent actively maintains or improves their level of phyiscal fitness'?",
+    "description": "FrameNet | nouns | frame:  | generated: workout"
+  },
+  {
+    "content": "Is 'possess' associated with the frame 'Attributes - An Entity has a particular Attribute with some Value'?",
+    "description": "FrameNet | verbs | frame:  | generated: possess"
+  },
+  {
+    "content": "Is 'complement' associated with the frame 'Accoutrements - A Wearer wears accessories, which are made of  some Material and may have a Style'?",
+    "description": "FrameNet | verbs | frame:  | generated: complement"
+  },
+  {
+    "content": "Is 'love' associated with the frame 'Personal relationship - The words in this frame have to do with people and the personal Relationships they are or can be a part of'?",
+    "description": "FrameNet | nouns | frame:  | generated: love"
+  },
+  {
+    "content": "Is 'hypothesis' associated with the frame 'Coming up with - Words in this frame have to do with a Cognizer creating a new intellectual entity, the Idea'?",
+    "description": "FrameNet | nouns | frame:  | generated: hypothesis"
+  },
+  {
+    "content": "Is 'technical' associated with the frame 'Behind the scenes - Artists work at various tasks that further the completion of a film, play, television show, or other similar Production'?",
+    "description": "FrameNet | adjectives | frame:  | generated: technical"
+  },
+  {
+    "content": "Is 'invoice' associated with the frame 'Billing - A Billing authority communicates in written form that the Debtor owes the Owed party (often the same as the Billing authority) some amount of Money for certain Goods (including services) provided by the Owed party or to clear a debt for a Bad action by the Debtor against the Owed party'?",
+    "description": "FrameNet | verbs | frame:  | generated: invoice"
+  },
+  {
+    "content": "Is 'ownership' associated with the frame 'Post getting - The stage after which the Recipient has acquired the Theme'?",
+    "description": "FrameNet | nouns | frame:  | generated: ownership"
+  },
+  {
+    "content": "Is 'arrive at' associated with the frame 'Arriving - An object Theme moves in the direction of a Goal'?",
+    "description": "FrameNet | verbs | frame:  | generated: arrive at"
+  },
+  {
+    "content": "Is 'unique' associated with the frame 'Physical artworks - A physical object, the Artifact, is produced by a Creator to stimulate the perceptions, emotions, or cognition of an audience'?",
+    "description": "FrameNet | adjectives | frame:  | generated: unique"
+  },
+  {
+    "content": "Is 'preparatory' associated with the frame 'Preliminaries - This frame describes means actions (Preparatory acts) that are taken by an Agent for the purpose of preparing for a later act'?",
+    "description": "FrameNet | adjectives | frame:  | generated: preparatory"
+  },
+  {
+    "content": "Is 'arise' associated with the frame 'Indigenous origin - An Entity began its existence in the context of a location of Origin, which is a discourse-salient place, or culture'?",
+    "description": "FrameNet | verbs | frame:  | generated: arise"
+  },
+  {
+    "content": "Is 'digress' associated with the frame 'Redirecting - An intentional Agent or a causing event (Cause) event causes a Theme which is already in motion to take a different Path or Direction, or reach a different Goal than the Original path'?",
+    "description": "FrameNet | verbs | frame:  | generated: digress"
+  },
+  {
+    "content": "Is 'divert' associated with the frame 'Redirecting - An intentional Agent or a causing event (Cause) event causes a Theme which is already in motion to take a different Path or Direction, or reach a different Goal than the Original path'?",
+    "description": "FrameNet | verbs | frame:  | generated: divert"
+  },
+  {
+    "content": "Is 'inspire' associated with the frame 'Ineffability - A Stimulus inspires a feeling of awe and interest in a (generally implicit or generic) Experiencer due to desirable qualities which are difficult to explain'?",
+    "description": "FrameNet | verbs | frame:  | generated: inspire"
+  },
+  {
+    "content": "Is 'bleach' associated with the frame 'Hair configuration - Temporary or permanent Styles and Configurations of Hair, as well as its inherent Nature'?",
+    "description": "FrameNet | verbs | frame:  | generated: bleach"
+  },
+  {
+    "content": "Is 'sear' associated with the frame 'Apply heat - A Cook applies heat to Food, where the Temperature setting of the heat and Duration of application may be specified'?",
+    "description": "FrameNet | verbs | frame:  | generated: sear"
+  },
+  {
+    "content": "Is 'concession' associated with the frame 'Make compromise - Two (or more) people (the Parties, also encodable as Party 1 and Party 2) come to an agreement committing them to carrying out an Obligation'?",
+    "description": "FrameNet | nouns | frame:  | generated: concession"
+  },
+  {
+    "content": "Is 'resignation' associated with the frame 'Quitting - An Employee voluntarily leaves the service of an Employer'?",
+    "description": "FrameNet | nouns | frame:  | generated: resignation"
+  },
+  {
+    "content": "Is 'tangled' associated with the frame 'Losing track of theme - This frames describes a Perceiver who fails to keep sight of a Theme'?",
+    "description": "FrameNet | adjectives | frame:  | generated: tangled"
+  },
+  {
+    "content": "Is 'traveler' associated with the frame 'Arriving - An object Theme moves in the direction of a Goal'?",
+    "description": "FrameNet | nouns | frame:  | generated: traveler"
+  },
+  {
+    "content": "Is 'termination' associated with the frame 'Employer scenario - The sequence of events in which the Employer hires an Employee, employs them in a Position for some Duration, and finally lets them go from the Position'?",
+    "description": "FrameNet | nouns | frame:  | generated: termination"
+  },
+  {
+    "content": "Is 'possession' associated with the frame 'Receiving - A Recipient comes into possession of the Theme as a result of the joint action of the Donor and the Recipient'?",
+    "description": "FrameNet | nouns | frame:  | generated: possession"
+  },
+  {
+    "content": "Is 'essence' associated with the frame 'Identity - An Instance of some type is conceived of as having an Identity, defined as the unique feature that distinguishes each Instance from all other instances of its type'?",
+    "description": "FrameNet | nouns | frame:  | generated: essence"
+  },
+  {
+    "content": "Is 'shift' associated with the frame 'Dynamic situation scenario - This frame denotes simple Events in which an Entity is in a dynamic situation, usually punctually or continually changing to conform to the situation encoded in the Event endstate'?",
+    "description": "FrameNet | verbs | frame:  | generated: shift"
+  },
+  {
+    "content": "Is 'volatile' associated with the frame 'Dynamic situation scenario - This frame denotes simple Events in which an Entity is in a dynamic situation, usually punctually or continually changing to conform to the situation encoded in the Event endstate'?",
+    "description": "FrameNet | adjectives | frame:  | generated: volatile"
+  },
+  {
+    "content": "Is 're-ignition' associated with the frame 'Cause to resume - An Agent acts so as to cause some process to begin again after an interruption or suspension'?",
+    "description": "FrameNet | nouns | frame:  | generated: re-ignition"
+  },
+  {
+    "content": "Is 'forsaking' associated with the frame 'Renunciation - A Speaker declares that they will no longer be involved with the Content'?",
+    "description": "FrameNet | nouns | frame:  | generated: forsaking"
+  },
+  {
+    "content": "Is 'turnover' associated with the frame 'Replacing - An Agent changes the filler of a  Role by placing a New filler in the position after the Old filler ceases to occupy the position'?",
+    "description": "FrameNet | nouns | frame:  | generated: turnover"
+  },
+  {
+    "content": "Is 'absolves' associated with the frame 'Forgiveness - A Judge refrains from imposing, or demanding a punishment for an Evaluee who has committed an Offense'?",
+    "description": "FrameNet | verbs | frame:  | generated: absolves"
+  },
+  {
+    "content": "Is 'condone' associated with the frame 'Morality evaluation - In this frame an Evaluee is described by a (usually implicit) Judge with respect to the morality or rightness of his or her Behavior'?",
+    "description": "FrameNet | verbs | frame:  | generated: condone"
+  },
+  {
+    "content": "Is 'casual' associated with the frame 'Drop in on - A Visitor arrives at the Host location as a guest of the Host, for the purpose of achieving a Purpose'?",
+    "description": "FrameNet | adjectives | frame:  | generated: casual"
+  },
+  {
+    "content": "Is 'objective' associated with the frame 'Being detached - An Item is detached from a Source, or Items are detached from each other'?",
+    "description": "FrameNet | adjectives | frame:  | generated: objective"
+  },
+  {
+    "content": "Is 'peripheral' associated with the frame 'Part edge - This describes a part whole relationship where the Part provides the boundary between the Whole and what is not that object'?",
+    "description": "FrameNet | adjectives | frame:  | generated: peripheral"
+  },
+  {
+    "content": "Is 'prosecute' associated with the frame 'Law enforcement agency - A law enforcement Agency is tasked by a government with guaranteeing compliance with the laws in a particular Jurisdiction'?",
+    "description": "FrameNet | verbs | frame:  | generated: prosecute"
+  },
+  {
+    "content": "Is 'designated' associated with the frame 'Representative - A Representative is authorized by a Represented to communicate on behalf of the Represented'?",
+    "description": "FrameNet | adjectives | frame:  | generated: designated"
+  },
+  {
+    "content": "Is 'unforeseeable' associated with the frame 'Negative conditional - An Anti consequence is presented as not occurring if the Profiled possibility occurs'?",
+    "description": "FrameNet | adjectives | frame:  | generated: unforeseeable"
+  },
+  {
+    "content": "Is 'continent' associated with the frame 'Natural features - The Locale is a geographical location as defined by shape'?",
+    "description": "FrameNet | nouns | frame:  | generated: continent"
+  },
+  {
+    "content": "Is 'conclusion' associated with the frame 'Activity finish - An Agent finishes an Activity, which can no longer logically continue'?",
+    "description": "FrameNet | nouns | frame:  | generated: conclusion"
+  },
+  {
+    "content": "Is 'complement' associated with the frame 'Architectural part - An entity is integrated into a building as a Part of a (possibly unexpressed) Whole which may refer to the whole building or merely to a sub-part of the building'?",
+    "description": "FrameNet | verbs | frame:  | generated: complement"
+  },
+  {
+    "content": "Is 'earn' associated with the frame 'Being employed - An Employee has a Position doing work in a particular Field, or doing work on a particular Task, for which an Employer gives Compensation to the Employee'?",
+    "description": "FrameNet | verbs | frame:  | generated: earn"
+  },
+  {
+    "content": "Is 'display' associated with the frame 'Gradable attributes - An Entity has an implicit Value for an Attribute'?",
+    "description": "FrameNet | verbs | frame:  | generated: display"
+  },
+  {
+    "content": "Is 'responsive' associated with the frame 'Getting triggered - A System interacts with the environment (which may include a volitional agent) and goes into operation in accordance with its intended purpose'?",
+    "description": "FrameNet | adjectives | frame:  | generated: responsive"
+  },
+  {
+    "content": "Is 'surrenders' associated with the frame 'Pre giving - The stage of giving just before the Donor discontinues possession of the Theme, yielding it to the Recipient'?",
+    "description": "FrameNet | verbs | frame:  | generated: surrenders"
+  },
+  {
+    "content": "Is 'instinctual' associated with the frame 'Biological urge - An Experiencer is in a State where a biological urge is signaling the need to perform a certain action such as eating, drinking, stopping exertion, sleeping, regurgitating, or having sex'?",
+    "description": "FrameNet | adjectives | frame:  | generated: instinctual"
+  },
+  {
+    "content": "Is 'bond' associated with the frame 'Becoming attached - An Item comes to be attached to a Goal, with a Connector forming a bond between the Handle of the Item and the Goal (or some part of it)'?",
+    "description": "FrameNet | nouns | frame:  | generated: bond"
+  },
+  {
+    "content": "Is 'percussion' associated with the frame 'Noise makers - The Noise maker is an artifact used to produce sound, especially for musical effect'?",
+    "description": "FrameNet | nouns | frame:  | generated: percussion"
+  },
+  {
+    "content": "Is 'succeed' associated with the frame 'Result of attempt scenario - An Agent and their Action succeed or fail inasmuch as the result of an Action matches the Goal that they hope to bring about by the Action'?",
+    "description": "FrameNet | verbs | frame:  | generated: succeed"
+  },
+  {
+    "content": "Is 'rallying' associated with the frame 'Assemble - In this frame a group of Individuals intentionally come together to form a Group'?",
+    "description": "FrameNet | nouns | frame:  | generated: rallying"
+  },
+  {
+    "content": "Is 'source' associated with the frame 'Attributed information - A Proposition is attributed to a Speaker or a Text'?",
+    "description": "FrameNet | nouns | frame:  | generated: source"
+  },
+  {
+    "content": "Is 'unwilling' associated with the frame 'Pre receiving - The state-of-affairs immediately before the Recipient gets the Theme which describes the Recipient'?",
+    "description": "FrameNet | adjectives | frame:  | generated: unwilling"
+  },
+  {
+    "content": "Is 'engage' associated with the frame 'Getting vehicle underway - A Driver prepares a Vehicle for travel by placing it in the normal location for the operation of the vehicle or by detaching it from a place where it was held'?",
+    "description": "FrameNet | verbs | frame:  | generated: engage"
+  },
+  {
+    "content": "Is 'borrow' associated with the frame 'Money - Money is a medium used for exchanging goods and services'?",
+    "description": "FrameNet | verbs | frame:  | generated: borrow"
+  },
+  {
+    "content": "Is 'gauge' associated with the frame 'Measures - An Entity is measured in some (implicit) Attribute by quantifying the Count of a particular Unit whose value for the Attribute is known'?",
+    "description": "FrameNet | nouns | frame:  | generated: gauge"
+  },
+  {
+    "content": "Is 'legislate' associated with the frame 'Law - A Law regulates activities or states of affairs within a Jurisdiction, dictating what Required states should be the case and what Forbidden states should not'?",
+    "description": "FrameNet | verbs | frame:  | generated: legislate"
+  },
+  {
+    "content": "Is 'accomplish' associated with the frame 'Personal success - A Person is in a state of prosperity and/or renown after some period of development or hardship in an Endeavor'?",
+    "description": "FrameNet | verbs | frame:  | generated: accomplish"
+  },
+  {
+    "content": "Is 'halt' associated with the frame 'Process end - A Process comes to an end'?",
+    "description": "FrameNet | verbs | frame:  | generated: halt"
+  },
+  {
+    "content": "Is 'sorrowful' associated with the frame 'Entering of plea - The Accused enters a Plea in answer to the Charges'?",
+    "description": "FrameNet | adjectives | frame:  | generated: sorrowful"
+  },
+  {
+    "content": "Is 'legal' associated with the frame 'Bail decision - This frame covers a step in a criminal process in which a  Judge decides whether the Accused should be released on bail, and, if so, what the amount of the bail should be'?",
+    "description": "FrameNet | adjectives | frame:  | generated: legal"
+  },
+  {
+    "content": "Is 'hindrance' associated with the frame 'Preventing or letting - A Potential hindrance or an Agent (via their actions) keeps an Event from taking place, or despite the possibility of prevent the Event, do not do so'?",
+    "description": "FrameNet | nouns | frame:  | generated: hindrance"
+  },
+  {
+    "content": "Is 'recasting' associated with the frame 'Reshaping - In this frame a Deformer deforms a Patient possibly against a Resistant surface such that it undergoes a shape-change from its canonical or original shape into the Configuration, a new shape'?",
+    "description": "FrameNet | nouns | frame:  | generated: recasting"
+  },
+  {
+    "content": "Is 'weaken' associated with the frame 'Judgment of intensity - A speaker characterizes the intensity of an Attribute of an Entity by a Degree'?",
+    "description": "FrameNet | verbs | frame:  | generated: weaken"
+  },
+  {
+    "content": "Is 'give' associated with the frame 'Conferring benefit - A Benefactor confers a Beneficial situation to a Beneficiary'?",
+    "description": "FrameNet | verbs | frame:  | generated: give"
+  },
+  {
+    "content": "Is 'pilot' associated with the frame 'People by military specialty - The LUs in this frame refer to Fighter in Military organizations according to their specialty in general or their function at a particular place and time'?",
+    "description": "FrameNet | nouns | frame:  | generated: pilot"
+  },
+  {
+    "content": "Is 'fortuity' associated with the frame 'Coincidence - A State of affairs (a state or event) either holds or occurs, and is presented as being causally independent of other (implicit) states or events that might otherwise have been expected to be causally related to the State of affairs'?",
+    "description": "FrameNet | nouns | frame:  | generated: fortuity"
+  },
+  {
+    "content": "Is 'detentional' associated with the frame 'Prison - This Frame deals with Penal institutions'?",
+    "description": "FrameNet | adjectives | frame:  | generated: detentional"
+  },
+  {
+    "content": "Is 'critical' associated with the frame 'Arraignment - At a court hearing, a Defendant is informed of the Charges against him or her, (usually) enters a plea, and a decision is made by a Judge as to the amount of bail, if any'?",
+    "description": "FrameNet | adjectives | frame:  | generated: critical"
+  },
+  {
+    "content": "Is 'direct' associated with the frame 'Roadways - This frame involves stable Roadways which connect two stable Endpoints, the Source and the Goal'?",
+    "description": "FrameNet | adjectives | frame:  | generated: direct"
+  },
+  {
+    "content": "Is 'discriminated against' associated with the frame 'Fairness evaluation - In this frame an Action is evaluated with respect to how fairly, justly or equitably the Action affects the Affected party'?",
+    "description": "FrameNet | verbs | frame:  | generated: discriminated against"
+  },
+  {
+    "content": "Is 'work' associated with the frame 'Employment continue - This is a non-perspectivized frame representing the middle stage of the Employment scenario, in which there is a stable employment relationship between the Employee and the Employer'?",
+    "description": "FrameNet | verbs | frame:  | generated: work"
+  },
+  {
+    "content": "Is 'aggregate' associated with the frame 'Aggregate - This frame contains nouns denoting Aggregates of Individuals'?",
+    "description": "FrameNet | adjectives | frame:  | generated: aggregate"
+  },
+  {
+    "content": "Is 'goal' associated with the frame 'Goal - A Landmark (in combination with the image schema evoked by particular targets) serves to pick out the final location of a Trajector in a construed or actual motion event'?",
+    "description": "FrameNet | nouns | frame:  | generated: goal"
+  },
+  {
+    "content": "Is 'peculiar' associated with the frame 'Idiosyncrasy - A certain Idiosyncrasy belongs to an Entity distinguishing it from other entities'?",
+    "description": "FrameNet | adjectives | frame:  | generated: peculiar"
+  },
+  {
+    "content": "Is 'arm' associated with the frame 'Distant operated IED - A improvised explosive device, the Bomb, is rigged to detonate when it receives a signal, typically by a wire that leads to a trigger'?",
+    "description": "FrameNet | verbs | frame:  | generated: arm"
+  },
+  {
+    "content": "Is 'informal' associated with the frame 'Reference text - In a text, a Source of information is given that provides a reader of the text with further Information relevant to the text'?",
+    "description": "FrameNet | adjectives | frame:  | generated: informal"
+  },
+  {
+    "content": "Is 'manage' associated with the frame 'Network - A set of entities of the same or similar types (Nodes) are linked to each other by Connections to form a Network allowing for the flow of information, resources, etc'?",
+    "description": "FrameNet | verbs | frame:  | generated: manage"
+  },
+  {
+    "content": "Is 'delayed' associated with the frame 'Process pause - The Process stops making progress towards completion, but should resume and continue'?",
+    "description": "FrameNet | adjectives | frame:  | generated: delayed"
+  },
+  {
+    "content": "Is 'halt' associated with the frame 'Process stop - A Process stops at a certain Time and Place'?",
+    "description": "FrameNet | nouns | frame:  | generated: halt"
+  },
+  {
+    "content": "Is 'unlinked' associated with the frame 'Detaching - The Detaching frame covers two situations: a scene in which somebody causes one thing to be physically detached from something else; or a scene in which somebody causes two things to be disconnected from each other'?",
+    "description": "FrameNet | adjectives | frame:  | generated: unlinked"
+  },
+  {
+    "content": "Is 'designate' associated with the frame 'Referring by name - A Speaker uses a particular linguistic form, a Name to refer to an Entity'?",
+    "description": "FrameNet | verbs | frame:  | generated: designate"
+  },
+  {
+    "content": "Is 'dissonance' associated with the frame 'Be in agreement on assessment - The Cognizers have a similarity (or dissimilarity) in their Opinion'?",
+    "description": "FrameNet | nouns | frame:  | generated: dissonance"
+  },
+  {
+    "content": "Is 'shortage' associated with the frame 'Scarcity - The Quantity of a Collection occurring in a Place has a particular Measure, which is related to the amount generally needed'?",
+    "description": "FrameNet | nouns | frame:  | generated: shortage"
+  },
+  {
+    "content": "Is 'organized' associated with the frame 'Chaos - The lexical units in this frame have to do with an Entity being in a State of order or disorder'?",
+    "description": "FrameNet | adjectives | frame:  | generated: organized"
+  },
+  {
+    "content": "Is 'activation' associated with the frame 'Activity start - An Agent initiates the beginning of an ongoing Activity in which he will be continuously involved'?",
+    "description": "FrameNet | nouns | frame:  | generated: activation"
+  },
+  {
+    "content": "Is 'rate' associated with the frame 'Relational quantity - A quantity, the Numerator, can be understood in terms of how it relates to another quantity, the Denominator; the comparison of these two numbers is called the Rate'?",
+    "description": "FrameNet | nouns | frame:  | generated: rate"
+  },
+  {
+    "content": "Is 'forbid' associated with the frame 'Legality - Words in this frame describe the status of an Action with respect to a Code of laws or rules'?",
+    "description": "FrameNet | verbs | frame:  | generated: forbid"
+  },
+  {
+    "content": "Is 'apology' associated with the frame 'Contrition - An Experiencer feels bad about a choice, an Action, or a failure to do something, which they now consider to have been a mistake or wrong'?",
+    "description": "FrameNet | nouns | frame:  | generated: apology"
+  },
+  {
+    "content": "Is 'make a family' associated with the frame 'Procreative sex - This frame exists to define a type of Sex where the intended result is procreation'?",
+    "description": "FrameNet | verbs | frame:  | generated: make a family"
+  },
+  {
+    "content": "Is 'generous' associated with the frame 'Offering - An Offerer indicates that he or she is able and willing to give a Theme to a Potential recipient'?",
+    "description": "FrameNet | adjectives | frame:  | generated: generous"
+  },
+  {
+    "content": "Is 'devoted' associated with the frame 'Entourage - A group of Individuals form a group, the Entourage, which remains co-located with the Attended person'?",
+    "description": "FrameNet | adjectives | frame:  | generated: devoted"
+  },
+  {
+    "content": "Is 'communication' associated with the frame 'Chatting - A group of people (the Interlocutors or Interlocutor 1 and Interlocutor 2 together) have a conversation'?",
+    "description": "FrameNet | nouns | frame:  | generated: communication"
+  },
+  {
+    "content": "Is 'remnant' associated with the frame 'Out of existence - An Entity has ceased to exist'?",
+    "description": "FrameNet | nouns | frame:  | generated: remnant"
+  },
+  {
+    "content": "Is 'physical' associated with the frame 'Counterattack - An Assailant physically attacks a Victim (which is usually but not always sentient), causing or intending to cause the Victim physical damage'?",
+    "description": "FrameNet | adjectives | frame:  | generated: physical"
+  },
+  {
+    "content": "Is 'deceased' associated with the frame 'Dead or alive - A Protagonist is in the dynamic, maintained state of being alive or has exited this state'?",
+    "description": "FrameNet | adjectives | frame:  | generated: deceased"
+  },
+  {
+    "content": "Is 'feature' associated with the frame 'Distinctiveness - A Feature of an Entity serves to distinguish the Entity from other members of its type which have a different value for the Feature'?",
+    "description": "FrameNet | nouns | frame:  | generated: feature"
+  },
+  {
+    "content": "Is 'measure' associated with the frame 'Measure duration - This frame contains (transparent ) nouns that are Units of measurement for time'?",
+    "description": "FrameNet | verbs | frame:  | generated: measure"
+  },
+  {
+    "content": "Is 'Storytelling event' associated with the frame 'Reading aloud - A Speaker interprets a written Text and speaks the contents, usually to an Addressee'?",
+    "description": "FrameNet | nouns | frame:  | generated: Storytelling event"
+  },
+  {
+    "content": "Is 'gripe' associated with the frame 'Emotion heat - This frame contains verbs that describe emotional experiences and participate in the locative alternation, as in the following examples: '?",
+    "description": "FrameNet | nouns | frame:  | generated: gripe"
+  },
+  {
+    "content": "Is 'belong' associated with the frame 'Co-association - Two or more individuals have a relationship by virtue of belonging to the same organization or institution'?",
+    "description": "FrameNet | verbs | frame:  | generated: belong"
+  },
+  {
+    "content": "Is 'excavate' associated with the frame 'Mining - A Miner attempts to obtain a desirable Resource, rocks and minerals, located in a Place being mined, by digging or tunneling in the ground'?",
+    "description": "FrameNet | verbs | frame:  | generated: excavate"
+  },
+  {
+    "content": "Is 'hegemonic' associated with the frame 'Dominate situation - An Agent acts so as to be the strongest force, or most important causal factor in some Situation, to the exclusion of other competing actors'?",
+    "description": "FrameNet | adjectives | frame:  | generated: hegemonic"
+  },
+  {
+    "content": "Is 'Stove' associated with the frame 'Absorb heat - An Entity (generally food) is exposed to a Heat source whose Temperature may also be specified'?",
+    "description": "FrameNet | nouns | frame:  | generated: Stove"
+  },
+  {
+    "content": "Is 'diminish' associated with the frame 'Container focused removing - An Agent or Cause partially or totally changes the state of a Source object, towards having less of the Theme'?",
+    "description": "FrameNet | verbs | frame:  | generated: diminish"
+  },
+  {
+    "content": "Is 'tropical' associated with the frame 'Biological area -  This frame contains words that denote large ecological areas as well as smaller locations characterized by the type of life present--in other words, geography locations as defined by biota'?",
+    "description": "FrameNet | adjectives | frame:  | generated: tropical"
+  },
+  {
+    "content": "Is 'athletic' associated with the frame 'Body description part - This frame is concerned with words that describe a person based on a salient part of their body'?",
+    "description": "FrameNet | adjectives | frame:  | generated: athletic"
+  },
+  {
+    "content": "Is 'serendipity' associated with the frame 'Coincidence - A State of affairs (a state or event) either holds or occurs, and is presented as being causally independent of other (implicit) states or events that might otherwise have been expected to be causally related to the State of affairs'?",
+    "description": "FrameNet | nouns | frame:  | generated: serendipity"
+  },
+  {
+    "content": "Is 'cyclic' associated with the frame 'Moving in place - A Theme moves with respect to a Fixed location, generally with a certain Periodicity, without undergoing unbounded translational motion or significant alteration of configuration/shape'?",
+    "description": "FrameNet | adjectives | frame:  | generated: cyclic"
+  },
+  {
+    "content": "Is 'outmaneuver' associated with the frame 'First rank - An Item is located at the top end of a scale of importance or social rank (or some other Attribute) in comparison to other members of a Contrast set (usually, implicit) that is otherwise similar in kind to the Item'?",
+    "description": "FrameNet | verbs | frame:  | generated: outmaneuver"
+  },
+  {
+    "content": "Is 'dominance' associated with the frame 'Control - A Controlling entity, Controlling situation, or Controlling variable control a Dependent entity, Dependent situation, or Dependent variable'?",
+    "description": "FrameNet | nouns | frame:  | generated: dominance"
+  },
+  {
+    "content": "Is 'assess' associated with the frame 'Proportional quantity - The Denoted quantity is (generally) an imprecise characterization of the quantity of Individuals or a Mass, made with reference to a relatively easily and precisely imaginable Reference quantity'?",
+    "description": "FrameNet | verbs | frame:  | generated: assess"
+  },
+  {
+    "content": "Is 'uncertain' associated with the frame 'Attributed information - A Proposition is attributed to a Speaker or a Text'?",
+    "description": "FrameNet | adjectives | frame:  | generated: uncertain"
+  },
+  {
+    "content": "Is 'hostile' associated with the frame 'Friendly or hostile - Two parties or individuals are on the same side or on different sides of a (typically military) conflict'?",
+    "description": "FrameNet | adjectives | frame:  | generated: hostile"
+  },
+  {
+    "content": "Is 'authoritarian' associated with the frame 'Dominate situation - An Agent acts so as to be the strongest force, or most important causal factor in some Situation, to the exclusion of other competing actors'?",
+    "description": "FrameNet | adjectives | frame:  | generated: authoritarian"
+  },
+  {
+    "content": "Is 'putrescence' associated with the frame 'Rotting - In this frame a Patient, which is  an organic substance, undergoes the natural process of decaying from an Initial state to a Result'?",
+    "description": "FrameNet | nouns | frame:  | generated: putrescence"
+  },
+  {
+    "content": "Is 'embrace' associated with the frame 'Popularity - An Evaluee, which can be a person or an object, has an amount of acceptability or utilization based on general (often non-aesthetic) desirability'?",
+    "description": "FrameNet | verbs | frame:  | generated: embrace"
+  },
+  {
+    "content": "Is 'collective' associated with the frame 'Gathering up - This frame describes an Agent'?",
+    "description": "FrameNet | adjectives | frame:  | generated: collective"
+  },
+  {
+    "content": "Is 'kitchen' associated with the frame 'Cooking creation - This frame describes food and meal preparation'?",
+    "description": "FrameNet | nouns | frame:  | generated: kitchen"
+  },
+  {
+    "content": "Is 'attentive' associated with the frame 'Being awake - A Protagonist is awake at some Time and Place'?",
+    "description": "FrameNet | adjectives | frame:  | generated: attentive"
+  },
+  {
+    "content": "Is 'revelation' associated with the frame 'Information - A Cognizer knows or comes to know some piece of Information about a Topic'?",
+    "description": "FrameNet | nouns | frame:  | generated: revelation"
+  },
+  {
+    "content": "Is 'imposter' associated with the frame 'Passing off - An Agent acts in such a way as to cause others to think that an Item is an instance of a particular kind of Simulated entity'?",
+    "description": "FrameNet | nouns | frame:  | generated: imposter"
+  },
+  {
+    "content": "Is 'conclude' associated with the frame 'Process end - A Process comes to an end'?",
+    "description": "FrameNet | verbs | frame:  | generated: conclude"
+  },
+  {
+    "content": "Is 'is applicable to' associated with the frame 'Domain - A Predicate  is said to apply in a particular Domain'?",
+    "description": "FrameNet | verbs | frame:  | generated: is applicable to"
+  },
+  {
+    "content": "Is 'strong' associated with the frame 'Being up to it -  An Entity meets the pre-conditions for participating in an Activity that is judged to be difficult for it to participate in, either due to inherent properties of the Entity or temporary Circumstances'?",
+    "description": "FrameNet | adjectives | frame:  | generated: strong"
+  },
+  {
+    "content": "Is 'insight' associated with the frame 'Coming to believe - A person (the Cognizer) comes to believe something (the Content), sometimes after a process of reasoning'?",
+    "description": "FrameNet | nouns | frame:  | generated: insight"
+  },
+  {
+    "content": "Is 'transaction' associated with the frame 'Commerce collect - Subframe of Commerce money-transfer in which the Seller comes to have the Money'?",
+    "description": "FrameNet | nouns | frame:  | generated: transaction"
+  },
+  {
+    "content": "Is 'ideology' associated with the frame 'People along political spectrum - An Individual belongs to a  group that is categorized in terms of the political views on particular issues that the members of the group  tend to share, in opposition to other groups that hold different beliefs on the issues'?",
+    "description": "FrameNet | nouns | frame:  | generated: ideology"
+  },
+  {
+    "content": "Is 'paper' associated with the frame 'Examination - This frame deals with testing or examination of someone'?",
+    "description": "FrameNet | nouns | frame:  | generated: paper"
+  },
+  {
+    "content": "Is 'transactional' associated with the frame 'Commerce goods-transfer - The subframe of the Commercial transaction in which the Seller gives the Goods to the Buyer (in exchange for the Money)'?",
+    "description": "FrameNet | adjectives | frame:  | generated: transactional"
+  },
+  {
+    "content": "Is 'unwavering' associated with the frame 'Renunciation - A Speaker declares that they will no longer be involved with the Content'?",
+    "description": "FrameNet | adjectives | frame:  | generated: unwavering"
+  },
+  {
+    "content": "Is 'editing' associated with the frame 'Behind the scenes - Artists work at various tasks that further the completion of a film, play, television show, or other similar Production'?",
+    "description": "FrameNet | nouns | frame:  | generated: editing"
+  },
+  {
+    "content": "Is 'birth' associated with the frame 'Giving birth - A Mother and Father produce a Child or an Egg'?",
+    "description": "FrameNet | verbs | frame:  | generated: birth"
+  },
+  {
+    "content": "Is 'endeavour' associated with the frame 'Attempt means - An Agent attempts to achieve a Goal using some Means'?",
+    "description": "FrameNet | verbs | frame:  | generated: endeavour"
+  },
+  {
+    "content": "Is 'peak' associated with the frame 'Graph shape - This frame descibes a Shape that Data makes on a Graph'?",
+    "description": "FrameNet | nouns | frame:  | generated: peak"
+  },
+  {
+    "content": "Is 'unacceptable' associated with the frame 'Satisfying - This frame describes an Agent or an Entity meeting or not meeting a Standard'?",
+    "description": "FrameNet | adjectives | frame:  | generated: unacceptable"
+  },
+  {
+    "content": "Is 'inhumate' associated with the frame 'Burying - An Agent or Cause places a Theme under a surface (often the ground) into a Goal location'?",
+    "description": "FrameNet | verbs | frame:  | generated: inhumate"
+  },
+  {
+    "content": "Is 'modifies' associated with the frame 'Arithmetic non-commutative - This frame describes types of arithmetic operations and statements which are not commutative, i'?",
+    "description": "FrameNet | verbs | frame:  | generated: modifies"
+  },
+  {
+    "content": "Is 'fire hazard' associated with the frame 'Fire emergency scenario - This frame characterizes any scenario in which the presence of a fire necessitates an emergency response in order to mitigate damage directly caused by the fire'?",
+    "description": "FrameNet | nouns | frame:  | generated: fire hazard"
+  },
+  {
+    "content": "Is 'Process' associated with the frame 'Non-commutative process - LUs in this frame describe a non-commutative process (as opposed to a generic statement) of arithmetic, e'?",
+    "description": "FrameNet | nouns | frame:  | generated: Process"
+  },
+  {
+    "content": "Is 'limit' associated with the frame 'Bounded entity - This is an abstract frame for bounded areas, used mostly for FE inheritance'?",
+    "description": "FrameNet | verbs | frame:  | generated: limit"
+  },
+  {
+    "content": "Is 'prognosis' associated with the frame 'Medical intervention - Procedural or Medicine based Interventions are used on a Patient to attempt to alleviate a Medical condition'?",
+    "description": "FrameNet | nouns | frame:  | generated: prognosis"
+  },
+  {
+    "content": "Is 'articulate' associated with the frame 'Communication manner - The words in this frame describe Manners of verbal communication'?",
+    "description": "FrameNet | verbs | frame:  | generated: articulate"
+  },
+  {
+    "content": "Is 'purchase' associated with the frame 'Commerce pay - This frame involves Buyers paying Money for Goods'?",
+    "description": "FrameNet | nouns | frame:  | generated: purchase"
+  },
+  {
+    "content": "Is 'morality' associated with the frame 'Being obligatory - Under some Condition, usually left implicit, a Duty needs to be fulfilled by a  Responsible party'?",
+    "description": "FrameNet | nouns | frame:  | generated: morality"
+  },
+  {
+    "content": "Is 'deploy' associated with the frame 'Member of military - A Person is a member of an organized military organization belonging to a nation-state or similar body'?",
+    "description": "FrameNet | verbs | frame:  | generated: deploy"
+  },
+  {
+    "content": "Is 'question' associated with the frame 'Being questionable - In this frame, an Entity or Behavior is suspicious or otherwise subject to question'?",
+    "description": "FrameNet | verbs | frame:  | generated: question"
+  },
+  {
+    "content": "Is 'disseminate' associated with the frame 'Publishing - A Publisher makes a Work of an Author (or authors) available to some public Audience for general enjoyment, examination, and reference'?",
+    "description": "FrameNet | verbs | frame:  | generated: disseminate"
+  },
+  {
+    "content": "Is 'secure' associated with the frame 'Being attached - An Item is attached by a Handle, via a Connector, to a Goal, or Items are attached to each other'?",
+    "description": "FrameNet | adjectives | frame:  | generated: secure"
+  },
+  {
+    "content": "Is 'project' associated with the frame 'Likelihood - This frame is concerned with the likelihood of a Hypothetical event occurring'?",
+    "description": "FrameNet | verbs | frame:  | generated: project"
+  },
+  {
+    "content": "Is 'island' associated with the frame 'Isolated places - A Place is located far off from centers of population, culture, and/or trade'?",
+    "description": "FrameNet | nouns | frame:  | generated: island"
+  },
+  {
+    "content": "Is 'humiliate' associated with the frame 'Disgraceful situation - An implicit cognizer judges that a particular State of affairs for which a Protagonist is responsible is socially unacceptable'?",
+    "description": "FrameNet | verbs | frame:  | generated: humiliate"
+  },
+  {
+    "content": "Is 'Journey' associated with the frame 'Getting underway - A Self mover begins the motion away from a relatively deprofiled Source location'?",
+    "description": "FrameNet | nouns | frame:  | generated: Journey"
+  },
+  {
+    "content": "Is 'craft' associated with the frame 'Craft - A  particular Activity, performed conventionally or habitually by more than one Practitioner  within a Culture, is described  in terms of its method'?",
+    "description": "FrameNet | verbs | frame:  | generated: craft"
+  },
+  {
+    "content": "Is 'inevitable' associated with the frame 'Employment end - This is a non-perspectivized frame representing the final stage of the Employment scenario, in which the relationship between the Employer and the Employee comes to an end'?",
+    "description": "FrameNet | adjectives | frame:  | generated: inevitable"
+  },
+  {
+    "content": "Is 'offense' associated with the frame 'Pardon - An Authority excuses an Offense that an Offender has committed, with the effect of ending or preventing any punishment'?",
+    "description": "FrameNet | nouns | frame:  | generated: offense"
+  },
+  {
+    "content": "Is 'required' associated with the frame 'Imposing obligation - A Duty is imposed on a Responsible party according to a Principle which regulates how the Responsible party should respond to a Situation'?",
+    "description": "FrameNet | adjectives | frame:  | generated: required"
+  },
+  {
+    "content": "Is 'territory' associated with the frame 'Locale by collocation - A Profiled region is identified as being the region where an Entity is located'?",
+    "description": "FrameNet | nouns | frame:  | generated: territory"
+  },
+  {
+    "content": "Is 'bottle' associated with the frame 'Containers - This frame covers entities which are prototypically conceived of and created to fulfill the function of containing--i'?",
+    "description": "FrameNet | nouns | frame:  | generated: bottle"
+  },
+  {
+    "content": "Is 'command' associated with the frame 'Authority - An Agent has the means to affect a Theme along the lines of a certain Domain'?",
+    "description": "FrameNet | verbs | frame:  | generated: command"
+  },
+  {
+    "content": "Is 'meeting time' associated with the frame 'Meet with - In this frame Party 1 meets with Party 2 at a prearranged Time and Place'?",
+    "description": "FrameNet | nouns | frame:  | generated: meeting time"
+  },
+  {
+    "content": "Is 'discover' associated with the frame 'Locating - A Perceiver determines the Location of a Sought entity within a Ground'?",
+    "description": "FrameNet | verbs | frame:  | generated: discover"
+  },
+  {
+    "content": "Is 'suffer' associated with the frame 'Emotion active - This frame has similarities to Experiencer subject, but here the verbs are more '?",
+    "description": "FrameNet | verbs | frame:  | generated: suffer"
+  },
+  {
+    "content": "Is 'strategic' associated with the frame 'Attempt obtain mineral scenario - An Agent attempts to obtain a non-renewable resource, often solid minerals or metals, but also oil, water, and other valuable substances'?",
+    "description": "FrameNet | adjectives | frame:  | generated: strategic"
+  },
+  {
+    "content": "Is 'coercive' associated with the frame 'Kidnapping - The words in this frame describe situations in which a Perpetrator carries off and holds the Victim against his or her will by force'?",
+    "description": "FrameNet | adjectives | frame:  | generated: coercive"
+  },
+  {
+    "content": "Is 'retire' associated with the frame 'People by age - This frame contains words for individuals as viewed in terms of their age'?",
+    "description": "FrameNet | verbs | frame:  | generated: retire"
+  },
+  {
+    "content": "Is 'impulsiveness' associated with the frame 'Rashness - A Protagonist performs some Action without fully considering the circumstances under which he or she acts, or the possibly (negative) consequences of the Action'?",
+    "description": "FrameNet | nouns | frame:  | generated: impulsiveness"
+  },
+  {
+    "content": "Is 'energetic' associated with the frame 'Being active - An Agent is described as pursuing an Activity, expending some effort'?",
+    "description": "FrameNet | adjectives | frame:  | generated: energetic"
+  },
+  {
+    "content": "Is 'compete' associated with the frame 'Finish competition - A Competition comes to an end, with a Competitor tying, winning, or losing against an Opponent (or opponents) according to their Score'?",
+    "description": "FrameNet | verbs | frame:  | generated: compete"
+  },
+  {
+    "content": "Is 'swap' associated with the frame 'Replacing - An Agent changes the filler of a  Role by placing a New filler in the position after the Old filler ceases to occupy the position'?",
+    "description": "FrameNet | nouns | frame:  | generated: swap"
+  },
+  {
+    "content": "Is 'loots' associated with the frame 'Robbery - These are words describing situations in which a Perpetrator wrongs a Victim by taking something (Goods) from them'?",
+    "description": "FrameNet | verbs | frame:  | generated: loots"
+  },
+  {
+    "content": "Is 'quantifies' associated with the frame 'Measures - An Entity is measured in some (implicit) Attribute by quantifying the Count of a particular Unit whose value for the Attribute is known'?",
+    "description": "FrameNet | verbs | frame:  | generated: quantifies"
+  },
+  {
+    "content": "Is 'mammals' associated with the frame 'Animals - The LUs in this frame refer to biological entities other than human beings and plants, which are labeled by the FE Animal'?",
+    "description": "FrameNet | nouns | frame:  | generated: mammals"
+  },
+  {
+    "content": "Is 'quit' associated with the frame 'Abandonment - An Agent leaves behind a Theme effectively rendering it no longer within their control or of the normal security as one'?",
+    "description": "FrameNet | verbs | frame:  | generated: quit"
+  },
+  {
+    "content": "Is 'force' associated with the frame 'Dynamism - A physical Exerter, Action, or Force exerts energy at a level specified by the target'?",
+    "description": "FrameNet | nouns | frame:  | generated: force"
+  },
+  {
+    "content": "Is 'calculated' associated with the frame 'Intentional traversing - A Self mover intentionally moves in a Directionon a Path relative to landmark that is neither the Source nor the Goal of the overall motion'?",
+    "description": "FrameNet | adjectives | frame:  | generated: calculated"
+  },
+  {
+    "content": "Is 'corporal_abuse' associated with the frame 'Corporal punishment - Blend of Rewards and punishments and Bodily injury in which the Agent performs some action intended to cause Bodily harm to the Evaluee as a consequence of some action or belief of the Evaluee (the Reason)'?",
+    "description": "FrameNet | nouns | frame:  | generated: corporal_abuse"
+  },
+  {
+    "content": "Is 'agile' associated with the frame 'Product development - An Developer develops a Product, in some cases for a Company'?",
+    "description": "FrameNet | adjectives | frame:  | generated: agile"
+  },
+  {
+    "content": "Is 'circuitous' associated with the frame 'Path shape - The words in this frame describe the \"fictive\" motion of a stationary Road'?",
+    "description": "FrameNet | adjectives | frame:  | generated: circuitous"
+  },
+  {
+    "content": "Is 'prolong' associated with the frame 'Duration relation - A Period or Eventuality is related to its Duration'?",
+    "description": "FrameNet | verbs | frame:  | generated: prolong"
+  },
+  {
+    "content": "Is 'sentence' associated with the frame 'Crime scenario - A (putative) Crime is committed and comes to the attention of the Authorities'?",
+    "description": "FrameNet | nouns | frame:  | generated: sentence"
+  },
+  {
+    "content": "Is 'connection' associated with the frame 'Losing track of - This non-lexical frame describes a scenario in which a Perceiver fails to keep sight of a Theme'?",
+    "description": "FrameNet | nouns | frame:  | generated: connection"
+  },
+  {
+    "content": "Is 'intensely' associated with the frame 'Judgment of intensity - A speaker characterizes the intensity of an Attribute of an Entity by a Degree'?",
+    "description": "FrameNet | adjectives | frame:  | generated: intensely"
+  },
+  {
+    "content": "Is 'cold' associated with the frame 'Ambient temperature - The Temperature in a certain environment, determined by Time and Place, is specified'?",
+    "description": "FrameNet | nouns | frame:  | generated: cold"
+  },
+  {
+    "content": "Is 'events' associated with the frame 'Individual history - This scenario describes a series of Events, associated with a single Participant, i'?",
+    "description": "FrameNet | nouns | frame:  | generated: events"
+  },
+  {
+    "content": "Is 'punitive' associated with the frame 'Revenge - This frame concerns the infliction of punishment in return for a wrong suffered'?",
+    "description": "FrameNet | adjectives | frame:  | generated: punitive"
+  },
+  {
+    "content": "Is 'loss' associated with the frame 'Erasing - An Agent or Cause removes a piece of Information from a Document such that it cannot be retrieved'?",
+    "description": "FrameNet | nouns | frame:  | generated: loss"
+  },
+  {
+    "content": "Is 'prepared' associated with the frame 'Capability - An Entity meets the pre-conditions for participating in an Event'?",
+    "description": "FrameNet | adjectives | frame:  | generated: prepared"
+  },
+  {
+    "content": "Is 'damage' associated with the frame 'Render nonfunctional - An Agent affects an Artifact so that it is no longer capable of performing its inherent function'?",
+    "description": "FrameNet | verbs | frame:  | generated: damage"
+  },
+  {
+    "content": "Is 'progression' associated with the frame 'Ontogeny - An Entity develops from a Prior state to a Post state'?",
+    "description": "FrameNet | nouns | frame:  | generated: progression"
+  },
+  {
+    "content": "Is 'justify' associated with the frame 'Reason - A volitional  Agent is responding to a State of affairs by performing some Action'?",
+    "description": "FrameNet | verbs | frame:  | generated: justify"
+  },
+  {
+    "content": "Is 'activate' associated with the frame 'Change operational state - A Device or machine is put in (or out of) service either by a volitional Agent or by a Cause event or force acting on the Device'?",
+    "description": "FrameNet | verbs | frame:  | generated: activate"
+  },
+  {
+    "content": "Is 'join' associated with the frame 'Alliance - After having worked separately for some time, two or more organizational or individual Members are now organized in an Alliance so that they may better pursue some common Purposes'?",
+    "description": "FrameNet | verbs | frame:  | generated: join"
+  },
+  {
+    "content": "Is 'commemorative' associated with the frame 'Locale by event - A place defined in terms of an event which occurred (or will occur) there'?",
+    "description": "FrameNet | adjectives | frame:  | generated: commemorative"
+  },
+  {
+    "content": "Is 'need' associated with the frame 'Feeling - In this frame an Experiencer experiences an Emotion or is in an Emotional state'?",
+    "description": "FrameNet | verbs | frame:  | generated: need"
+  },
+  {
+    "content": "Is 'illumination' associated with the frame 'Location of light - A perceptible Figure shows up against a Ground location due to Light shining on/from it, its salience possibly dependent on a Cause of shine'?",
+    "description": "FrameNet | nouns | frame:  | generated: illumination"
+  },
+  {
+    "content": "Is 'unlock' associated with the frame 'Change accessibility - An Agent causes a Useful location to become accessible (or non-accessible) to a Theme to a certain Degree'?",
+    "description": "FrameNet | verbs | frame:  | generated: unlock"
+  },
+  {
+    "content": "Is 'alert' associated with the frame 'Attention - This frame concerns a Perceiver'?",
+    "description": "FrameNet | adjectives | frame:  | generated: alert"
+  },
+  {
+    "content": "Is 'unverified' associated with the frame 'Hearsay - The Hearer receives a Message or communication on a particular Topic'?",
+    "description": "FrameNet | adjectives | frame:  | generated: unverified"
+  },
+  {
+    "content": "Is 'form' associated with the frame 'Becoming visible - An Entity that is previously not visible to a Perceiver becomes visible'?",
+    "description": "FrameNet | nouns | frame:  | generated: form"
+  },
+  {
+    "content": "Is 'invoice' associated with the frame 'Billing - A Billing authority communicates in written form that the Debtor owes the Owed party (often the same as the Billing authority) some amount of Money for certain Goods (including services) provided by the Owed party or to clear a debt for a Bad action by the Debtor against the Owed party'?",
+    "description": "FrameNet | verbs | frame:  | generated: invoice"
+  },
+  {
+    "content": "Is 'premium' associated with the frame 'Commerce sell - These are words describing basic commercial transactions involving a buyer and a seller exchanging money and goods, taking the perspective of the seller'?",
+    "description": "FrameNet | adjectives | frame:  | generated: premium"
+  },
+  {
+    "content": "Is 'synergistic' associated with the frame 'Compatibility - Item-1 and Item-2 are compatible with each other if they can exist or function together in some context without problems, conflict, or other undesirable situation'?",
+    "description": "FrameNet | adjectives | frame:  | generated: synergistic"
+  },
+  {
+    "content": "Is 'event' associated with the frame 'Process start - An Event begins at a certain Time and Place'?",
+    "description": "FrameNet | nouns | frame:  | generated: event"
+  },
+  {
+    "content": "Is 'request' associated with the frame 'Appeal - In the Appeal stage of the criminal process the Convict or his or her Representative applies to a higher Court to reverse the Decision of the lower court on certain Grounds'?",
+    "description": "FrameNet | verbs | frame:  | generated: request"
+  },
+  {
+    "content": "Is 'appeal' associated with the frame 'Attempt suasion - The  Speaker expresses through language his wish to get the Addressee to act in some way that will help to bring about events or states described in the Content'?",
+    "description": "FrameNet | nouns | frame:  | generated: appeal"
+  },
+  {
+    "content": "Is 'defining' associated with the frame 'Being in category - An Item belongs to a Category, as (often implicitly) conceived of by a Cognizer'?",
+    "description": "FrameNet | adjectives | frame:  | generated: defining"
+  },
+  {
+    "content": "Is 'congregation' associated with the frame 'Come together - In this frame a group of Individuals meet to form a Configuration'?",
+    "description": "FrameNet | nouns | frame:  | generated: congregation"
+  },
+  {
+    "content": "Is 'bruise' associated with the frame 'Experience bodily harm - An Experiencer is involved in a bodily injury to a Body part'?",
+    "description": "FrameNet | nouns | frame:  | generated: bruise"
+  },
+  {
+    "content": "Is 'precious' associated with the frame 'Opportunity - An Agent has a choice of whether or not to participate in some Desirable event because of an Opportunity, a situation not completely under the Agent'?",
+    "description": "FrameNet | adjectives | frame:  | generated: precious"
+  },
+  {
+    "content": "Is 'illumination' associated with the frame 'Location of light - A perceptible Figure shows up against a Ground location due to Light shining on/from it, its salience possibly dependent on a Cause of shine'?",
+    "description": "FrameNet | nouns | frame:  | generated: illumination"
+  },
+  {
+    "content": "Is 'have' associated with the frame 'Process initial state - The initial State of an Entity in an event; part of the Event X-schema'?",
+    "description": "FrameNet | verbs | frame:  | generated: have"
+  },
+  {
+    "content": "Is 'dilemma' associated with the frame 'Deciding - A Cognizer makes a Decision, which may be about an entity or a course of action'?",
+    "description": "FrameNet | nouns | frame:  | generated: dilemma"
+  },
+  {
+    "content": "Is 'usability' associated with the frame 'Operational testing - A Tester uses a concrete or conceptual Product in order to determine either whether it works or to find out how well or in which manner it works'?",
+    "description": "FrameNet | nouns | frame:  | generated: usability"
+  },
+  {
+    "content": "Is 'correlate' associated with the frame 'Relational quantity - A quantity, the Numerator, can be understood in terms of how it relates to another quantity, the Denominator; the comparison of these two numbers is called the Rate'?",
+    "description": "FrameNet | verbs | frame:  | generated: correlate"
+  },
+  {
+    "content": "Is 'duty' associated with the frame 'Obligation scenario - Under some, usually implicit, Condition a Duty needs to be fulfilled by a Responsible party'?",
+    "description": "FrameNet | nouns | frame:  | generated: duty"
+  },
+  {
+    "content": "Is 'ready' associated with the frame 'Being operational - An Object with an understood function is or is not in a state ready to perform that function'?",
+    "description": "FrameNet | adjectives | frame:  | generated: ready"
+  },
+  {
+    "content": "Is 'skills' associated with the frame 'Bragging - A Speaker talks about a Topic, which may be an action performed by the Speaker or an entity or state of affairs that they are associated with in order to suggest that the Speaker is worthy of admiration'?",
+    "description": "FrameNet | nouns | frame:  | generated: skills"
+  },
+  {
+    "content": "Is 'dissipate' associated with the frame 'Fire end scenario - This scenario begins with a Fire burning, transitions as the Fire goes out, and ends with the Fire dissipated'?",
+    "description": "FrameNet | verbs | frame:  | generated: dissipate"
+  },
+  {
+    "content": "Is 'separate' associated with the frame 'Identity scenario - An Instance of some Type is conceived of as having a distinct Identity'?",
+    "description": "FrameNet | adjectives | frame:  | generated: separate"
+  },
+  {
+    "content": "Is 'alight' associated with the frame 'Cause to land - An Operator maneuvers onto land a Vehicle which typically does not operate on land, e'?",
+    "description": "FrameNet | verbs | frame:  | generated: alight"
+  },
+  {
+    "content": "Is 'legalistic' associated with the frame 'Extradition - A Suspect in a Current jurisdiction is forced by Authorities (of the Current jurisdiction) to go to the Crime jurisdiction, i'?",
+    "description": "FrameNet | adjectives | frame:  | generated: legalistic"
+  },
+  {
+    "content": "Is 'formalized' associated with the frame 'Ratification - A Ratifier responds to a Proposal constructed by another party to make it binding over the Ratifier'?",
+    "description": "FrameNet | adjectives | frame:  | generated: formalized"
+  },
+  {
+    "content": "Is 'negotiate' associated with the frame 'Having commercial agreement - Party 1 and Party 2 (collectively refered to as Parties) make a commercial agreement, an Obligation, which both Parties are expected to keep or fulfill'?",
+    "description": "FrameNet | verbs | frame:  | generated: negotiate"
+  },
+  {
+    "content": "Is 'prove' associated with the frame 'Notability - An entity is considered worthy of mention for their ability or influence among some Type of similar entities'?",
+    "description": "FrameNet | verbs | frame:  | generated: prove"
+  },
+  {
+    "content": "Is 'amend' associated with the frame 'Commutation - An Executive authority exchanges one penalty, the Original punishment, for another less severe one, the New punishment'?",
+    "description": "FrameNet | verbs | frame:  | generated: amend"
+  },
+  {
+    "content": "Is 'awkward' associated with the frame 'Change posture - A Protagonist changes the overall position and posture of the body'?",
+    "description": "FrameNet | adjectives | frame:  | generated: awkward"
+  },
+  {
+    "content": "Is 'convincing' associated with the frame 'Attempt suasion - The  Speaker expresses through language his wish to get the Addressee to act in some way that will help to bring about events or states described in the Content'?",
+    "description": "FrameNet | adjectives | frame:  | generated: convincing"
+  },
+  {
+    "content": "Is 'kinship' associated with the frame 'Relation between individuals - Two sentient beings have a permanent or semi-permanent Relation to each other'?",
+    "description": "FrameNet | nouns | frame:  | generated: kinship"
+  },
+  {
+    "content": "Is 'lashing' associated with the frame 'Corporal punishment - Blend of Rewards and punishments and Bodily injury in which the Agent performs some action intended to cause Bodily harm to the Evaluee as a consequence of some action or belief of the Evaluee (the Reason)'?",
+    "description": "FrameNet | nouns | frame:  | generated: lashing"
+  },
+  {
+    "content": "Is 'run' associated with the frame 'Operating a system - An Operator manipulates the substructure of a System such that the System performs the function it was created for'?",
+    "description": "FrameNet | verbs | frame:  | generated: run"
+  },
+  {
+    "content": "Is 'reactivate' associated with the frame 'Activity resume - An Agent resumes participation in an Activity'?",
+    "description": "FrameNet | verbs | frame:  | generated: reactivate"
+  },
+  {
+    "content": "Is 'brutal' associated with the frame 'Corporal punishment - Blend of Rewards and punishments and Bodily injury in which the Agent performs some action intended to cause Bodily harm to the Evaluee as a consequence of some action or belief of the Evaluee (the Reason)'?",
+    "description": "FrameNet | adjectives | frame:  | generated: brutal"
+  },
+  {
+    "content": "Is 'condone' associated with the frame 'Legality - Words in this frame describe the status of an Action with respect to a Code of laws or rules'?",
+    "description": "FrameNet | verbs | frame:  | generated: condone"
+  },
+  {
+    "content": "Is 'invasion' associated with the frame 'Conquering - This frame describes a Theme losing its autonomy and perhaps sustaining material damage as the result of a successful invasion on the behalf of a Conqueror'?",
+    "description": "FrameNet | nouns | frame:  | generated: invasion"
+  },
+  {
+    "content": "Is 'discriminating' associated with the frame 'Differentiation - Words in this frame have to do with a Cognizer being aware (or not being aware) of the difference between two Phenomena, which may be expressed jointly or disjointly'?",
+    "description": "FrameNet | adjectives | frame:  | generated: discriminating"
+  },
+  {
+    "content": "Is 'circuit' associated with the frame 'Firing point - A location from which a Detonator activates a distantly-located explosive device'?",
+    "description": "FrameNet | nouns | frame:  | generated: circuit"
+  },
+  {
+    "content": "Is 'accommodate' associated with the frame 'Lodging scenario - A Host provides a Residence for a Lodger to temporarily stay'?",
+    "description": "FrameNet | verbs | frame:  | generated: accommodate"
+  },
+  {
+    "content": "Is 'agree' associated with the frame 'Be in agreement on action - Two (or more) people (the Parties, also encodable as Party 1 and Party 2) have an agreement'?",
+    "description": "FrameNet | verbs | frame:  | generated: agree"
+  },
+  {
+    "content": "Is 'celebrated' associated with the frame 'Fame - An Entity is well-known among a wide range of people (in general or in a particular domain) for a particular Reason, which may be a behavior, characteristic, or some other associated item'?",
+    "description": "FrameNet | adjectives | frame:  | generated: celebrated"
+  },
+  {
+    "content": "Is 'image' associated with the frame 'Optical image - This frame describes non-artifact Images resulting from an interation between light and some kind of matter, usually a Source entity'?",
+    "description": "FrameNet | nouns | frame:  | generated: image"
+  },
+  {
+    "content": "Is 'expand' associated with the frame 'Dough rising - The LUs of this frame describe a lump of Dough expanding as gas develops inside it'?",
+    "description": "FrameNet | verbs | frame:  | generated: expand"
+  },
+  {
+    "content": "Is 'conduct' associated with the frame 'Electricity - Lexical units in this frame refer to Electricity, in particular as a form of energy harnessed for particular uses (such as powering machines)'?",
+    "description": "FrameNet | verbs | frame:  | generated: conduct"
+  },
+  {
+    "content": "Is 'conscious' associated with the frame 'Intentionally create - The Creator creates a new entity, the Created entity, possibly out of Components'?",
+    "description": "FrameNet | adjectives | frame:  | generated: conscious"
+  },
+  {
+    "content": "Is 'contain' associated with the frame 'Fire break - This frame pertains to Fire breaks, entities intended to prevent a fire from traveling in a direction'?",
+    "description": "FrameNet | verbs | frame:  | generated: contain"
+  }
+]

@@ -1,0 +1,2002 @@
+[
+  {
+    "content": "Is 'despair' associated with 'desperation, despair, dismay'?",
+    "description": "MultiAligNet | verbs | concept: desperation, despair, dismay | generated: despair"
+  },
+  {
+    "content": "Is 'choose' associated with 'volition, will'?",
+    "description": "MultiAligNet | verbs | concept: volition, will | generated: choose"
+  },
+  {
+    "content": "Is 'uprise' associated with 'revolution'?",
+    "description": "MultiAligNet | verbs | concept: revolution | generated: uprise"
+  },
+  {
+    "content": "Is 'emphasize' associated with 'characteristic'?",
+    "description": "MultiAligNet | verbs | concept: characteristic | generated: emphasize"
+  },
+  {
+    "content": "Is 'aim' associated with 'point'?",
+    "description": "MultiAligNet | verbs | concept: point | generated: aim"
+  },
+  {
+    "content": "Is 'reign' associated with 'gyne, queen'?",
+    "description": "MultiAligNet | nouns | concept: gyne, queen | generated: reign"
+  },
+  {
+    "content": "Is 'high' associated with 'pressure, pressure level, force per unit area'?",
+    "description": "MultiAligNet | adjectives | concept: pressure, pressure level, force per unit area | generated: high"
+  },
+  {
+    "content": "Is 'mysterious' associated with 'secret, closed book, mystery'?",
+    "description": "MultiAligNet | adjectives | concept: secret, closed book, mystery | generated: mysterious"
+  },
+  {
+    "content": "Is 'pioneering' associated with 'settler, colonist'?",
+    "description": "MultiAligNet | adjectives | concept: settler, colonist | generated: pioneering"
+  },
+  {
+    "content": "Is 'mastication' associated with 'rima oris, oral fissure, mouth'?",
+    "description": "MultiAligNet | nouns | concept: rima oris, oral fissure, mouth | generated: mastication"
+  },
+  {
+    "content": "Is 'moonrise' associated with 'twilight, nightfall, gloam'?",
+    "description": "MultiAligNet | nouns | concept: twilight, nightfall, gloam | generated: moonrise"
+  },
+  {
+    "content": "Is 'innovative' associated with 'humankind, world, man'?",
+    "description": "MultiAligNet | adjectives | concept: humankind, world, man | generated: innovative"
+  },
+  {
+    "content": "Is 'magnetize' associated with 'atomic number 26, fe, iron'?",
+    "description": "MultiAligNet | verbs | concept: atomic number 26, fe, iron | generated: magnetize"
+  },
+  {
+    "content": "Is 'stack' associated with 'dish'?",
+    "description": "MultiAligNet | verbs | concept: dish | generated: stack"
+  },
+  {
+    "content": "Is 'inheritor' associated with 'owner, possessor'?",
+    "description": "MultiAligNet | nouns | concept: owner, possessor | generated: inheritor"
+  },
+  {
+    "content": "Is 'illustrate' associated with 'spectrum'?",
+    "description": "MultiAligNet | verbs | concept: spectrum | generated: illustrate"
+  },
+  {
+    "content": "Is 'pouch' associated with 'bag, sack'?",
+    "description": "MultiAligNet | nouns | concept: bag, sack | generated: pouch"
+  },
+  {
+    "content": "Is 'influence' associated with 'effect, impression'?",
+    "description": "MultiAligNet | nouns | concept: effect, impression | generated: influence"
+  },
+  {
+    "content": "Is 'disoriented' associated with 'stupor, daze, shock'?",
+    "description": "MultiAligNet | adjectives | concept: stupor, daze, shock | generated: disoriented"
+  },
+  {
+    "content": "Is 'grasp' associated with 'knowingness, consciousness, awareness'?",
+    "description": "MultiAligNet | verbs | concept: knowingness, consciousness, awareness | generated: grasp"
+  },
+  {
+    "content": "Is 'echo' associated with 'repetition, repeat'?",
+    "description": "MultiAligNet | verbs | concept: repetition, repeat | generated: echo"
+  },
+  {
+    "content": "Is 'outline' associated with 'border, edge'?",
+    "description": "MultiAligNet | verbs | concept: border, edge | generated: outline"
+  },
+  {
+    "content": "Is 'follow' associated with 'direction, way'?",
+    "description": "MultiAligNet | verbs | concept: direction, way | generated: follow"
+  },
+  {
+    "content": "Is 'blaze' associated with 'fire'?",
+    "description": "MultiAligNet | verbs | concept: fire | generated: blaze"
+  },
+  {
+    "content": "Is 'negotiate' associated with 'italy, italia, italian republic'?",
+    "description": "MultiAligNet | verbs | concept: italy, italia, italian republic | generated: negotiate"
+  },
+  {
+    "content": "Is 'compact' associated with 'denseness, density'?",
+    "description": "MultiAligNet | nouns | concept: denseness, density | generated: compact"
+  },
+  {
+    "content": "Is 'area rug' associated with 'couch, sofa, lounge'?",
+    "description": "MultiAligNet | nouns | concept: couch, sofa, lounge | generated: area rug"
+  },
+  {
+    "content": "Is 'desk' associated with 'school, schoolhouse'?",
+    "description": "MultiAligNet | nouns | concept: school, schoolhouse | generated: desk"
+  },
+  {
+    "content": "Is 'staged' associated with 'release'?",
+    "description": "MultiAligNet | adjectives | concept: release | generated: staged"
+  },
+  {
+    "content": "Is 'profit' associated with 'success'?",
+    "description": "MultiAligNet | nouns | concept: success | generated: profit"
+  },
+  {
+    "content": "Is 'control' associated with 'resistance, resistor'?",
+    "description": "MultiAligNet | verbs | concept: resistance, resistor | generated: control"
+  },
+  {
+    "content": "Is 'entryway' associated with 'threshold, door, doorway'?",
+    "description": "MultiAligNet | adjectives | concept: threshold, door, doorway | generated: entryway"
+  },
+  {
+    "content": "Is 'trim' associated with 'lawn'?",
+    "description": "MultiAligNet | verbs | concept: lawn | generated: trim"
+  },
+  {
+    "content": "Is 'acknowledge' associated with 'admission, admittance'?",
+    "description": "MultiAligNet | verbs | concept: admission, admittance | generated: acknowledge"
+  },
+  {
+    "content": "Is 'divide' associated with 'break, gap, disruption'?",
+    "description": "MultiAligNet | verbs | concept: break, gap, disruption | generated: divide"
+  },
+  {
+    "content": "Is 'complicated' associated with 'difficulty, trouble'?",
+    "description": "MultiAligNet | adjectives | concept: difficulty, trouble | generated: complicated"
+  },
+  {
+    "content": "Is 'opening' associated with 'threshold, door, doorway'?",
+    "description": "MultiAligNet | adjectives | concept: threshold, door, doorway | generated: opening"
+  },
+  {
+    "content": "Is 'disposition' associated with 'personality'?",
+    "description": "MultiAligNet | nouns | concept: personality | generated: disposition"
+  },
+  {
+    "content": "Is 'haunches' associated with 'back, rear'?",
+    "description": "MultiAligNet | nouns | concept: back, rear | generated: haunches"
+  },
+  {
+    "content": "Is 'immutable' associated with 'law, natural law'?",
+    "description": "MultiAligNet | adjectives | concept: law, natural law | generated: immutable"
+  },
+  {
+    "content": "Is 'historical' associated with 'lineage, stock, ancestry'?",
+    "description": "MultiAligNet | adjectives | concept: lineage, stock, ancestry | generated: historical"
+  },
+  {
+    "content": "Is 'aim' associated with 'direction'?",
+    "description": "MultiAligNet | verbs | concept: direction | generated: aim"
+  },
+  {
+    "content": "Is 'gestation' associated with 'root, origin, beginning'?",
+    "description": "MultiAligNet | nouns | concept: root, origin, beginning | generated: gestation"
+  },
+  {
+    "content": "Is 'prose' associated with 'novel'?",
+    "description": "MultiAligNet | nouns | concept: novel | generated: prose"
+  },
+  {
+    "content": "Is 'trigger' associated with 'crisis'?",
+    "description": "MultiAligNet | verbs | concept: crisis | generated: trigger"
+  },
+  {
+    "content": "Is 'merge' associated with 'integrating, desegregation, integration'?",
+    "description": "MultiAligNet | verbs | concept: integrating, desegregation, integration | generated: merge"
+  },
+  {
+    "content": "Is 'maggot' associated with 'larva'?",
+    "description": "MultiAligNet | nouns | concept: larva | generated: maggot"
+  },
+  {
+    "content": "Is 'control' associated with 'governor'?",
+    "description": "MultiAligNet | verbs | concept: governor | generated: control"
+  },
+  {
+    "content": "Is 'reflect' associated with 'climate, mood'?",
+    "description": "MultiAligNet | verbs | concept: climate, mood | generated: reflect"
+  },
+  {
+    "content": "Is 'trustworthy' associated with 'security, safety'?",
+    "description": "MultiAligNet | adjectives | concept: security, safety | generated: trustworthy"
+  },
+  {
+    "content": "Is 'empiricism' associated with 'philosophy, doctrine, school of thought'?",
+    "description": "MultiAligNet | nouns | concept: philosophy, doctrine, school of thought | generated: empiricism"
+  },
+  {
+    "content": "Is 'coffee' associated with 'breakfast'?",
+    "description": "MultiAligNet | nouns | concept: breakfast | generated: coffee"
+  },
+  {
+    "content": "Is 'lead' associated with 'direction, way'?",
+    "description": "MultiAligNet | verbs | concept: direction, way | generated: lead"
+  },
+  {
+    "content": "Is 'hamstring' associated with 'thighs, thigh'?",
+    "description": "MultiAligNet | nouns | concept: thighs, thigh | generated: hamstring"
+  },
+  {
+    "content": "Is 'lead' associated with 'chairman, chairperson, president'?",
+    "description": "MultiAligNet | verbs | concept: chairman, chairperson, president | generated: lead"
+  },
+  {
+    "content": "Is 'complex' associated with 'property, phenotypic character'?",
+    "description": "MultiAligNet | adjectives | concept: property, phenotypic character | generated: complex"
+  },
+  {
+    "content": "Is 'accurate' associated with 'preciseness, precision'?",
+    "description": "MultiAligNet | adjectives | concept: preciseness, precision | generated: accurate"
+  },
+  {
+    "content": "Is 'calculate' associated with 'value'?",
+    "description": "MultiAligNet | verbs | concept: value | generated: calculate"
+  },
+  {
+    "content": "Is 'manifest' associated with 'symptom, clinical symptom'?",
+    "description": "MultiAligNet | verbs | concept: symptom, clinical symptom | generated: manifest"
+  },
+  {
+    "content": "Is 'meal' associated with 'hungriness, hunger'?",
+    "description": "MultiAligNet | nouns | concept: hungriness, hunger | generated: meal"
+  },
+  {
+    "content": "Is 'learn' associated with 'europe'?",
+    "description": "MultiAligNet | verbs | concept: europe | generated: learn"
+  },
+  {
+    "content": "Is 'compose' associated with 'narrative, story, narration'?",
+    "description": "MultiAligNet | verbs | concept: narrative, story, narration | generated: compose"
+  },
+  {
+    "content": "Is 'acoustics' associated with 'audio engineering, engineering, technology'?",
+    "description": "MultiAligNet | nouns | concept: audio engineering, engineering, technology | generated: acoustics"
+  },
+  {
+    "content": "Is 'conspicuous' associated with 'sign, signaling, signal'?",
+    "description": "MultiAligNet | adjectives | concept: sign, signaling, signal | generated: conspicuous"
+  },
+  {
+    "content": "Is 'games' associated with 'sports season, sports season of a sports club, season'?",
+    "description": "MultiAligNet | nouns | concept: sports season, sports season of a sports club, season | generated: games"
+  },
+  {
+    "content": "Is 'commit' associated with 'criminal, crook, outlaw'?",
+    "description": "MultiAligNet | verbs | concept: criminal, crook, outlaw | generated: commit"
+  },
+  {
+    "content": "Is 'act' associated with 'opera'?",
+    "description": "MultiAligNet | verbs | concept: opera | generated: act"
+  },
+  {
+    "content": "Is 'construction' associated with 'building, edifice, public building'?",
+    "description": "MultiAligNet | nouns | concept: building, edifice, public building | generated: construction"
+  },
+  {
+    "content": "Is 'peer' associated with 'viewer, spectator, watcher'?",
+    "description": "MultiAligNet | verbs | concept: viewer, spectator, watcher | generated: peer"
+  },
+  {
+    "content": "Is 'breathe' associated with 'breath'?",
+    "description": "MultiAligNet | verbs | concept: breath | generated: breathe"
+  },
+  {
+    "content": "Is 'maintain' associated with 'self-respect, dignity, self-worth'?",
+    "description": "MultiAligNet | verbs | concept: self-respect, dignity, self-worth | generated: maintain"
+  },
+  {
+    "content": "Is 'lift' associated with 'thighs, thigh'?",
+    "description": "MultiAligNet | verbs | concept: thighs, thigh | generated: lift"
+  },
+  {
+    "content": "Is 'improve' associated with 'goodness, good'?",
+    "description": "MultiAligNet | verbs | concept: goodness, good | generated: improve"
+  },
+  {
+    "content": "Is 'combine' associated with 'whole, unit'?",
+    "description": "MultiAligNet | verbs | concept: whole, unit | generated: combine"
+  },
+  {
+    "content": "Is 'turbine' associated with 'engine, motor'?",
+    "description": "MultiAligNet | nouns | concept: engine, motor | generated: turbine"
+  },
+  {
+    "content": "Is 'magnet' associated with 'atomic number 26, fe, iron'?",
+    "description": "MultiAligNet | nouns | concept: atomic number 26, fe, iron | generated: magnet"
+  },
+  {
+    "content": "Is 'directory' associated with 'listing, list'?",
+    "description": "MultiAligNet | nouns | concept: listing, list | generated: directory"
+  },
+  {
+    "content": "Is 'attract' associated with 'audience'?",
+    "description": "MultiAligNet | verbs | concept: audience | generated: attract"
+  },
+  {
+    "content": "Is 'gateway' associated with 'threshold, door, doorway'?",
+    "description": "MultiAligNet | adjectives | concept: threshold, door, doorway | generated: gateway"
+  },
+  {
+    "content": "Is 'volatile' associated with 'demand'?",
+    "description": "MultiAligNet | adjectives | concept: demand | generated: volatile"
+  },
+  {
+    "content": "Is 'methodical' associated with 'research, survey, study'?",
+    "description": "MultiAligNet | adjectives | concept: research, survey, study | generated: methodical"
+  },
+  {
+    "content": "Is 'environment' associated with 'climate, mood'?",
+    "description": "MultiAligNet | nouns | concept: climate, mood | generated: environment"
+  },
+  {
+    "content": "Is 'discovery' associated with 'phenomenon'?",
+    "description": "MultiAligNet | nouns | concept: phenomenon | generated: discovery"
+  },
+  {
+    "content": "Is 'originate' associated with 'root, origin, beginning'?",
+    "description": "MultiAligNet | verbs | concept: root, origin, beginning | generated: originate"
+  },
+  {
+    "content": "Is 'personality' associated with 'identity, individuality, personal identity'?",
+    "description": "MultiAligNet | nouns | concept: identity, individuality, personal identity | generated: personality"
+  },
+  {
+    "content": "Is 'coordinate' associated with 'bureaucracy, bureaucratization, bureaucratisation'?",
+    "description": "MultiAligNet | verbs | concept: bureaucracy, bureaucratization, bureaucratisation | generated: coordinate"
+  },
+  {
+    "content": "Is 'cadence' associated with 'rhythm, regular recurrence'?",
+    "description": "MultiAligNet | nouns | concept: rhythm, regular recurrence | generated: cadence"
+  },
+  {
+    "content": "Is 'uniform' associated with 'clothing, habiliment, wearable'?",
+    "description": "MultiAligNet | nouns | concept: clothing, habiliment, wearable | generated: uniform"
+  },
+  {
+    "content": "Is 'ink' associated with 'liquid'?",
+    "description": "MultiAligNet | nouns | concept: liquid | generated: ink"
+  },
+  {
+    "content": "Is 'solstice' associated with 'twelvemonth, year, yr'?",
+    "description": "MultiAligNet | nouns | concept: twelvemonth, year, yr | generated: solstice"
+  },
+  {
+    "content": "Is 'accessible' associated with 'admission, admittance'?",
+    "description": "MultiAligNet | adjectives | concept: admission, admittance | generated: accessible"
+  },
+  {
+    "content": "Is 'complete' associated with 'end'?",
+    "description": "MultiAligNet | verbs | concept: end | generated: complete"
+  },
+  {
+    "content": "Is 'Brussels' associated with 'europe'?",
+    "description": "MultiAligNet | nouns | concept: europe | generated: Brussels"
+  },
+  {
+    "content": "Is 'intuition' associated with 'knowingness, consciousness, awareness'?",
+    "description": "MultiAligNet | nouns | concept: knowingness, consciousness, awareness | generated: intuition"
+  },
+  {
+    "content": "Is 'Luxury' associated with 'italy, italia, italian republic'?",
+    "description": "MultiAligNet | nouns | concept: italy, italia, italian republic | generated: Luxury"
+  },
+  {
+    "content": "Is 'compete' associated with 'business, commercial enterprise, business enterprise'?",
+    "description": "MultiAligNet | verbs | concept: business, commercial enterprise, business enterprise | generated: compete"
+  },
+  {
+    "content": "Is 'carbon' associated with 'mineral fibre, mineral fiber, fiber'?",
+    "description": "MultiAligNet | nouns | concept: mineral fibre, mineral fiber, fiber | generated: carbon"
+  },
+  {
+    "content": "Is 'challenge' associated with 'risky venture, escapade, adventure'?",
+    "description": "MultiAligNet | nouns | concept: risky venture, escapade, adventure | generated: challenge"
+  },
+  {
+    "content": "Is 'installation' associated with 'plant, industrial plant, physical plant'?",
+    "description": "MultiAligNet | nouns | concept: plant, industrial plant, physical plant | generated: installation"
+  },
+  {
+    "content": "Is 'examination' associated with 'investigation, enquiry, inquiry'?",
+    "description": "MultiAligNet | nouns | concept: investigation, enquiry, inquiry | generated: examination"
+  },
+  {
+    "content": "Is 'apportion' associated with 'distribution'?",
+    "description": "MultiAligNet | verbs | concept: distribution | generated: apportion"
+  },
+  {
+    "content": "Is 'schedule' associated with 'minute, min'?",
+    "description": "MultiAligNet | nouns | concept: minute, min | generated: schedule"
+  },
+  {
+    "content": "Is 'honeycomb' associated with 'beeswax, wax'?",
+    "description": "MultiAligNet | nouns | concept: beeswax, wax | generated: honeycomb"
+  },
+  {
+    "content": "Is 'cavity-free' associated with 'tooth, teeth, human tooth'?",
+    "description": "MultiAligNet | adjectives | concept: tooth, teeth, human tooth | generated: cavity-free"
+  },
+  {
+    "content": "Is 'discharge' associated with 'release'?",
+    "description": "MultiAligNet | verbs | concept: release | generated: discharge"
+  },
+  {
+    "content": "Is 'store' associated with 'shoe'?",
+    "description": "MultiAligNet | verbs | concept: shoe | generated: store"
+  },
+  {
+    "content": "Is 'bathrobe' associated with 'towel'?",
+    "description": "MultiAligNet | nouns | concept: towel | generated: bathrobe"
+  },
+  {
+    "content": "Is 'apprehension' associated with 'malaise, unease, uneasiness'?",
+    "description": "MultiAligNet | nouns | concept: malaise, unease, uneasiness | generated: apprehension"
+  },
+  {
+    "content": "Is 'accident' associated with 'driver, motorist'?",
+    "description": "MultiAligNet | nouns | concept: driver, motorist | generated: accident"
+  },
+  {
+    "content": "Is 'material' associated with 'lesson'?",
+    "description": "MultiAligNet | nouns | concept: lesson | generated: material"
+  },
+  {
+    "content": "Is 'molt' associated with 'larva'?",
+    "description": "MultiAligNet | verbs | concept: larva | generated: molt"
+  },
+  {
+    "content": "Is 'road' associated with 'route, path, itinerary'?",
+    "description": "MultiAligNet | nouns | concept: route, path, itinerary | generated: road"
+  },
+  {
+    "content": "Is 'balance' associated with 'tip'?",
+    "description": "MultiAligNet | verbs | concept: tip | generated: balance"
+  },
+  {
+    "content": "Is 'carbon dioxide' associated with 'lungs, lung'?",
+    "description": "MultiAligNet | nouns | concept: lungs, lung | generated: carbon dioxide"
+  },
+  {
+    "content": "Is 'encryption' associated with 'secret'?",
+    "description": "MultiAligNet | nouns | concept: secret | generated: encryption"
+  },
+  {
+    "content": "Is 'era' associated with 'decennary, decade, decennium'?",
+    "description": "MultiAligNet | nouns | concept: decennary, decade, decennium | generated: era"
+  },
+  {
+    "content": "Is 'mattress' associated with 'bed'?",
+    "description": "MultiAligNet | nouns | concept: bed | generated: mattress"
+  },
+  {
+    "content": "Is 'linear' associated with 'segment, line segment, section'?",
+    "description": "MultiAligNet | adjectives | concept: segment, line segment, section | generated: linear"
+  },
+  {
+    "content": "Is 'fragrant' associated with 'fleshy fruit, fruit'?",
+    "description": "MultiAligNet | adjectives | concept: fleshy fruit, fruit | generated: fragrant"
+  },
+  {
+    "content": "Is 'potency' associated with 'strength, intensity level, intensity'?",
+    "description": "MultiAligNet | nouns | concept: strength, intensity level, intensity | generated: potency"
+  },
+  {
+    "content": "Is 'civilization' associated with 'people, hoi polloi, multitude'?",
+    "description": "MultiAligNet | nouns | concept: people, hoi polloi, multitude | generated: civilization"
+  },
+  {
+    "content": "Is 'ankleboot' associated with 'boot'?",
+    "description": "MultiAligNet | nouns | concept: boot | generated: ankleboot"
+  },
+  {
+    "content": "Is 'assign' associated with 'designation, identification'?",
+    "description": "MultiAligNet | verbs | concept: designation, identification | generated: assign"
+  },
+  {
+    "content": "Is 'lighthearted' associated with 'fun, merriment, playfulness'?",
+    "description": "MultiAligNet | adjectives | concept: fun, merriment, playfulness | generated: lighthearted"
+  },
+  {
+    "content": "Is 'woody' associated with 'branch, tree branch'?",
+    "description": "MultiAligNet | adjectives | concept: branch, tree branch | generated: woody"
+  },
+  {
+    "content": "Is 'plant' associated with 'window, sill, window ledge'?",
+    "description": "MultiAligNet | nouns | concept: window, sill, window ledge | generated: plant"
+  },
+  {
+    "content": "Is 'compare' associated with 'unit of measurement, unit'?",
+    "description": "MultiAligNet | verbs | concept: unit of measurement, unit | generated: compare"
+  },
+  {
+    "content": "Is 'interest' associated with 'banker'?",
+    "description": "MultiAligNet | nouns | concept: banker | generated: interest"
+  },
+  {
+    "content": "Is 'passion' associated with 'involvement, interest'?",
+    "description": "MultiAligNet | nouns | concept: involvement, interest | generated: passion"
+  },
+  {
+    "content": "Is 'turbine' associated with 'plane, aeroplane, airplane'?",
+    "description": "MultiAligNet | nouns | concept: plane, aeroplane, airplane | generated: turbine"
+  },
+  {
+    "content": "Is 'brief' associated with 'sec, second, s'?",
+    "description": "MultiAligNet | adjectives | concept: sec, second, s | generated: brief"
+  },
+  {
+    "content": "Is 'refined' associated with 'fashion, manner, way'?",
+    "description": "MultiAligNet | adjectives | concept: fashion, manner, way | generated: refined"
+  },
+  {
+    "content": "Is 'expression' associated with 'art, prowess, artistry'?",
+    "description": "MultiAligNet | nouns | concept: art, prowess, artistry | generated: expression"
+  },
+  {
+    "content": "Is 'play' associated with 'tune, melody, melodic line'?",
+    "description": "MultiAligNet | verbs | concept: tune, melody, melodic line | generated: play"
+  },
+  {
+    "content": "Is 'support' associated with 'recommendation'?",
+    "description": "MultiAligNet | verbs | concept: recommendation | generated: support"
+  },
+  {
+    "content": "Is 'noisy' associated with 'factory, manufactory, mill'?",
+    "description": "MultiAligNet | adjectives | concept: factory, manufactory, mill | generated: noisy"
+  },
+  {
+    "content": "Is 'bohemian' associated with 'maxi dress, dress, frock'?",
+    "description": "MultiAligNet | adjectives | concept: maxi dress, dress, frock | generated: bohemian"
+  },
+  {
+    "content": "Is 'earthy' associated with 'olfactory property, scent, odour'?",
+    "description": "MultiAligNet | adjectives | concept: olfactory property, scent, odour | generated: earthy"
+  },
+  {
+    "content": "Is 'empathetic' associated with 'friend'?",
+    "description": "MultiAligNet | adjectives | concept: friend | generated: empathetic"
+  },
+  {
+    "content": "Is 'setback' associated with 'problem, trouble'?",
+    "description": "MultiAligNet | nouns | concept: problem, trouble | generated: setback"
+  },
+  {
+    "content": "Is 'connect' associated with 'happenstance, coincidence'?",
+    "description": "MultiAligNet | verbs | concept: happenstance, coincidence | generated: connect"
+  },
+  {
+    "content": "Is 'commute' associated with 'suburban area, suburb, suburbia'?",
+    "description": "MultiAligNet | nouns | concept: suburban area, suburb, suburbia | generated: commute"
+  },
+  {
+    "content": "Is 'composer' associated with 'composer'?",
+    "description": "MultiAligNet | nouns | concept: composer | generated: composer"
+  },
+  {
+    "content": "Is 'land' associated with 'quad, space'?",
+    "description": "MultiAligNet | verbs | concept: quad, space | generated: land"
+  },
+  {
+    "content": "Is 'treat' associated with 'surgeon, sawbones, operating surgeon'?",
+    "description": "MultiAligNet | verbs | concept: surgeon, sawbones, operating surgeon | generated: treat"
+  },
+  {
+    "content": "Is 'distinguished' associated with 'membership, rank'?",
+    "description": "MultiAligNet | adjectives | concept: membership, rank | generated: distinguished"
+  },
+  {
+    "content": "Is 'narrate' associated with 'sentence'?",
+    "description": "MultiAligNet | verbs | concept: sentence | generated: narrate"
+  },
+  {
+    "content": "Is 'records' associated with 'info, information'?",
+    "description": "MultiAligNet | nouns | concept: info, information | generated: records"
+  },
+  {
+    "content": "Is 'consider' associated with 'side, aspect, facet'?",
+    "description": "MultiAligNet | verbs | concept: side, aspect, facet | generated: consider"
+  },
+  {
+    "content": "Is 'extent' associated with 'length'?",
+    "description": "MultiAligNet | nouns | concept: length | generated: extent"
+  },
+  {
+    "content": "Is 'scruffy' associated with 'beard, face fungus, whiskers'?",
+    "description": "MultiAligNet | nouns | concept: beard, face fungus, whiskers | generated: scruffy"
+  },
+  {
+    "content": "Is 'traditional' associated with 'superstitious notion, superstition'?",
+    "description": "MultiAligNet | adjectives | concept: superstitious notion, superstition | generated: traditional"
+  },
+  {
+    "content": "Is 'public' associated with 'socialism'?",
+    "description": "MultiAligNet | nouns | concept: socialism | generated: public"
+  },
+  {
+    "content": "Is 'delicate' associated with 'babe, baby, infant'?",
+    "description": "MultiAligNet | adjectives | concept: babe, baby, infant | generated: delicate"
+  },
+  {
+    "content": "Is 'treat' associated with 'clinic, hospital, infirmary'?",
+    "description": "MultiAligNet | verbs | concept: clinic, hospital, infirmary | generated: treat"
+  },
+  {
+    "content": "Is 'traumatic' associated with 'injury, accidental injury'?",
+    "description": "MultiAligNet | adjectives | concept: injury, accidental injury | generated: traumatic"
+  },
+  {
+    "content": "Is 'examination' associated with 'interrogative, question, interrogation'?",
+    "description": "MultiAligNet | nouns | concept: interrogative, question, interrogation | generated: examination"
+  },
+  {
+    "content": "Is 'discuss' associated with 'conversation'?",
+    "description": "MultiAligNet | verbs | concept: conversation | generated: discuss"
+  },
+  {
+    "content": "Is 'terrestrial' associated with 'earth, world, globe'?",
+    "description": "MultiAligNet | adjectives | concept: earth, world, globe | generated: terrestrial"
+  },
+  {
+    "content": "Is 'optimal' associated with 'situation, position, set up'?",
+    "description": "MultiAligNet | adjectives | concept: situation, position, set up | generated: optimal"
+  },
+  {
+    "content": "Is 'scatter' associated with 'visible light, light, visible radiation'?",
+    "description": "MultiAligNet | verbs | concept: visible light, light, visible radiation | generated: scatter"
+  },
+  {
+    "content": "Is 'toast' associated with 'breakfast'?",
+    "description": "MultiAligNet | nouns | concept: breakfast | generated: toast"
+  },
+  {
+    "content": "Is 'columnist' associated with 'author, writer'?",
+    "description": "MultiAligNet | nouns | concept: author, writer | generated: columnist"
+  },
+  {
+    "content": "Is 'complain' associated with 'ill, complaint, ailment'?",
+    "description": "MultiAligNet | verbs | concept: ill, complaint, ailment | generated: complain"
+  },
+  {
+    "content": "Is 'satisfy' associated with 'necessity, requisite, requirement'?",
+    "description": "MultiAligNet | verbs | concept: necessity, requisite, requirement | generated: satisfy"
+  },
+  {
+    "content": "Is 'disorient' associated with 'confusedness, confusion, mental confusion'?",
+    "description": "MultiAligNet | verbs | concept: confusedness, confusion, mental confusion | generated: disorient"
+  },
+  {
+    "content": "Is 'trail' associated with 'route, path, itinerary'?",
+    "description": "MultiAligNet | nouns | concept: route, path, itinerary | generated: trail"
+  },
+  {
+    "content": "Is 'detailed' associated with 'paper, composition, report'?",
+    "description": "MultiAligNet | adjectives | concept: paper, composition, report | generated: detailed"
+  },
+  {
+    "content": "Is 'bake' associated with 'licensed cook, cook, chef'?",
+    "description": "MultiAligNet | verbs | concept: licensed cook, cook, chef | generated: bake"
+  },
+  {
+    "content": "Is 'dynamic' associated with 'verb, hindi verbs'?",
+    "description": "MultiAligNet | adjectives | concept: verb, hindi verbs | generated: dynamic"
+  },
+  {
+    "content": "Is 'restraint' associated with 'forbearance, longanimity, patience'?",
+    "description": "MultiAligNet | nouns | concept: forbearance, longanimity, patience | generated: restraint"
+  },
+  {
+    "content": "Is 'measurement' associated with 'order of magnitude, order'?",
+    "description": "MultiAligNet | nouns | concept: order of magnitude, order | generated: measurement"
+  },
+  {
+    "content": "Is 'confidence' associated with 'self-respect, dignity, self-worth'?",
+    "description": "MultiAligNet | nouns | concept: self-respect, dignity, self-worth | generated: confidence"
+  },
+  {
+    "content": "Is 'interactive' associated with 'conversation'?",
+    "description": "MultiAligNet | adjectives | concept: conversation | generated: interactive"
+  },
+  {
+    "content": "Is 'entertainment' associated with 'play'?",
+    "description": "MultiAligNet | nouns | concept: play | generated: entertainment"
+  },
+  {
+    "content": "Is 'conspiracy' associated with 'secret'?",
+    "description": "MultiAligNet | nouns | concept: secret | generated: conspiracy"
+  },
+  {
+    "content": "Is 'utter' associated with 'phrase'?",
+    "description": "MultiAligNet | verbs | concept: phrase | generated: utter"
+  },
+  {
+    "content": "Is 'sister' associated with 'girl, daughter'?",
+    "description": "MultiAligNet | nouns | concept: girl, daughter | generated: sister"
+  },
+  {
+    "content": "Is 'disperse' associated with 'gap, spread'?",
+    "description": "MultiAligNet | verbs | concept: gap, spread | generated: disperse"
+  },
+  {
+    "content": "Is 'critical' associated with 'consideration, circumstance, condition'?",
+    "description": "MultiAligNet | adjectives | concept: consideration, circumstance, condition | generated: critical"
+  },
+  {
+    "content": "Is 'fixed' associated with 'bound, boundary, edge'?",
+    "description": "MultiAligNet | adjectives | concept: bound, boundary, edge | generated: fixed"
+  },
+  {
+    "content": "Is 'physical' associated with 'world, reality'?",
+    "description": "MultiAligNet | adjectives | concept: world, reality | generated: physical"
+  },
+  {
+    "content": "Is 'terrestrial' associated with 'country, land, state'?",
+    "description": "MultiAligNet | adjectives | concept: country, land, state | generated: terrestrial"
+  },
+  {
+    "content": "Is 'logical' associated with 'argument, line, argumentation'?",
+    "description": "MultiAligNet | adjectives | concept: argument, line, argumentation | generated: logical"
+  },
+  {
+    "content": "Is 'emotional' associated with 'artistic production, artistic creation, art'?",
+    "description": "MultiAligNet | adjectives | concept: artistic production, artistic creation, art | generated: emotional"
+  },
+  {
+    "content": "Is 'historical' associated with 'era, epoch, period'?",
+    "description": "MultiAligNet | adjectives | concept: era, epoch, period | generated: historical"
+  },
+  {
+    "content": "Is 'colorful' associated with 'mental image, image, picture'?",
+    "description": "MultiAligNet | adjectives | concept: mental image, image, picture | generated: colorful"
+  },
+  {
+    "content": "Is 'copper' associated with 'pot, cooking pot, saucepan'?",
+    "description": "MultiAligNet | adjectives | concept: pot, cooking pot, saucepan | generated: copper"
+  },
+  {
+    "content": "Is 'judgment' associated with 'valuation, evaluation, rating'?",
+    "description": "MultiAligNet | nouns | concept: valuation, evaluation, rating | generated: judgment"
+  },
+  {
+    "content": "Is 'sign' associated with 'symptom, clinical symptom'?",
+    "description": "MultiAligNet | nouns | concept: symptom, clinical symptom | generated: sign"
+  },
+  {
+    "content": "Is 'afterlife' associated with 'expiry, death, decease'?",
+    "description": "MultiAligNet | nouns | concept: expiry, death, decease | generated: afterlife"
+  },
+  {
+    "content": "Is 'compare' associated with 'measure, mete, gauge'?",
+    "description": "MultiAligNet | verbs | concept: measure, mete, gauge | generated: compare"
+  },
+  {
+    "content": "Is 'disappear' associated with 'snow, snow cover, snowfall'?",
+    "description": "MultiAligNet | verbs | concept: snow, snow cover, snowfall | generated: disappear"
+  },
+  {
+    "content": "Is 'approve' associated with 'license, permit, licence'?",
+    "description": "MultiAligNet | verbs | concept: license, permit, licence | generated: approve"
+  },
+  {
+    "content": "Is 'sphere' associated with 'diam, diameter'?",
+    "description": "MultiAligNet | nouns | concept: diam, diameter | generated: sphere"
+  },
+  {
+    "content": "Is 'efficient' associated with 'kitchen stove, range, stove'?",
+    "description": "MultiAligNet | adjectives | concept: kitchen stove, range, stove | generated: efficient"
+  },
+  {
+    "content": "Is 'accomplish' associated with 'end, goal, goal-like entity'?",
+    "description": "MultiAligNet | verbs | concept: end, goal, goal-like entity | generated: accomplish"
+  },
+  {
+    "content": "Is 'vilify' associated with 'jew bashing, anti-semitism, antisemitism'?",
+    "description": "MultiAligNet | verbs | concept: jew bashing, anti-semitism, antisemitism | generated: vilify"
+  },
+  {
+    "content": "Is 'tag' associated with 'designation, identification'?",
+    "description": "MultiAligNet | verbs | concept: designation, identification | generated: tag"
+  },
+  {
+    "content": "Is 'fee' associated with 'payment'?",
+    "description": "MultiAligNet | nouns | concept: payment | generated: fee"
+  },
+  {
+    "content": "Is 'legacy' associated with 'past times, past, yesteryear'?",
+    "description": "MultiAligNet | nouns | concept: past times, past, yesteryear | generated: legacy"
+  },
+  {
+    "content": "Is 'omnidirectional' associated with 'wireless, radio, radiocommunication'?",
+    "description": "MultiAligNet | adjectives | concept: wireless, radio, radiocommunication | generated: omnidirectional"
+  },
+  {
+    "content": "Is 'accessible' associated with 'lecture, talk, public lecture'?",
+    "description": "MultiAligNet | adjectives | concept: lecture, talk, public lecture | generated: accessible"
+  },
+  {
+    "content": "Is 'construct' associated with 'railway, railroad, railroad line'?",
+    "description": "MultiAligNet | verbs | concept: railway, railroad, railroad line | generated: construct"
+  },
+  {
+    "content": "Is 'articulation' associated with 'voice, phonation, vocalisation'?",
+    "description": "MultiAligNet | nouns | concept: voice, phonation, vocalisation | generated: articulation"
+  },
+  {
+    "content": "Is 'honor' associated with 'heritage'?",
+    "description": "MultiAligNet | verbs | concept: heritage | generated: honor"
+  },
+  {
+    "content": "Is 'introduction' associated with 'essay'?",
+    "description": "MultiAligNet | nouns | concept: essay | generated: introduction"
+  },
+  {
+    "content": "Is 'thespian' associated with 'actor, role player, histrion'?",
+    "description": "MultiAligNet | nouns | concept: actor, role player, histrion | generated: thespian"
+  },
+  {
+    "content": "Is 'president' associated with 'united states, united states of america, america'?",
+    "description": "MultiAligNet | nouns | concept: united states, united states of america, america | generated: president"
+  },
+  {
+    "content": "Is 'motivation' associated with 'reason, cause, grounds'?",
+    "description": "MultiAligNet | nouns | concept: reason, cause, grounds | generated: motivation"
+  },
+  {
+    "content": "Is 'floor' associated with 'sheet, plane'?",
+    "description": "MultiAligNet | nouns | concept: sheet, plane | generated: floor"
+  },
+  {
+    "content": "Is 'dip' associated with 'decrease, lessening, drop-off'?",
+    "description": "MultiAligNet | nouns | concept: decrease, lessening, drop-off | generated: dip"
+  },
+  {
+    "content": "Is 'direct' associated with 'route, path, itinerary'?",
+    "description": "MultiAligNet | adjectives | concept: route, path, itinerary | generated: direct"
+  },
+  {
+    "content": "Is 'digital' associated with 'thermometer'?",
+    "description": "MultiAligNet | adjectives | concept: thermometer | generated: digital"
+  },
+  {
+    "content": "Is 'civil' associated with 'gentleman'?",
+    "description": "MultiAligNet | adjectives | concept: gentleman | generated: civil"
+  },
+  {
+    "content": "Is 'experience' associated with 'sense impression, sensation, sense datum'?",
+    "description": "MultiAligNet | verbs | concept: sense impression, sensation, sense datum | generated: experience"
+  },
+  {
+    "content": "Is 'sustainable' associated with 'manufacturer, producer'?",
+    "description": "MultiAligNet | adjectives | concept: manufacturer, producer | generated: sustainable"
+  },
+  {
+    "content": "Is 'exterminate' associated with 'manslayer, murderer, liquidator'?",
+    "description": "MultiAligNet | verbs | concept: manslayer, murderer, liquidator | generated: exterminate"
+  },
+  {
+    "content": "Is 'pursue' associated with 'risky venture, escapade, adventure'?",
+    "description": "MultiAligNet | verbs | concept: risky venture, escapade, adventure | generated: pursue"
+  },
+  {
+    "content": "Is 'standard' associated with 'dose, dosage'?",
+    "description": "MultiAligNet | adjectives | concept: dose, dosage | generated: standard"
+  },
+  {
+    "content": "Is 'tender' associated with 'dollar, dollar bill, buck'?",
+    "description": "MultiAligNet | adjectives | concept: dollar, dollar bill, buck | generated: tender"
+  },
+  {
+    "content": "Is 'display' associated with 'clock'?",
+    "description": "MultiAligNet | verbs | concept: clock | generated: display"
+  },
+  {
+    "content": "Is 'bill' associated with 'senate'?",
+    "description": "MultiAligNet | nouns | concept: senate | generated: bill"
+  },
+  {
+    "content": "Is 'match' associated with 'match, mates, couple'?",
+    "description": "MultiAligNet | verbs | concept: match, mates, couple | generated: match"
+  },
+  {
+    "content": "Is 'upgrade' associated with 'plant, industrial plant, physical plant'?",
+    "description": "MultiAligNet | verbs | concept: plant, industrial plant, physical plant | generated: upgrade"
+  },
+  {
+    "content": "Is 'revile' associated with 'hate, hatred, distaste'?",
+    "description": "MultiAligNet | verbs | concept: hate, hatred, distaste | generated: revile"
+  },
+  {
+    "content": "Is 'compassionate' associated with 'handling, treatment'?",
+    "description": "MultiAligNet | adjectives | concept: handling, treatment | generated: compassionate"
+  },
+  {
+    "content": "Is 'research' associated with 'negroid, black, negro'?",
+    "description": "MultiAligNet | verbs | concept: negroid, black, negro | generated: research"
+  },
+  {
+    "content": "Is 'detailed' associated with 'info, information'?",
+    "description": "MultiAligNet | adjectives | concept: info, information | generated: detailed"
+  },
+  {
+    "content": "Is 'requirement' associated with 'consideration, circumstance, condition'?",
+    "description": "MultiAligNet | nouns | concept: consideration, circumstance, condition | generated: requirement"
+  },
+  {
+    "content": "Is 'analyze' associated with 'lineament, feature'?",
+    "description": "MultiAligNet | verbs | concept: lineament, feature | generated: analyze"
+  },
+  {
+    "content": "Is 'periodic' associated with 'rhythm, regular recurrence'?",
+    "description": "MultiAligNet | adjectives | concept: rhythm, regular recurrence | generated: periodic"
+  },
+  {
+    "content": "Is 'evaluation' associated with 'comparison, comparing'?",
+    "description": "MultiAligNet | nouns | concept: comparison, comparing | generated: evaluation"
+  },
+  {
+    "content": "Is 'represent' associated with 'democracy, republic, commonwealth'?",
+    "description": "MultiAligNet | verbs | concept: democracy, republic, commonwealth | generated: represent"
+  },
+  {
+    "content": "Is 'expressive' associated with 'hand, handwriting, script'?",
+    "description": "MultiAligNet | adjectives | concept: hand, handwriting, script | generated: expressive"
+  },
+  {
+    "content": "Is 'mysterious' associated with 'ocean, sea, marine environment'?",
+    "description": "MultiAligNet | adjectives | concept: ocean, sea, marine environment | generated: mysterious"
+  },
+  {
+    "content": "Is 'intend' associated with 'volition, will'?",
+    "description": "MultiAligNet | verbs | concept: volition, will | generated: intend"
+  },
+  {
+    "content": "Is 'compose' associated with 'novel'?",
+    "description": "MultiAligNet | verbs | concept: novel | generated: compose"
+  },
+  {
+    "content": "Is 'reap' associated with 'field, plain, champaign'?",
+    "description": "MultiAligNet | verbs | concept: field, plain, champaign | generated: reap"
+  },
+  {
+    "content": "Is 'student' associated with 'education, instruction, teaching'?",
+    "description": "MultiAligNet | nouns | concept: education, instruction, teaching | generated: student"
+  },
+  {
+    "content": "Is 'timeless' associated with 'leather, leather goods'?",
+    "description": "MultiAligNet | adjectives | concept: leather, leather goods | generated: timeless"
+  },
+  {
+    "content": "Is 'comprehensive' associated with 'investigation, enquiry, inquiry'?",
+    "description": "MultiAligNet | adjectives | concept: investigation, enquiry, inquiry | generated: comprehensive"
+  },
+  {
+    "content": "Is 'hibernation' associated with 'natural action, natural process, activity'?",
+    "description": "MultiAligNet | nouns | concept: natural action, natural process, activity | generated: hibernation"
+  },
+  {
+    "content": "Is 'order' associated with 'command, dictation, bidding'?",
+    "description": "MultiAligNet | verbs | concept: command, dictation, bidding | generated: order"
+  },
+  {
+    "content": "Is 'granular' associated with 'pulverization, powder, pulverisation'?",
+    "description": "MultiAligNet | adjectives | concept: pulverization, powder, pulverisation | generated: granular"
+  },
+  {
+    "content": "Is 'sentience' associated with 'knowingness, consciousness, awareness'?",
+    "description": "MultiAligNet | nouns | concept: knowingness, consciousness, awareness | generated: sentience"
+  },
+  {
+    "content": "Is 'habitual' associated with 'practice, pattern'?",
+    "description": "MultiAligNet | adjectives | concept: practice, pattern | generated: habitual"
+  },
+  {
+    "content": "Is 'productive' associated with 'conversation'?",
+    "description": "MultiAligNet | adjectives | concept: conversation | generated: productive"
+  },
+  {
+    "content": "Is 'rim' associated with 'wheel'?",
+    "description": "MultiAligNet | nouns | concept: wheel | generated: rim"
+  },
+  {
+    "content": "Is 'zip' associated with 'trouser pocket, pocket'?",
+    "description": "MultiAligNet | verbs | concept: trouser pocket, pocket | generated: zip"
+  },
+  {
+    "content": "Is 'compact' associated with 'motor, engine'?",
+    "description": "MultiAligNet | adjectives | concept: motor, engine | generated: compact"
+  },
+  {
+    "content": "Is 'cartilage' associated with 'flesh'?",
+    "description": "MultiAligNet | nouns | concept: flesh | generated: cartilage"
+  },
+  {
+    "content": "Is 'vital' associated with 'blood'?",
+    "description": "MultiAligNet | adjectives | concept: blood | generated: vital"
+  },
+  {
+    "content": "Is 'addictive' associated with 'health effects of coffee, java, coffee'?",
+    "description": "MultiAligNet | adjectives | concept: health effects of coffee, java, coffee | generated: addictive"
+  },
+  {
+    "content": "Is 'ornamental' associated with 'disk, disc, saucer'?",
+    "description": "MultiAligNet | adjectives | concept: disk, disc, saucer | generated: ornamental"
+  },
+  {
+    "content": "Is 'create' associated with 'data file, file'?",
+    "description": "MultiAligNet | verbs | concept: data file, file | generated: create"
+  },
+  {
+    "content": "Is 'railway' associated with 'passenger train, railroad train, train'?",
+    "description": "MultiAligNet | nouns | concept: passenger train, railroad train, train | generated: railway"
+  },
+  {
+    "content": "Is 'navigation' associated with 'ship'?",
+    "description": "MultiAligNet | nouns | concept: ship | generated: navigation"
+  },
+  {
+    "content": "Is 'source' associated with 'quotation, citation, reference'?",
+    "description": "MultiAligNet | verbs | concept: quotation, citation, reference | generated: source"
+  },
+  {
+    "content": "Is 'sincerity' associated with 'bosom, heart'?",
+    "description": "MultiAligNet | nouns | concept: bosom, heart | generated: sincerity"
+  },
+  {
+    "content": "Is 'distinction' associated with 'difference'?",
+    "description": "MultiAligNet | nouns | concept: difference | generated: distinction"
+  },
+  {
+    "content": "Is 'verify' associated with 'preciseness, precision'?",
+    "description": "MultiAligNet | verbs | concept: preciseness, precision | generated: verify"
+  },
+  {
+    "content": "Is 'neighborhood' associated with 'turning point, corner, streetcorner'?",
+    "description": "MultiAligNet | nouns | concept: turning point, corner, streetcorner | generated: neighborhood"
+  },
+  {
+    "content": "Is 'sweet' associated with 'honey'?",
+    "description": "MultiAligNet | adjectives | concept: honey | generated: sweet"
+  },
+  {
+    "content": "Is 'pattern' associated with 'rhythm, regular recurrence'?",
+    "description": "MultiAligNet | nouns | concept: rhythm, regular recurrence | generated: pattern"
+  },
+  {
+    "content": "Is 'powerful' associated with 'command, dictation, bidding'?",
+    "description": "MultiAligNet | adjectives | concept: command, dictation, bidding | generated: powerful"
+  },
+  {
+    "content": "Is 'ceremony' associated with 'ceremonial occasion, ceremony, observance'?",
+    "description": "MultiAligNet | nouns | concept: ceremonial occasion, ceremony, observance | generated: ceremony"
+  },
+  {
+    "content": "Is 'innovative' associated with 'idea, thought'?",
+    "description": "MultiAligNet | adjectives | concept: idea, thought | generated: innovative"
+  },
+  {
+    "content": "Is 'compatible' associated with 'match, mates, couple'?",
+    "description": "MultiAligNet | adjectives | concept: match, mates, couple | generated: compatible"
+  },
+  {
+    "content": "Is 'transformative' associated with 'culture, acculturation'?",
+    "description": "MultiAligNet | adjectives | concept: culture, acculturation | generated: transformative"
+  },
+  {
+    "content": "Is 'reflect' associated with 'judgement, judgment, mind'?",
+    "description": "MultiAligNet | verbs | concept: judgement, judgment, mind | generated: reflect"
+  },
+  {
+    "content": "Is 'marked' associated with 'reduction, decrease, diminution'?",
+    "description": "MultiAligNet | adjectives | concept: reduction, decrease, diminution | generated: marked"
+  },
+  {
+    "content": "Is 'share' associated with 'gentile, christian, christians'?",
+    "description": "MultiAligNet | verbs | concept: gentile, christian, christians | generated: share"
+  },
+  {
+    "content": "Is 'emphasize' associated with 'stress, emphasis, accent'?",
+    "description": "MultiAligNet | verbs | concept: stress, emphasis, accent | generated: emphasize"
+  },
+  {
+    "content": "Is 'measure' associated with 'performance'?",
+    "description": "MultiAligNet | verbs | concept: performance | generated: measure"
+  },
+  {
+    "content": "Is 'amber' associated with 'honey'?",
+    "description": "MultiAligNet | adjectives | concept: honey | generated: amber"
+  },
+  {
+    "content": "Is 'articulate' associated with 'clearness, lucidness, clarity'?",
+    "description": "MultiAligNet | verbs | concept: clearness, lucidness, clarity | generated: articulate"
+  },
+  {
+    "content": "Is 'expressive' associated with 'word'?",
+    "description": "MultiAligNet | adjectives | concept: word | generated: expressive"
+  },
+  {
+    "content": "Is 'focus' associated with 'importance'?",
+    "description": "MultiAligNet | verbs | concept: importance | generated: focus"
+  },
+  {
+    "content": "Is 'refined' associated with 'technique'?",
+    "description": "MultiAligNet | adjectives | concept: technique | generated: refined"
+  },
+  {
+    "content": "Is 'governing' associated with 'council'?",
+    "description": "MultiAligNet | nouns | concept: council | generated: governing"
+  },
+  {
+    "content": "Is 'passion' associated with 'love'?",
+    "description": "MultiAligNet | nouns | concept: love | generated: passion"
+  },
+  {
+    "content": "Is 'wage' associated with 'working class, proletariat, labor'?",
+    "description": "MultiAligNet | nouns | concept: working class, proletariat, labor | generated: wage"
+  },
+  {
+    "content": "Is 'terminate' associated with 'kill, putting to death, killing'?",
+    "description": "MultiAligNet | verbs | concept: kill, putting to death, killing | generated: terminate"
+  },
+  {
+    "content": "Is 'interpretation' associated with 'standpoint, viewpoint, point of view'?",
+    "description": "MultiAligNet | nouns | concept: standpoint, viewpoint, point of view | generated: interpretation"
+  },
+  {
+    "content": "Is 'substantial' associated with 'damage, harm, impairment'?",
+    "description": "MultiAligNet | adjectives | concept: damage, harm, impairment | generated: substantial"
+  },
+  {
+    "content": "Is 'comprehensive' associated with 'lecture, talk, public lecture'?",
+    "description": "MultiAligNet | adjectives | concept: lecture, talk, public lecture | generated: comprehensive"
+  },
+  {
+    "content": "Is 'kickoff' associated with 'beginning, commencement, start'?",
+    "description": "MultiAligNet | verbs | concept: beginning, commencement, start | generated: kickoff"
+  },
+  {
+    "content": "Is 'measure' associated with 'sum, amount of money, amount'?",
+    "description": "MultiAligNet | verbs | concept: sum, amount of money, amount | generated: measure"
+  },
+  {
+    "content": "Is 'affect' associated with 'mood, temper, humour'?",
+    "description": "MultiAligNet | verbs | concept: mood, temper, humour | generated: affect"
+  },
+  {
+    "content": "Is 'dynamic' associated with 'driving force, thrust, drive'?",
+    "description": "MultiAligNet | adjectives | concept: driving force, thrust, drive | generated: dynamic"
+  },
+  {
+    "content": "Is 'curve' associated with 'spiral'?",
+    "description": "MultiAligNet | nouns | concept: spiral | generated: curve"
+  },
+  {
+    "content": "Is 'kick' associated with 'pes, foot, human foot'?",
+    "description": "MultiAligNet | verbs | concept: pes, foot, human foot | generated: kick"
+  },
+  {
+    "content": "Is 'modify' associated with 'condition, contractual term, term'?",
+    "description": "MultiAligNet | verbs | concept: condition, contractual term, term | generated: modify"
+  },
+  {
+    "content": "Is 'dye' associated with 'textile, fabric, cloth'?",
+    "description": "MultiAligNet | nouns | concept: textile, fabric, cloth | generated: dye"
+  },
+  {
+    "content": "Is 'protagonist' associated with 'actor, role player, histrion'?",
+    "description": "MultiAligNet | nouns | concept: actor, role player, histrion | generated: protagonist"
+  },
+  {
+    "content": "Is 'beat' associated with 'frequency, oftenness, frequence'?",
+    "description": "MultiAligNet | nouns | concept: frequency, oftenness, frequence | generated: beat"
+  },
+  {
+    "content": "Is 'stunning' associated with 'scene'?",
+    "description": "MultiAligNet | adjectives | concept: scene | generated: stunning"
+  },
+  {
+    "content": "Is 'time' associated with 'sec, second, s'?",
+    "description": "MultiAligNet | nouns | concept: sec, second, s | generated: time"
+  },
+  {
+    "content": "Is 'construction' associated with 'concrete, exposed aggregate concrete'?",
+    "description": "MultiAligNet | nouns | concept: concrete, exposed aggregate concrete | generated: construction"
+  },
+  {
+    "content": "Is 'respectful' associated with 'relationship, human relationship, interpersonal relationship'?",
+    "description": "MultiAligNet | adjectives | concept: relationship, human relationship, interpersonal relationship | generated: respectful"
+  },
+  {
+    "content": "Is 'influence' associated with 'field of force, force field, field'?",
+    "description": "MultiAligNet | nouns | concept: field of force, force field, field | generated: influence"
+  },
+  {
+    "content": "Is 'hopeless' associated with 'defeat, frustration'?",
+    "description": "MultiAligNet | adjectives | concept: defeat, frustration | generated: hopeless"
+  },
+  {
+    "content": "Is 'interact' associated with 'interrelationship, interrelatedness, interrelation'?",
+    "description": "MultiAligNet | verbs | concept: interrelationship, interrelatedness, interrelation | generated: interact"
+  },
+  {
+    "content": "Is 'nurture' associated with 'system, environment, nature'?",
+    "description": "MultiAligNet | verbs | concept: system, environment, nature | generated: nurture"
+  },
+  {
+    "content": "Is 'tour' associated with 'visit'?",
+    "description": "MultiAligNet | verbs | concept: visit | generated: tour"
+  },
+  {
+    "content": "Is 'uprise' associated with 'rising, insurrection, rebellion'?",
+    "description": "MultiAligNet | verbs | concept: rising, insurrection, rebellion | generated: uprise"
+  },
+  {
+    "content": "Is 'pressure' associated with 'gas, gaseous state'?",
+    "description": "MultiAligNet | nouns | concept: gas, gaseous state | generated: pressure"
+  },
+  {
+    "content": "Is 'swirl' associated with 'creek, stream, watercourse'?",
+    "description": "MultiAligNet | verbs | concept: creek, stream, watercourse | generated: swirl"
+  },
+  {
+    "content": "Is 'spiralize' associated with 'spiral'?",
+    "description": "MultiAligNet | verbs | concept: spiral | generated: spiralize"
+  },
+  {
+    "content": "Is 'sturdy' associated with 'boot'?",
+    "description": "MultiAligNet | adjectives | concept: boot | generated: sturdy"
+  },
+  {
+    "content": "Is 'prosecute' associated with 'police force, constabulary, police'?",
+    "description": "MultiAligNet | verbs | concept: police force, constabulary, police | generated: prosecute"
+  },
+  {
+    "content": "Is 'payment' associated with 'disbursement, disbursal, expense'?",
+    "description": "MultiAligNet | nouns | concept: disbursement, disbursal, expense | generated: payment"
+  },
+  {
+    "content": "Is 'mare' associated with 'equus caballus, horse'?",
+    "description": "MultiAligNet | nouns | concept: equus caballus, horse | generated: mare"
+  },
+  {
+    "content": "Is 'communication' associated with 'sentence'?",
+    "description": "MultiAligNet | nouns | concept: sentence | generated: communication"
+  },
+  {
+    "content": "Is 'conduct' associated with 'orchestra'?",
+    "description": "MultiAligNet | verbs | concept: orchestra | generated: conduct"
+  },
+  {
+    "content": "Is 'authority' associated with 'mastery, domination, supremacy'?",
+    "description": "MultiAligNet | nouns | concept: mastery, domination, supremacy | generated: authority"
+  },
+  {
+    "content": "Is 'detached' associated with 'garage'?",
+    "description": "MultiAligNet | adjectives | concept: garage | generated: detached"
+  },
+  {
+    "content": "Is 'nail' associated with 'finger'?",
+    "description": "MultiAligNet | nouns | concept: finger | generated: nail"
+  },
+  {
+    "content": "Is 'shallow' associated with 'breath'?",
+    "description": "MultiAligNet | adjectives | concept: breath | generated: shallow"
+  },
+  {
+    "content": "Is 'fluent' associated with 'words, lyric, language'?",
+    "description": "MultiAligNet | adjectives | concept: words, lyric, language | generated: fluent"
+  },
+  {
+    "content": "Is 'fence' associated with 'acre, field'?",
+    "description": "MultiAligNet | nouns | concept: acre, field | generated: fence"
+  },
+  {
+    "content": "Is 'sleek' associated with 'snake, ophidian, serpent'?",
+    "description": "MultiAligNet | adjectives | concept: snake, ophidian, serpent | generated: sleek"
+  },
+  {
+    "content": "Is 'build' associated with 'construction, structure, model'?",
+    "description": "MultiAligNet | verbs | concept: construction, structure, model | generated: build"
+  },
+  {
+    "content": "Is 'professional' associated with 'physician, medico, doctor'?",
+    "description": "MultiAligNet | adjectives | concept: physician, medico, doctor | generated: professional"
+  },
+  {
+    "content": "Is 'signal' associated with 'road traffic, traffic, priority'?",
+    "description": "MultiAligNet | nouns | concept: road traffic, traffic, priority | generated: signal"
+  },
+  {
+    "content": "Is 'land' associated with 'area'?",
+    "description": "MultiAligNet | nouns | concept: area | generated: land"
+  },
+  {
+    "content": "Is 'verse' associated with 'words, lyric, language'?",
+    "description": "MultiAligNet | nouns | concept: words, lyric, language | generated: verse"
+  },
+  {
+    "content": "Is 'vital' associated with 'source'?",
+    "description": "MultiAligNet | adjectives | concept: source | generated: vital"
+  },
+  {
+    "content": "Is 'retort' associated with 'reply, response, answer'?",
+    "description": "MultiAligNet | nouns | concept: reply, response, answer | generated: retort"
+  },
+  {
+    "content": "Is 'inflation' associated with 'dollar, surinamese dollar'?",
+    "description": "MultiAligNet | nouns | concept: dollar, surinamese dollar | generated: inflation"
+  },
+  {
+    "content": "Is 'efficient' associated with 'system'?",
+    "description": "MultiAligNet | adjectives | concept: system | generated: efficient"
+  },
+  {
+    "content": "Is 'see' associated with 'visit'?",
+    "description": "MultiAligNet | verbs | concept: visit | generated: see"
+  },
+  {
+    "content": "Is 'substantial' associated with 'break, gap, disruption'?",
+    "description": "MultiAligNet | adjectives | concept: break, gap, disruption | generated: substantial"
+  },
+  {
+    "content": "Is 'reach' associated with 'means'?",
+    "description": "MultiAligNet | verbs | concept: means | generated: reach"
+  },
+  {
+    "content": "Is 'clarification' associated with 'reply, response, answer'?",
+    "description": "MultiAligNet | nouns | concept: reply, response, answer | generated: clarification"
+  },
+  {
+    "content": "Is 'dash' associated with 'line'?",
+    "description": "MultiAligNet | nouns | concept: line | generated: dash"
+  },
+  {
+    "content": "Is 'specify' associated with 'scope, range, ambit'?",
+    "description": "MultiAligNet | verbs | concept: scope, range, ambit | generated: specify"
+  },
+  {
+    "content": "Is 'email' associated with 'message, communication, note'?",
+    "description": "MultiAligNet | nouns | concept: message, communication, note | generated: email"
+  },
+  {
+    "content": "Is 'complete' associated with 'end, terminal'?",
+    "description": "MultiAligNet | adjectives | concept: end, terminal | generated: complete"
+  },
+  {
+    "content": "Is 'subtract' associated with 'area'?",
+    "description": "MultiAligNet | verbs | concept: area | generated: subtract"
+  },
+  {
+    "content": "Is 'slender' associated with 'knife'?",
+    "description": "MultiAligNet | adjectives | concept: knife | generated: slender"
+  },
+  {
+    "content": "Is 'dexterous' associated with 'monkey'?",
+    "description": "MultiAligNet | adjectives | concept: monkey | generated: dexterous"
+  },
+  {
+    "content": "Is 'complete' associated with 'whole, unit'?",
+    "description": "MultiAligNet | adjectives | concept: whole, unit | generated: complete"
+  },
+  {
+    "content": "Is 'adhere' associated with 'moral sense, sense of right and wrong, conscience'?",
+    "description": "MultiAligNet | verbs | concept: moral sense, sense of right and wrong, conscience | generated: adhere"
+  },
+  {
+    "content": "Is 'corridor' associated with 'elbow room, way, room'?",
+    "description": "MultiAligNet | nouns | concept: elbow room, way, room | generated: corridor"
+  },
+  {
+    "content": "Is 'picture' associated with 'imaging, imagination, imagery'?",
+    "description": "MultiAligNet | verbs | concept: imaging, imagination, imagery | generated: picture"
+  },
+  {
+    "content": "Is 'living room' associated with 'room'?",
+    "description": "MultiAligNet | nouns | concept: room | generated: living room"
+  },
+  {
+    "content": "Is 'cash' associated with 'capital, real capital, working capital'?",
+    "description": "MultiAligNet | nouns | concept: capital, real capital, working capital | generated: cash"
+  },
+  {
+    "content": "Is 'grunt' associated with 'hog, pig, squealer'?",
+    "description": "MultiAligNet | verbs | concept: hog, pig, squealer | generated: grunt"
+  },
+  {
+    "content": "Is 'informative' associated with 'newspaper, paper, daily'?",
+    "description": "MultiAligNet | adjectives | concept: newspaper, paper, daily | generated: informative"
+  },
+  {
+    "content": "Is 'sculpt' associated with 'artistic production, artistic creation, art'?",
+    "description": "MultiAligNet | verbs | concept: artistic production, artistic creation, art | generated: sculpt"
+  },
+  {
+    "content": "Is 'uniqueness' associated with 'differentiation, distinction'?",
+    "description": "MultiAligNet | nouns | concept: differentiation, distinction | generated: uniqueness"
+  },
+  {
+    "content": "Is 'plant' associated with 'lawn'?",
+    "description": "MultiAligNet | verbs | concept: lawn | generated: plant"
+  },
+  {
+    "content": "Is 'conceive' associated with 'idea, thought'?",
+    "description": "MultiAligNet | verbs | concept: idea, thought | generated: conceive"
+  },
+  {
+    "content": "Is 'meticulous' associated with 'surgeon, sawbones, operating surgeon'?",
+    "description": "MultiAligNet | adjectives | concept: surgeon, sawbones, operating surgeon | generated: meticulous"
+  },
+  {
+    "content": "Is 'supreme' associated with 'mastery, domination, supremacy'?",
+    "description": "MultiAligNet | adjectives | concept: mastery, domination, supremacy | generated: supreme"
+  },
+  {
+    "content": "Is 'productivity' associated with 'effectiveness, effectualness, effectuality'?",
+    "description": "MultiAligNet | nouns | concept: effectiveness, effectualness, effectuality | generated: productivity"
+  },
+  {
+    "content": "Is 'mulch' associated with 'dirt, ground, soil'?",
+    "description": "MultiAligNet | nouns | concept: dirt, ground, soil | generated: mulch"
+  },
+  {
+    "content": "Is 'oval-shaped' associated with 'rima oris, oral fissure, mouth'?",
+    "description": "MultiAligNet | adjectives | concept: rima oris, oral fissure, mouth | generated: oval-shaped"
+  },
+  {
+    "content": "Is 'cognitive' associated with 'linguistic communication, human language, language'?",
+    "description": "MultiAligNet | adjectives | concept: linguistic communication, human language, language | generated: cognitive"
+  },
+  {
+    "content": "Is 'formidable' associated with 'power, political power, powerfulness'?",
+    "description": "MultiAligNet | adjectives | concept: power, political power, powerfulness | generated: formidable"
+  },
+  {
+    "content": "Is 'fluid' associated with 'verb, hindi verbs'?",
+    "description": "MultiAligNet | adjectives | concept: verb, hindi verbs | generated: fluid"
+  },
+  {
+    "content": "Is 'modern' associated with 'setup, apparatus'?",
+    "description": "MultiAligNet | adjectives | concept: setup, apparatus | generated: modern"
+  },
+  {
+    "content": "Is 'pressable' associated with 'button, push-button, push button'?",
+    "description": "MultiAligNet | adjectives | concept: button, push-button, push button | generated: pressable"
+  },
+  {
+    "content": "Is 'recreational' associated with 'weekend'?",
+    "description": "MultiAligNet | adjectives | concept: weekend | generated: recreational"
+  },
+  {
+    "content": "Is 'descend' associated with 'lineage, stock, ancestry'?",
+    "description": "MultiAligNet | verbs | concept: lineage, stock, ancestry | generated: descend"
+  },
+  {
+    "content": "Is 'relationship' associated with 'tie, link, tie-in'?",
+    "description": "MultiAligNet | nouns | concept: tie, link, tie-in | generated: relationship"
+  },
+  {
+    "content": "Is 'small' associated with 'minute, min'?",
+    "description": "MultiAligNet | adjectives | concept: minute, min | generated: small"
+  },
+  {
+    "content": "Is 'innovative' associated with 'technique'?",
+    "description": "MultiAligNet | adjectives | concept: technique | generated: innovative"
+  },
+  {
+    "content": "Is 'release' associated with 'freedom'?",
+    "description": "MultiAligNet | verbs | concept: freedom | generated: release"
+  },
+  {
+    "content": "Is 'migration' associated with 'move, movement, motion'?",
+    "description": "MultiAligNet | nouns | concept: move, movement, motion | generated: migration"
+  },
+  {
+    "content": "Is 'bear' associated with 'tree'?",
+    "description": "MultiAligNet | verbs | concept: tree | generated: bear"
+  },
+  {
+    "content": "Is 'puffy' associated with 'pillow'?",
+    "description": "MultiAligNet | adjectives | concept: pillow | generated: puffy"
+  },
+  {
+    "content": "Is 'disburse' associated with 'disbursement, disbursal, expense'?",
+    "description": "MultiAligNet | verbs | concept: disbursement, disbursal, expense | generated: disburse"
+  },
+  {
+    "content": "Is 'optimize' associated with 'saving, economy'?",
+    "description": "MultiAligNet | verbs | concept: saving, economy | generated: optimize"
+  },
+  {
+    "content": "Is 'technical' associated with 'audio engineering, engineering, technology'?",
+    "description": "MultiAligNet | adjectives | concept: audio engineering, engineering, technology | generated: technical"
+  },
+  {
+    "content": "Is 'transformative' associated with 'revolution'?",
+    "description": "MultiAligNet | adjectives | concept: revolution | generated: transformative"
+  },
+  {
+    "content": "Is 'lab' associated with 'course, course of instruction, class'?",
+    "description": "MultiAligNet | nouns | concept: course, course of instruction, class | generated: lab"
+  },
+  {
+    "content": "Is 'chapter' associated with 'scripture, word of god, bible'?",
+    "description": "MultiAligNet | nouns | concept: scripture, word of god, bible | generated: chapter"
+  },
+  {
+    "content": "Is 'exhale' associated with 'breath'?",
+    "description": "MultiAligNet | verbs | concept: breath | generated: exhale"
+  },
+  {
+    "content": "Is 'biodiversity' associated with 'system, environment, nature'?",
+    "description": "MultiAligNet | nouns | concept: system, environment, nature | generated: biodiversity"
+  },
+  {
+    "content": "Is 'minor' associated with 'minute, min'?",
+    "description": "MultiAligNet | adjectives | concept: minute, min | generated: minor"
+  },
+  {
+    "content": "Is 'malady' associated with 'ill, complaint, ailment'?",
+    "description": "MultiAligNet | nouns | concept: ill, complaint, ailment | generated: malady"
+  },
+  {
+    "content": "Is 'distinguished' associated with 'ambassador, embassador'?",
+    "description": "MultiAligNet | adjectives | concept: ambassador, embassador | generated: distinguished"
+  },
+  {
+    "content": "Is 'handle' associated with 'tip'?",
+    "description": "MultiAligNet | nouns | concept: tip | generated: handle"
+  },
+  {
+    "content": "Is 'decorative' associated with 'vase'?",
+    "description": "MultiAligNet | adjectives | concept: vase | generated: decorative"
+  },
+  {
+    "content": "Is 'daring' associated with 'risky venture, escapade, adventure'?",
+    "description": "MultiAligNet | adjectives | concept: risky venture, escapade, adventure | generated: daring"
+  },
+  {
+    "content": "Is 'habitat' associated with 'nest'?",
+    "description": "MultiAligNet | nouns | concept: nest | generated: habitat"
+  },
+  {
+    "content": "Is 'diverse' associated with 'system, environment, nature'?",
+    "description": "MultiAligNet | adjectives | concept: system, environment, nature | generated: diverse"
+  },
+  {
+    "content": "Is 'deadly' associated with 'kill, putting to death, killing'?",
+    "description": "MultiAligNet | adjectives | concept: kill, putting to death, killing | generated: deadly"
+  },
+  {
+    "content": "Is 'dramatic' associated with 'actor, role player, histrion'?",
+    "description": "MultiAligNet | adjectives | concept: actor, role player, histrion | generated: dramatic"
+  },
+  {
+    "content": "Is 'integrate' associated with 'tie, link, tie-in'?",
+    "description": "MultiAligNet | verbs | concept: tie, link, tie-in | generated: integrate"
+  },
+  {
+    "content": "Is 'apprehensive' associated with 'fright, fear, fearfulness'?",
+    "description": "MultiAligNet | adjectives | concept: fright, fear, fearfulness | generated: apprehensive"
+  },
+  {
+    "content": "Is 'halogen' associated with 'chlorine, cl, atomic number 17'?",
+    "description": "MultiAligNet | nouns | concept: chlorine, cl, atomic number 17 | generated: halogen"
+  },
+  {
+    "content": "Is 'powerful' associated with 'rex, king, male monarch'?",
+    "description": "MultiAligNet | adjectives | concept: rex, king, male monarch | generated: powerful"
+  },
+  {
+    "content": "Is 'negotiate' associated with 'price, damage, terms'?",
+    "description": "MultiAligNet | verbs | concept: price, damage, terms | generated: negotiate"
+  },
+  {
+    "content": "Is 'noble' associated with 'rex, king, male monarch'?",
+    "description": "MultiAligNet | adjectives | concept: rex, king, male monarch | generated: noble"
+  },
+  {
+    "content": "Is 'expressive' associated with 'eye, optic, oculus'?",
+    "description": "MultiAligNet | adjectives | concept: eye, optic, oculus | generated: expressive"
+  },
+  {
+    "content": "Is 'heritage' associated with 'family unit, family'?",
+    "description": "MultiAligNet | nouns | concept: family unit, family | generated: heritage"
+  },
+  {
+    "content": "Is 'suggest' associated with 'tip'?",
+    "description": "MultiAligNet | verbs | concept: tip | generated: suggest"
+  },
+  {
+    "content": "Is 'difference' associated with 'gap, spread'?",
+    "description": "MultiAligNet | nouns | concept: gap, spread | generated: difference"
+  },
+  {
+    "content": "Is 'assassinate' associated with 'slaying, murder, execution'?",
+    "description": "MultiAligNet | verbs | concept: slaying, murder, execution | generated: assassinate"
+  },
+  {
+    "content": "Is 'restlessness' associated with 'malaise, unease, uneasiness'?",
+    "description": "MultiAligNet | nouns | concept: malaise, unease, uneasiness | generated: restlessness"
+  },
+  {
+    "content": "Is 'gala' associated with 'evening, eventide, eve'?",
+    "description": "MultiAligNet | nouns | concept: evening, eventide, eve | generated: gala"
+  },
+  {
+    "content": "Is 'oversee' associated with 'music director, director, conductor'?",
+    "description": "MultiAligNet | verbs | concept: music director, director, conductor | generated: oversee"
+  },
+  {
+    "content": "Is 'solid' associated with 'timber, lumber'?",
+    "description": "MultiAligNet | adjectives | concept: timber, lumber | generated: solid"
+  },
+  {
+    "content": "Is 'convincing' associated with 'reason, cause, grounds'?",
+    "description": "MultiAligNet | adjectives | concept: reason, cause, grounds | generated: convincing"
+  },
+  {
+    "content": "Is 'ravishing' associated with 'enjoyment, delight, delectation'?",
+    "description": "MultiAligNet | adjectives | concept: enjoyment, delight, delectation | generated: ravishing"
+  },
+  {
+    "content": "Is 'efficient' associated with 'business, commercial enterprise, business enterprise'?",
+    "description": "MultiAligNet | adjectives | concept: business, commercial enterprise, business enterprise | generated: efficient"
+  },
+  {
+    "content": "Is 'physical' associated with 'thing'?",
+    "description": "MultiAligNet | adjectives | concept: thing | generated: physical"
+  },
+  {
+    "content": "Is 'prominent' associated with 'sign, signaling, signal'?",
+    "description": "MultiAligNet | adjectives | concept: sign, signaling, signal | generated: prominent"
+  },
+  {
+    "content": "Is 'minimal' associated with 'capacity'?",
+    "description": "MultiAligNet | adjectives | concept: capacity | generated: minimal"
+  },
+  {
+    "content": "Is 'sustainable' associated with 'policy'?",
+    "description": "MultiAligNet | adjectives | concept: policy | generated: sustainable"
+  },
+  {
+    "content": "Is 'evaluate' associated with 'knowledge, cognition, noesis'?",
+    "description": "MultiAligNet | verbs | concept: knowledge, cognition, noesis | generated: evaluate"
+  },
+  {
+    "content": "Is 'socks' associated with 'shoe'?",
+    "description": "MultiAligNet | nouns | concept: shoe | generated: socks"
+  },
+  {
+    "content": "Is 'organic' associated with 'hay'?",
+    "description": "MultiAligNet | adjectives | concept: hay | generated: organic"
+  },
+  {
+    "content": "Is 'root' associated with 'hog, pig, squealer'?",
+    "description": "MultiAligNet | verbs | concept: hog, pig, squealer | generated: root"
+  },
+  {
+    "content": "Is 'monthly' associated with 'mag, magazine, periodical'?",
+    "description": "MultiAligNet | adjectives | concept: mag, magazine, periodical | generated: monthly"
+  },
+  {
+    "content": "Is 'concert' associated with 'evening, eventide, eve'?",
+    "description": "MultiAligNet | nouns | concept: evening, eventide, eve | generated: concert"
+  },
+  {
+    "content": "Is 'jittery' associated with 'malaise, unease, uneasiness'?",
+    "description": "MultiAligNet | adjectives | concept: malaise, unease, uneasiness | generated: jittery"
+  },
+  {
+    "content": "Is 'system' associated with 'organ'?",
+    "description": "MultiAligNet | nouns | concept: organ | generated: system"
+  },
+  {
+    "content": "Is 'equipment' associated with 'jock, sportsperson, athlete'?",
+    "description": "MultiAligNet | nouns | concept: jock, sportsperson, athlete | generated: equipment"
+  },
+  {
+    "content": "Is 'hold' associated with 'battlefront, front line, front'?",
+    "description": "MultiAligNet | verbs | concept: battlefront, front line, front | generated: hold"
+  },
+  {
+    "content": "Is 'instar' associated with 'larva'?",
+    "description": "MultiAligNet | nouns | concept: larva | generated: instar"
+  },
+  {
+    "content": "Is 'canvas' associated with 'shoe'?",
+    "description": "MultiAligNet | adjectives | concept: shoe | generated: canvas"
+  },
+  {
+    "content": "Is 'polish' associated with 'beeswax, wax'?",
+    "description": "MultiAligNet | verbs | concept: beeswax, wax | generated: polish"
+  },
+  {
+    "content": "Is 'typical' associated with 'instance, model, case'?",
+    "description": "MultiAligNet | adjectives | concept: instance, model, case | generated: typical"
+  },
+  {
+    "content": "Is 'adapt' associated with 'organic structure, body, physical structure'?",
+    "description": "MultiAligNet | verbs | concept: organic structure, body, physical structure | generated: adapt"
+  },
+  {
+    "content": "Is 'aptitude' associated with 'competency, competence'?",
+    "description": "MultiAligNet | nouns | concept: competency, competence | generated: aptitude"
+  },
+  {
+    "content": "Is 'give' associated with 'tip'?",
+    "description": "MultiAligNet | verbs | concept: tip | generated: give"
+  },
+  {
+    "content": "Is 'inventory' associated with 'capital, real capital, working capital'?",
+    "description": "MultiAligNet | nouns | concept: capital, real capital, working capital | generated: inventory"
+  },
+  {
+    "content": "Is 'strong' associated with 'impulse, urge'?",
+    "description": "MultiAligNet | adjectives | concept: impulse, urge | generated: strong"
+  },
+  {
+    "content": "Is 'pivotal' associated with 'articulatio talocruralis, ankle, ankle joint'?",
+    "description": "MultiAligNet | adjectives | concept: articulatio talocruralis, ankle, ankle joint | generated: pivotal"
+  },
+  {
+    "content": "Is 'think' associated with 'consideration'?",
+    "description": "MultiAligNet | verbs | concept: consideration | generated: think"
+  },
+  {
+    "content": "Is 'play' associated with 'game'?",
+    "description": "MultiAligNet | verbs | concept: game | generated: play"
+  },
+  {
+    "content": "Is 'functional' associated with 'organ'?",
+    "description": "MultiAligNet | adjectives | concept: organ | generated: functional"
+  },
+  {
+    "content": "Is 'serious' associated with 'problem'?",
+    "description": "MultiAligNet | adjectives | concept: problem | generated: serious"
+  },
+  {
+    "content": "Is 'store' associated with 'rifle, youth rifle, budé'?",
+    "description": "MultiAligNet | verbs | concept: rifle, youth rifle, budé | generated: store"
+  },
+  {
+    "content": "Is 'crumble' associated with 'stone, rock'?",
+    "description": "MultiAligNet | verbs | concept: stone, rock | generated: crumble"
+  },
+  {
+    "content": "Is 'schedule' associated with 'activity'?",
+    "description": "MultiAligNet | verbs | concept: activity | generated: schedule"
+  },
+  {
+    "content": "Is 'integrate' associated with 'connectedness, link, connection'?",
+    "description": "MultiAligNet | verbs | concept: connectedness, link, connection | generated: integrate"
+  },
+  {
+    "content": "Is 'clean' associated with 'basement, cellar'?",
+    "description": "MultiAligNet | verbs | concept: basement, cellar | generated: clean"
+  },
+  {
+    "content": "Is 'defense' associated with 'safeguard, precaution, guard'?",
+    "description": "MultiAligNet | nouns | concept: safeguard, precaution, guard | generated: defense"
+  },
+  {
+    "content": "Is 'team' associated with 'workforce, work force, manpower'?",
+    "description": "MultiAligNet | nouns | concept: workforce, work force, manpower | generated: team"
+  },
+  {
+    "content": "Is 'pitch' associated with 'camping, tenting, encampment'?",
+    "description": "MultiAligNet | verbs | concept: camping, tenting, encampment | generated: pitch"
+  },
+  {
+    "content": "Is 'welcoming' associated with 'home, house, family'?",
+    "description": "MultiAligNet | adjectives | concept: home, house, family | generated: welcoming"
+  },
+  {
+    "content": "Is 'interrupt' associated with 'break, gap, disruption'?",
+    "description": "MultiAligNet | verbs | concept: break, gap, disruption | generated: interrupt"
+  },
+  {
+    "content": "Is 'malevolence' associated with 'evil, wickedness, iniquity'?",
+    "description": "MultiAligNet | nouns | concept: evil, wickedness, iniquity | generated: malevolence"
+  },
+  {
+    "content": "Is 'language' associated with 'culture, acculturation'?",
+    "description": "MultiAligNet | nouns | concept: culture, acculturation | generated: language"
+  },
+  {
+    "content": "Is 'allele' associated with 'property, phenotypic character'?",
+    "description": "MultiAligNet | nouns | concept: property, phenotypic character | generated: allele"
+  },
+  {
+    "content": "Is 'bankruptcy' associated with 'crisis'?",
+    "description": "MultiAligNet | nouns | concept: crisis | generated: bankruptcy"
+  },
+  {
+    "content": "Is 'rich' associated with 'experience'?",
+    "description": "MultiAligNet | adjectives | concept: experience | generated: rich"
+  },
+  {
+    "content": "Is 'fridge' associated with 'kitchen'?",
+    "description": "MultiAligNet | nouns | concept: kitchen | generated: fridge"
+  },
+  {
+    "content": "Is 'endothermic' associated with 'reaction'?",
+    "description": "MultiAligNet | adjectives | concept: reaction | generated: endothermic"
+  },
+  {
+    "content": "Is 'righteousness' associated with 'morality'?",
+    "description": "MultiAligNet | nouns | concept: morality | generated: righteousness"
+  },
+  {
+    "content": "Is 'graduate' associated with 'academy, school, university'?",
+    "description": "MultiAligNet | verbs | concept: academy, school, university | generated: graduate"
+  },
+  {
+    "content": "Is 'high' associated with 'resistance, resistor'?",
+    "description": "MultiAligNet | adjectives | concept: resistance, resistor | generated: high"
+  },
+  {
+    "content": "Is 'playful' associated with 'kid, child, minor'?",
+    "description": "MultiAligNet | adjectives | concept: kid, child, minor | generated: playful"
+  },
+  {
+    "content": "Is 'suited' associated with 'match, mates, couple'?",
+    "description": "MultiAligNet | adjectives | concept: match, mates, couple | generated: suited"
+  },
+  {
+    "content": "Is 'frost' associated with 'frigidness, coldness, frigidity'?",
+    "description": "MultiAligNet | nouns | concept: frigidness, coldness, frigidity | generated: frost"
+  },
+  {
+    "content": "Is 'comparative' associated with 'ratio'?",
+    "description": "MultiAligNet | adjectives | concept: ratio | generated: comparative"
+  },
+  {
+    "content": "Is 'query' associated with 'question, head'?",
+    "description": "MultiAligNet | verbs | concept: question, head | generated: query"
+  },
+  {
+    "content": "Is 'stationary phase' associated with 'chromatography column, column'?",
+    "description": "MultiAligNet | nouns | concept: chromatography column, column | generated: stationary phase"
+  },
+  {
+    "content": "Is 'guide' associated with 'captain'?",
+    "description": "MultiAligNet | verbs | concept: captain | generated: guide"
+  },
+  {
+    "content": "Is 'conductive' associated with 'electricity'?",
+    "description": "MultiAligNet | adjectives | concept: electricity | generated: conductive"
+  },
+  {
+    "content": "Is 'modern' associated with 'car, automobile, machine'?",
+    "description": "MultiAligNet | adjectives | concept: car, automobile, machine | generated: modern"
+  },
+  {
+    "content": "Is 'diligent' associated with 'endeavour, enterprise, endeavor'?",
+    "description": "MultiAligNet | adjectives | concept: endeavour, enterprise, endeavor | generated: diligent"
+  },
+  {
+    "content": "Is 'authority' associated with 'license, permit, licence'?",
+    "description": "MultiAligNet | nouns | concept: license, permit, licence | generated: authority"
+  },
+  {
+    "content": "Is 'wish' associated with 'desire'?",
+    "description": "MultiAligNet | nouns | concept: desire | generated: wish"
+  },
+  {
+    "content": "Is 'timely' associated with 'preparation, readying'?",
+    "description": "MultiAligNet | adjectives | concept: preparation, readying | generated: timely"
+  },
+  {
+    "content": "Is 'watch' associated with 'trouser pocket, pocket'?",
+    "description": "MultiAligNet | nouns | concept: trouser pocket, pocket | generated: watch"
+  },
+  {
+    "content": "Is 'appalling' associated with 'repugnance, revulsion, horror'?",
+    "description": "MultiAligNet | adjectives | concept: repugnance, revulsion, horror | generated: appalling"
+  },
+  {
+    "content": "Is 'summarize' associated with 'paper, composition, report'?",
+    "description": "MultiAligNet | verbs | concept: paper, composition, report | generated: summarize"
+  },
+  {
+    "content": "Is 'jingle' associated with 'advertisement, advertising, ad'?",
+    "description": "MultiAligNet | nouns | concept: advertisement, advertising, ad | generated: jingle"
+  },
+  {
+    "content": "Is 'spectrum' associated with 'visible light, light, visible radiation'?",
+    "description": "MultiAligNet | nouns | concept: visible light, light, visible radiation | generated: spectrum"
+  },
+  {
+    "content": "Is 'compose' associated with 'component, factor, element'?",
+    "description": "MultiAligNet | verbs | concept: component, factor, element | generated: compose"
+  },
+  {
+    "content": "Is 'mindfulness' associated with 'knowingness, consciousness, awareness'?",
+    "description": "MultiAligNet | nouns | concept: knowingness, consciousness, awareness | generated: mindfulness"
+  },
+  {
+    "content": "Is 'consequence' associated with 'result, outcome, resultant'?",
+    "description": "MultiAligNet | nouns | concept: result, outcome, resultant | generated: consequence"
+  },
+  {
+    "content": "Is 'territory' associated with 'country, land, state'?",
+    "description": "MultiAligNet | nouns | concept: country, land, state | generated: territory"
+  },
+  {
+    "content": "Is 'simulate' associated with 'instance, model, case'?",
+    "description": "MultiAligNet | verbs | concept: instance, model, case | generated: simulate"
+  },
+  {
+    "content": "Is 'watch' associated with 'observation'?",
+    "description": "MultiAligNet | verbs | concept: observation | generated: watch"
+  },
+  {
+    "content": "Is 'passing' associated with 'expiry, death, decease'?",
+    "description": "MultiAligNet | nouns | concept: expiry, death, decease | generated: passing"
+  },
+  {
+    "content": "Is 'proficiency' associated with 'competency, competence'?",
+    "description": "MultiAligNet | nouns | concept: competency, competence | generated: proficiency"
+  },
+  {
+    "content": "Is 'honor' associated with 'worship'?",
+    "description": "MultiAligNet | verbs | concept: worship | generated: honor"
+  },
+  {
+    "content": "Is 'sunscreen' associated with 'shade, shadow'?",
+    "description": "MultiAligNet | nouns | concept: shade, shadow | generated: sunscreen"
+  },
+  {
+    "content": "Is 'reception' associated with 'response'?",
+    "description": "MultiAligNet | nouns | concept: response | generated: reception"
+  },
+  {
+    "content": "Is 'nominate' associated with 'election'?",
+    "description": "MultiAligNet | verbs | concept: election | generated: nominate"
+  },
+  {
+    "content": "Is 'long' associated with 'maxi dress, dress, frock'?",
+    "description": "MultiAligNet | adjectives | concept: maxi dress, dress, frock | generated: long"
+  },
+  {
+    "content": "Is 'folklore' associated with 'superstitious notion, superstition'?",
+    "description": "MultiAligNet | nouns | concept: superstitious notion, superstition | generated: folklore"
+  },
+  {
+    "content": "Is 'review' associated with 'restaurant, eating house, eating place'?",
+    "description": "MultiAligNet | verbs | concept: restaurant, eating house, eating place | generated: review"
+  },
+  {
+    "content": "Is 'slender' associated with 'aerial, antenna, transmitting aerial'?",
+    "description": "MultiAligNet | adjectives | concept: aerial, antenna, transmitting aerial | generated: slender"
+  },
+  {
+    "content": "Is 'share' associated with 'fellow worker, co-worker, colleague'?",
+    "description": "MultiAligNet | verbs | concept: fellow worker, co-worker, colleague | generated: share"
+  },
+  {
+    "content": "Is 'structured' associated with 'organisational, organisation, organization'?",
+    "description": "MultiAligNet | adjectives | concept: organisational, organisation, organization | generated: structured"
+  },
+  {
+    "content": "Is 'brick-and-mortar' associated with 'school, schoolhouse'?",
+    "description": "MultiAligNet | adjectives | concept: school, schoolhouse | generated: brick-and-mortar"
+  },
+  {
+    "content": "Is 'local' associated with 'computer address, address, reference'?",
+    "description": "MultiAligNet | adjectives | concept: computer address, address, reference | generated: local"
+  },
+  {
+    "content": "Is 'tutu' associated with 'terpsichorean, professional dancer, dancer'?",
+    "description": "MultiAligNet | nouns | concept: terpsichorean, professional dancer, dancer | generated: tutu"
+  },
+  {
+    "content": "Is 'inscribe' associated with 'hand, handwriting, script'?",
+    "description": "MultiAligNet | verbs | concept: hand, handwriting, script | generated: inscribe"
+  },
+  {
+    "content": "Is 'kit' associated with 'set'?",
+    "description": "MultiAligNet | nouns | concept: set | generated: kit"
+  },
+  {
+    "content": "Is 'severe' associated with 'danger, peril, risk'?",
+    "description": "MultiAligNet | adjectives | concept: danger, peril, risk | generated: severe"
+  }
+]

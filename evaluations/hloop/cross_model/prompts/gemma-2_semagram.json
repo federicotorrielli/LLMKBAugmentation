@@ -1,0 +1,2002 @@
+[
+  {
+    "content": "Are family from home that are support?",
+    "description": "Semagram | category: home | criterion: are support | generated: family"
+  },
+  {
+    "content": "Are transmission from artifacts that can have auto-changer?",
+    "description": "Semagram | category: artifacts | criterion: can have auto-changer | generated: transmission"
+  },
+  {
+    "content": "Are Congo barker from animals that are basenji?",
+    "description": "Semagram | category: animals | criterion: are basenji | generated: Congo barker"
+  },
+  {
+    "content": "Are tow truck from vehicles that are sound truck?",
+    "description": "Semagram | category: vehicles | criterion: are sound truck | generated: tow truck"
+  },
+  {
+    "content": "Are Albion from food that are Chilean strawberry?",
+    "description": "Semagram | category: food | criterion: are Chilean strawberry | generated: Albion"
+  },
+  {
+    "content": "Are pear from food that are pyxidium?",
+    "description": "Semagram | category: food | criterion: are pyxidium | generated: pear"
+  },
+  {
+    "content": "Are earthworm from animals that can be circular?",
+    "description": "Semagram | category: animals | criterion: can be circular | generated: earthworm"
+  },
+  {
+    "content": "Are dress from clothes that are banyan?",
+    "description": "Semagram | category: clothes | criterion: are banyan | generated: dress"
+  },
+  {
+    "content": "Are jeans from containers that can have pocket?",
+    "description": "Semagram | category: containers | criterion: can have pocket | generated: jeans"
+  },
+  {
+    "content": "Are anchovies from food that are salad nicoise?",
+    "description": "Semagram | category: food | criterion: are salad nicoise | generated: anchovies"
+  },
+  {
+    "content": "Are refrigerator from appliance that can be found or used in homes?",
+    "description": "Semagram | category: appliance | criterion: can be found or used in homes | generated: refrigerator"
+  },
+  {
+    "content": "Are scissors from tools that are instrument?",
+    "description": "Semagram | category: tools | criterion: are instrument | generated: scissors"
+  },
+  {
+    "content": "Are sweet peppers from food that are used for vision?",
+    "description": "Semagram | category: food | criterion: are used for vision | generated: sweet peppers"
+  },
+  {
+    "content": "Are Pomeranian from animals that are toy dog?",
+    "description": "Semagram | category: animals | criterion: are toy dog | generated: Pomeranian"
+  },
+  {
+    "content": "Are cake from food that can be made of flour?",
+    "description": "Semagram | category: food | criterion: can be made of flour | generated: cake"
+  },
+  {
+    "content": "Are blender from appliance that are job-oriented terminal?",
+    "description": "Semagram | category: appliance | criterion: are job-oriented terminal | generated: blender"
+  },
+  {
+    "content": "Are caravan from vehicles that can have first gear?",
+    "description": "Semagram | category: vehicles | criterion: can have first gear | generated: caravan"
+  },
+  {
+    "content": "Are car radio from artifacts that can have radio chassis?",
+    "description": "Semagram | category: artifacts | criterion: can have radio chassis | generated: car radio"
+  },
+  {
+    "content": "Are shoes from clothes that are used to run?",
+    "description": "Semagram | category: clothes | criterion: are used to run | generated: shoes"
+  },
+  {
+    "content": "Are soup from food that can be liquid?",
+    "description": "Semagram | category: food | criterion: can be liquid | generated: soup"
+  },
+  {
+    "content": "Are Pekingese from animals that are toy dog?",
+    "description": "Semagram | category: animals | criterion: are toy dog | generated: Pekingese"
+  },
+  {
+    "content": "Are door from home that are passage?",
+    "description": "Semagram | category: home | criterion: are passage | generated: door"
+  },
+  {
+    "content": "Are Lifeboats from vehicles that are used by cruises?",
+    "description": "Semagram | category: vehicles | criterion: are used by cruises | generated: Lifeboats"
+  },
+  {
+    "content": "Are soprillo from instruments that are reed?",
+    "description": "Semagram | category: instruments | criterion: are reed | generated: soprillo"
+  },
+  {
+    "content": "Are wireworm from animals that are elaterid beetle?",
+    "description": "Semagram | category: animals | criterion: are elaterid beetle | generated: wireworm"
+  },
+  {
+    "content": "Are toga from clothes that can be rectangular?",
+    "description": "Semagram | category: clothes | criterion: can be rectangular | generated: toga"
+  },
+  {
+    "content": "Are locket from artifacts that can have key?",
+    "description": "Semagram | category: artifacts | criterion: can have key | generated: locket"
+  },
+  {
+    "content": "Are caterpillar from animals that are larva?",
+    "description": "Semagram | category: animals | criterion: are larva | generated: caterpillar"
+  },
+  {
+    "content": "Are television from animals that can be watch?",
+    "description": "Semagram | category: animals | criterion: can be watch | generated: television"
+  },
+  {
+    "content": "Are lorry from vehicles that can have cargo hold?",
+    "description": "Semagram | category: vehicles | criterion: can have cargo hold | generated: lorry"
+  },
+  {
+    "content": "Are palm oil from food that can be found or used in plantations?",
+    "description": "Semagram | category: food | criterion: can be found or used in plantations | generated: palm oil"
+  },
+  {
+    "content": "Are tuba from instruments that sound deep?",
+    "description": "Semagram | category: instruments | criterion: sound deep | generated: tuba"
+  },
+  {
+    "content": "Are convertible bed from vehicles that are convertible?",
+    "description": "Semagram | category: vehicles | criterion: are convertible | generated: convertible bed"
+  },
+  {
+    "content": "Are Hydra from animals that are fictional animal?",
+    "description": "Semagram | category: animals | criterion: are fictional animal | generated: Hydra"
+  },
+  {
+    "content": "Are mountain bike from vehicles that are push-bike?",
+    "description": "Semagram | category: vehicles | criterion: are push-bike | generated: mountain bike"
+  },
+  {
+    "content": "Are sandals from clothes that can have toe box?",
+    "description": "Semagram | category: clothes | criterion: can have toe box | generated: sandals"
+  },
+  {
+    "content": "Are size from home that are used to measure?",
+    "description": "Semagram | category: home | criterion: are used to measure | generated: size"
+  },
+  {
+    "content": "Are oil from food that can be found or used in bottles?",
+    "description": "Semagram | category: food | criterion: can be found or used in bottles | generated: oil"
+  },
+  {
+    "content": "Are puppy from animals that can have collar?",
+    "description": "Semagram | category: animals | criterion: can have collar | generated: puppy"
+  },
+  {
+    "content": "Are clarinet from instruments that sound mournful?",
+    "description": "Semagram | category: instruments | criterion: sound mournful | generated: clarinet"
+  },
+  {
+    "content": "Are tongs from tools that are used to pick up?",
+    "description": "Semagram | category: tools | criterion: are used to pick up | generated: tongs"
+  },
+  {
+    "content": "Are shoes from artifacts that are used for sport?",
+    "description": "Semagram | category: artifacts | criterion: are used for sport | generated: shoes"
+  },
+  {
+    "content": "Are motorcycle from vehicles that can have handlebar?",
+    "description": "Semagram | category: vehicles | criterion: can have handlebar | generated: motorcycle"
+  },
+  {
+    "content": "Are jewelry from artifacts that are adornment?",
+    "description": "Semagram | category: artifacts | criterion: are adornment | generated: jewelry"
+  },
+  {
+    "content": "Are towel from clothes that can be rectangular?",
+    "description": "Semagram | category: clothes | criterion: can be rectangular | generated: towel"
+  },
+  {
+    "content": "Are blouse from clothes that are polonaise?",
+    "description": "Semagram | category: clothes | criterion: are polonaise | generated: blouse"
+  },
+  {
+    "content": "Are cheese from food that can be found or used in shops?",
+    "description": "Semagram | category: food | criterion: can be found or used in shops | generated: cheese"
+  },
+  {
+    "content": "Are pot from containers that are kitchen utensil?",
+    "description": "Semagram | category: containers | criterion: are kitchen utensil | generated: pot"
+  },
+  {
+    "content": "Are celery from food that can have stem?",
+    "description": "Semagram | category: food | criterion: can have stem | generated: celery"
+  },
+  {
+    "content": "Are Labrador Retriever from animals that are Labrador?",
+    "description": "Semagram | category: animals | criterion: are Labrador | generated: Labrador Retriever"
+  },
+  {
+    "content": "Are dog from animals that can be trot?",
+    "description": "Semagram | category: animals | criterion: can be trot | generated: dog"
+  },
+  {
+    "content": "Are crane fly from animals that are dipteron?",
+    "description": "Semagram | category: animals | criterion: are dipteron | generated: crane fly"
+  },
+  {
+    "content": "Are gazebo from artifacts that can have canopy?",
+    "description": "Semagram | category: artifacts | criterion: can have canopy | generated: gazebo"
+  },
+  {
+    "content": "Are wrench from tools that are construction?",
+    "description": "Semagram | category: tools | criterion: are construction | generated: wrench"
+  },
+  {
+    "content": "Are barrel from containers that can have tap?",
+    "description": "Semagram | category: containers | criterion: can have tap | generated: barrel"
+  },
+  {
+    "content": "Are measuring cups from tools that are kitchen utensil?",
+    "description": "Semagram | category: tools | criterion: are kitchen utensil | generated: measuring cups"
+  },
+  {
+    "content": "Are jacket from clothes that can be green?",
+    "description": "Semagram | category: clothes | criterion: can be green | generated: jacket"
+  },
+  {
+    "content": "Are turtle from animals that are diapsid?",
+    "description": "Semagram | category: animals | criterion: are diapsid | generated: turtle"
+  },
+  {
+    "content": "Are driver ant from animals that are driver ant?",
+    "description": "Semagram | category: animals | criterion: are driver ant | generated: driver ant"
+  },
+  {
+    "content": "Are denim shorts from clothes that are blue jean?",
+    "description": "Semagram | category: clothes | criterion: are blue jean | generated: denim shorts"
+  },
+  {
+    "content": "Are meat from food that are sustenance?",
+    "description": "Semagram | category: food | criterion: are sustenance | generated: meat"
+  },
+  {
+    "content": "Are sanitation vehicle from vehicles that are garbage truck?",
+    "description": "Semagram | category: vehicles | criterion: are garbage truck | generated: sanitation vehicle"
+  },
+  {
+    "content": "Are bowing from instruments that are related with bow?",
+    "description": "Semagram | category: instruments | criterion: are related with bow | generated: bowing"
+  },
+  {
+    "content": "Are guitar pick from artifacts that can have pickup?",
+    "description": "Semagram | category: artifacts | criterion: can have pickup | generated: guitar pick"
+  },
+  {
+    "content": "Are bunny rabbit from animals that are bunny rabbit?",
+    "description": "Semagram | category: animals | criterion: are bunny rabbit | generated: bunny rabbit"
+  },
+  {
+    "content": "Are flask from tools that can be found or used in laboratories?",
+    "description": "Semagram | category: tools | criterion: can be found or used in laboratories | generated: flask"
+  },
+  {
+    "content": "Are whiskey from food that are alcohol?",
+    "description": "Semagram | category: food | criterion: are alcohol | generated: whiskey"
+  },
+  {
+    "content": "Are hammer from tools that can be made of wood?",
+    "description": "Semagram | category: tools | criterion: can be made of wood | generated: hammer"
+  },
+  {
+    "content": "Are wood borer larva from animals that are woodborer?",
+    "description": "Semagram | category: animals | criterion: are woodborer | generated: wood borer larva"
+  },
+  {
+    "content": "Are rice from food that are paddy?",
+    "description": "Semagram | category: food | criterion: are paddy | generated: rice"
+  },
+  {
+    "content": "Are sink from home that are used to wash?",
+    "description": "Semagram | category: home | criterion: are used to wash | generated: sink"
+  },
+  {
+    "content": "Are lizard from animals that are diapsid?",
+    "description": "Semagram | category: animals | criterion: are diapsid | generated: lizard"
+  },
+  {
+    "content": "Are gourd from food that are gourd?",
+    "description": "Semagram | category: food | criterion: are gourd | generated: gourd"
+  },
+  {
+    "content": "Are bonnet from clothes that are woman's hat?",
+    "description": "Semagram | category: clothes | criterion: are woman's hat | generated: bonnet"
+  },
+  {
+    "content": "Are clutter from home that are impedimenta?",
+    "description": "Semagram | category: home | criterion: are impedimenta | generated: clutter"
+  },
+  {
+    "content": "Are bananas from food that are used by fruiterers?",
+    "description": "Semagram | category: food | criterion: are used by fruiterers | generated: bananas"
+  },
+  {
+    "content": "Are dog from animals that can be trot?",
+    "description": "Semagram | category: animals | criterion: can be trot | generated: dog"
+  },
+  {
+    "content": "Are dolman sweater from clothes that are dolman jacket?",
+    "description": "Semagram | category: clothes | criterion: are dolman jacket | generated: dolman sweater"
+  },
+  {
+    "content": "Are fuel efficiency from vehicles that can have low?",
+    "description": "Semagram | category: vehicles | criterion: can have low | generated: fuel efficiency"
+  },
+  {
+    "content": "Are subway from food that are sub?",
+    "description": "Semagram | category: food | criterion: are sub | generated: subway"
+  },
+  {
+    "content": "Are tie from tools that are connection?",
+    "description": "Semagram | category: tools | criterion: are connection | generated: tie"
+  },
+  {
+    "content": "Are onion from food that are chicken salad?",
+    "description": "Semagram | category: food | criterion: are chicken salad | generated: onion"
+  },
+  {
+    "content": "Are tipper truck from vehicles that are dumper?",
+    "description": "Semagram | category: vehicles | criterion: are dumper | generated: tipper truck"
+  },
+  {
+    "content": "Are broccoli from food that are green groceries?",
+    "description": "Semagram | category: food | criterion: are green groceries | generated: broccoli"
+  },
+  {
+    "content": "Are car from vehicles that can have stern?",
+    "description": "Semagram | category: vehicles | criterion: can have stern | generated: car"
+  },
+  {
+    "content": "Are jeep from vehicles that can have topside?",
+    "description": "Semagram | category: vehicles | criterion: can have topside | generated: jeep"
+  },
+  {
+    "content": "Are bat from animals that can be fly?",
+    "description": "Semagram | category: animals | criterion: can be fly | generated: bat"
+  },
+  {
+    "content": "Are refrigerator from appliance that can have handle?",
+    "description": "Semagram | category: appliance | criterion: can have handle | generated: refrigerator"
+  },
+  {
+    "content": "Are dishware from food that are related with dish?",
+    "description": "Semagram | category: food | criterion: are related with dish | generated: dishware"
+  },
+  {
+    "content": "Are balance from appliance that are used for experiment?",
+    "description": "Semagram | category: appliance | criterion: are used for experiment | generated: balance"
+  },
+  {
+    "content": "Are vinaigrette from food that are related with salad?",
+    "description": "Semagram | category: food | criterion: are related with salad | generated: vinaigrette"
+  },
+  {
+    "content": "Are blender from appliance that can have wire?",
+    "description": "Semagram | category: appliance | criterion: can have wire | generated: blender"
+  },
+  {
+    "content": "Are sea creature from animals that are Alaska king crab?",
+    "description": "Semagram | category: animals | criterion: are Alaska king crab | generated: sea creature"
+  },
+  {
+    "content": "Are Cayenne pepper from food that can smell spicy?",
+    "description": "Semagram | category: food | criterion: can smell spicy | generated: Cayenne pepper"
+  },
+  {
+    "content": "Are dress from clothes that are clothing?",
+    "description": "Semagram | category: clothes | criterion: are clothing | generated: dress"
+  },
+  {
+    "content": "Are shirt from clothes that are used by cowboys?",
+    "description": "Semagram | category: clothes | criterion: are used by cowboys | generated: shirt"
+  },
+  {
+    "content": "Are car from vehicles that can be found or used in parkings?",
+    "description": "Semagram | category: vehicles | criterion: can be found or used in parkings | generated: car"
+  },
+  {
+    "content": "Are macaroni from food that are durum wheat?",
+    "description": "Semagram | category: food | criterion: are durum wheat | generated: macaroni"
+  },
+  {
+    "content": "Are jewelry from artifacts that are material?",
+    "description": "Semagram | category: artifacts | criterion: are material | generated: jewelry"
+  },
+  {
+    "content": "Are polenta from food that can have sweet corn plant?",
+    "description": "Semagram | category: food | criterion: can have sweet corn plant | generated: polenta"
+  },
+  {
+    "content": "Are washing machine from appliance that can be found or used in rooms?",
+    "description": "Semagram | category: appliance | criterion: can be found or used in rooms | generated: washing machine"
+  },
+  {
+    "content": "Are plate from artifacts that are utensil?",
+    "description": "Semagram | category: artifacts | criterion: are utensil | generated: plate"
+  },
+  {
+    "content": "Are silverfish from animals that are thysanuran insect?",
+    "description": "Semagram | category: animals | criterion: are thysanuran insect | generated: silverfish"
+  },
+  {
+    "content": "Are cart from containers that contain groceries?",
+    "description": "Semagram | category: containers | criterion: contain groceries | generated: cart"
+  },
+  {
+    "content": "Are bass violin from instruments that are bass fiddle?",
+    "description": "Semagram | category: instruments | criterion: are bass fiddle | generated: bass violin"
+  },
+  {
+    "content": "Are knife from tools that can have shank?",
+    "description": "Semagram | category: tools | criterion: can have shank | generated: knife"
+  },
+  {
+    "content": "Are plate from food that can be consumed or used during meal?",
+    "description": "Semagram | category: food | criterion: can be consumed or used during meal | generated: plate"
+  },
+  {
+    "content": "Are truck from vehicles that can have coachwork?",
+    "description": "Semagram | category: vehicles | criterion: can have coachwork | generated: truck"
+  },
+  {
+    "content": "Are corn from food that can produce yield?",
+    "description": "Semagram | category: food | criterion: can produce yield | generated: corn"
+  },
+  {
+    "content": "Are honeybee_queen from animals that are humblebee?",
+    "description": "Semagram | category: animals | criterion: are humblebee | generated: honeybee_queen"
+  },
+  {
+    "content": "Are cornmeal from food that are hominy?",
+    "description": "Semagram | category: food | criterion: are hominy | generated: cornmeal"
+  },
+  {
+    "content": "Are airship from vehicles that are lighter-than-air craft?",
+    "description": "Semagram | category: vehicles | criterion: are lighter-than-air craft | generated: airship"
+  },
+  {
+    "content": "Are target from animals that are used by trainers?",
+    "description": "Semagram | category: animals | criterion: are used by trainers | generated: target"
+  },
+  {
+    "content": "Are rice from food that can be yellowish?",
+    "description": "Semagram | category: food | criterion: can be yellowish | generated: rice"
+  },
+  {
+    "content": "Are apartment from home that can have toilet bowl?",
+    "description": "Semagram | category: home | criterion: can have toilet bowl | generated: apartment"
+  },
+  {
+    "content": "Are aerial work platform from vehicles that are tower?",
+    "description": "Semagram | category: vehicles | criterion: are tower | generated: aerial work platform"
+  },
+  {
+    "content": "Are shorts from clothes that are used to run?",
+    "description": "Semagram | category: clothes | criterion: are used to run | generated: shorts"
+  },
+  {
+    "content": "Are crate from containers that can be brown?",
+    "description": "Semagram | category: containers | criterion: can be brown | generated: crate"
+  },
+  {
+    "content": "Are RV from vehicles that can have radio?",
+    "description": "Semagram | category: vehicles | criterion: can have radio | generated: RV"
+  },
+  {
+    "content": "Are beefburger sandwich from food that are beefburger?",
+    "description": "Semagram | category: food | criterion: are beefburger | generated: beefburger sandwich"
+  },
+  {
+    "content": "Are ruler from tools that are shape?",
+    "description": "Semagram | category: tools | criterion: are shape | generated: ruler"
+  },
+  {
+    "content": "Are trolleybus from vehicles that are trolley coach?",
+    "description": "Semagram | category: vehicles | criterion: are trolley coach | generated: trolleybus"
+  },
+  {
+    "content": "Are Swim caps from clothes that can be made of latex?",
+    "description": "Semagram | category: clothes | criterion: can be made of latex | generated: Swim caps"
+  },
+  {
+    "content": "Are Arabian from animals that are thoroughbred?",
+    "description": "Semagram | category: animals | criterion: are thoroughbred | generated: Arabian"
+  },
+  {
+    "content": "Are boots from clothes that can have spike?",
+    "description": "Semagram | category: clothes | criterion: can have spike | generated: boots"
+  },
+  {
+    "content": "Are dishwasher from appliance that are set?",
+    "description": "Semagram | category: appliance | criterion: are set | generated: dishwasher"
+  },
+  {
+    "content": "Are slug from containers that are mass unit?",
+    "description": "Semagram | category: containers | criterion: are mass unit | generated: slug"
+  },
+  {
+    "content": "Are olives from food that can be used for press?",
+    "description": "Semagram | category: food | criterion: can be used for press | generated: olives"
+  },
+  {
+    "content": "Are dress shirt from clothes that can have placket?",
+    "description": "Semagram | category: clothes | criterion: can have placket | generated: dress shirt"
+  },
+  {
+    "content": "Are tomato from food that are plant life?",
+    "description": "Semagram | category: food | criterion: are plant life | generated: tomato"
+  },
+  {
+    "content": "Are Arugula from food that are crucifer?",
+    "description": "Semagram | category: food | criterion: are crucifer | generated: Arugula"
+  },
+  {
+    "content": "Are trolley coach from vehicles that are trolley coach?",
+    "description": "Semagram | category: vehicles | criterion: are trolley coach | generated: trolley coach"
+  },
+  {
+    "content": "Are microwave from appliance that can have handle?",
+    "description": "Semagram | category: appliance | criterion: can have handle | generated: microwave"
+  },
+  {
+    "content": "Are fabric from containers that can be made of cotton?",
+    "description": "Semagram | category: containers | criterion: can be made of cotton | generated: fabric"
+  },
+  {
+    "content": "Are solder from tools that are fixing?",
+    "description": "Semagram | category: tools | criterion: are fixing | generated: solder"
+  },
+  {
+    "content": "Are rye bread from food that can have staff of life?",
+    "description": "Semagram | category: food | criterion: can have staff of life | generated: rye bread"
+  },
+  {
+    "content": "Are hazelnuts from food that are oil nut?",
+    "description": "Semagram | category: food | criterion: are oil nut | generated: hazelnuts"
+  },
+  {
+    "content": "Are fireplace from appliance that can have hearth?",
+    "description": "Semagram | category: appliance | criterion: can have hearth | generated: fireplace"
+  },
+  {
+    "content": "Are top from clothes that can be made of viscose?",
+    "description": "Semagram | category: clothes | criterion: can be made of viscose | generated: top"
+  },
+  {
+    "content": "Are bowl from food that are related with cereal?",
+    "description": "Semagram | category: food | criterion: are related with cereal | generated: bowl"
+  },
+  {
+    "content": "Are potatoes from food that can be used for stew?",
+    "description": "Semagram | category: food | criterion: can be used for stew | generated: potatoes"
+  },
+  {
+    "content": "Are bombers from vehicles that are used by squadrons?",
+    "description": "Semagram | category: vehicles | criterion: are used by squadrons | generated: bombers"
+  },
+  {
+    "content": "Are lager from food that are brew?",
+    "description": "Semagram | category: food | criterion: are brew | generated: lager"
+  },
+  {
+    "content": "Are Lizards from animals that are pleurodont?",
+    "description": "Semagram | category: animals | criterion: are pleurodont | generated: Lizards"
+  },
+  {
+    "content": "Are Yak from animals that are used for transport?",
+    "description": "Semagram | category: animals | criterion: are used for transport | generated: Yak"
+  },
+  {
+    "content": "Are canvas from artifacts that can be made of fibre?",
+    "description": "Semagram | category: artifacts | criterion: can be made of fibre | generated: canvas"
+  },
+  {
+    "content": "Are pirate ship from vehicles that are treasure ship?",
+    "description": "Semagram | category: vehicles | criterion: are treasure ship | generated: pirate ship"
+  },
+  {
+    "content": "Are pocket from clothes that can have gad?",
+    "description": "Semagram | category: clothes | criterion: can have gad | generated: pocket"
+  },
+  {
+    "content": "Are green pepper from food that are crab Louis?",
+    "description": "Semagram | category: food | criterion: are crab Louis | generated: green pepper"
+  },
+  {
+    "content": "Are trumpet from instruments that are instrument?",
+    "description": "Semagram | category: instruments | criterion: are instrument | generated: trumpet"
+  },
+  {
+    "content": "Are pajamas from clothes that are pyjama?",
+    "description": "Semagram | category: clothes | criterion: are pyjama | generated: pajamas"
+  },
+  {
+    "content": "Are tandem axle from vehicles that are tandem?",
+    "description": "Semagram | category: vehicles | criterion: are tandem | generated: tandem axle"
+  },
+  {
+    "content": "Are ants from animals that are grouped in swarm?",
+    "description": "Semagram | category: animals | criterion: are grouped in swarm | generated: ants"
+  },
+  {
+    "content": "Are truck from vehicles that can have crew?",
+    "description": "Semagram | category: vehicles | criterion: can have crew | generated: truck"
+  },
+  {
+    "content": "Are canal boat from vehicles that are narrow boat?",
+    "description": "Semagram | category: vehicles | criterion: are narrow boat | generated: canal boat"
+  },
+  {
+    "content": "Are milk from food that can have glucose?",
+    "description": "Semagram | category: food | criterion: can have glucose | generated: milk"
+  },
+  {
+    "content": "Are coyotes from animals that are Canis latrans?",
+    "description": "Semagram | category: animals | criterion: are Canis latrans | generated: coyotes"
+  },
+  {
+    "content": "Are container from home that are jar?",
+    "description": "Semagram | category: home | criterion: are jar | generated: container"
+  },
+  {
+    "content": "Are audio setup from artifacts that can have turntable?",
+    "description": "Semagram | category: artifacts | criterion: can have turntable | generated: audio setup"
+  },
+  {
+    "content": "Are finch from animals that are passerine?",
+    "description": "Semagram | category: animals | criterion: are passerine | generated: finch"
+  },
+  {
+    "content": "Are bathroom from home that can be found or used in departments?",
+    "description": "Semagram | category: home | criterion: can be found or used in departments | generated: bathroom"
+  },
+  {
+    "content": "Are anemometer from appliance that can be found or used in weather stations?",
+    "description": "Semagram | category: appliance | criterion: can be found or used in weather stations | generated: anemometer"
+  },
+  {
+    "content": "Are hat from clothes that can be circular?",
+    "description": "Semagram | category: clothes | criterion: can be circular | generated: hat"
+  },
+  {
+    "content": "Are Gas Stove from appliance that use gas?",
+    "description": "Semagram | category: appliance | criterion: use gas | generated: Gas Stove"
+  },
+  {
+    "content": "Are lioness from animals that can have head?",
+    "description": "Semagram | category: animals | criterion: can have head | generated: lioness"
+  },
+  {
+    "content": "Are blueberry smoothie from food that are bleu?",
+    "description": "Semagram | category: food | criterion: are bleu | generated: blueberry smoothie"
+  },
+  {
+    "content": "Are treasure ship from vehicles that are treasure ship?",
+    "description": "Semagram | category: vehicles | criterion: are treasure ship | generated: treasure ship"
+  },
+  {
+    "content": "Are cassava from food that are tuber?",
+    "description": "Semagram | category: food | criterion: are tuber | generated: cassava"
+  },
+  {
+    "content": "Are sauce from food that can be found or used in bottles?",
+    "description": "Semagram | category: food | criterion: can be found or used in bottles | generated: sauce"
+  },
+  {
+    "content": "Are pretzel twists from food that are pretzel?",
+    "description": "Semagram | category: food | criterion: are pretzel | generated: pretzel twists"
+  },
+  {
+    "content": "Are warehouse from containers that are used for storage?",
+    "description": "Semagram | category: containers | criterion: are used for storage | generated: warehouse"
+  },
+  {
+    "content": "Are Airbus A330 from vehicles that are twinjet?",
+    "description": "Semagram | category: vehicles | criterion: are twinjet | generated: Airbus A330"
+  },
+  {
+    "content": "Are bap from food that are bap?",
+    "description": "Semagram | category: food | criterion: are bap | generated: bap"
+  },
+  {
+    "content": "Are crostini from food that can have bread?",
+    "description": "Semagram | category: food | criterion: can have bread | generated: crostini"
+  },
+  {
+    "content": "Are banana bread from food that are quick bread?",
+    "description": "Semagram | category: food | criterion: are quick bread | generated: banana bread"
+  },
+  {
+    "content": "Are nuts from food that can be crunchy?",
+    "description": "Semagram | category: food | criterion: can be crunchy | generated: nuts"
+  },
+  {
+    "content": "Are piano keys from instruments that can be made of ivory?",
+    "description": "Semagram | category: instruments | criterion: can be made of ivory | generated: piano keys"
+  },
+  {
+    "content": "Are mice from animals that are used for research?",
+    "description": "Semagram | category: animals | criterion: are used for research | generated: mice"
+  },
+  {
+    "content": "Are spoon from home that are tableware?",
+    "description": "Semagram | category: home | criterion: are tableware | generated: spoon"
+  },
+  {
+    "content": "Are rock from animals that can be solid?",
+    "description": "Semagram | category: animals | criterion: can be solid | generated: rock"
+  },
+  {
+    "content": "Are peas from food that can produce soup?",
+    "description": "Semagram | category: food | criterion: can produce soup | generated: peas"
+  },
+  {
+    "content": "Are monitor from appliance that are computer peripheral?",
+    "description": "Semagram | category: appliance | criterion: are computer peripheral | generated: monitor"
+  },
+  {
+    "content": "Are dress from clothes that can have crown?",
+    "description": "Semagram | category: clothes | criterion: can have crown | generated: dress"
+  },
+  {
+    "content": "Are alate from animals that are wood ant?",
+    "description": "Semagram | category: animals | criterion: are wood ant | generated: alate"
+  },
+  {
+    "content": "Are steam wagon from vehicles that are steamer?",
+    "description": "Semagram | category: vehicles | criterion: are steamer | generated: steam wagon"
+  },
+  {
+    "content": "Are water from food that can be found or used in bottles?",
+    "description": "Semagram | category: food | criterion: can be found or used in bottles | generated: water"
+  },
+  {
+    "content": "Are cycling shoes from vehicles that are used by cyclists?",
+    "description": "Semagram | category: vehicles | criterion: are used by cyclists | generated: cycling shoes"
+  },
+  {
+    "content": "Are fireplace insert from appliance that use fire?",
+    "description": "Semagram | category: appliance | criterion: use fire | generated: fireplace insert"
+  },
+  {
+    "content": "Are naan from food that are naan?",
+    "description": "Semagram | category: food | criterion: are naan | generated: naan"
+  },
+  {
+    "content": "Are steam locomotive from vehicles that are steamer?",
+    "description": "Semagram | category: vehicles | criterion: are steamer | generated: steam locomotive"
+  },
+  {
+    "content": "Are glass from artifacts that can be fragile?",
+    "description": "Semagram | category: artifacts | criterion: can be fragile | generated: glass"
+  },
+  {
+    "content": "Are snake from animals that can have eye?",
+    "description": "Semagram | category: animals | criterion: can have eye | generated: snake"
+  },
+  {
+    "content": "Are Turtle from animals that are anapsid reptile?",
+    "description": "Semagram | category: animals | criterion: are anapsid reptile | generated: Turtle"
+  },
+  {
+    "content": "Are brigantine from vehicles that are shipwreck?",
+    "description": "Semagram | category: vehicles | criterion: are shipwreck | generated: brigantine"
+  },
+  {
+    "content": "Are jonboat from vehicles that are flatboat?",
+    "description": "Semagram | category: vehicles | criterion: are flatboat | generated: jonboat"
+  },
+  {
+    "content": "Are fish from animals that can have eye?",
+    "description": "Semagram | category: animals | criterion: can have eye | generated: fish"
+  },
+  {
+    "content": "Are knee jerk from instruments that can have or be used with knee?",
+    "description": "Semagram | category: instruments | criterion: can have or be used with knee | generated: knee jerk"
+  },
+  {
+    "content": "Are deer from animals that can be hunt?",
+    "description": "Semagram | category: animals | criterion: can be hunt | generated: deer"
+  },
+  {
+    "content": "Are cream from food that can be used for toast?",
+    "description": "Semagram | category: food | criterion: can be used for toast | generated: cream"
+  },
+  {
+    "content": "Are so it's likely you meant to ask for 10 types of boats.Here are 10 words related to the concept of \"boats\" in a JSON array format:```json[\"Sailboat from vehicles that are Mackinaw boat?",
+    "description": "Semagram | category: vehicles | criterion: are Mackinaw boat | generated: so it's likely you meant to ask for 10 types of boats.Here are 10 words related to the concept of \"boats\" in a JSON array format:```json[\"Sailboat"
+  },
+  {
+    "content": "Are sculpture from artifacts that are ornamentation?",
+    "description": "Semagram | category: artifacts | criterion: are ornamentation | generated: sculpture"
+  },
+  {
+    "content": "Are control panel from appliance that are remote station?",
+    "description": "Semagram | category: appliance | criterion: are remote station | generated: control panel"
+  },
+  {
+    "content": "Are ship from vehicles that are pirate ship?",
+    "description": "Semagram | category: vehicles | criterion: are pirate ship | generated: ship"
+  },
+  {
+    "content": "Are coins from artifacts that can be round?",
+    "description": "Semagram | category: artifacts | criterion: can be round | generated: coins"
+  },
+  {
+    "content": "Are harmonica from instruments that are used by buskers?",
+    "description": "Semagram | category: instruments | criterion: are used by buskers | generated: harmonica"
+  },
+  {
+    "content": "Are tuna from food that are salad nicoise?",
+    "description": "Semagram | category: food | criterion: are salad nicoise | generated: tuna"
+  },
+  {
+    "content": "Are Helicopter from vehicles that can have steering wheel?",
+    "description": "Semagram | category: vehicles | criterion: can have steering wheel | generated: Helicopter"
+  },
+  {
+    "content": "Are ceiling light from appliance that can have bulb?",
+    "description": "Semagram | category: appliance | criterion: can have bulb | generated: ceiling light"
+  },
+  {
+    "content": "Are skirt from clothes that are garb?",
+    "description": "Semagram | category: clothes | criterion: are garb | generated: skirt"
+  },
+  {
+    "content": "Are syrup from food that are fluid?",
+    "description": "Semagram | category: food | criterion: are fluid | generated: syrup"
+  },
+  {
+    "content": "Are sweater from clothes that can have dicky?",
+    "description": "Semagram | category: clothes | criterion: can have dicky | generated: sweater"
+  },
+  {
+    "content": "Are telephone from appliance that are used to speak?",
+    "description": "Semagram | category: appliance | criterion: are used to speak | generated: telephone"
+  },
+  {
+    "content": "Are motorcycle from vehicles that can be blue?",
+    "description": "Semagram | category: vehicles | criterion: can be blue | generated: motorcycle"
+  },
+  {
+    "content": "Are bat from artifacts that are used for sport?",
+    "description": "Semagram | category: artifacts | criterion: are used for sport | generated: bat"
+  },
+  {
+    "content": "Are clock from artifacts that can have bell?",
+    "description": "Semagram | category: artifacts | criterion: can have bell | generated: clock"
+  },
+  {
+    "content": "Are bus from vehicles that are used by drivers?",
+    "description": "Semagram | category: vehicles | criterion: are used by drivers | generated: bus"
+  },
+  {
+    "content": "Are Dog from animals that can be grey?",
+    "description": "Semagram | category: animals | criterion: can be grey | generated: Dog"
+  },
+  {
+    "content": "Are ground meat from food that are related with burger?",
+    "description": "Semagram | category: food | criterion: are related with burger | generated: ground meat"
+  },
+  {
+    "content": "Are brown bread from food that are Boston brown bread?",
+    "description": "Semagram | category: food | criterion: are Boston brown bread | generated: brown bread"
+  },
+  {
+    "content": "Are oyster from animals that are stayer?",
+    "description": "Semagram | category: animals | criterion: are stayer | generated: oyster"
+  },
+  {
+    "content": "Are steam engine from appliance that use coal?",
+    "description": "Semagram | category: appliance | criterion: use coal | generated: steam engine"
+  },
+  {
+    "content": "Are horse from animals that can be friendly?",
+    "description": "Semagram | category: animals | criterion: can be friendly | generated: horse"
+  },
+  {
+    "content": "Are milk from food that are milk?",
+    "description": "Semagram | category: food | criterion: are milk | generated: milk"
+  },
+  {
+    "content": "Are door handle from home that can be curved?",
+    "description": "Semagram | category: home | criterion: can be curved | generated: door handle"
+  },
+  {
+    "content": "Are bow from artifacts that are used for fight?",
+    "description": "Semagram | category: artifacts | criterion: are used for fight | generated: bow"
+  },
+  {
+    "content": "Are jewel from artifacts that can have pickup?",
+    "description": "Semagram | category: artifacts | criterion: can have pickup | generated: jewel"
+  },
+  {
+    "content": "Are carton from containers that are parcel?",
+    "description": "Semagram | category: containers | criterion: are parcel | generated: carton"
+  },
+  {
+    "content": "Are raccoon dog from animals that are omnivore?",
+    "description": "Semagram | category: animals | criterion: are omnivore | generated: raccoon dog"
+  },
+  {
+    "content": "Are vans from vehicles that can have anti-sway bar?",
+    "description": "Semagram | category: vehicles | criterion: can have anti-sway bar | generated: vans"
+  },
+  {
+    "content": "Are Tomato from food that can produce salad?",
+    "description": "Semagram | category: food | criterion: can produce salad | generated: Tomato"
+  },
+  {
+    "content": "Are bicycle from vehicles that are used for transit?",
+    "description": "Semagram | category: vehicles | criterion: are used for transit | generated: bicycle"
+  },
+  {
+    "content": "Are beach umbrella from artifacts that can have parasol?",
+    "description": "Semagram | category: artifacts | criterion: can have parasol | generated: beach umbrella"
+  },
+  {
+    "content": "Are third brake light from vehicles that can have third?",
+    "description": "Semagram | category: vehicles | criterion: can have third | generated: third brake light"
+  },
+  {
+    "content": "Are washroom from home that can have basin?",
+    "description": "Semagram | category: home | criterion: can have basin | generated: washroom"
+  },
+  {
+    "content": "Are ['jester', 'fool', 'dunce'] from clothes that are dunce's cap?",
+    "description": "Semagram | category: clothes | criterion: are dunce's cap | generated: ['jester', 'fool', 'dunce']"
+  },
+  {
+    "content": "Are Carrot from food that are vascular plant?",
+    "description": "Semagram | category: food | criterion: are vascular plant | generated: Carrot"
+  },
+  {
+    "content": "Are wasp from animals that can have stinger?",
+    "description": "Semagram | category: animals | criterion: can have stinger | generated: wasp"
+  },
+  {
+    "content": "Are Dungeness crab from animals that are Cancer magister?",
+    "description": "Semagram | category: animals | criterion: are Cancer magister | generated: Dungeness crab"
+  },
+  {
+    "content": "Are stroller from artifacts that can have parasol?",
+    "description": "Semagram | category: artifacts | criterion: can have parasol | generated: stroller"
+  },
+  {
+    "content": "Are helmets from artifacts that are used by riot polices?",
+    "description": "Semagram | category: artifacts | criterion: are used by riot polices | generated: helmets"
+  },
+  {
+    "content": "Are powderroom from home that can have commode?",
+    "description": "Semagram | category: home | criterion: can have commode | generated: powderroom"
+  },
+  {
+    "content": "Are vehicle from vehicles that can have buffer?",
+    "description": "Semagram | category: vehicles | criterion: can have buffer | generated: vehicle"
+  },
+  {
+    "content": "Are Eagle from animals that are raptorial bird?",
+    "description": "Semagram | category: animals | criterion: are raptorial bird | generated: Eagle"
+  },
+  {
+    "content": "Are flute from instruments that can have reed?",
+    "description": "Semagram | category: instruments | criterion: can have reed | generated: flute"
+  },
+  {
+    "content": "Are ATV from vehicles that are scrambler?",
+    "description": "Semagram | category: vehicles | criterion: are scrambler | generated: ATV"
+  },
+  {
+    "content": "Are incubator from appliance that are used for experiment?",
+    "description": "Semagram | category: appliance | criterion: are used for experiment | generated: incubator"
+  },
+  {
+    "content": "Are piano from instruments that can have fall-board?",
+    "description": "Semagram | category: instruments | criterion: can have fall-board | generated: piano"
+  },
+  {
+    "content": "Are trail from animals that are army ant?",
+    "description": "Semagram | category: animals | criterion: are army ant | generated: trail"
+  },
+  {
+    "content": "Are citrus from food that can be used for press?",
+    "description": "Semagram | category: food | criterion: can be used for press | generated: citrus"
+  },
+  {
+    "content": "Are bassoon from instruments that can have reed?",
+    "description": "Semagram | category: instruments | criterion: can have reed | generated: bassoon"
+  },
+  {
+    "content": "Are faucet from home that can be shiny?",
+    "description": "Semagram | category: home | criterion: can be shiny | generated: faucet"
+  },
+  {
+    "content": "Are orange peel from food that can be orange?",
+    "description": "Semagram | category: food | criterion: can be orange | generated: orange peel"
+  },
+  {
+    "content": "Are lumberjack from clothes that are lumber jacket?",
+    "description": "Semagram | category: clothes | criterion: are lumber jacket | generated: lumberjack"
+  },
+  {
+    "content": "Are cow from animals that can be spotted?",
+    "description": "Semagram | category: animals | criterion: can be spotted | generated: cow"
+  },
+  {
+    "content": "Are lamp from appliance that can be made of glass?",
+    "description": "Semagram | category: appliance | criterion: can be made of glass | generated: lamp"
+  },
+  {
+    "content": "Are vulture from animals that are scavenger?",
+    "description": "Semagram | category: animals | criterion: are scavenger | generated: vulture"
+  },
+  {
+    "content": "Are electric wheelchair from vehicles that sound silent?",
+    "description": "Semagram | category: vehicles | criterion: sound silent | generated: electric wheelchair"
+  },
+  {
+    "content": "Are punt from vehicles that are flatboat?",
+    "description": "Semagram | category: vehicles | criterion: are flatboat | generated: punt"
+  },
+  {
+    "content": "Are bicycle from vehicles that are used by cyclists?",
+    "description": "Semagram | category: vehicles | criterion: are used by cyclists | generated: bicycle"
+  },
+  {
+    "content": "Are ounce from containers that are unit of measurement?",
+    "description": "Semagram | category: containers | criterion: are unit of measurement | generated: ounce"
+  },
+  {
+    "content": "Are the from home that are article?",
+    "description": "Semagram | category: home | criterion: are article | generated: the"
+  },
+  {
+    "content": "Are bus from vehicles that can have horn?",
+    "description": "Semagram | category: vehicles | criterion: can have horn | generated: bus"
+  },
+  {
+    "content": "Are Truck from vehicles that are artefact?",
+    "description": "Semagram | category: vehicles | criterion: are artefact | generated: Truck"
+  },
+  {
+    "content": "Are goalkeeper shorts from clothes that are used by goalkeepers?",
+    "description": "Semagram | category: clothes | criterion: are used by goalkeepers | generated: goalkeeper shorts"
+  },
+  {
+    "content": "Are slippers from clothes that can have toe box?",
+    "description": "Semagram | category: clothes | criterion: can have toe box | generated: slippers"
+  },
+  {
+    "content": "Are small white from animals that are pierid?",
+    "description": "Semagram | category: animals | criterion: are pierid | generated: small white"
+  },
+  {
+    "content": "Are It seems like you're asking for a list of English words that are \"kalsanuwa\" - which I assume is meant to be \"Hawaiian\" (the word you're looking for).  However from clothes that are kalansuwa?",
+    "description": "Semagram | category: clothes | criterion: are kalansuwa | generated: It seems like you're asking for a list of English words that are \"kalsanuwa\" - which I assume is meant to be \"Hawaiian\" (the word you're looking for).  However"
+  },
+  {
+    "content": "Are Eurylophella from animals that are ephemeropteran?",
+    "description": "Semagram | category: animals | criterion: are ephemeropteran | generated: Eurylophella"
+  },
+  {
+    "content": "Are syrup from food that are fluid?",
+    "description": "Semagram | category: food | criterion: are fluid | generated: syrup"
+  },
+  {
+    "content": "Are Skeeter from vehicles that are iceboat?",
+    "description": "Semagram | category: vehicles | criterion: are iceboat | generated: Skeeter"
+  },
+  {
+    "content": "Are dog from animals that are Golden Retriever?",
+    "description": "Semagram | category: animals | criterion: are Golden Retriever | generated: dog"
+  },
+  {
+    "content": "Are motorized scooter from vehicles that are scooter?",
+    "description": "Semagram | category: vehicles | criterion: are scooter | generated: motorized scooter"
+  },
+  {
+    "content": "Are knit beanie from clothes that are watch cap?",
+    "description": "Semagram | category: clothes | criterion: are watch cap | generated: knit beanie"
+  },
+  {
+    "content": "Are jet fighter from vehicles that are jet?",
+    "description": "Semagram | category: vehicles | criterion: are jet | generated: jet fighter"
+  },
+  {
+    "content": "Are decanter from containers that contain wines?",
+    "description": "Semagram | category: containers | criterion: contain wines | generated: decanter"
+  },
+  {
+    "content": "Are guitar from instruments that are used for practice?",
+    "description": "Semagram | category: instruments | criterion: are used for practice | generated: guitar"
+  },
+  {
+    "content": "Are Stetson from clothes that are straw hat?",
+    "description": "Semagram | category: clothes | criterion: are straw hat | generated: Stetson"
+  },
+  {
+    "content": "Are Duduk from instruments that are double-reed instrument?",
+    "description": "Semagram | category: instruments | criterion: are double-reed instrument | generated: Duduk"
+  },
+  {
+    "content": "Are boat from artifacts that can have rib?",
+    "description": "Semagram | category: artifacts | criterion: can have rib | generated: boat"
+  },
+  {
+    "content": "Are possessions from home that are impedimenta?",
+    "description": "Semagram | category: home | criterion: are impedimenta | generated: possessions"
+  },
+  {
+    "content": "Are gramophone from artifacts that can have turntable?",
+    "description": "Semagram | category: artifacts | criterion: can have turntable | generated: gramophone"
+  },
+  {
+    "content": "Are car from vehicles that are hydroplane?",
+    "description": "Semagram | category: vehicles | criterion: are hydroplane | generated: car"
+  },
+  {
+    "content": "Are apples from food that can be found or used in shops?",
+    "description": "Semagram | category: food | criterion: can be found or used in shops | generated: apples"
+  },
+  {
+    "content": "Are ornament from artifacts that are ornamentation?",
+    "description": "Semagram | category: artifacts | criterion: are ornamentation | generated: ornament"
+  },
+  {
+    "content": "Are limousines from vehicles that can be elongated?",
+    "description": "Semagram | category: vehicles | criterion: can be elongated | generated: limousines"
+  },
+  {
+    "content": "Are worm from animals that can crawl?",
+    "description": "Semagram | category: animals | criterion: can crawl | generated: worm"
+  },
+  {
+    "content": "Are fabric from artifacts that can be fragile?",
+    "description": "Semagram | category: artifacts | criterion: can be fragile | generated: fabric"
+  },
+  {
+    "content": "Are statue from artifacts that can be rond?",
+    "description": "Semagram | category: artifacts | criterion: can be rond | generated: statue"
+  },
+  {
+    "content": "Are Earliglow from food that are cultivated strawberry?",
+    "description": "Semagram | category: food | criterion: are cultivated strawberry | generated: Earliglow"
+  },
+  {
+    "content": "Are kayak from vehicles that are used for sport?",
+    "description": "Semagram | category: vehicles | criterion: are used for sport | generated: kayak"
+  },
+  {
+    "content": "Are bat from animals that are active during summer?",
+    "description": "Semagram | category: animals | criterion: are active during summer | generated: bat"
+  },
+  {
+    "content": "Are Painted Lady from animals that are nymphalid butterfly?",
+    "description": "Semagram | category: animals | criterion: are nymphalid butterfly | generated: Painted Lady"
+  },
+  {
+    "content": "Are jewelry from artifacts that are stuff?",
+    "description": "Semagram | category: artifacts | criterion: are stuff | generated: jewelry"
+  },
+  {
+    "content": "Are ship from vehicles that are container?",
+    "description": "Semagram | category: vehicles | criterion: are container | generated: ship"
+  },
+  {
+    "content": "Are piano from instruments that can have soft pedal?",
+    "description": "Semagram | category: instruments | criterion: can have soft pedal | generated: piano"
+  },
+  {
+    "content": "Are boat from vehicles that can have railing?",
+    "description": "Semagram | category: vehicles | criterion: can have railing | generated: boat"
+  },
+  {
+    "content": "Are carpenter from animals that are carpenter bee?",
+    "description": "Semagram | category: animals | criterion: are carpenter bee | generated: carpenter"
+  },
+  {
+    "content": "Are wreck from vehicles that are shipwreck?",
+    "description": "Semagram | category: vehicles | criterion: are shipwreck | generated: wreck"
+  },
+  {
+    "content": "Are jeans from clothes that are trews?",
+    "description": "Semagram | category: clothes | criterion: are trews | generated: jeans"
+  },
+  {
+    "content": "Are blazer from clothes that are blazer?",
+    "description": "Semagram | category: clothes | criterion: are blazer | generated: blazer"
+  },
+  {
+    "content": "Are rooster from animals that are male?",
+    "description": "Semagram | category: animals | criterion: are male | generated: rooster"
+  },
+  {
+    "content": "Are penguin from animals that can be cute?",
+    "description": "Semagram | category: animals | criterion: can be cute | generated: penguin"
+  },
+  {
+    "content": "Are guitar from instruments that can have strap?",
+    "description": "Semagram | category: instruments | criterion: can have strap | generated: guitar"
+  },
+  {
+    "content": "Are sail from tools that can be triangular?",
+    "description": "Semagram | category: tools | criterion: can be triangular | generated: sail"
+  },
+  {
+    "content": "Are domestic cat from animals that are Felis domesticus?",
+    "description": "Semagram | category: animals | criterion: are Felis domesticus | generated: domestic cat"
+  },
+  {
+    "content": "Are hat from artifacts that are accessory?",
+    "description": "Semagram | category: artifacts | criterion: are accessory | generated: hat"
+  },
+  {
+    "content": "Are jacket from clothes that can have upper?",
+    "description": "Semagram | category: clothes | criterion: can have upper | generated: jacket"
+  },
+  {
+    "content": "Are sea urchin from animals that can be circular?",
+    "description": "Semagram | category: animals | criterion: can be circular | generated: sea urchin"
+  },
+  {
+    "content": "Are screen from appliance that are used for presentation?",
+    "description": "Semagram | category: appliance | criterion: are used for presentation | generated: screen"
+  },
+  {
+    "content": "Are daddy longlegs from animals that are thysanuran insect?",
+    "description": "Semagram | category: animals | criterion: are thysanuran insect | generated: daddy longlegs"
+  },
+  {
+    "content": "Are towel from home that can be found or used in bathrooms?",
+    "description": "Semagram | category: home | criterion: can be found or used in bathrooms | generated: towel"
+  },
+  {
+    "content": "Are shortcake from food that are beach strawberry?",
+    "description": "Semagram | category: food | criterion: are beach strawberry | generated: shortcake"
+  },
+  {
+    "content": "Are bacon cheeseburger from food that are beefburger?",
+    "description": "Semagram | category: food | criterion: are beefburger | generated: bacon cheeseburger"
+  },
+  {
+    "content": "Are vase from artifacts that are ornamentation?",
+    "description": "Semagram | category: artifacts | criterion: are ornamentation | generated: vase"
+  },
+  {
+    "content": "Are rod iron from tools that are related with rod?",
+    "description": "Semagram | category: tools | criterion: are related with rod | generated: rod iron"
+  },
+  {
+    "content": "Are animal trainer from animals that are related with handler?",
+    "description": "Semagram | category: animals | criterion: are related with handler | generated: animal trainer"
+  },
+  {
+    "content": "Are turnip from food that can have root?",
+    "description": "Semagram | category: food | criterion: can have root | generated: turnip"
+  },
+  {
+    "content": "Are van from vehicles that are used for rental?",
+    "description": "Semagram | category: vehicles | criterion: are used for rental | generated: van"
+  },
+  {
+    "content": "Are spork from tools that are cutlery?",
+    "description": "Semagram | category: tools | criterion: are cutlery | generated: spork"
+  },
+  {
+    "content": "Are cow from animals that can have collar?",
+    "description": "Semagram | category: animals | criterion: can have collar | generated: cow"
+  },
+  {
+    "content": "Are ships from vehicles that contain goodss?",
+    "description": "Semagram | category: vehicles | criterion: contain goodss | generated: ships"
+  },
+  {
+    "content": "Are cutter from vehicles that are gunboat?",
+    "description": "Semagram | category: vehicles | criterion: are gunboat | generated: cutter"
+  },
+  {
+    "content": "Are kimchi from food that can be sour?",
+    "description": "Semagram | category: food | criterion: can be sour | generated: kimchi"
+  },
+  {
+    "content": "Are pajamas from clothes that are banian?",
+    "description": "Semagram | category: clothes | criterion: are banian | generated: pajamas"
+  },
+  {
+    "content": "Are coat from clothes that are biggin?",
+    "description": "Semagram | category: clothes | criterion: are biggin | generated: coat"
+  },
+  {
+    "content": "Are sandals from clothes that can have toe box?",
+    "description": "Semagram | category: clothes | criterion: can have toe box | generated: sandals"
+  },
+  {
+    "content": "Are pottery from artifacts that are stuff?",
+    "description": "Semagram | category: artifacts | criterion: are stuff | generated: pottery"
+  },
+  {
+    "content": "Are Pinot Grigio from food that are table wine?",
+    "description": "Semagram | category: food | criterion: are table wine | generated: Pinot Grigio"
+  },
+  {
+    "content": "Are scissors from tools that can have edge?",
+    "description": "Semagram | category: tools | criterion: can have edge | generated: scissors"
+  },
+  {
+    "content": "Are spinach from food that can be found or used in salads?",
+    "description": "Semagram | category: food | criterion: can be found or used in salads | generated: spinach"
+  },
+  {
+    "content": "Are yam from food that can have jacket?",
+    "description": "Semagram | category: food | criterion: can have jacket | generated: yam"
+  },
+  {
+    "content": "Are dinghy from vehicles that can have keel?",
+    "description": "Semagram | category: vehicles | criterion: can have keel | generated: dinghy"
+  },
+  {
+    "content": "Are electric bike from vehicles that can have battery?",
+    "description": "Semagram | category: vehicles | criterion: can have battery | generated: electric bike"
+  },
+  {
+    "content": "Are slacks from clothes that can have trouser leg?",
+    "description": "Semagram | category: clothes | criterion: can have trouser leg | generated: slacks"
+  },
+  {
+    "content": "Are bird from animals that can have nail?",
+    "description": "Semagram | category: animals | criterion: can have nail | generated: bird"
+  },
+  {
+    "content": "Are ball gown skirt from clothes that are full skirt?",
+    "description": "Semagram | category: clothes | criterion: are full skirt | generated: ball gown skirt"
+  },
+  {
+    "content": "Are Tender from vehicles that are used by cruises?",
+    "description": "Semagram | category: vehicles | criterion: are used by cruises | generated: Tender"
+  },
+  {
+    "content": "Are necklace from artifacts that can have pendant?",
+    "description": "Semagram | category: artifacts | criterion: can have pendant | generated: necklace"
+  },
+  {
+    "content": "Are spoon from tools that are kitchen utensil?",
+    "description": "Semagram | category: tools | criterion: are kitchen utensil | generated: spoon"
+  },
+  {
+    "content": "Are honeydew from food that are melon?",
+    "description": "Semagram | category: food | criterion: are melon | generated: honeydew"
+  },
+  {
+    "content": "Are egg rolls from food that can have cabbage?",
+    "description": "Semagram | category: food | criterion: can have cabbage | generated: egg rolls"
+  },
+  {
+    "content": "Are Robin from animals that can be sing?",
+    "description": "Semagram | category: animals | criterion: can be sing | generated: Robin"
+  },
+  {
+    "content": "Are microphone from appliance that are computer peripheral?",
+    "description": "Semagram | category: appliance | criterion: are computer peripheral | generated: microphone"
+  },
+  {
+    "content": "Are Eastern Tiger Swallowtail from animals that are brush-footed butterfly?",
+    "description": "Semagram | category: animals | criterion: are brush-footed butterfly | generated: Eastern Tiger Swallowtail"
+  },
+  {
+    "content": "Are socks from clothes that can have upper?",
+    "description": "Semagram | category: clothes | criterion: can have upper | generated: socks"
+  },
+  {
+    "content": "Are sauce from food that are fluid?",
+    "description": "Semagram | category: food | criterion: are fluid | generated: sauce"
+  },
+  {
+    "content": "Are door from tools that are related with knob?",
+    "description": "Semagram | category: tools | criterion: are related with knob | generated: door"
+  },
+  {
+    "content": "Are kayak from vehicles that are narrow boat?",
+    "description": "Semagram | category: vehicles | criterion: are narrow boat | generated: kayak"
+  },
+  {
+    "content": "Are harpsichord from instruments that can have key?",
+    "description": "Semagram | category: instruments | criterion: can have key | generated: harpsichord"
+  },
+  {
+    "content": "Are seating from home that can be found or used in venues?",
+    "description": "Semagram | category: home | criterion: can be found or used in venues | generated: seating"
+  },
+  {
+    "content": "Are french dip from food that can be used for dip?",
+    "description": "Semagram | category: food | criterion: can be used for dip | generated: french dip"
+  },
+  {
+    "content": "Are tomatoes from food that are tossed salad?",
+    "description": "Semagram | category: food | criterion: are tossed salad | generated: tomatoes"
+  },
+  {
+    "content": "Are sprayer from appliance that can have sprayer?",
+    "description": "Semagram | category: appliance | criterion: can have sprayer | generated: sprayer"
+  },
+  {
+    "content": "Are lock from artifacts that can have key?",
+    "description": "Semagram | category: artifacts | criterion: can have key | generated: lock"
+  },
+  {
+    "content": "Are turtle from animals that can swim?",
+    "description": "Semagram | category: animals | criterion: can swim | generated: turtle"
+  },
+  {
+    "content": "Are carpet from clothes that can be made of polyester?",
+    "description": "Semagram | category: clothes | criterion: can be made of polyester | generated: carpet"
+  },
+  {
+    "content": "Are cake from food that can be soft?",
+    "description": "Semagram | category: food | criterion: can be soft | generated: cake"
+  },
+  {
+    "content": "Are fireplace mantel from appliance that can have hearth?",
+    "description": "Semagram | category: appliance | criterion: can have hearth | generated: fireplace mantel"
+  },
+  {
+    "content": "Are milky from food that are milk?",
+    "description": "Semagram | category: food | criterion: are milk | generated: milky"
+  },
+  {
+    "content": "Are bobby-soxer from clothes that are bobbysocks?",
+    "description": "Semagram | category: clothes | criterion: are bobbysocks | generated: bobby-soxer"
+  },
+  {
+    "content": "Are mint from food that are herbaceous plant?",
+    "description": "Semagram | category: food | criterion: are herbaceous plant | generated: mint"
+  },
+  {
+    "content": "Are piano from instruments that can be made of ebony?",
+    "description": "Semagram | category: instruments | criterion: can be made of ebony | generated: piano"
+  },
+  {
+    "content": "Are double bass from instruments that are contrabass?",
+    "description": "Semagram | category: instruments | criterion: are contrabass | generated: double bass"
+  },
+  {
+    "content": "Are Eagle from animals that are raptorial bird?",
+    "description": "Semagram | category: animals | criterion: are raptorial bird | generated: Eagle"
+  },
+  {
+    "content": "Are buckler from artifacts that are armor plating?",
+    "description": "Semagram | category: artifacts | criterion: are armor plating | generated: buckler"
+  },
+  {
+    "content": "Are dog from animals that can have nail?",
+    "description": "Semagram | category: animals | criterion: can have nail | generated: dog"
+  },
+  {
+    "content": "Are dress from clothes that can be rectangular?",
+    "description": "Semagram | category: clothes | criterion: can be rectangular | generated: dress"
+  },
+  {
+    "content": "Are aircraft from vehicles that can have radar dome?",
+    "description": "Semagram | category: vehicles | criterion: can have radar dome | generated: aircraft"
+  },
+  {
+    "content": "Are staple gun from tools that are related with staple?",
+    "description": "Semagram | category: tools | criterion: are related with staple | generated: staple gun"
+  },
+  {
+    "content": "Are sprayer nozzle from appliance that can have sprayer?",
+    "description": "Semagram | category: appliance | criterion: can have sprayer | generated: sprayer nozzle"
+  },
+  {
+    "content": "Are bus from vehicles that can have car door?",
+    "description": "Semagram | category: vehicles | criterion: can have car door | generated: bus"
+  },
+  {
+    "content": "Are airplane from vehicles that can be white?",
+    "description": "Semagram | category: vehicles | criterion: can be white | generated: airplane"
+  },
+  {
+    "content": "Are vegetables from food that are nourishment?",
+    "description": "Semagram | category: food | criterion: are nourishment | generated: vegetables"
+  },
+  {
+    "content": "Are flute from instruments that can be cylindrical?",
+    "description": "Semagram | category: instruments | criterion: can be cylindrical | generated: flute"
+  },
+  {
+    "content": "Are olive oil from food that are olive?",
+    "description": "Semagram | category: food | criterion: are olive | generated: olive oil"
+  },
+  {
+    "content": "Are cabin from home that are construction?",
+    "description": "Semagram | category: home | criterion: are construction | generated: cabin"
+  },
+  {
+    "content": "Are wine from food that are alcohol?",
+    "description": "Semagram | category: food | criterion: are alcohol | generated: wine"
+  },
+  {
+    "content": "Are logging trucks from vehicles that can have log?",
+    "description": "Semagram | category: vehicles | criterion: can have log | generated: logging trucks"
+  },
+  {
+    "content": "Are vinaigrettes from food that are related with salad?",
+    "description": "Semagram | category: food | criterion: are related with salad | generated: vinaigrettes"
+  },
+  {
+    "content": "Are troopship from vehicles that are troopship?",
+    "description": "Semagram | category: vehicles | criterion: are troopship | generated: troopship"
+  },
+  {
+    "content": "Are zebra from animals that can be striped?",
+    "description": "Semagram | category: animals | criterion: can be striped | generated: zebra"
+  },
+  {
+    "content": "Are cage from artifacts that can have rib?",
+    "description": "Semagram | category: artifacts | criterion: can have rib | generated: cage"
+  },
+  {
+    "content": "Are knowledge from instruments that can be used for expand?",
+    "description": "Semagram | category: instruments | criterion: can be used for expand | generated: knowledge"
+  },
+  {
+    "content": "Are podium from appliance that are used for presentation?",
+    "description": "Semagram | category: appliance | criterion: are used for presentation | generated: podium"
+  },
+  {
+    "content": "Are American Snout from animals that are brush-footed butterfly?",
+    "description": "Semagram | category: animals | criterion: are brush-footed butterfly | generated: American Snout"
+  },
+  {
+    "content": "Are rye loaf from food that are loaf of bread?",
+    "description": "Semagram | category: food | criterion: are loaf of bread | generated: rye loaf"
+  },
+  {
+    "content": "Are pasta flour from food that are durum wheat?",
+    "description": "Semagram | category: food | criterion: are durum wheat | generated: pasta flour"
+  },
+  {
+    "content": "Are fuel pressure from vehicles that can have low?",
+    "description": "Semagram | category: vehicles | criterion: can have low | generated: fuel pressure"
+  },
+  {
+    "content": "Are ferry from vehicles that can have stern?",
+    "description": "Semagram | category: vehicles | criterion: can have stern | generated: ferry"
+  },
+  {
+    "content": "Are morpho from animals that are ringlet butterfly?",
+    "description": "Semagram | category: animals | criterion: are ringlet butterfly | generated: morpho"
+  },
+  {
+    "content": "Are potato sticks from food that are french-fried potatoes?",
+    "description": "Semagram | category: food | criterion: are french-fried potatoes | generated: potato sticks"
+  },
+  {
+    "content": "Are crab legs from animals that are Alaska king crab?",
+    "description": "Semagram | category: animals | criterion: are Alaska king crab | generated: crab legs"
+  },
+  {
+    "content": "Are ruler from artifacts that are scale?",
+    "description": "Semagram | category: artifacts | criterion: are scale | generated: ruler"
+  },
+  {
+    "content": "Are sneakers from clothes that are footgear?",
+    "description": "Semagram | category: clothes | criterion: are footgear | generated: sneakers"
+  },
+  {
+    "content": "Are wings from food that are bomber?",
+    "description": "Semagram | category: food | criterion: are bomber | generated: wings"
+  },
+  {
+    "content": "Are conestoga from vehicles that are chuck wagon?",
+    "description": "Semagram | category: vehicles | criterion: are chuck wagon | generated: conestoga"
+  },
+  {
+    "content": "Are Ox from animals that are used for transport?",
+    "description": "Semagram | category: animals | criterion: are used for transport | generated: Ox"
+  },
+  {
+    "content": "Are cooler from containers that contain groceries?",
+    "description": "Semagram | category: containers | criterion: contain groceries | generated: cooler"
+  },
+  {
+    "content": "Are cuppa joe from food that are cuppa?",
+    "description": "Semagram | category: food | criterion: are cuppa | generated: cuppa joe"
+  },
+  {
+    "content": "Are headband from artifacts that are headgear?",
+    "description": "Semagram | category: artifacts | criterion: are headgear | generated: headband"
+  },
+  {
+    "content": "Are barrier from tools that are obstructer?",
+    "description": "Semagram | category: tools | criterion: are obstructer | generated: barrier"
+  },
+  {
+    "content": "Are yacht from vehicles that can float?",
+    "description": "Semagram | category: vehicles | criterion: can float | generated: yacht"
+  },
+  {
+    "content": "Are ramp from tools that are inclined plane?",
+    "description": "Semagram | category: tools | criterion: are inclined plane | generated: ramp"
+  },
+  {
+    "content": "Are glove from artifacts that are used for sport?",
+    "description": "Semagram | category: artifacts | criterion: are used for sport | generated: glove"
+  },
+  {
+    "content": "Are red fox from animals that can be red?",
+    "description": "Semagram | category: animals | criterion: can be red | generated: red fox"
+  },
+  {
+    "content": "Are airplane from vehicles that can have cargo hold?",
+    "description": "Semagram | category: vehicles | criterion: can have cargo hold | generated: airplane"
+  },
+  {
+    "content": "Are Alpine strawberry from food that are Fragaria vesca?",
+    "description": "Semagram | category: food | criterion: are Fragaria vesca | generated: Alpine strawberry"
+  },
+  {
+    "content": "Are sculpture from artifacts that are ornamentation?",
+    "description": "Semagram | category: artifacts | criterion: are ornamentation | generated: sculpture"
+  },
+  {
+    "content": "Are toaster from appliance that can be black?",
+    "description": "Semagram | category: appliance | criterion: can be black | generated: toaster"
+  },
+  {
+    "content": "Are bird from animals that are dicky-bird?",
+    "description": "Semagram | category: animals | criterion: are dicky-bird | generated: bird"
+  },
+  {
+    "content": "Are soda crackers from food that are cracker?",
+    "description": "Semagram | category: food | criterion: are cracker | generated: soda crackers"
+  },
+  {
+    "content": "Are trumpet from instruments that are used for practice?",
+    "description": "Semagram | category: instruments | criterion: are used for practice | generated: trumpet"
+  },
+  {
+    "content": "Are Mozzarella from food that are process cheese?",
+    "description": "Semagram | category: food | criterion: are process cheese | generated: Mozzarella"
+  },
+  {
+    "content": "Are lamb from food that can be used for spiced?",
+    "description": "Semagram | category: food | criterion: can be used for spiced | generated: lamb"
+  },
+  {
+    "content": "Are car from vehicles that can have dashboard?",
+    "description": "Semagram | category: vehicles | criterion: can have dashboard | generated: car"
+  },
+  {
+    "content": "Are cap from clothes that can have crown?",
+    "description": "Semagram | category: clothes | criterion: can have crown | generated: cap"
+  },
+  {
+    "content": "Are boat from vehicles that can have keel?",
+    "description": "Semagram | category: vehicles | criterion: can have keel | generated: boat"
+  },
+  {
+    "content": "Are jukebox from artifacts that can have record changer?",
+    "description": "Semagram | category: artifacts | criterion: can have record changer | generated: jukebox"
+  },
+  {
+    "content": "Are arrowroot from food that are tuber?",
+    "description": "Semagram | category: food | criterion: are tuber | generated: arrowroot"
+  },
+  {
+    "content": "Are steam shovel from appliance that use coal?",
+    "description": "Semagram | category: appliance | criterion: use coal | generated: steam shovel"
+  },
+  {
+    "content": "Are apple from food that are pyxidium?",
+    "description": "Semagram | category: food | criterion: are pyxidium | generated: apple"
+  },
+  {
+    "content": "Are car from vehicles that can be white?",
+    "description": "Semagram | category: vehicles | criterion: can be white | generated: car"
+  },
+  {
+    "content": "Are bicycle from vehicles that can be aerodynamic?",
+    "description": "Semagram | category: vehicles | criterion: can be aerodynamic | generated: bicycle"
+  },
+  {
+    "content": "Are iceboat from vehicles that are iceboat?",
+    "description": "Semagram | category: vehicles | criterion: are iceboat | generated: iceboat"
+  },
+  {
+    "content": "Are flute from instruments that can be white?",
+    "description": "Semagram | category: instruments | criterion: can be white | generated: flute"
+  },
+  {
+    "content": "Are spur from clothes that are used by cowboys?",
+    "description": "Semagram | category: clothes | criterion: are used by cowboys | generated: spur"
+  },
+  {
+    "content": "Are large white from animals that are pierid?",
+    "description": "Semagram | category: animals | criterion: are pierid | generated: large white"
+  },
+  {
+    "content": "Are elephant from animals that are eutherian mammal?",
+    "description": "Semagram | category: animals | criterion: are eutherian mammal | generated: elephant"
+  },
+  {
+    "content": "Are flute from instruments that sound acute?",
+    "description": "Semagram | category: instruments | criterion: sound acute | generated: flute"
+  },
+  {
+    "content": "Are air shuttle from vehicles that are shuttle helicopter?",
+    "description": "Semagram | category: vehicles | criterion: are shuttle helicopter | generated: air shuttle"
+  },
+  {
+    "content": "Are jewelry from artifacts that can have carriage?",
+    "description": "Semagram | category: artifacts | criterion: can have carriage | generated: jewelry"
+  },
+  {
+    "content": "Are mug from containers that can be made of ceramic?",
+    "description": "Semagram | category: containers | criterion: can be made of ceramic | generated: mug"
+  },
+  {
+    "content": "Are bread roll from food that are roll?",
+    "description": "Semagram | category: food | criterion: are roll | generated: bread roll"
+  },
+  {
+    "content": "Are toaster oven from appliance that can have wire?",
+    "description": "Semagram | category: appliance | criterion: can have wire | generated: toaster oven"
+  },
+  {
+    "content": "Are pudding from food that can be dessert?",
+    "description": "Semagram | category: food | criterion: can be dessert | generated: pudding"
+  },
+  {
+    "content": "Are cabinets from home that are container?",
+    "description": "Semagram | category: home | criterion: are container | generated: cabinets"
+  },
+  {
+    "content": "Are work boots from clothes that are used for work?",
+    "description": "Semagram | category: clothes | criterion: are used for work | generated: work boots"
+  },
+  {
+    "content": "Are springtails from animals that are collembolan?",
+    "description": "Semagram | category: animals | criterion: are collembolan | generated: springtails"
+  },
+  {
+    "content": "Are bedrobe from clothes that are bed jacket?",
+    "description": "Semagram | category: clothes | criterion: are bed jacket | generated: bedrobe"
+  },
+  {
+    "content": "Are pheasant from animals that are game?",
+    "description": "Semagram | category: animals | criterion: are game | generated: pheasant"
+  },
+  {
+    "content": "Are sedan from vehicles that can have roof?",
+    "description": "Semagram | category: vehicles | criterion: can have roof | generated: sedan"
+  },
+  {
+    "content": "Are bulldozer from vehicles that are tractor?",
+    "description": "Semagram | category: vehicles | criterion: are tractor | generated: bulldozer"
+  },
+  {
+    "content": "Are trumpet from instruments that can be white?",
+    "description": "Semagram | category: instruments | criterion: can be white | generated: trumpet"
+  },
+  {
+    "content": "Are tadpole from animals that are larva?",
+    "description": "Semagram | category: animals | criterion: are larva | generated: tadpole"
+  },
+  {
+    "content": "Are carrot from food that can be crunchy?",
+    "description": "Semagram | category: food | criterion: can be crunchy | generated: carrot"
+  },
+  {
+    "content": "Are dress from clothes that are shift?",
+    "description": "Semagram | category: clothes | criterion: are shift | generated: dress"
+  },
+  {
+    "content": "Are airliners from vehicles that are used by captains?",
+    "description": "Semagram | category: vehicles | criterion: are used by captains | generated: airliners"
+  },
+  {
+    "content": "Are cement mixer from vehicles that are dumper?",
+    "description": "Semagram | category: vehicles | criterion: are dumper | generated: cement mixer"
+  },
+  {
+    "content": "Are bus from vehicles that can have battery?",
+    "description": "Semagram | category: vehicles | criterion: can have battery | generated: bus"
+  },
+  {
+    "content": "Are painting from artifacts that can have carriage?",
+    "description": "Semagram | category: artifacts | criterion: can have carriage | generated: painting"
+  },
+  {
+    "content": "Are toast from food that are whole wheat bread?",
+    "description": "Semagram | category: food | criterion: are whole wheat bread | generated: toast"
+  },
+  {
+    "content": "Are violone from instruments that are bass viol?",
+    "description": "Semagram | category: instruments | criterion: are bass viol | generated: violone"
+  },
+  {
+    "content": "Are Paracalanus from animals that are copepod crustacean?",
+    "description": "Semagram | category: animals | criterion: are copepod crustacean | generated: Paracalanus"
+  },
+  {
+    "content": "Are bowl from food that can be pointed?",
+    "description": "Semagram | category: food | criterion: can be pointed | generated: bowl"
+  },
+  {
+    "content": "Are spinach from food that are tracheophyte?",
+    "description": "Semagram | category: food | criterion: are tracheophyte | generated: spinach"
+  },
+  {
+    "content": "Are bracelet from artifacts that can be circular?",
+    "description": "Semagram | category: artifacts | criterion: can be circular | generated: bracelet"
+  },
+  {
+    "content": "Are dinghy from vehicles that can have hull?",
+    "description": "Semagram | category: vehicles | criterion: can have hull | generated: dinghy"
+  },
+  {
+    "content": "Are enameled tiles from home that can be made of enamel?",
+    "description": "Semagram | category: home | criterion: can be made of enamel | generated: enameled tiles"
+  },
+  {
+    "content": "Are beer from food that are brewage?",
+    "description": "Semagram | category: food | criterion: are brewage | generated: beer"
+  },
+  {
+    "content": "Are shirt from clothes that are lid?",
+    "description": "Semagram | category: clothes | criterion: are lid | generated: shirt"
+  },
+  {
+    "content": "Are Pomeranian from animals that are lapdog?",
+    "description": "Semagram | category: animals | criterion: are lapdog | generated: Pomeranian"
+  },
+  {
+    "content": "Are Hard red spring from food that are hard wheat?",
+    "description": "Semagram | category: food | criterion: are hard wheat | generated: Hard red spring"
+  },
+  {
+    "content": "Are tartaric acid from food that can be found or used in grapes?",
+    "description": "Semagram | category: food | criterion: can be found or used in grapes | generated: tartaric acid"
+  },
+  {
+    "content": "Are microwave from appliance that can have door?",
+    "description": "Semagram | category: appliance | criterion: can have door | generated: microwave"
+  },
+  {
+    "content": "Are buttons from clothes that can be round?",
+    "description": "Semagram | category: clothes | criterion: can be round | generated: buttons"
+  },
+  {
+    "content": "Are helmet from artifacts that are used by cyclists?",
+    "description": "Semagram | category: artifacts | criterion: are used by cyclists | generated: helmet"
+  },
+  {
+    "content": "Are Discovery Sport from vehicles that are landrover?",
+    "description": "Semagram | category: vehicles | criterion: are landrover | generated: Discovery Sport"
+  },
+  {
+    "content": "Are cutaway collar from clothes that are evening shirt?",
+    "description": "Semagram | category: clothes | criterion: are evening shirt | generated: cutaway collar"
+  },
+  {
+    "content": "Are tower truck from vehicles that are tower?",
+    "description": "Semagram | category: vehicles | criterion: are tower | generated: tower truck"
+  },
+  {
+    "content": "Are mandolin from instruments that can have tuning peg?",
+    "description": "Semagram | category: instruments | criterion: can have tuning peg | generated: mandolin"
+  },
+  {
+    "content": "Are Van from vehicles that can have tire?",
+    "description": "Semagram | category: vehicles | criterion: can have tire | generated: Van"
+  },
+  {
+    "content": "Are whale from animals that can have bone?",
+    "description": "Semagram | category: animals | criterion: can have bone | generated: whale"
+  },
+  {
+    "content": "Are dogs from animals that can be watch?",
+    "description": "Semagram | category: animals | criterion: can be watch | generated: dogs"
+  },
+  {
+    "content": "Are nightshirt from clothes that are bed jacket?",
+    "description": "Semagram | category: clothes | criterion: are bed jacket | generated: nightshirt"
+  },
+  {
+    "content": "Are proturans from animals that are proturan?",
+    "description": "Semagram | category: animals | criterion: are proturan | generated: proturans"
+  },
+  {
+    "content": "Are gunboat from vehicles that are gunboat?",
+    "description": "Semagram | category: vehicles | criterion: are gunboat | generated: gunboat"
+  },
+  {
+    "content": "Are van from vehicles that can be blue?",
+    "description": "Semagram | category: vehicles | criterion: can be blue | generated: van"
+  },
+  {
+    "content": "Are furniture from home that are artefact?",
+    "description": "Semagram | category: home | criterion: are artefact | generated: furniture"
+  },
+  {
+    "content": "Are brake light from vehicles that can have third?",
+    "description": "Semagram | category: vehicles | criterion: can have third | generated: brake light"
+  },
+  {
+    "content": "Are human from animals that are eutherian mammal?",
+    "description": "Semagram | category: animals | criterion: are eutherian mammal | generated: human"
+  },
+  {
+    "content": "Are earbuds from appliance that are electro-acoustic transducer?",
+    "description": "Semagram | category: appliance | criterion: are electro-acoustic transducer | generated: earbuds"
+  },
+  {
+    "content": "Are doorway from home that are passage?",
+    "description": "Semagram | category: home | criterion: are passage | generated: doorway"
+  },
+  {
+    "content": "Are Lizards from animals that are pleurodont?",
+    "description": "Semagram | category: animals | criterion: are pleurodont | generated: Lizards"
+  },
+  {
+    "content": "Are bridge from home that can have arch?",
+    "description": "Semagram | category: home | criterion: can have arch | generated: bridge"
+  },
+  {
+    "content": "Are bombers from vehicles that are used by squadrons?",
+    "description": "Semagram | category: vehicles | criterion: are used by squadrons | generated: bombers"
+  },
+  {
+    "content": "Are test tube from tools that can be found or used in laboratories?",
+    "description": "Semagram | category: tools | criterion: can be found or used in laboratories | generated: test tube"
+  },
+  {
+    "content": "Are sink from home that can have basin?",
+    "description": "Semagram | category: home | criterion: can have basin | generated: sink"
+  },
+  {
+    "content": "Are lemonade from food that are lemon juice?",
+    "description": "Semagram | category: food | criterion: are lemon juice | generated: lemonade"
+  },
+  {
+    "content": "Are [plane] from vehicles that are hangar queen?",
+    "description": "Semagram | category: vehicles | criterion: are hangar queen | generated: [plane]"
+  },
+  {
+    "content": "Are water from food that can be consumed or used during meal?",
+    "description": "Semagram | category: food | criterion: can be consumed or used during meal | generated: water"
+  },
+  {
+    "content": "Are helmets from artifacts that are used by riot polices?",
+    "description": "Semagram | category: artifacts | criterion: are used by riot polices | generated: helmets"
+  },
+  {
+    "content": "Are thermometer from tools that are instrumentation?",
+    "description": "Semagram | category: tools | criterion: are instrumentation | generated: thermometer"
+  },
+  {
+    "content": "Are refrigerator from appliance that can have wire?",
+    "description": "Semagram | category: appliance | criterion: can have wire | generated: refrigerator"
+  },
+  {
+    "content": "Are generator from vehicles that use diesel?",
+    "description": "Semagram | category: vehicles | criterion: use diesel | generated: generator"
+  },
+  {
+    "content": "Are tank from containers that can be impermeable?",
+    "description": "Semagram | category: containers | criterion: can be impermeable | generated: tank"
+  },
+  {
+    "content": "Are hi-fi from artifacts that can have record changer?",
+    "description": "Semagram | category: artifacts | criterion: can have record changer | generated: hi-fi"
+  },
+  {
+    "content": "Are drawers from home that are container?",
+    "description": "Semagram | category: home | criterion: are container | generated: drawers"
+  },
+  {
+    "content": "Are cereal from food that can be found or used in groceries?",
+    "description": "Semagram | category: food | criterion: can be found or used in groceries | generated: cereal"
+  },
+  {
+    "content": "Are BLT from food that are bacon-lettuce-tomato sandwich?",
+    "description": "Semagram | category: food | criterion: are bacon-lettuce-tomato sandwich | generated: BLT"
+  },
+  {
+    "content": "Are shirt from clothes that can have saddle?",
+    "description": "Semagram | category: clothes | criterion: can have saddle | generated: shirt"
+  }
+]

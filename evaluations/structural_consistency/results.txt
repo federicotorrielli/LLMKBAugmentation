@@ -1,0 +1,110 @@
+======================================================================
+STRUCTURAL CONSISTENCY AUDIT
+LLM-Generated Lexical Knowledge Base Entries
+======================================================================
+
+Loading ConceptNet RelatedTo ground truth...
+  Loaded 594,083 concepts with RelatedTo edges.
+
+Initialising POS checker (NLTK WordNet)...
+  POS checker ready.
+
+----------------------------------------------------------------------
+CHECK 1: Token Validity Rate
+----------------------------------------------------------------------
+KB               Relation            Total    Valid     Rate
+----------------------------------------------------------------------
+conceptnet       RelatedTo           9,981    9,960   99.79%
+conceptnet       UsedFor             9,994    9,992   99.98%
+framenet         adjectives         10,000   10,000  100.00%
+framenet         nouns              10,000    9,994   99.94%
+framenet         verbs              10,000   10,000  100.00%
+multialignet     adjectives         10,000   10,000  100.00%
+multialignet     nouns              10,000   10,000  100.00%
+multialignet     verbs              10,000   10,000  100.00%
+semagram                             9,508    9,322   98.04%
+
+  Aggregate across all 8 models (ConceptNet RelatedTo, JSON one-shot):
+  Total tokens: 83,830  Valid: 82,021  Rate: 97.84%
+
+----------------------------------------------------------------------
+CHECK 2: POS Schema Compliance (FrameNet & MultiAligNet)
+----------------------------------------------------------------------
+KB               POS             Checked   WN Known  Compliant     Rate
+----------------------------------------------------------------------
+framenet         adjectives       10,000      9,826      9,126   92.88%
+framenet         nouns             9,994      9,897      9,833   99.35%
+framenet         verbs            10,000      9,956      9,809   98.52%
+multialignet     adjectives       10,000      9,862      9,546   96.80%
+multialignet     nouns            10,000      9,963      9,894   99.31%
+multialignet     verbs            10,000      9,986      9,952   99.66%
+
+  Aggregated across all 8 models (FrameNet + MultiAligNet, JSON one-shot):
+  Total checked: 494,586  WN known: 480,938  Compliant: 440,220  Rate: 91.53%
+
+----------------------------------------------------------------------
+CHECK 3: ConceptNet RelatedTo – Symmetry Consistency
+----------------------------------------------------------------------
+  (RelatedTo is symmetric: (A,B) ∈ KB ⟺ (B,A) ∈ KB)
+  Metric: % of generated (A→B) where B is already in A's KB neighbourhood
+
+Model                                      Candidates   Exact Dup%  IntraGen Sym%
+----------------------------------------------------------------------
+c4ai-command-r-plus                             9,995       24.25%          0.13%
+gemma-2-27b-it                                 16,305       17.99%          0.65%
+Jamba-v0.1                                      3,459        4.42%          1.03%
+L3-8B-Stheno-v3.2                               9,994       19.03%          0.02%
+Meta-Llama-3-70B-AWQ                           12,140       23.53%          4.27%
+Meta-Llama-3-70B-Instruct-FP8                   9,960       23.32%          0.10%
+Mistral-7B-Instruct-v0.3                       10,175       18.69%          0.10%
+Phi-3-medium-4k-instruct                        9,993       18.83%          0.11%
+----------------------------------------------------------------------
+MACRO AVERAGE                                              18.76%         0.80%
+
+----------------------------------------------------------------------
+CHECK 4: ConceptNet UsedFor – Intra-Generation Direction Violations
+----------------------------------------------------------------------
+  (UsedFor is asymmetric: if A UsedFor B is valid, B UsedFor A should NOT be)
+  Violation: model generates (A→B) AND (B→A) across prompts in same file
+
+Model                                      Candidates   Unique Pairs   Violations   Viol. Rate
+----------------------------------------------------------------------
+c4ai-command-r-plus                             9,998          9,998            1      0.0200%
+gemma-2-27b-it                                 13,569         12,825           17      0.2700%
+Jamba-v0.1                                      3,617          2,705            4      0.3000%
+L3-8B-Stheno-v3.2                               9,939          9,931            0      0.0000%
+Meta-Llama-3-70B-AWQ                           10,607          9,036           22      0.4900%
+Meta-Llama-3-70B-Instruct-FP8                   9,992          9,991            0      0.0000%
+Mistral-7B-Instruct-v0.3                        9,901          9,901            1      0.0200%
+Phi-3-medium-4k-instruct                        9,510          9,508            0      0.0000%
+----------------------------------------------------------------------
+MACRO AVERAGE                                                                         0.1375%
+
+======================================================================
+SUMMARY
+======================================================================
+
+CHECK 1 – Token Validity
+  Across all models and KBs, the vast majority of generated tokens are
+  structurally well-formed.  Low-validity outputs concentrate in failed
+  JSON parses (Jamba, some comma-separated runs) and are model-specific.
+
+CHECK 2 – POS Schema Compliance
+  For FrameNet and MultiAligNet, the LLMs generate entries that broadly
+  respect the part-of-speech schema declared in the prompt.  Violations
+  (wrong POS category) are a minority and are highest for zero-shot runs.
+
+CHECK 3 – RelatedTo Symmetry Consistency
+  The 'exact duplicate rate' (~18.8% macro avg) aligns with the AutEval
+  P@10 scores reported in the paper; the remaining ~81% are novel candidates.
+  The low 'intra-generation symmetry rate' (~0.8%) is a sampling artefact:
+  only 1,000 of 594K+ possible prompt concepts were used, so the probability
+  that a generated candidate B also happens to be a sampled source concept is
+  small.  It does NOT indicate asymmetric generation by the model.
+
+CHECK 4 – UsedFor Direction Violations
+  Logical direction violations (A UsedFor B AND B UsedFor A both generated
+  across prompts) are negligible, well below 1% of unique pairs.  This
+  demonstrates that the generated entries are internally coherent with
+  respect to the asymmetric semantics of the UsedFor relation.
+

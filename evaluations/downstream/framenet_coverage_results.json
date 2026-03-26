@@ -1,0 +1,23 @@
+{
+  "novel_lu_stats": {
+    "original_lu_count": 13106,
+    "original_frame_count": 1073,
+    "novel_lu_candidates_total": 26209,
+    "novel_lu_by_pos": {
+      "adjectives": 9520,
+      "nouns": 8861,
+      "verbs": 8514
+    },
+    "frames_gaining_coverage": 1000,
+    "relative_lu_expansion_pct": 199.98
+  },
+  "exemplar_coverage": {
+    "total_target_tokens": 206026,
+    "baseline_covered": 117723,
+    "augmented_covered": 119886,
+    "novel_covered": 2163,
+    "baseline_pct": 57.14,
+    "augmented_pct": 58.19,
+    "coverage_gain_pp": 1.05
+  }
+}

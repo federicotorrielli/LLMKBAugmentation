@@ -31,7 +31,7 @@ def extract_model_info(folder_name):
     return numeric_size, name
 
 def main():
-    csv_file = "./evaluations/automatic_evaluation/aggregated_scores_data.csv"
+    csv_file = "./evaluations/auteval/aggregated_scores_data.csv"
     try:
         df = pd.read_csv(csv_file)
     except FileNotFoundError:
