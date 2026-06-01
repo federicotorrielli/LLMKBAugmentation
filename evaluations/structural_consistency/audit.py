@@ -67,6 +67,7 @@ PRIMARY_MODEL = "Meta-Llama-3-70B-Instruct-FP8"
 # Helpers: parsing
 # ---------------------------------------------------------------------------
 
+
 def normalize(text: str) -> str:
     return text.lower().replace("_", " ").strip()
 
@@ -99,7 +100,11 @@ def parse_commasep_result(result_str: str) -> list[str]:
     s = re.sub(r"\s*```$", "", s)
     s = re.sub(r"\d+\.\s*", "", s)
     items = re.split(r"[,\n]+", s)
-    return [x.strip().strip('"').strip("'").strip() for x in items if x.strip().strip('"').strip("'").strip()]
+    return [
+        x.strip().strip('"').strip("'").strip()
+        for x in items
+        if x.strip().strip('"').strip("'").strip()
+    ]
 
 
 def parse_result(result_str: str, fmt: str) -> list[str]:
@@ -131,6 +136,7 @@ def load_jsonl(path: Path) -> list[dict]:
 # Check 1: Token validity
 # ---------------------------------------------------------------------------
 
+
 def is_valid_token(token: str) -> bool:
     """Return True if token is a well-formed lexical item."""
     t = token.strip()
@@ -143,7 +149,7 @@ def is_valid_token(token: str) -> bool:
     if re.fullmatch(r"[\d\s\-\.,]+", t):
         return False
     # Starts with JSON/code artefact characters
-    if re.match(r'^[{}\[\]\\`#@*|<>]', t):
+    if re.match(r"^[{}\[\]\\`#@*|<>]", t):
         return False
     # Contains no alphabetic characters at all
     if not re.search(r"[a-zA-Z]", t):
@@ -158,11 +164,13 @@ def is_valid_token(token: str) -> bool:
 # Check 2: POS schema compliance (requires NLTK WordNet)
 # ---------------------------------------------------------------------------
 
+
 def build_pos_checker():
     """Return a checker function: check_pos(word, required_pos) -> bool."""
     try:
         from nltk.corpus import wordnet as wn
         import nltk
+
         # Ensure wordnet is available
         try:
             wn.synsets("test")
@@ -195,13 +203,17 @@ def build_pos_checker():
         return check_pos
 
     except ImportError:
-        print("WARNING: NLTK not available – POS compliance check skipped.", file=sys.stderr)
+        print(
+            "WARNING: NLTK not available – POS compliance check skipped.",
+            file=sys.stderr,
+        )
         return None
 
 
 # ---------------------------------------------------------------------------
 # Check 3: ConceptNet RelatedTo symmetry consistency
 # ---------------------------------------------------------------------------
+
 
 def load_relatedto_gt(csv_path: Path) -> dict[str, set[str]]:
     """Load ConceptNet RelatedTo as {concept: set_of_related_concepts}."""
@@ -222,8 +234,9 @@ def load_relatedto_gt(csv_path: Path) -> dict[str, set[str]]:
 # Check 4: ConceptNet UsedFor intra-generation direction violation
 # ---------------------------------------------------------------------------
 
+
 def check_usedfor_direction_violations(
-    generated_pairs: list[tuple[str, str]]
+    generated_pairs: list[tuple[str, str]],
 ) -> dict[str, float | int]:
     """
     Check for direction violations in UsedFor: (A→B) and (B→A) both generated.
@@ -261,6 +274,7 @@ def check_usedfor_direction_violations(
 # Loaders per KB
 # ---------------------------------------------------------------------------
 
+
 def iter_results(model: str, kb: str, relation: str, fmt: str = "json") -> list[dict]:
     """Load all result records for a model/KB/relation/format combination."""
     if kb == "conceptnet":
@@ -296,9 +310,8 @@ def iter_results(model: str, kb: str, relation: str, fmt: str = "json") -> list[
 # Main audit functions
 # ---------------------------------------------------------------------------
 
-def audit_token_validity(
-    model: str, kb: str, relation: str, fmt: str = "json"
-) -> dict:
+
+def audit_token_validity(model: str, kb: str, relation: str, fmt: str = "json") -> dict:
     records = iter_results(model, kb, relation, fmt)
     total = 0
     valid = 0
@@ -321,7 +334,10 @@ def audit_token_validity(
 
 
 def audit_pos_compliance(
-    model: str, kb: str, relation: str, fmt: str = "json",
+    model: str,
+    kb: str,
+    relation: str,
+    fmt: str = "json",
     check_pos_fn=None,
 ) -> dict:
     """POS compliance check for FrameNet and MultiAligNet."""
@@ -424,7 +440,9 @@ def audit_relatedto_symmetry(
         "exact_duplicate_rate": round(in_kb / total, 4) if total else None,
         "novel_total": novel_total,
         "novel_sym_consistent": novel_sym_consistent,
-        "intra_gen_sym_rate": round(intra_sym_rate, 4) if intra_sym_rate is not None else None,
+        "intra_gen_sym_rate": round(intra_sym_rate, 4)
+        if intra_sym_rate is not None
+        else None,
     }
 
 
@@ -452,6 +470,7 @@ def audit_usedfor_direction(model: str, fmt: str = "json") -> dict:
 # ---------------------------------------------------------------------------
 # Aggregate across all models
 # ---------------------------------------------------------------------------
+
 
 def run_full_audit():
     print("=" * 70)
@@ -497,8 +516,12 @@ def run_full_audit():
     for kb, rel in KB_RELATIONS:
         row = audit_token_validity(PRIMARY_MODEL, kb, rel, "json")
         validity_summary.append(row)
-        rate_str = f"{row['validity_rate']:.2%}" if row['validity_rate'] is not None else "N/A"
-        print(f"{kb:<16} {rel:<16} {row['total_tokens']:>8,} {row['valid_tokens']:>8,} {rate_str:>8}")
+        rate_str = (
+            f"{row['validity_rate']:.2%}" if row["validity_rate"] is not None else "N/A"
+        )
+        print(
+            f"{kb:<16} {rel:<16} {row['total_tokens']:>8,} {row['valid_tokens']:>8,} {rate_str:>8}"
+        )
 
     # Aggregate across ALL models
     print("\n  Aggregate across all 8 models (ConceptNet RelatedTo, JSON one-shot):")
@@ -526,18 +549,28 @@ def run_full_audit():
             ("multialignet", "nouns"),
             ("multialignet", "verbs"),
         ]
-        print(f"{'KB':<16} {'POS':<14} {'Checked':>8} {'WN Known':>10} {'Compliant':>10} {'Rate':>8}")
+        print(
+            f"{'KB':<16} {'POS':<14} {'Checked':>8} {'WN Known':>10} {'Compliant':>10} {'Rate':>8}"
+        )
         print("-" * 70)
 
         pos_results_all: list[dict] = []
         for kb, pos in pos_kbs:
             row = audit_pos_compliance(PRIMARY_MODEL, kb, pos, "json", check_pos)
             pos_results_all.append(row)
-            rate_str = f"{row['compliance_rate']:.2%}" if row['compliance_rate'] is not None else "N/A"
-            print(f"{kb:<16} {pos:<14} {row['total_checked']:>8,} {row['wn_known']:>10,} {row['wn_compliant']:>10,} {rate_str:>8}")
+            rate_str = (
+                f"{row['compliance_rate']:.2%}"
+                if row["compliance_rate"] is not None
+                else "N/A"
+            )
+            print(
+                f"{kb:<16} {pos:<14} {row['total_checked']:>8,} {row['wn_known']:>10,} {row['wn_compliant']:>10,} {rate_str:>8}"
+            )
 
         # Aggregate
-        print("\n  Aggregated across all 8 models (FrameNet + MultiAligNet, JSON one-shot):")
+        print(
+            "\n  Aggregated across all 8 models (FrameNet + MultiAligNet, JSON one-shot):"
+        )
         agg_pos_total = agg_pos_known = agg_pos_compliant = 0
         for model in MODELS:
             for kb, pos in pos_kbs:
@@ -546,8 +579,10 @@ def run_full_audit():
                 agg_pos_known += r.get("wn_known", 0)
                 agg_pos_compliant += r.get("wn_compliant", 0)
         agg_pos_rate = agg_pos_compliant / agg_pos_known if agg_pos_known else 0
-        print(f"  Total checked: {agg_pos_total:,}  WN known: {agg_pos_known:,}  "
-              f"Compliant: {agg_pos_compliant:,}  Rate: {agg_pos_rate:.2%}")
+        print(
+            f"  Total checked: {agg_pos_total:,}  WN known: {agg_pos_known:,}  "
+            f"Compliant: {agg_pos_compliant:,}  Rate: {agg_pos_rate:.2%}"
+        )
     else:
         print("  Skipped (NLTK not available).")
 
@@ -567,15 +602,29 @@ def run_full_audit():
     for model in MODELS:
         row = audit_relatedto_symmetry(model, gt_relatedto, "json")
         sym_rows.append(row)
-        dup_str = f"{row['exact_duplicate_rate']:.2%}" if row['exact_duplicate_rate'] is not None else "N/A"
-        isym_str = f"{row['intra_gen_sym_rate']:.2%}" if row['intra_gen_sym_rate'] is not None else "N/A"
-        print(f"{model:<40} {row['total_candidates']:>12,} {dup_str:>12} {isym_str:>14}")
+        dup_str = (
+            f"{row['exact_duplicate_rate']:.2%}"
+            if row["exact_duplicate_rate"] is not None
+            else "N/A"
+        )
+        isym_str = (
+            f"{row['intra_gen_sym_rate']:.2%}"
+            if row["intra_gen_sym_rate"] is not None
+            else "N/A"
+        )
+        print(
+            f"{model:<40} {row['total_candidates']:>12,} {dup_str:>12} {isym_str:>14}"
+        )
 
     # Macro averages
     valid_sym_rows = [r for r in sym_rows if r["intra_gen_sym_rate"] is not None]
     if valid_sym_rows:
-        avg_dup = sum(r["exact_duplicate_rate"] for r in valid_sym_rows) / len(valid_sym_rows)
-        avg_isym = sum(r["intra_gen_sym_rate"] for r in valid_sym_rows) / len(valid_sym_rows)
+        avg_dup = sum(r["exact_duplicate_rate"] for r in valid_sym_rows) / len(
+            valid_sym_rows
+        )
+        avg_isym = sum(r["intra_gen_sym_rate"] for r in valid_sym_rows) / len(
+            valid_sym_rows
+        )
         print("-" * 70)
         print(f"{'MACRO AVERAGE':<40} {'':>12} {avg_dup:>11.2%} {avg_isym:>13.2%}")
 
@@ -585,23 +634,33 @@ def run_full_audit():
     print("\n" + "-" * 70)
     print("CHECK 4: ConceptNet UsedFor – Intra-Generation Direction Violations")
     print("-" * 70)
-    print(f"  (UsedFor is asymmetric: if A UsedFor B is valid, B UsedFor A should NOT be)")
+    print(
+        f"  (UsedFor is asymmetric: if A UsedFor B is valid, B UsedFor A should NOT be)"
+    )
     print(f"  Violation: model generates (A→B) AND (B→A) across prompts in same file")
     print()
-    print(f"{'Model':<40} {'Candidates':>12} {'Unique Pairs':>14} {'Violations':>12} {'Viol. Rate':>12}")
+    print(
+        f"{'Model':<40} {'Candidates':>12} {'Unique Pairs':>14} {'Violations':>12} {'Viol. Rate':>12}"
+    )
     print("-" * 70)
 
     dir_rows = []
     for model in MODELS:
         row = audit_usedfor_direction(model, "json")
         dir_rows.append(row)
-        vrate_str = f"{row['violation_rate']:.4%}" if row["total_unique_pairs"] > 0 else "N/A"
-        print(f"{model:<40} {row['total_candidates']:>12,} {row['total_unique_pairs']:>14,} "
-              f"{row['direction_violations']:>12,} {vrate_str:>12}")
+        vrate_str = (
+            f"{row['violation_rate']:.4%}" if row["total_unique_pairs"] > 0 else "N/A"
+        )
+        print(
+            f"{model:<40} {row['total_candidates']:>12,} {row['total_unique_pairs']:>14,} "
+            f"{row['direction_violations']:>12,} {vrate_str:>12}"
+        )
 
     valid_dir_rows = [r for r in dir_rows if r["total_unique_pairs"] > 0]
     if valid_dir_rows:
-        avg_viol = sum(r["violation_rate"] for r in valid_dir_rows) / len(valid_dir_rows)
+        avg_viol = sum(r["violation_rate"] for r in valid_dir_rows) / len(
+            valid_dir_rows
+        )
         print("-" * 70)
         print(f"{'MACRO AVERAGE':<40} {'':>12} {'':>14} {'':>12} {avg_viol:>11.4%}")
 

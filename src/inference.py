@@ -76,7 +76,7 @@ def get_modified_prompt(prompt: str, model_name: str) -> str:
     elif "phi" in model_name.lower():
         return f"<|user|>\n{prompt}<|end|>\n<|assistant|>\n"
     elif (
-            "meta" in model_name.lower() and "instruct" in model_name.lower()
+        "meta" in model_name.lower() and "instruct" in model_name.lower()
     ) or "stheno" in model_name.lower():
         return f"<|start_header_id|>user<|end_header_id|>\n\n{prompt}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
     elif "c4ai" in model_name.lower():
@@ -87,7 +87,7 @@ def get_modified_prompt(prompt: str, model_name: str) -> str:
 
 
 def process_file(
-        file_path: str, task_type: str, model_name: str
+    file_path: str, task_type: str, model_name: str
 ) -> Generator[Tuple, None, None]:
     with open(file_path, "r") as reader:
         data = ujson.load(reader)
@@ -181,15 +181,17 @@ def run_inference(model_names: List[str], tasks: Dict) -> None:
 
 
 def process_task(
-        model: LLM,
-        model_name: str,
-        task_type: str,
-        subtask: str,
-        input_files: List[str],
-        downloaded_files: List[str],
+    model: LLM,
+    model_name: str,
+    task_type: str,
+    subtask: str,
+    input_files: List[str],
+    downloaded_files: List[str],
 ) -> None:
     for file_name in input_files:
-        file_path = os.path.join("../datasets/prompts/", task_type, subtask or "", file_name)
+        file_path = os.path.join(
+            "../datasets/prompts/", task_type, subtask or "", file_name
+        )
         if not os.path.exists(file_path):
             os.makedirs(os.path.dirname(file_path), exist_ok=True)
             download_file(
@@ -226,7 +228,7 @@ def process_task(
             }
 
             for item in tqdm(
-                    process_file(file_path, task_type, model_name), total=len(prompts)
+                process_file(file_path, task_type, model_name), total=len(prompts)
             ):
                 prompt = item[-1]
                 result = {"result": output_dict[prompt], "prompt": prompt}

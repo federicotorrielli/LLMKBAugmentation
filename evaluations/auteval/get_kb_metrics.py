@@ -35,9 +35,11 @@ agg = data_oneshot.groupby("KB")[["P@10", "R@10", "MRR"]].mean()
 
 # Compute F1@10 using F1 = (2 * P@10 * R@10) / (P@10 + R@10); avoid division by zero.
 agg["F1@10"] = agg.apply(
-    lambda row: (2 * row["P@10"] * row["R@10"] / (row["P@10"] + row["R@10"]))
-    if (row["P@10"] + row["R@10"]) > 0
-    else 0,
+    lambda row: (
+        (2 * row["P@10"] * row["R@10"] / (row["P@10"] + row["R@10"]))
+        if (row["P@10"] + row["R@10"]) > 0
+        else 0
+    ),
     axis=1,
 )
 

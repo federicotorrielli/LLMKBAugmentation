@@ -80,7 +80,9 @@ def build_fn_lu_set() -> tuple[set[tuple[str, str]], dict[str, set[str]]]:
         lu_set.add((frame_name, lemma))
         frame_lus[frame_name].add(lemma)
 
-    print(f"Original FrameNet: {len(lu_set)} LU entries across {len(frame_lus)} frames.")
+    print(
+        f"Original FrameNet: {len(lu_set)} LU entries across {len(frame_lus)} frames."
+    )
     return lu_set, dict(frame_lus)
 
 
@@ -108,14 +110,18 @@ def parse_result(result_str: str) -> list[str]:
     return [x.strip().strip('"').strip("'") for x in items if x.strip()]
 
 
-def load_generated_fn_entries(results_dir: Path, model: str) -> dict[str, dict[str, list[str]]]:
+def load_generated_fn_entries(
+    results_dir: Path, model: str
+) -> dict[str, dict[str, list[str]]]:
     """
     Load generated FrameNet entries from the primary model (one-shot JSON gloss).
     Returns: pos → {frame_name → [generated lemmas]}
     Frame names are normalized to match NLTK format.
     """
     model_dir = results_dir / "gloss" / model
-    generated: dict[str, dict[str, list[str]]] = {pos: defaultdict(list) for pos in POS_TYPES}
+    generated: dict[str, dict[str, list[str]]] = {
+        pos: defaultdict(list) for pos in POS_TYPES
+    }
 
     for pos in POS_TYPES:
         files = sorted(model_dir.glob(f"*{pos}_oneshot*json*GLOSS*.jsonl"))
@@ -234,11 +240,17 @@ def compute_exemplar_coverage(
         "baseline_covered": baseline_covered,
         "augmented_covered": augmented_covered,
         "novel_covered": augmented_covered - baseline_covered,
-        "baseline_pct": round(100 * baseline_covered / total_targets, 2) if total_targets else 0,
-        "augmented_pct": round(100 * augmented_covered / total_targets, 2) if total_targets else 0,
+        "baseline_pct": round(100 * baseline_covered / total_targets, 2)
+        if total_targets
+        else 0,
+        "augmented_pct": round(100 * augmented_covered / total_targets, 2)
+        if total_targets
+        else 0,
         "coverage_gain_pp": round(
             100 * (augmented_covered - baseline_covered) / total_targets, 2
-        ) if total_targets else 0,
+        )
+        if total_targets
+        else 0,
     }
 
 
@@ -246,22 +258,40 @@ def report(novel_stats: dict, exemplar_stats: dict) -> None:
     print("\n" + "=" * 60)
     print("FrameNet LU Coverage Analysis — Results")
     print("=" * 60)
-    print(f"Original FrameNet LUs:                    {novel_stats['original_lu_count']:>6}")
-    print(f"Novel LU candidates (total, unique):      {novel_stats['novel_lu_candidates_total']:>6}  "
-          f"(+{novel_stats['relative_lu_expansion_pct']:.1f}%)")
-    print(f"  Adjectives:                             {novel_stats['novel_lu_by_pos'].get('adjectives', 0):>6}")
-    print(f"  Nouns:                                  {novel_stats['novel_lu_by_pos'].get('nouns', 0):>6}")
-    print(f"  Verbs:                                  {novel_stats['novel_lu_by_pos'].get('verbs', 0):>6}")
-    print(f"Frames gaining ≥1 new LU candidate:       "
-          f"{novel_stats['frames_gaining_coverage']:>6} / {novel_stats['original_frame_count']}")
+    print(
+        f"Original FrameNet LUs:                    {novel_stats['original_lu_count']:>6}"
+    )
+    print(
+        f"Novel LU candidates (total, unique):      {novel_stats['novel_lu_candidates_total']:>6}  "
+        f"(+{novel_stats['relative_lu_expansion_pct']:.1f}%)"
+    )
+    print(
+        f"  Adjectives:                             {novel_stats['novel_lu_by_pos'].get('adjectives', 0):>6}"
+    )
+    print(
+        f"  Nouns:                                  {novel_stats['novel_lu_by_pos'].get('nouns', 0):>6}"
+    )
+    print(
+        f"  Verbs:                                  {novel_stats['novel_lu_by_pos'].get('verbs', 0):>6}"
+    )
+    print(
+        f"Frames gaining ≥1 new LU candidate:       "
+        f"{novel_stats['frames_gaining_coverage']:>6} / {novel_stats['original_frame_count']}"
+    )
     print()
     ex = exemplar_stats
     print("Exemplar sentence target word coverage:")
     print(f"  Total annotated target tokens:          {ex['total_target_tokens']:>6}")
-    print(f"  Baseline (original FrameNet):           {ex['baseline_covered']:>6}  ({ex['baseline_pct']:.1f}%)")
-    print(f"  Augmented (+ pipeline entries):         {ex['augmented_covered']:>6}  ({ex['augmented_pct']:.1f}%)")
-    print(f"  Novel entries covering new tokens:      {ex['novel_covered']:>6}  "
-          f"(+{ex['coverage_gain_pp']:.1f} pp)")
+    print(
+        f"  Baseline (original FrameNet):           {ex['baseline_covered']:>6}  ({ex['baseline_pct']:.1f}%)"
+    )
+    print(
+        f"  Augmented (+ pipeline entries):         {ex['augmented_covered']:>6}  ({ex['augmented_pct']:.1f}%)"
+    )
+    print(
+        f"  Novel entries covering new tokens:      {ex['novel_covered']:>6}  "
+        f"(+{ex['coverage_gain_pp']:.1f} pp)"
+    )
     print("=" * 60)
 
 

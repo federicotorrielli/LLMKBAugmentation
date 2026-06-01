@@ -63,7 +63,11 @@ def parse_commasep_result(result_str: str) -> list[str]:
     s = re.sub(r"\d+\.\s*", "", s)
     # Split on commas or newlines
     items = re.split(r"[,\n]+", s)
-    return [x.strip().strip('"').strip("'").strip() for x in items if x.strip().strip('"').strip("'").strip()]
+    return [
+        x.strip().strip('"').strip("'").strip()
+        for x in items
+        if x.strip().strip('"').strip("'").strip()
+    ]
 
 
 def load_results(model: str, kb: str, subtask: str, fmt: str = "json") -> list[dict]:
@@ -104,7 +108,11 @@ def make_conceptnet_items(model: str) -> list[dict]:
         results = load_results(model, "conceptnet", relation, "json")
         if not results:
             results = load_results(model, "conceptnet", relation, "commasep")
-        parser = parse_json_result if results and '"result"' in json.dumps(results[0]) else parse_commasep_result
+        parser = (
+            parse_json_result
+            if results and '"result"' in json.dumps(results[0])
+            else parse_commasep_result
+        )
 
         for entry in results:
             concept = entry.get("concept_name", "").replace("_", " ")
@@ -118,10 +126,12 @@ def make_conceptnet_items(model: str) -> list[dict]:
                     content = f"Is {concept} used for {c}?"
                 else:
                     content = f"Is {c} related to {concept}?"
-                items.append({
-                    "content": content,
-                    "description": f"ConceptNet | {relation} | source: {concept} | generated: {c}"
-                })
+                items.append(
+                    {
+                        "content": content,
+                        "description": f"ConceptNet | {relation} | source: {concept} | generated: {c}",
+                    }
+                )
     return items
 
 
@@ -146,10 +156,12 @@ def make_framenet_items(model: str) -> list[dict]:
 
             for c in concepts:
                 content = f"Is '{c}' associated with the frame '{frame_desc}'?"
-                items.append({
-                    "content": content,
-                    "description": f"FrameNet | {pos} | frame: {concept} | generated: {c}"
-                })
+                items.append(
+                    {
+                        "content": content,
+                        "description": f"FrameNet | {pos} | frame: {concept} | generated: {c}",
+                    }
+                )
     return items
 
 
@@ -169,10 +181,12 @@ def make_semagram_items(model: str) -> list[dict]:
 
         for c in concepts:
             content = f"Are {c} from {category} that {criterion}?"
-            items.append({
-                "content": content,
-                "description": f"Semagram | category: {category} | criterion: {criterion} | generated: {c}"
-            })
+            items.append(
+                {
+                    "content": content,
+                    "description": f"Semagram | category: {category} | criterion: {criterion} | generated: {c}",
+                }
+            )
     return items
 
 
@@ -192,10 +206,12 @@ def make_multialignet_items(model: str) -> list[dict]:
 
             for c in concepts:
                 content = f"Is '{c}' associated with '{concept}'?"
-                items.append({
-                    "content": content,
-                    "description": f"MultiAligNet | {pos} | concept: {concept} | generated: {c}"
-                })
+                items.append(
+                    {
+                        "content": content,
+                        "description": f"MultiAligNet | {pos} | concept: {concept} | generated: {c}",
+                    }
+                )
     return items
 
 

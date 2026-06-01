@@ -76,9 +76,11 @@ def load_original_cn(path: Path) -> dict[str, set[str]]:
             c1 = normalize(row["concept1"])
             c2 = normalize(row["concept2"])
             graph[c1].add(c2)
-            graph[c2].add(c1)   # RelatedTo is symmetric
-    print(f"  Loaded {sum(len(v) for v in graph.values())} directed edges "
-          f"for {len(graph)} concepts.")
+            graph[c2].add(c1)  # RelatedTo is symmetric
+    print(
+        f"  Loaded {sum(len(v) for v in graph.values())} directed edges "
+        f"for {len(graph)} concepts."
+    )
     return graph
 
 
@@ -113,6 +115,7 @@ def load_generated_entries(results_dir: Path, model: str) -> dict[str, list[str]
 def load_csqa() -> list[dict]:
     """Load CommonsenseQA train and validation splits via HuggingFace datasets."""
     from datasets import load_dataset
+
     questions = []
     for split in ("train", "validation"):
         ds = load_dataset("tau/commonsense_qa", split=split)
@@ -128,12 +131,14 @@ def load_csqa() -> list[dict]:
                     answer_text = normalize(txt)
                     break
             if answer_text:
-                questions.append({
-                    "source": source,
-                    "answer": answer_text,
-                    "all_choices": [normalize(t) for t in texts],
-                    "id": item["id"],
-                })
+                questions.append(
+                    {
+                        "source": source,
+                        "answer": answer_text,
+                        "all_choices": [normalize(t) for t in texts],
+                        "id": item["id"],
+                    }
+                )
     print(f"Loaded {len(questions)} CSQA questions (train + validation).")
     return questions
 
@@ -154,9 +159,9 @@ def run_coverage_analysis(
     # Subset of questions whose source concept we prompted
     relevant = [q for q in questions if q["source"] in prompted_concepts]
 
-    baseline_covered = 0      # correct answer in original ConceptNet
-    augmented_covered = 0     # correct answer in augmented (original + generated)
-    novel_covered = 0         # correct answer ONLY in generated (not in original)
+    baseline_covered = 0  # correct answer in original ConceptNet
+    augmented_covered = 0  # correct answer in augmented (original + generated)
+    novel_covered = 0  # correct answer ONLY in generated (not in original)
 
     for q in relevant:
         src = q["source"]
@@ -181,8 +186,12 @@ def run_coverage_analysis(
         "baseline_covered": baseline_covered,
         "augmented_covered": augmented_covered,
         "novel_only_covered": novel_covered,
-        "baseline_coverage_pct": round(100 * baseline_covered / total, 2) if total else 0,
-        "augmented_coverage_pct": round(100 * augmented_covered / total, 2) if total else 0,
+        "baseline_coverage_pct": round(100 * baseline_covered / total, 2)
+        if total
+        else 0,
+        "augmented_coverage_pct": round(100 * augmented_covered / total, 2)
+        if total
+        else 0,
         "coverage_gain_pct": round(100 * novel_covered / total, 2) if total else 0,
         "coverage_gain_absolute": novel_covered,
     }
@@ -192,18 +201,32 @@ def report(results: dict) -> None:
     print("\n" + "=" * 60)
     print("CommonsenseQA Coverage Analysis — Results")
     print("=" * 60)
-    print(f"Total CSQA questions (train+val):         {results['total_csqa_questions']:>6}")
-    print(f"Distinct prompted ConceptNet concepts:    {results['prompted_source_concepts']:>6}")
-    print(f"CSQA questions with prompted source:      {results['csqa_questions_with_prompted_source']:>6}")
+    print(
+        f"Total CSQA questions (train+val):         {results['total_csqa_questions']:>6}"
+    )
+    print(
+        f"Distinct prompted ConceptNet concepts:    {results['prompted_source_concepts']:>6}"
+    )
+    print(
+        f"CSQA questions with prompted source:      {results['csqa_questions_with_prompted_source']:>6}"
+    )
     print()
-    print(f"Original ConceptNet 1-hop coverage:       {results['baseline_covered']:>6}  "
-          f"({results['baseline_coverage_pct']:.1f}%)")
-    print(f"Augmented ConceptNet 1-hop coverage:      {results['augmented_covered']:>6}  "
-          f"({results['augmented_coverage_pct']:.1f}%)")
-    print(f"Novel entries covering correct answer:    {results['novel_only_covered']:>6}  "
-          f"({results['coverage_gain_pct']:.1f}%)")
+    print(
+        f"Original ConceptNet 1-hop coverage:       {results['baseline_covered']:>6}  "
+        f"({results['baseline_coverage_pct']:.1f}%)"
+    )
+    print(
+        f"Augmented ConceptNet 1-hop coverage:      {results['augmented_covered']:>6}  "
+        f"({results['augmented_coverage_pct']:.1f}%)"
+    )
+    print(
+        f"Novel entries covering correct answer:    {results['novel_only_covered']:>6}  "
+        f"({results['coverage_gain_pct']:.1f}%)"
+    )
     print()
-    print(f"Coverage gain from augmentation:          +{results['coverage_gain_pct']:.1f} pp")
+    print(
+        f"Coverage gain from augmentation:          +{results['coverage_gain_pct']:.1f} pp"
+    )
     print("=" * 60)
 
 

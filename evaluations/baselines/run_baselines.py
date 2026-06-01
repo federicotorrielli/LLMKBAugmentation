@@ -236,7 +236,9 @@ def _load_triples(triples_path):
     return tf, training, testing
 
 
-def run_kge_baseline(model_name, concepts, triples_path, tf=None, training=None, testing=None):
+def run_kge_baseline(
+    model_name, concepts, triples_path, tf=None, training=None, testing=None
+):
     """Train a KGE model on ConceptNet RelatedTo and predict top-10 tails."""
     import torch
     from pykeen.pipeline import pipeline
@@ -329,7 +331,9 @@ def main():
 
     # --- Summary table ---
     print("\n" + "=" * 70)
-    header = f"{'Method':<20} {'P@10':>6} {'R@10':>6} {'F1@10':>7} {'MRR':>6} {'#Eval':>6}"
+    header = (
+        f"{'Method':<20} {'P@10':>6} {'R@10':>6} {'F1@10':>7} {'MRR':>6} {'#Eval':>6}"
+    )
     print(header)
     print("-" * 70)
     for name, m in results.items():
