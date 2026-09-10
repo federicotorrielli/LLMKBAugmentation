@@ -189,13 +189,14 @@ def process_task(
     downloaded_files: List[str],
 ) -> None:
     for file_name in input_files:
-        file_path = os.path.join(
-            "../datasets/prompts/", task_type, subtask or "", file_name
-        )
+        relative_path = os.path.join(task_type, subtask or "", file_name)
+        file_path = os.path.join("../datasets/prompts/", relative_path)
         if not os.path.exists(file_path):
             os.makedirs(os.path.dirname(file_path), exist_ok=True)
             download_file(
-                f"https://www.evilscript.eu/upload/files/{file_name}", file_path
+                "https://raw.githubusercontent.com/federicotorrielli/LLMKBAugmentation/"
+                f"master/datasets/prompts/{relative_path}",
+                file_path,
             )
             downloaded_files.append(file_path)
 
